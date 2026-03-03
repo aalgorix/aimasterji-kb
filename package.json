@@ -1,0 +1,29 @@
+{
+  "name": "aimasterji-kb-generator",
+  "version": "1.0.0",
+  "description": "Convert NCERT PDFs and educational content to JSON knowledge base for AI MasterJi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "extract": "node scripts/extractPDF.js",
+    "convert": "node scripts/convertToJSON.js",
+    "merge": "node scripts/mergeAllJSON.js",
+    "bulk": "node scripts/bulkProcess.js",
+    "bulk-all": "node scripts/bulkProcessSubfolders.js",
+    "bulk-smart": "node scripts/smartBulkProcess.js"
+  },
+  "keywords": [
+    "education",
+    "ncert",
+    "knowledge-base",
+    "pdf-converter",
+    "ai"
+  ],
+  "author": "AI MasterJi",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "openai": "^4.28.0",
+    "dotenv": "^16.4.5"
+  }
+}

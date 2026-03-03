@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# PDFs (large files) - includes subfolders
+pdfs/**/*.pdf
+
+# Temporary files
+temp/
+*.txt
+
+# Output files - SHARED WITH TEAM (committed to git)
+# output/  ← Commented out so JSON files ARE included
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
