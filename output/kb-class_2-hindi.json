@@ -1,0 +1,2866 @@
+{
+  "version": "1.0",
+  "source": "class_2-hindi-merged.txt",
+  "grade": "class_2",
+  "subject": "hindi",
+  "generated_at": "2026-03-07T05:49:36.521Z",
+  "total_items": 118,
+  "content": [
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "परिवार",
+      "title": "परिवार के सदस्यों के बारे में",
+      "concept": "परिवार के सदस्यों की पहचान और उनके साथ समय बिताना।",
+      "explanation": "हमारे परिवार में कई सदस्य होते हैं जैसे दादी, माँ, पिता आदि। हमें उनके साथ समय बिताना चाहिए और उनकी बातें सुननी चाहिए। 🏡❤️",
+      "examples": [
+        "दादी, माँ, पिता, भाई, बहन"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपके परिवार में कौन-कौन हैं?",
+          "a": "मेरे परिवार में माँ, पिता, और एक भाई हैं।"
+        },
+        {
+          "q": "आप अपने दादी के साथ क्या करते हैं?",
+          "a": "मैं दादी के साथ कहानियाँ सुनता हूँ।"
+        }
+      ],
+      "keywords": [
+        "परिवार",
+        "सदस्य",
+        "समय"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "नीमा की कहानी",
+      "title": "नीमा और दादी",
+      "concept": "समय का महत्व और परिवार के साथ खेलना।",
+      "explanation": "नीमा अपनी दादी के साथ खेलना चाहती है। दादी उसे कहती हैं कि थोड़ा देर बैठो। यह कहानी हमें सिखाती है कि खेलना कितना मजेदार होता है! 🎉",
+      "narrative": "नीमा दोपहर में दो बजे स्कूल से लौटती है। इस समय घर पर सिर्फ दादी होती हैं। दादी नीमा का इंतज़ार कर रही होती हैं। नीमा दादी से कहती है, 'दादी, आप भी मेरे साथ खेलने चलिए!' दादी हंसते हुए कहती हैं कि खेलना समय बिताने का अच्छा तरीका है।",
+      "practice_questions": [
+        {
+          "q": "नीमा की दादी घर पर क्यों रहती हैं?",
+          "a": "दादी घर पर रहती हैं क्योंकि वह नीमा का इंतज़ार कर रही होती हैं।"
+        },
+        {
+          "q": "नीमा स्कूल से घर आकर क्या करती है?",
+          "a": "नीमा दादी से बातें करती है और फिर खेलने जाती है।"
+        }
+      ],
+      "keywords": [
+        "नीमा",
+        "दादी",
+        "खेलना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल",
+      "concept": "शब्दों को जोड़कर नए शब्द बनाना।",
+      "explanation": "शब्दों को जोड़कर नए शब्द बनाना बहुत मजेदार है! चलो, कुछ शब्दों को जोड़ते हैं। ✏️",
+      "examples": [
+        "दी + द = दीद",
+        "ने + न = नेन"
+      ],
+      "practice_questions": [
+        {
+          "q": "इन शब्दों को जोड़कर नए शब्द बनाइए: 'नी' और 'मा'",
+          "a": "नीमा"
+        },
+        {
+          "q": "इन शब्दों को जोड़कर नए शब्द बनाइए: 'द' और 'ादी'",
+          "a": "दादी"
+        }
+      ],
+      "keywords": [
+        "शब्द",
+        "जोड़ना",
+        "खेल"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "घर की सुंदरता",
+      "title": "प्यारा घर",
+      "concept": "घर की सुंदरता और परिवार का प्यार।",
+      "explanation": "हमारा घर हमारे लिए बहुत खास होता है। यह हमें प्यार और सुरक्षा देता है। 🏠💖",
+      "text": "पापा, कयों अचछा लगता है\nअपना पयारा-पयारा घर?\nघूम-घाम लें, खेल-खाल लें\nनहीं भकूलता लेस्न घर।\nनहीं आप्ो लगता पापा\nहै माँ की गोदी-सा घर।\nपयारी-पयारी ममतावाला\nसुंदर-सुंदर नयारा घर।\nथ्‍र जब वापस आते हैं\nसबछ-सबछ जाता घर।"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "घर",
+      "title": "घर की विशेषताएँ",
+      "concept": "घर हमारे लिए एक सुरक्षित स्थान है।",
+      "explanation": "घर वह जगह है जहाँ हम अपने परिवार के साथ रहते हैं। यह हमें सुरक्षा और प्यार देता है। 🏡❤️",
+      "examples": [
+        "घर में माँ, पिता और भाई-बहन रहते हैं।",
+        "घर में हमें आराम मिलता है।"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपको अपने घर में सबसे अच्छी चीज़ क्या लगती है और क्यों?",
+          "a": "मुझे अपने घर का बगीचा बहुत पसंद है क्योंकि वहाँ खेलना मजेदार है।"
+        },
+        {
+          "q": "आपको अपने घर की याद क्यों आती है?",
+          "a": "क्योंकि घर में परिवार के साथ बिताए हुए पल बहुत खास होते हैं।"
+        }
+      ],
+      "keywords": [
+        "घर",
+        "परिवार",
+        "सुरक्षा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "माला की चाँदी की पायल",
+      "title": "माला की पायल",
+      "concept": "माला की पायल उसे सबको डराने में मदद करती थी।",
+      "explanation": "माला की माँ ने उसे एक प्यारी सी चाँदी की पायल दी। जब माला पायल पहनती थी, तो उसकी आवाज़ से सब उसे पहचान लेते थे। लेकिन एक दिन माला ने पायल उतार दी। 😮",
+      "narrative": "माला सबको डराती। माला की चाँदी की पायल चिमकती थी। वह अपनी नानी और छोटे भाई को डराती थी। लेकिन जब सब डरने लगे, तो माला ने पायल उतार दी।",
+      "practice_questions": [
+        {
+          "q": "माला सभी को क्यों डराती होगी?",
+          "a": "क्योंकि उसे मज़ा आता था।"
+        },
+        {
+          "q": "माला ने पायल क्यों उतारी?",
+          "a": "क्योंकि सब उसे पहचानने लगे थे।"
+        }
+      ],
+      "keywords": [
+        "माला",
+        "पायल",
+        "डराना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "माँ",
+      "title": "माँ की महिमा",
+      "concept": "माँ हमारे जीवन की सबसे महत्वपूर्ण व्यक्ति हैं।",
+      "explanation": "माँ हमें प्यार और साहस देती हैं। 🌼❤️",
+      "text": "माँ तुम स्तनी भोली-भाली\nस्तनी पयारी-पयारी हो\nसदल से सचची समसरी जैसी\nसारे जग से नयारी हो।\n\nमेरे मन में जोश तुमहीं से\nतुमसे ही प्र्ाश\nमुझमें साहस तुमसे आता\nतुमसे ही सवशवास।",
+      "practice_questions": [],
+      "keywords": [
+        "माँ",
+        "प्यार",
+        "साहस"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल",
+      "concept": "शब्दों को जोड़कर नए शब्द बनाना।",
+      "explanation": "जब हम किसी शब्द के ऊपर चंद्रबिंदु लगाते हैं, तो वह नया शब्द बन जाता है। जैसे 'मा' पर चंद्रबिंदु लगाकर 'माँ' बन जाता है।",
+      "examples": [
+        "आँख",
+        "बाँस",
+        "दाँत",
+        "साँप"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "शब्द",
+        "चंद्रबिंदु",
+        "नए शब्द"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "दादाजी के साथ समय",
+      "title": "मैं अपने दादाजी के साथ",
+      "concept": "दादाजी के साथ बिताए गए समय की खुशी।",
+      "explanation": "यह कहानी एक बच्ची की है जो अपने दादाजी के साथ समय बिताती है। वे साथ में खेलते हैं और मजेदार बातें करते हैं।",
+      "narrative": "मैं अपने दादाजी के साथ रहती हूँ। उन्हें मैं 'थाथा' कहती हूँ। जब उन पर बहुत प्यार आता है, तो मैं उन्हें 'थाथकू' बुलाती हूँ। हम समुद्र तट पर जाते हैं, वहाँ लहरें उठती हैं और हम दौड़ लगाते हैं। जब अंधेरा हो जाता है, तो मैं उनके हाथ पकड़कर घर आती हूँ। मुझे अपने थाथा से बेहद प्यार है।",
+      "practice_questions": [],
+      "keywords": [
+        "दादाजी",
+        "खुशी",
+        "समय"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल",
+      "concept": "शब्दों को सही क्रम में लगाना।",
+      "explanation": "नीचे दिए गए शब्दों को सही क्रम में लगाकर वाक्य बनाएं।",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "सही जगह पर चंद्रबिंदु लगाकर अपनी कॉपी में लिखिए।",
+          "a": "ऊँची-नीची लहरें मेरे चारों तरफ उठती-सागरती हैं।"
+        },
+        {
+          "q": "नीचे दिए गए शब्द उलट-पलट हो गए हैं। सही क्रम में लगाकर वाक्य लिखिए।",
+          "a": "साथ में रहती हूँ मैं दादाजी।"
+        }
+      ],
+      "keywords": [
+        "शब्द",
+        "व्याकरण",
+        "वाक्य"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "चींटा",
+      "title": "चींटा-चींटा",
+      "concept": "चींटी के बारे में एक मजेदार कविता।",
+      "explanation": "यह कविता चींटी के कामों और उसकी खुशियों के बारे में है।",
+      "full_text": "चींटा-चींटा दकूला, दकूला दही जमा,\nबसढ़या-बसढ़या दही जमा,\nखट्ा-मीठा दही जमा।\nचींटा-चींटा गनना ला,\nगनना ला शक्र बना,\nचींटी भकूखी आएगी,\nझटपट वो खा जाएगी।\nचींटा-चींटा शक्र ला,\nशक्र ला शरबत बना,\nचींटी पयासी आएगी,\nझटपट वो पी जाएगी।\nचींटा-चींटा घर बना,\nचींटी कूप से आएगी,\nदेख के खुश हो जाएगी,\nझट-से वो रुच जाएगी।\nचींटा-चींटा बाजार जा,\nशक्र ला, चावल ला,\nरोटी ला, पानी ला,\nझटपट जा, झटपट आ।\nचींटी जब घर आएगी,\nदेख के खुश हो जाएगी,\nतेरे ही गुण गाएगी,\nतेरे ही गुण गाएगी।",
+      "practice_questions": [],
+      "keywords": [
+        "चींटी",
+        "कविता",
+        "खुशी"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "परिवार का महत्व",
+      "title": "परिवार के सदस्यों के लिए धन्यवाद कार्ड बनाना",
+      "concept": "परिवार के सदस्यों के प्रति आभार व्यक्त करना",
+      "explanation": "हम अपने परिवार के सदस्यों का धन्यवाद करते हैं क्योंकि वे हमारे जीवन में बहुत महत्वपूर्ण होते हैं। 😊",
+      "examples": [
+        "माँ के लिए धन्यवाद कार्ड",
+        "पिता के लिए धन्यवाद कार्ड"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "परिवार",
+        "धन्यवाद",
+        "सदस्य"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "चींटियों का काम",
+      "title": "चींटियों के कार्य",
+      "concept": "चींटियाँ कैसे काम करती हैं",
+      "explanation": "चींटियाँ बहुत मेहनती होती हैं और वे अपने काम में बहुत व्यस्त रहती हैं। 🐜",
+      "examples": [
+        "चींटियाँ खाना इकट्ठा करती हैं",
+        "चींटियाँ अपने घर बनाती हैं"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "चींटी",
+        "काम",
+        "मेहनत"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "स्कूल का पहला दिन",
+      "title": "स्कूल का पहला दिन",
+      "concept": "स्कूल जाने का आनंद",
+      "explanation": "स्कूल का पहला दिन हमेशा खास होता है। 🎒",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "स्कूल",
+        "पहला दिन",
+        "खुशी"
+      ],
+      "difficulty": "easy",
+      "text": "सटलल कू जी स्कूल गए,\nबसता घर पर भ कू ल गए।\nरसते भर थे डरे-डरे,\nपहुँचे गेट पर अरे अरे।\nखेि गीत छु ट्ी ्ा नोसटस सचप्ा,\nदेख खु शी से कू ल गए।\nदोनों बाँहें माँ े,\nडाल गले में झ कू ल गए।\n— नरेश सकसेना"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "नटखट लड़का",
+      "title": "नटखट लड़के की कहानी",
+      "concept": "सीखने की लगन",
+      "explanation": "एक नटखट लड़का था जो हमेशा सीखने के लिए उत्सुक रहता था। 📚",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "नटखट",
+        "सीखना",
+        "उत्सुकता"
+      ],
+      "difficulty": "easy",
+      "text": "नटखट ददवाकि सदवा्र पाँच वर्फ़ ्ा नटखट लड़्ा है। सारे सदन सठठोली ्रता है और सब्ो हँसाता है। उसे गसणत सीखने ्ी बहु त लगन है। उस्ी बड़ी बसहन मीना उसे संखयाओं ्ो जोड़ना ससखाती है और सदवा्र धयान से सीखता है। सदवा्र ्हता है, “ए् और दो, तीन!” मीना ्हती है, “सपेरा बजाता बीन!” सदवा्र ह्ता है, “तीन और चार, सात!” मीना ्हती है, “लाओ ्लम दवात!”"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "सप्त रंग",
+      "title": "रंगों की कहानी",
+      "concept": "रंगों का महत्व",
+      "explanation": "रंग हमारे जीवन को खूबसूरत बनाते हैं। 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "रंग",
+        "खूबसूरती",
+        "जीवन"
+      ],
+      "difficulty": "easy",
+      "text": "बात प उरानी है। तब बस तीन ही रं ग थे। लाल, पीला और नीला! तीन दोसत मिलकर प म ढ़ए लाल रहता था हर लज़ीज़ वसतु में, जैसे टमाटर, सेब, चेरी और आल ब उखारे। पीले ने बनाया था स ऊरज को चमकदार जो मुसकु राकर देता।"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "रंगों का परिचय",
+      "title": "रंगों की दोस्ती",
+      "concept": "रंगों का मिलकर नए रंग बनाना",
+      "explanation": "जब लाल और पीला रंग मिलते हैं, तो नारंगी रंग बनता है। इसी तरह, नीला और पीला मिलकर हरा बनाते हैं। 🌈",
+      "examples": [
+        "लाल + पीला = नारंगी",
+        "पीला + नीला = हरा",
+        "लाल + नीला = बैंगनी"
+      ],
+      "practice_questions": [
+        {
+          "q": "क्या रंगों की तरह आप भी अपने दोस्तों के साथ मिलकर रहते हैं?",
+          "a": "हाँ, हम मिलकर खेलते हैं और नए दोस्त बनाते हैं!"
+        },
+        {
+          "q": "आप नए दोस्त कैसे बनाते हैं?",
+          "a": "मैं नए बच्चों से बातें करता हूँ और खेलता हूँ।"
+        }
+      ],
+      "keywords": [
+        "रंग",
+        "दोस्ती",
+        "मिलना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "रंगों का अभ्यास",
+      "title": "रंगों के नाम लिखें",
+      "concept": "रंगों के नाम और उनके उदाहरण",
+      "explanation": "नीचे दिए गए रंगों के नाम लिखें और उनकी वस्तुओं के उदाहरण दें।",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "कहानी में आए रंगों के नाम लिखें।",
+          "a": "लाल, पीला, नीला, नारंगी, हरा, बैंगनी"
+        },
+        {
+          "q": "वाक्य पूरा करें: तीनों रंग पकके दोस्त थे, फिर भी उन्होंने नए दोस्त बनाए, क्योंकि...",
+          "a": "वे नए रंग बनाना चाहते थे!"
+        }
+      ],
+      "keywords": [
+        "रंग",
+        "अभ्यास",
+        "लिखना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "रंगों की कहानी",
+      "title": "रंगों की दोस्ती",
+      "concept": "रंगों का मिलकर नए रंग बनाना",
+      "explanation": "तीन रंग दोस्त थे। एक दिन उन्होंने नए दोस्त बनाने का सोचा। लाल और पीला मिलकर नारंगी बने। नीला और पीला मिलकर हरा बने। इस तरह उन्होंने दुनिया को रंगीन बना दिया! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "कहानी",
+        "रंग",
+        "दोस्ती"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "रंगों का प्रयोग",
+      "title": "रंगों का प्रयोग",
+      "concept": "रंगों के प्रयोग के लिए गतिविधियाँ",
+      "explanation": "आइए, कुछ रंगों के प्रयोग से मजेदार गतिविधियाँ करें।",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "अलग-अलग रंगों को पानी में मिलाकर क्या बनाते हैं?",
+          "a": "नए रंग बनाते हैं!"
+        },
+        {
+          "q": "आपकी पसंदीदा रंग कौन-सी है?",
+          "a": "मुझे नीला रंग पसंद है, क्योंकि यह आसमान की तरह है! ☁️"
+        }
+      ],
+      "keywords": [
+        "गतिविधि",
+        "रंग",
+        "खेल"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Colors",
+      "title": "रंगों की दुनिया",
+      "concept": "Different colors and their representations",
+      "explanation": "यह कविता हमें रंगों के बारे में बताती है। हर रंग का एक खास मतलब होता है। 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "रंग",
+        "नीला",
+        "पीला",
+        "लाल",
+        "हरा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Color Examples",
+      "title": "रंगों के उदाहरण",
+      "concept": "Identifying colors in nature",
+      "explanation": "आपको अपने पसंदीदा रंग पर एक कविता लिखनी है। जैसे 'दुनिया रंग-बिरंगी' में दिखाया गया है। ✍️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "अपने पसंदीदा रंग पर कविता लिखिए।",
+          "a": ""
+        },
+        {
+          "q": "कविता में आए उदाहरणों से अपने रंग के कुछ उदाहरण दिखाइए।",
+          "a": ""
+        }
+      ],
+      "keywords": [
+        "कविता",
+        "उदाहरण",
+        "रंग"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Nature",
+      "title": "अगर न होता चाँद",
+      "concept": "Importance of natural elements",
+      "explanation": "यह कविता हमें बताती है कि अगर प्राकृतिक चीजें नहीं होतीं, तो हमारी जिंदगी कैसी होती। 🌙☀️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "अगर चाँद और सूरज न होते तो क्या होता?",
+          "a": ""
+        },
+        {
+          "q": "आपने इंद्रधनुष देखा है?",
+          "a": ""
+        }
+      ],
+      "keywords": [
+        "चाँद",
+        "सूरज",
+        "प्रकृति"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Complete the sentences",
+      "title": "वाक्य पूर्ण करें",
+      "concept": "Completing sentences based on nature",
+      "explanation": "कविता के आधार पर दिए गए वाक्यों को पूरा करें। यह आपकी कल्पना को बढ़ाएगा। 📝",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "अगर पेड़ न होते तो ...",
+          "a": ""
+        },
+        {
+          "q": "अगर नदियाँ न होतीं तो ...",
+          "a": ""
+        },
+        {
+          "q": "अगर पर्वत न होते तो ...",
+          "a": ""
+        },
+        {
+          "q": "अगर फूल न होते तो ...",
+          "a": ""
+        }
+      ],
+      "keywords": [
+        "वाक्य",
+        "प्रकृति",
+        "कल्पना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Indradhanush",
+      "title": "इंद्रधनुष बनाएं",
+      "concept": "Creating a rainbow and describing oneself",
+      "explanation": "इंद्रधनुष के रंगों के सामने अपने बारे में कुछ लिखें। यह मजेदार है! 🌈",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "लाल — मेरी उम्र ... साल है।",
+          "a": ""
+        },
+        {
+          "q": "पीला — मैं ... में रहता/रहती हूँ।",
+          "a": ""
+        },
+        {
+          "q": "हरा — मुझे ... खाना बहुत पसंद है।",
+          "a": ""
+        }
+      ],
+      "keywords": [
+        "इंद्रधनुष",
+        "रंग",
+        "स्वयं का परिचय"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "जोजो का सफेद कुत्ता",
+      "title": "जोजो और रंगों की खोज",
+      "concept": "रंगों की पहचान और बातचीत",
+      "explanation": "जोजो एक सफेद कुत्ता है जो रंगों की तलाश में है। वह बादल, सूरज, कौआ, गुब्बारा और घास से पूछता है कि क्या उन्होंने उसे बैंगनी धब्बे दिए हैं। लेकिन सभी उसे अपने रंग बताते हैं। यह कहानी हमें सिखाती है कि हर चीज़ का अपना एक रंग होता है। 🌈",
+      "examples": [
+        "जोजो ने बादल से पूछा, 'क्या तुमने मुझे बैंगनी धब्बे दिए हैं?'"
+      ],
+      "practice_questions": [
+        {
+          "q": "जोजो ने किससे पूछा कि क्या उसने उसे बैंगनी धब्बे दिए हैं?",
+          "a": "बादल, सूरज, कौआ, गुब्बारा और घास से।"
+        }
+      ],
+      "keywords": [
+        "जोजो",
+        "रंग",
+        "बातचीत"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "जोजो की खोज",
+      "title": "जोजो की रंगों की खोज",
+      "concept": "रंगों की पहचान",
+      "explanation": "यह एक मजेदार कविता है जो जोजो की रंगों की खोज को दर्शाती है। 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "जोजो",
+        "रंग",
+        "कविता"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "रंगों की पहचान",
+      "title": "रंगों की पहेली",
+      "concept": "रंगों के नाम पहचानना",
+      "explanation": "नीचे दी गई रंगों की पहेली में रंगों के नाम पर घेरा लगाइए। यह आपको रंगों को पहचानने में मदद करेगा। 🖍️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "रंग",
+        "पहेली",
+        "पहचान"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "तोनिया का सपना",
+      "title": "तोनिया का रंगों का सपना",
+      "concept": "सपनों की दुनिया",
+      "explanation": "तोनिया ने एक सपना देखा कि दुनिया के सारे रंग उड़ गए हैं। वह घबरा जाती है और सोचती है कि क्या सच में रंग गायब हो गए हैं। यह कहानी हमें सपनों की जादुई दुनिया के बारे में बताती है। 🌟",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "तोनिया",
+        "सपना",
+        "रंग"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Colors",
+      "title": "Exploring Colors",
+      "concept": "Understanding different colors and their significance.",
+      "explanation": "Colors make our world beautiful! 🌈 Let's learn about different colors like red, blue, green, and yellow. Each color has its own charm and meaning.",
+      "examples": [
+        "Red is the color of love ❤️",
+        "Blue is the color of the sky 🌌"
+      ],
+      "practice_questions": [
+        {
+          "q": "What colors did Todasya see in the market?",
+          "a": "Todasya saw many colors like red, blue, green, and yellow."
+        },
+        {
+          "q": "How does Todasya feel about colors?",
+          "a": "Todasya feels happy when she sees colors."
+        }
+      ],
+      "keywords": [
+        "colors",
+        "happiness",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "Todasya and Her Grandmother",
+      "title": "Todasya's Dream",
+      "concept": "Understanding dreams and their meanings.",
+      "explanation": "Todasya had a dream where everything was white. When she woke up, she wondered why her grandmother's hair was white. Let's find out together! 😴✨",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Why did Todasya think her grandmother's hair was white?",
+          "a": "Because she had a dream where everything was white."
+        },
+        {
+          "q": "What did the grandmother say about her hair?",
+          "a": "She said her hair was once black."
+        }
+      ],
+      "keywords": [
+        "dreams",
+        "grandmother",
+        "curiosity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Color Identification",
+      "title": "Identifying Colors in the Kitchen",
+      "concept": "Recognizing colors in everyday objects.",
+      "explanation": "Let's look around the kitchen and identify the colors of different items! 🏠🍽️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What color is the turmeric?",
+          "a": "Yellow."
+        },
+        {
+          "q": "What color is the black pot?",
+          "a": "Black."
+        }
+      ],
+      "keywords": [
+        "kitchen",
+        "colors",
+        "identification"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Color Games",
+      "title": "Color Fun Activity",
+      "concept": "Creating art with colors.",
+      "explanation": "Let's create something beautiful using colored paper, scissors, and glue! 🎨✂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "art",
+        "creativity",
+        "colors"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Colors of the World",
+      "title": "Color Rhyme",
+      "concept": "Learning colors through a fun rhyme.",
+      "explanation": "Let's sing a rhyme about colors! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rhyme",
+        "fun",
+        "learning"
+      ],
+      "difficulty": "easy",
+      "text": "गुलाबी में गुलाब,\nआसमान में नीला,\nबैंगनी में बैंगन,\nदसंदी में पीला।"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "तालाब",
+      "title": "तालाब के जीव",
+      "concept": "तालाब में रहने वाले जीवों का अध्ययन",
+      "explanation": "तालाब में बहुत सारे जीव रहते हैं जैसे मछलियाँ, मेंढक, और कीड़े। ये सभी जीव तालाब के इकोसिस्टम का हिस्सा हैं। 🐟🐸",
+      "examples": [
+        "मछली",
+        "मेंढक",
+        "सारस"
+      ],
+      "practice_questions": [
+        {
+          "q": "इस तालाब को छोटा तालाब कयों कहते होंगे?",
+          "a": "क्योंकि यह आकार में छोटा है।"
+        },
+        {
+          "q": "इस तालाब में कौन-कौन से जीव हैं?",
+          "a": "मछलियाँ, मेंढक, और सारस।"
+        }
+      ],
+      "keywords": [
+        "तालाब",
+        "जीव",
+        "इकोसिस्टम"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "सही या गलत",
+      "title": "सही या गलत पर घेरा लगाइए",
+      "concept": "सही और गलत का पहचान",
+      "explanation": "प्रश्नों के उत्तर सही या गलत में दें और कारण बताएं। यह आपकी सोचने की क्षमता को बढ़ाएगा। 🤔",
+      "examples": [
+        "(i) ये सारस हमेशा उसी छोटे तालाब के पास रहेंगे। सही / गलत",
+        "(ii) यह कहानी गदमदियों में दलखी गई है। सही / गलत"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "सही",
+        "गलत",
+        "सोच"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "बीज",
+      "title": "बीज की कहानी",
+      "concept": "बीज कैसे उगता है",
+      "explanation": "एक बीज को गमले में डालने पर वह धीरे-धीरे पौधा बनता है। यह प्रकृति का एक अद्भुत चक्र है। 🌱",
+      "narrative": "मुझे एक बीज दमला। मैंने उसको गमले में डाला। मैंने उसे पानी दिया और बहुत सारी धूप। क्या यह पेड़ है? क्या यह झाड़ी है? क्या इसमें फूल होंगे? क्या यह लंबा ऊँचा होगा? क्या यह छोटा ही रहेगा? मुझे नहीं पता। कोई चिंता नहीं पड़ता!",
+      "practice_questions": [
+        {
+          "q": "बीज कहाँ दमला होगा?",
+          "a": "गमले में।"
+        },
+        {
+          "q": "पेड़ और झाड़ी में कोई फर्क होता है क्या?",
+          "a": "हाँ, पेड़ बड़े होते हैं और झाड़ियाँ छोटी।"
+        }
+      ],
+      "keywords": [
+        "बीज",
+        "पौधा",
+        "प्रकृति"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "कृषि",
+      "title": "किसान की मेहनत",
+      "concept": "किसान की दिनचर्या",
+      "explanation": "किसान सुबह जल्दी उठकर खेत में काम करता है। यह उसकी मेहनत और समर्पण को दर्शाता है। 🌾",
+      "full_text": "मुझे एक बीज दमला।\nमैंने उसको गमले में डाला।\nमैंने उसे पानी दिया और बहुत सारी धूप।\nक्या यह पेड़ है?\nक्या यह झाड़ी है?\nक्या इसमें फूल होंगे?\nक्या इसमें फल होंगे?\nक्या यह लंबा ऊँचा होगा?\nक्या यह छोटा ही रहेगा?\nमुझे नहीं पता।\nकोई चिंता नहीं पड़ता!",
+      "practice_questions": [],
+      "keywords": [
+        "किसान",
+        "मेहनत",
+        "खेत"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "खेत में उगने वाली वस्तुएं",
+      "title": "खेत में उगने वाली वस्तुएं",
+      "concept": "खेत में उगने वाली वस्तुओं के नाम",
+      "explanation": "खेत में कई प्रकार की फसलें उगती हैं। जैसे गेहूं, चावल, और सब्जियाँ। 🌾🥕",
+      "examples": [
+        "गेहूं",
+        "चावल",
+        "गाजर",
+        "टमाटर"
+      ],
+      "practice_questions": [
+        {
+          "q": "खेत में उगने वाली कुछ वस्तुओं के नाम लिखिए?",
+          "a": "गेहूं, चावल, गाजर, टमाटर"
+        }
+      ],
+      "keywords": [
+        "खेत",
+        "फसल",
+        "सब्जियाँ"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "ठंड से बचने के उपाय",
+      "title": "ठंड से बचने के उपाय",
+      "concept": "ठंड से बचने के लिए उपयोग की जाने वाली वस्तुएं",
+      "explanation": "ठंड से बचने के लिए हम स्वेटर, जैकेट और कंबल का उपयोग करते हैं। ❄️🧥",
+      "examples": [
+        "स्वेटर",
+        "जैकेट",
+        "कंबल"
+      ],
+      "practice_questions": [
+        {
+          "q": "ठंड से बचने के लिए आप कौन-कौन सी वस्तुएं उपयोग करते हैं?",
+          "a": "स्वेटर, जैकेट, कंबल"
+        }
+      ],
+      "keywords": [
+        "ठंड",
+        "बचाव",
+        "वस्तुएं"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "हवा और बारिश",
+      "title": "हवा चलती सन-सन",
+      "concept": "प्राकृतिक घटनाओं का वर्णन",
+      "explanation": "यह कविता हमें मौसम की सुंदरता के बारे में बताती है। 🌬️🌧️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "हवा",
+        "बारिश",
+        "कविता"
+      ],
+      "difficulty": "easy",
+      "full_text": "हवा चलती सन-सन,\nपत्‍ते उड़ते .................।\nबादल गरजते गड़-गड़-गड़,\nबिजली चमकती चम-चम।\nबारिश होती .............................,\nओले बरसते ............................।\nसब शांत हो जाता .........................,\nफिर सूरज चमकता ..................!"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "मूली की कहानी",
+      "title": "नानाजी और मूली",
+      "concept": "सहयोग और मेहनत का महत्व",
+      "explanation": "यह कहानी हमें सिखाती है कि जब हम सब मिलकर काम करते हैं, तो हम कठिनाईयों को पार कर सकते हैं। 🌱👨‍🌾",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "नानाजी ने इतनी बड़ी मूली के साथ क्या किया?",
+          "a": "उन्होंने मूली को बाहर निकालने के लिए सबको बुलाया।"
+        },
+        {
+          "q": "मूली इतनी बड़ी कैसे हुई?",
+          "a": "मूली को अच्छी देखभाल और पानी मिला।"
+        }
+      ],
+      "keywords": [
+        "मूली",
+        "नानाजी",
+        "सहयोग"
+      ],
+      "difficulty": "easy",
+      "full_text": "नानाजी ने बगीचे में मूली बोयी।\nमूली से नानाजी बोले, \"उगो-उगो मूली। मज़बूत बनो और लंबी हो।\"\nचिड़िया पंखे तो दिन नानी को आवाज़ लगायी।\nनानी ने थामा नाना को, नाना ने थामा मूली को।\nदोनों ने पूरा जोर लगाया। मगर मूली को दोनों निकाल न पाए।\nउग आयी मोटी और लंबी मूली। नानाजी गए उसे निकालने।\nखींचते रहे, अपना पूरा जोर लगाया, मगर मूली को बाहर न ला पाए।\nतभी नानी ने नादतन को बुलाया। नादतन ने थामा नानी को, नानी ने थामा नाना को, नाना ने थामा मूली को, सबने दमलकर खींचा।\nदमलकर पूरा जोर लगाया। मगर मूली को निकाल न पाए।\nतब नादतन ने अपने कुत्ते को बुलाया। कुत्ते ने नादतन को थामा, नादतन ने नानी को थामा, नानी ने नाना को थामा, नाना ने मूली को थामा, सभी ने दमलकर जोर लगाया। आखिर दमलकर सबने मूली को बाहर निकाल ही डाला!"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Word Meaning",
+      "title": "Understanding the Word 'थामा'",
+      "concept": "Exploring the meaning of the word 'थामा'",
+      "explanation": "Let's think about what 'थामा' means! Can you create sentences using this word? 🤔✍️",
+      "examples": [
+        "मैंने किताब को थामा।",
+        "उसने गेंद को थामा।"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "थामा",
+        "शब्द",
+        "वाक्य"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "कमली और सोमारू की कहानी",
+      "title": "कमली और सोमारू का जंगल यात्रा",
+      "concept": "A story about friendship and helping others.",
+      "explanation": "कमली और सोमारू जंगल में गए और गाय से दूध माँगा। गाय ने कहा कि उसे घास चाहिए। फिर उन्होंने घास लाने की कोशिश की। 🌿🐄",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "आपको ये कहानी कैसी लगी?",
+          "a": "मुझे यह कहानी बहुत अच्छी लगी!"
+        },
+        {
+          "q": "मेंढक सोमारू और कमली की बात क्यूं मान गया?",
+          "a": "क्योंकि उन्होंने उसे आश्वासन दिया कि कोई पत्थर नहीं मारेगा!"
+        }
+      ],
+      "keywords": [
+        "कमली",
+        "सोमारू",
+        "कहानी",
+        "दोस्ती"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल खेलें",
+      "concept": "Creating words with different letters.",
+      "explanation": "आओ हम 'ढ', 'ड', 'ड़', और 'द' वाले शब्द बनाते हैं! 📚✏️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "शब्द",
+        "ढ",
+        "ड",
+        "ड़",
+        "द"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "सुबह का स्वागत",
+      "title": "सुबह का स्वागत",
+      "concept": "A cheerful rhyme to wake up.",
+      "explanation": "यह कविता हमें सुबह उठने के लिए प्रेरित करती है। चलो, हम सब उठते हैं! 🌞🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "सुबह",
+        "कविता",
+        "जागो"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "सुबह का स्वागत",
+      "title": "सुबह का स्वागत",
+      "concept": "A cheerful rhyme to wake up.",
+      "explanation": "यह कविता हमें सुबह उठने के लिए प्रेरित करती है। चलो, हम सब उठते हैं! 🌞🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "सुबह",
+        "कविता",
+        "जागो"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Morning Routine",
+      "title": "जय जय बोलो, उठो उठो!",
+      "concept": "Importance of morning routines.",
+      "explanation": "Let's sing together about waking up and getting ready for the day! 🌞",
+      "examples": [
+        "सवेरे उठना",
+        "दाँत साफ करना",
+        "स्नान करना"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "morning",
+        "routine",
+        "hygiene"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "Friendship",
+      "title": "शेर और चूहे की दोस्ती",
+      "concept": "The value of friendship and helping each other.",
+      "explanation": "This is a story about a lion and a mouse who become friends. The mouse helps the lion when he is in trouble! 🦁🐭",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "क्या आप एक-दूसरे की सहायता करते हैं? कैसे?",
+          "a": "हाँ, मैं अपने दोस्तों की मदद करता हूँ।"
+        },
+        {
+          "q": "शेर के दाँत भी तो पैने होते हैं, तो उसने खुद ही जाल क्यों नहीं कुतर डाला?",
+          "a": "शेर जाल में फँस गया था, इसलिए उसे मदद की जरूरत थी।"
+        }
+      ],
+      "keywords": [
+        "friendship",
+        "help",
+        "lion",
+        "mouse"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Story Reflection",
+      "title": "कहानी से सीखें",
+      "concept": "Discussing the moral of the story.",
+      "explanation": "Let's think about what we learned from the story of the lion and the mouse! 🤔",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "इस कहानी से हमने क्या सीखा?",
+          "a": "चूहा अपने मित्र शेर की मदद कर सकता है।"
+        },
+        {
+          "q": "आपके सबसे अच्छे मित्र का नाम क्या है? आप उसके साथ क्या-क्या करते हैं?",
+          "a": "मेरा सबसे अच्छा मित्र ... है। हम खेलते हैं।"
+        }
+      ],
+      "keywords": [
+        "moral",
+        "discussion",
+        "friendship"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Word Play",
+      "title": "शब्दों का खेल",
+      "concept": "Identifying words with 'त्र'.",
+      "explanation": "Let's find words that contain 'त्र'! 📝",
+      "examples": [
+        "पत्र",
+        "दोस्त",
+        "पात्र"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "words",
+        "language",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Safety Awareness",
+      "title": "Understanding Safety",
+      "concept": "Recognizing safe and unsafe situations.",
+      "explanation": "Safety means being protected from harm. If something feels dangerous, it is important to recognize it! 😊",
+      "examples": [
+        "Your dad is playing with you (safe) 😄",
+        "Your friend is hitting you (unsafe) 😟"
+      ],
+      "practice_questions": [
+        {
+          "q": "Is it safe if your friend hurts you?",
+          "a": "No, that's unsafe!"
+        },
+        {
+          "q": "Is it safe to play with your dad?",
+          "a": "Yes, that's safe!"
+        }
+      ],
+      "keywords": [
+        "safety",
+        "danger",
+        "protection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Rhyme about a friend",
+      "title": "Friendship Rhyme",
+      "concept": "Expressing friendship through fun rhymes.",
+      "explanation": "Rhymes are fun ways to express feelings! Let's enjoy this one! 🎶",
+      "examples": [],
+      "full_text": "एक थाल मोती से भरा,\nडसर के ऊपर औंधा धरा।\nजैसे-जैसे थाल डफरे,\nम़ोती उससे एक न डगरे।",
+      "practice_questions": [],
+      "keywords": [
+        "friendship",
+        "rhyme",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "Adventure of Raju and Meena",
+      "title": "Raju and Meena's Scary Day",
+      "concept": "Facing fears with friends.",
+      "explanation": "Raju and Meena are best friends who faced a scary situation together. They learned that friends help each other! 🌟",
+      "narrative": "राजू और मीना दोनों दोस्त हैं और साथ में स्कूल जाते हैं। एक दिन, स्कूल जाते समय एक बिल्ली उनके सामने आ गई। वे डर गए और रोने लगे। लेकिन उन्होंने एक-दूसरे का हाथ पकड़ा और समझा कि डरना ठीक नहीं है।",
+      "practice_questions": [],
+      "keywords": [
+        "friendship",
+        "fear",
+        "support"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Identifying Games",
+      "title": "Games and Players",
+      "concept": "Understanding different types of games.",
+      "explanation": "Games can be played alone, with a friend, or in a group! Let's identify them! 🏃‍♂️🏃‍♀️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Which games can be played alone?",
+          "a": "Examples include reading or drawing."
+        },
+        {
+          "q": "Which games need two players?",
+          "a": "Examples include chess or tag."
+        },
+        {
+          "q": "Which games need a group?",
+          "a": "Examples include cricket or football."
+        }
+      ],
+      "keywords": [
+        "games",
+        "players",
+        "types"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "खेल",
+      "title": "जीत और ििली का खेल",
+      "concept": "जीत और ििली ने खेल खेला।",
+      "explanation": "जीत और ििली ने मिलकर गेंद से खेला। खेल में मजा आया जब उन्होंने गेंद को फेंका और पकड़ा। 🎉⚽",
+      "examples": [
+        "जीत ने गेंद उठाई।",
+        "ििली ने गेंद फेंकी।"
+      ],
+      "practice_questions": [
+        {
+          "q": "जीत और ििली ने कौन-कौन से खेल खेले?",
+          "a": "जीत और ििली ने गेंद का खेल खेला।"
+        },
+        {
+          "q": "आप कौन-कौन से खेल खेलते हैं?",
+          "a": "मैं क्रिकेट और फुटबॉल खेलता हूँ।"
+        },
+        {
+          "q": "ििली ने गेंद िनाने में कौन-कौन सी वस्तुओं का उपयोग किया?",
+          "a": "ििली ने गेंद और सु्तली का उपयोग किया।"
+        },
+        {
+          "q": "अगर आप अंपायर होते तो क्या जीत को आउट देते?",
+          "a": "मैं खेल के नियमों के अनुसार निर्णय लेता।"
+        }
+      ],
+      "keywords": [
+        "खेल",
+        "गेंद",
+        "जीत",
+        "ििली"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "खेलों की जानकारी",
+      "title": "खेलों के बारे में जानकारी इकट्ठा करें",
+      "concept": "खेलों के नाम और उनके बारे में जानकारी।",
+      "explanation": "नीचे दिए गए खेलों के बारे में जानकारी इकट्ठा करें और लिखें। 📝🏀",
+      "examples": [
+        "किड्डी",
+        "छुपन-छुपाई",
+        "डगडली-डंडा"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "खेल",
+        "जानकारी",
+        "इकट्ठा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "खेल गीत",
+      "title": "खेल गीत",
+      "concept": "खेलों पर एक मजेदार गीत।",
+      "explanation": "यह गीत बच्चों को खेलों के बारे में बताता है और उन्हें खेलने के लिए प्रेरित करता है। 🎶🏃‍♂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "गीत",
+        "खेल",
+        "मज़ा"
+      ],
+      "difficulty": "easy",
+      "text": "प़ोषम पा भई प़ोषम पा,\nसा रे गा मा सा रे गा\nआओ डमलकर खेलें खेल\nछुपन-छुपाई छुक-छुक रेल\nहँसना है मुस्काना है\nफूलों-सा डखल जाना है"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "छुपन-छुपाई",
+      "title": "छुपन-छुपाई का खेल",
+      "concept": "जीत ने छुपन-छुपाई खेला।",
+      "explanation": "एक दिन जीत ने छुपन-छुपाई खेला। वह सौ तक गिनकर दोस्तों को ढूंढने लगा। 🕵️‍♂️🤫",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "छुपन-छुपाई",
+        "जीत",
+        "खेल"
+      ],
+      "difficulty": "easy",
+      "text": "एक दिन जीत छुपन-छुपाई खेल रहे थे। उस दिन जीत की बारी थी। जीत सौ तक गिनकर सिक़ो ढूंढने निकला।"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "छुपन-छुपाई",
+      "title": "जीत और नाड जया की कहानी",
+      "concept": "दोस्तों के साथ खेलना और छुपना",
+      "explanation": "जीत और नाड जया अपने दोस्तों के साथ छुपन-छुपाई खेल रहे थे। जीत ने नाड जया को कई जगहों पर ढूंढा। यह खेल हमें सिखाता है कि हमें अपने दोस्तों के साथ मिलकर खेलना चाहिए। 🎉",
+      "examples": [
+        "जीत ने डमल गई जगहों पर नाड जया को ढूंढा।",
+        "नाड जया ने जीत को धपका दिया।"
+      ],
+      "practice_questions": [
+        {
+          "q": "जीत ने कितनी जगहों पर नाड जया को ढूंढा?",
+          "a": "जीत ने कई जगहों पर नाड जया को ढूंढा।"
+        },
+        {
+          "q": "छुपन-छुपाई में धपका किसे कहते हैं?",
+          "a": "धपका उस समय होता है जब कोई छुपा हुआ व्यक्ति अचानक बाहर आता है।"
+        }
+      ],
+      "keywords": [
+        "छुपन-छुपाई",
+        "खेल",
+        "दोस्ती"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "बातचीत",
+      "title": "सवाल-जवाब",
+      "concept": "खेल के दौरान चोट लगने पर क्या करना चाहिए",
+      "explanation": "अगर खेलते हुए आपको चोट लग जाए, तो आपको आराम करना चाहिए और किसी बड़े से मदद मांगनी चाहिए। 🤕",
+      "examples": [
+        "अगर आप खेल में हार जाते हैं, तो आपको क्या करना चाहिए?"
+      ],
+      "practice_questions": [
+        {
+          "q": "आप अपने घर में कहाँ-कहाँ छिप सकते हैं?",
+          "a": "आप अलमारी, दरवाजे के पीछे, या पलंग के नीचे छिप सकते हैं।"
+        },
+        {
+          "q": "अगर खेलते हुए आपको चोट लग जाए, तो आप क्या करेंगे?",
+          "a": "आराम करेंगे और मदद मांगेंगे।"
+        }
+      ],
+      "keywords": [
+        "खेल",
+        "चोट",
+        "सुरक्षा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "हाथी और चींटी",
+      "title": "हाथी साइडकल",
+      "concept": "हाथी और चींटी की मजेदार कहानी",
+      "explanation": "यह कविता हाथी और चींटी के बीच की मजेदार बातचीत को दर्शाती है। यह हमें सिखाती है कि हर कोई खास होता है। 🐘🐜",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "हाथी",
+        "चींटी",
+        "कविता"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "कहानी लेखन",
+      "title": "अपनी कहानी लिखें",
+      "concept": "अपनी कहानी को लिखने का अभ्यास",
+      "explanation": "आप अपने दोस्तों के साथ खेलते हुए अपनी कहानी लिख सकते हैं। यह आपकी कल्पना को बढ़ाने में मदद करेगा। ✍️",
+      "examples": [
+        "मैं अपने दोस्तों के साथ खेलता हूँ।"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "कहानी",
+        "लेखन",
+        "कल्पना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "Hathi aur Chinti",
+      "title": "हाथी और चींटी की कहानी",
+      "concept": "एक हाथी और चींटी की दोस्ती की कहानी।",
+      "explanation": "यह कहानी एक हाथी और एक चींटी की है। हाथी साइडकल चला रहा था और चींटी उसकी मदद करने आई। यह हमें सिखाती है कि दोस्ती में मदद करना बहुत जरूरी है। 🐘🐜",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "हाथी",
+        "चींटी",
+        "दोस्ती"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "कहानी लेखन",
+      "title": "अपनी कहानी लिखें",
+      "concept": "कहानी लिखने का अभ्यास।",
+      "explanation": "बच्चों को कहानी लिखने के लिए प्रेरित करें। उन्हें अपनी कल्पना का उपयोग करके एक नई कहानी लिखने के लिए कहें। ✍️📖",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "कहानी",
+        "लेखन",
+        "कल्पना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "नरेंद्र और दादाजी",
+      "title": "नरेंद्र की कहानी",
+      "concept": "नरेंद्र और दादाजी की बातचीत।",
+      "explanation": "यह कहानी नरेंद्र की है जो अपने दादाजी से एक पेड़ के बारे में सुनते हैं। दादाजी उन्हें बताते हैं कि उस पेड़ पर एक दैत्य रहता है। यह हमें सिखाता है कि हमें डरने की जरूरत नहीं है। 🌳👴",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "नरेंद्र",
+        "दादाजी",
+        "दैत्य"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "चार दिशाएँ",
+      "title": "चार दिशाएँ",
+      "concept": "दिशाओं के बारे में कविता।",
+      "explanation": "यह कविता हमें चार दिशाओं के बारे में बताती है। यह बच्चों को दिशा पहचानने में मदद करती है। 🌅🌍",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "दिशाएँ",
+        "कविता",
+        "भूगोल"
+      ],
+      "difficulty": "easy",
+      "text": "उगता सूरज जिधर सामने\nउधर खडे हो मुँह करके तुम\nठीक सामने पूरब होता\nऔर पीठ पीछे है पश्चिम\nचमबायीं ओर दक्षिण\nऔर बायीं ओर तुम्हारे है उत्तर\nचार दिशाएँ होती हैं यों\nपूरब पश्चिम दक्षिण उत्तर।"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "आकाश",
+      "title": "आकाश का अन्वेषण",
+      "concept": "आकाश और उसके तत्वों का ज्ञान",
+      "explanation": "आकाश वह जगह है जहाँ सूरज, चाँद और तारे होते हैं। हम आकाश में उड़ते हुए बादलों और रंग-बिरंगे पक्षियों को देख सकते हैं। 🌤️🕊️",
+      "examples": [
+        "सूरज आकाश में चमकता है।",
+        "चाँद रात में हमें रोशनी देता है।"
+      ],
+      "practice_questions": [
+        {
+          "q": "आप जिशा का अनुमान कैसे लगाते हैं?",
+          "a": "हम आकाश में बादलों और रंगों को देखकर अनुमान लगाते हैं।"
+        },
+        {
+          "q": "नीचे कुछ शब्द दिए गए हैं। इन शब्दों से अपनी-अपनी कहानी बनाइए और कक्षा में सुनाइए।",
+          "a": "बातचीत के लिए शब्द: आकाश, ओले, बाल, जंगल, मिलकर, जानवर, शेर, हाथी, लोमड़ी, डर, सुबह, खुशी-खुशी, नाचना, पहाड़।"
+        }
+      ],
+      "keywords": [
+        "आकाश",
+        "सूरज",
+        "चाँद",
+        "तारे"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "चिंता मामा",
+      "title": "चिंता मामा की कहानी",
+      "concept": "चिंता मामा का आकाश में प्रकाश",
+      "explanation": "चिंता मामा रात में आकाश में चमकते हैं और हमें रोशनी देते हैं। 🌕✨",
+      "examples": [
+        "चिंता मामा ने कहा, 'मैं तो चाँद से गपशप कर रहा था।'"
+      ],
+      "practice_questions": [
+        {
+          "q": "चिंता मामा किससे गपशप कर रहे थे?",
+          "a": "चाँद से।"
+        },
+        {
+          "q": "क्या चिंता मामा ने बाघ जी को बुलाया?",
+          "a": "नहीं, उन्होंने कहा कि बाघ जी नहीं आएंगे।"
+        }
+      ],
+      "keywords": [
+        "चाँद",
+        "चिंता मामा",
+        "रात"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "चिंता मामा",
+      "title": "चिंता मामा की कविता",
+      "concept": "चिंता मामा की अद्भुतता",
+      "explanation": "यह कविता हमें बताती है कि कैसे सबने चिंता मामा को देखा। 🌌",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "कविता",
+        "चिंता मामा",
+        "अद्भुतता"
+      ],
+      "difficulty": "easy",
+      "text": "जगरे ताल में चंिा मामा,\nसबने िेखा सबने िेखा,\nँसे जाल में चंिा मामा,\nसबने िेखा सबने िेखा।\nसबने िेखा एक अचंभा,\nमछुारे ने जाल समेटा,\nकहीं नहीं थे चंिा मामा,\nकहाँ गए जी चंिा मामा।"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल",
+      "concept": "शब्दों को क्रम में रखना",
+      "explanation": "आइए, हम शब्दों को सही क्रम में रखें। यह खेल हमें शब्दों को समझने में मदद करता है। 🧩",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "शब्द",
+        "खेल",
+        "क्रम"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "चाँद का आकार",
+      "title": "चाँद का आकार बनाना",
+      "concept": "चाँद के आकार का अवलोकन",
+      "explanation": "रोज़ रात में चाँद को देखिए और उसके आकार को बनाइए। यह हमें चाँद के घटने-बढ़ने के बारे में सिखाता है। 🌙✏️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "चाँद",
+        "आकार",
+        "अवलोकन"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_006",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "बारिश",
+      "title": "बारिश का आनंद",
+      "concept": "बारिश का अनुभव",
+      "explanation": "बारिश में हमें बहुत मज़ा आता है। हम छत पर और आँगन में बारिश का आनंद लेते हैं। ☔🌧️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "बारिश",
+        "आनंद",
+        "अनुभव"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "बारिश और छाता",
+      "title": "बारिश में छाता",
+      "concept": "बारिश में छाता हमें कैसे बचाता है।",
+      "explanation": "जब बारिश होती है, तो हम छाता लेकर चलते हैं ताकि हम गीले न हों। छाता हमें सूखा और गर्म रखता है। ☔️",
+      "examples": [
+        "जब मैं और सलीम छाता के नीचे थे, हम गीले नहीं हुए।",
+        "जितने बच्चे छाते के नीचे आए, सब सूखे रहे।"
+      ],
+      "practice_questions": [
+        {
+          "q": "बारिश से जुड़े अपने अनुभव बताइए।",
+          "a": "मैंने बारिश में छाता लेकर खेला।"
+        },
+        {
+          "q": "आप बड़े होकर क्या बनाना चाहेंगे?",
+          "a": "मैं बड़ा छाता बनाना चाहूंगा।"
+        },
+        {
+          "q": "क्या सचमुच कोई इतना बड़ा छाता बना सकता है?",
+          "a": "नहीं, ऐसा छाता बनाना संभव नहीं है।"
+        },
+        {
+          "q": "छाते में ऐसा क्या होता है कि हम बारिश में भी गीले नहीं होते?",
+          "a": "छाता बारिश से हमें बचाता है।"
+        }
+      ],
+      "keywords": [
+        "बारिश",
+        "छाता",
+        "बच्चे"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "बड़ा छाता",
+      "title": "बड़े छाते की कहानी",
+      "narrative": "एक दिन, दयाल चाचू ने कहा कि हमें एक बहुत बड़ा छाता चाहिए। सब बच्चे छाते के नीचे आ गए। लेकिन हर बार छाता छोटा पड़ जाता था। अंत में, दयाल चाचू ने कहा कि वह आसमान जितना बड़ा छाता बनाएंगे। सब बच्चे खुश हुए और बारिश में सूखे रहे। ☔️🌧️",
+      "keywords": [
+        "दयाल चाचू",
+        "छाता",
+        "बच्चे"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "तोते का प्यारा खाना",
+      "title": "तोते का प्यारा खाना",
+      "content": "पहेिी तोते का प्यारा खाना है, \nलेजकन मेरी सी-सी है, \nइसका उत्तर दे सकते हो, \nयह तो बात ज़रा-सी है।",
+      "keywords": [
+        "तोता",
+        "खाना",
+        "राइम"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल",
+      "instructions": "नीचे दिए गए शब्दों की सहायता से पाँच से छह वाक्य लिखिए।",
+      "words": [
+        "बारिश",
+        "झम-झम",
+        "छाता",
+        "जमत्र",
+        "सहायता",
+        "दोपहर",
+        "घर",
+        "स्कूल",
+        "छुट्टी"
+      ],
+      "example_sentence": "मैं स्कूल से घर आ रही थी।",
+      "keywords": [
+        "शब्द",
+        "वाक्य",
+        "व्याकरण"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "poem",
+      "topic": "Rain",
+      "title": "आनंदमयी कविता",
+      "concept": "The beauty and joy of rain.",
+      "explanation": "This poem describes how rain comes and brings happiness to nature. 🌧️🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rain",
+        "nature",
+        "joy"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Questions about the poem",
+      "title": "कविता के आधार पर उत्तर दीजिए",
+      "concept": "Understanding the poem through questions.",
+      "explanation": "Answer the following questions to understand the poem better. 🤔",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "बादल कै से बरसते हैं?",
+          "a": "बादल पानी लाते हैं और बरसते हैं।"
+        },
+        {
+          "q": "मोर कै से नाचते हैं?",
+          "a": "मोर खुशी से नाचते हैं।"
+        },
+        {
+          "q": "हवा कै से चलती है?",
+          "a": "हवा धीरे-धीरे चलती है।"
+        },
+        {
+          "q": "बारिश आने से पहले कै सा मौसम होता है?",
+          "a": "बारिश से पहले मौसम गर्म होता है।"
+        },
+        {
+          "q": "बारिश कै से होती है?",
+          "a": "बारिश तब होती है जब बादल पानी छोड़ते हैं।"
+        },
+        {
+          "q": "आपको बारिश के मौसम की सबसे अच्छी बात क्या लगती है?",
+          "a": "बारिश में सब कुछ हरा-भरा हो जाता है।"
+        },
+        {
+          "q": "क्या बारिश से कभी कोई परेशानी भी होती है?",
+          "a": "हाँ, कभी-कभी बारिश से बाढ़ आ सकती है।"
+        }
+      ],
+      "keywords": [
+        "questions",
+        "understanding",
+        "poem"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Drawing and writing",
+      "title": "आसमान और बादलों के बारे में",
+      "concept": "Creative activity related to clouds.",
+      "explanation": "Look at the clouds in the sky and draw their shapes in your notebook. ☁️✏️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "clouds",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Word association",
+      "title": "शब्दों का खेल",
+      "concept": "Finding related words.",
+      "explanation": "Find words that are related to 'बादल' and explain how they are connected. 🌥️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "‘बादल’ शब्द सुनने पर आपको कौन से अन्य शब्द आते हैं?",
+          "a": "मोर, बारिश, पानी, आदि।"
+        }
+      ],
+      "keywords": [
+        "word association",
+        "clouds",
+        "language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Fill in the blanks",
+      "title": "कविता में सही शब्द चुनकर दिखाएं",
+      "concept": "Completing sentences from the poem.",
+      "explanation": "Fill in the blanks with the correct words from the poem. 📝",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "(i) हवा _______ लाती सर-सर।",
+          "a": "सरसर"
+        },
+        {
+          "q": "(ii) नन्हें जल-कण गए _______ बन।",
+          "a": "भाप"
+        },
+        {
+          "q": "(iii) _______ मगन मन, _______ छननछन।",
+          "a": "मोर",
+          "b": "झूम"
+        },
+        {
+          "q": "(iv) बरसे _______ कलकल _______।",
+          "a": "बारिश",
+          "b": "छलछल"
+        },
+        {
+          "q": "(v) तैर चली _______ की नैया _______ उठाकर _______ गैया।",
+          "a": "कागज़",
+          "b": "पूंछ",
+          "c": "भागी"
+        }
+      ],
+      "keywords": [
+        "fill in the blanks",
+        "poem",
+        "language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Water Cycle",
+      "title": "Understanding Water Cycle",
+      "concept": "The process of water changing forms.",
+      "explanation": "पानी गरमी से भाप बनता है और फिर आसमान में जाकर बारिश बनता है। 🌧️",
+      "examples": [
+        "पानी गरमी से भाप बनता है।",
+        "भाप ऊपर जाकर बारिश बनाती है।"
+      ],
+      "practice_questions": [
+        {
+          "q": "क्या गरमी पानी को भाप बनाती है?",
+          "a": "हाँ, गरमी पानी को भाप बनाती है।"
+        },
+        {
+          "q": "भाप कहाँ जाती है?",
+          "a": "भाप आसमान में जाती है।"
+        }
+      ],
+      "keywords": [
+        "पानी",
+        "भाप",
+        "गरमी",
+        "बारिश"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Rain",
+      "title": "बरखा",
+      "concept": "A rhyme about rain.",
+      "explanation": "यह कविता बारिश के बारे में है। 🌧️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "बरखा",
+        "कविता",
+        "बारिश"
+      ],
+      "difficulty": "easy",
+      "text": "काली भूरी नीली है, \nलाल गुलाबी पीली है, \nबरखा से यही बचाती है, \nधूप नहीं आ पाती है। \nरहती है जसर के ऊपर, \nपीली रहती है तन कर, \nसुंदर सी है, जानो तुम, \nअपने जसर पर तानो तुम।"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "Story of the Storyteller",
+      "title": "कहानी सुनाने वाला",
+      "concept": "A fun story about a storyteller.",
+      "explanation": "यह कहानी एक कहानी सुनाने वाले की है जो बच्चों को कहानी सुनाता है। 📖",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "कहानी",
+        "सुनाना",
+        "बच्चे"
+      ],
+      "difficulty": "easy",
+      "text": "कहानी सुनाने वाला कहाजनयाँ सुनाकर थक गया, पर सुनने वाले नहीं थके। उसे घेरकर बैठे बच्चों और बूढ़ों ने उससे और कहानी सुनाने का आग्रह किया। तो उसने कहानी सुनाना शुरू किया। वह बोला, “एक पेड पर बहुत-सी जचजडयाँ रहती थीं।” इतना कहकर वह रुक गया। सुनें कहानी! “जिर?” “जिर एक जचजडया पेड से उडी – झुर्र!” “जिर?” “जिर एक जचजडया पेड से उडी – झुर्र!” “जिर?” “जिर एक जचजडया पेड से उडी – झुर्र!” “जिर?” “झुर्र!” बहुत देर तक यही चलता रहा। “जिर?” “झुर्र!” “जिर?” “झुर्र!” से लोग थक गए। अंततः एक बच्चे ने पूछा, “यह कब तक चलेगा?” कहानी सुनाने वाले ने कहा, “जब तक सारी जचजडयाँ उड नहीं जाती!”"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Fill in the Blanks",
+      "title": "Fill in the Blanks with Words",
+      "concept": "Practice filling in the blanks.",
+      "explanation": "दिए गए शब्दों से रिक्त स्थान भरें। ✏️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "भरें",
+        "शब्द",
+        "व्यायाम"
+      ],
+      "difficulty": "easy",
+      "text": "दिए गए शब्दों से रिक्त स्थान भरें: पानी, बािल, भाप, गरमी।"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Importance of Early Childhood Development",
+      "title": "बच्‍चों के विकास का महत्व",
+      "concept": "बच्‍चों के प्रारंभिक विकास का महत्व",
+      "explanation": "बच्‍चों के पहले आठ वर्षों में उनके विकास पर ध्यान देना बहुत जरूरी है। यह समय उनके जीवन की नींव रखता है। 🌱",
+      "examples": [
+        "बच्‍चों को खेल के माध्यम से सिखाना",
+        "परिवार और समाज का सहयोग"
+      ],
+      "practice_questions": [
+        {
+          "q": "बच्‍चों के विकास में सबसे महत्वपूर्ण क्या है?",
+          "a": "प्रारंभिक शिक्षा और परिवार का सहयोग"
+        }
+      ],
+      "keywords": [
+        "बच्‍चों का विकास",
+        "प्रारंभिक शिक्षा",
+        "परिवार"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "National Education Policy 2020",
+      "title": "राष्ट्रीय शिक्षा नीति 2020",
+      "concept": "शिक्षा प्रणाली में सुधार के लिए नई नीति",
+      "explanation": "राष्ट्रीय शिक्षा नीति 2020 ने शिक्षा के स्तर को सुधारने के लिए नई योजनाएँ बनाई हैं। 📚",
+      "examples": [
+        "5+3+3+4 शिक्षा प्रणाली",
+        "बच्‍चों के लिए नई पाठ्यपुस्तकें"
+      ],
+      "practice_questions": [
+        {
+          "q": "राष्ट्रीय शिक्षा नीति 2020 का उद्देश्य क्या है?",
+          "a": "शिक्षा की गुणवत्ता में सुधार करना"
+        }
+      ],
+      "keywords": [
+        "शिक्षा नीति",
+        "सुधार",
+        "पाठ्यक्रम"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Five Dimensions of Learning",
+      "title": "सीखने के पांच आयाम",
+      "concept": "सीखने के विभिन्न आयामों का महत्व",
+      "explanation": "सीखने के पांच आयाम हैं: शारीरिक, मानसिक, सामाजिक, भाषाई और सांस्कृतिक। ये सभी मिलकर बच्चों के विकास में मदद करते हैं। 🌈",
+      "examples": [
+        "खेलना (शारीरिक)",
+        "कहानियाँ सुनना (भाषाई)"
+      ],
+      "practice_questions": [
+        {
+          "q": "सीखने के कौन-कौन से आयाम हैं?",
+          "a": "शारीरिक, मानसिक, सामाजिक, भाषाई, सांस्कृतिक"
+        }
+      ],
+      "keywords": [
+        "सीखने के आयाम",
+        "विकास",
+        "शिक्षा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "कोश",
+      "title": "कोश के प्रकार",
+      "concept": "कोश के विभिन्न प्रकार",
+      "explanation": "कोश हमारे शरीर के विभिन्न स्तरों का प्रतिनिधित्व करते हैं। जैसे अन्नमय कोश, प्राणमय कोश, मनोमय कोश, चवज्ानमय कोश और आनदमय कोश। ये सभी कोश मिलकर हमारे अनुभव और ज्ञान को बनाते हैं। 🌟",
+      "examples": [
+        "अन्नमय कोश: यह हमारे शरीर के भौतिक स्तर को दर्शाता है।",
+        "प्राणमय कोश: यह हमारे जीवन शक्ति को दर्शाता है।"
+      ],
+      "practice_questions": [
+        {
+          "q": "कोश कितने प्रकार के होते हैं?",
+          "a": "पाँच प्रकार के होते हैं।"
+        }
+      ],
+      "keywords": [
+        "कोश",
+        "शरीर",
+        "ज्ञान"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "शिक्षण सामग्री",
+      "title": "शिक्षण सामग्री का महत्व",
+      "concept": "शिक्षण सामग्री का उपयोग",
+      "explanation": "शिक्षण सामग्री बच्चों को सीखने में मदद करती है। यह उन्हें ज्ञान और कौशल विकसित करने में सहायता करती है। 📚✨",
+      "examples": [
+        "पुस्तकें",
+        "चित्र"
+      ],
+      "practice_questions": [
+        {
+          "q": "शिक्षण सामग्री का क्या महत्व है?",
+          "a": "यह बच्चों को सीखने में मदद करती है।"
+        }
+      ],
+      "keywords": [
+        "शिक्षण",
+        "सामग्री",
+        "ज्ञान"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "सामग्री का प्रस्तुतीकरण",
+      "title": "सामग्री का आकर्षक प्रस्तुतीकरण",
+      "concept": "आकर्षक सामग्री का महत्व",
+      "explanation": "सामग्री को रोचक और आकर्षक तरीके से प्रस्तुत करने से बच्चों की रुचि बढ़ती है। यह उन्हें सीखने के लिए प्रेरित करती है। 🎨🌈",
+      "examples": [
+        "चित्रों का उपयोग",
+        "रंग-बिरंगे ग्राफिक्स"
+      ],
+      "practice_questions": [
+        {
+          "q": "सामग्री को कैसे प्रस्तुत करना चाहिए?",
+          "a": "आकर्षक और रोचक तरीके से।"
+        }
+      ],
+      "keywords": [
+        "प्रस्तुतीकरण",
+        "आकर्षण",
+        "रुचि"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "स्थानीय संदर्भ",
+      "title": "स्थानीय संदर्भ का महत्व",
+      "concept": "स्थानीय संदर्भ का ज्ञान",
+      "explanation": "स्थानीय संदर्भ बच्चों को अपने आस-पास की दुनिया को समझने में मदद करता है। यह उन्हें अपने समाज और संस्कृति से जोड़ता है। 🌍👫",
+      "examples": [
+        "स्थानीय त्योहार",
+        "संस्कृति"
+      ],
+      "practice_questions": [
+        {
+          "q": "स्थानीय संदर्भ का क्या महत्व है?",
+          "a": "यह बच्चों को अपने समाज से जोड़ता है।"
+        }
+      ],
+      "keywords": [
+        "स्थानीय",
+        "संदर्भ",
+        "संस्कृति"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Language Development",
+      "title": "Importance of Language in Life",
+      "concept": "Language is essential for communication and understanding.",
+      "explanation": "Language helps us express our thoughts and feelings. It's like a bridge that connects us with others! 🌉 For example, when you say 'hello' to a friend, you are using language to communicate.",
+      "examples": [
+        "Saying 'thank you' when someone helps you.",
+        "Asking 'Can I play with you?'"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is language important?",
+          "a": "It helps us communicate and understand each other."
+        }
+      ],
+      "keywords": [
+        "language",
+        "communication",
+        "understanding"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Reading and Writing",
+      "title": "Starting to Read and Write",
+      "concept": "Reading and writing are important skills for learning.",
+      "explanation": "When you read, you discover new stories and ideas! 📚 Writing helps you share your own stories. For example, writing a letter to your friend is a fun way to communicate.",
+      "examples": [
+        "Reading a bedtime story.",
+        "Writing a diary entry about your day."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like to read?",
+          "a": "I like to read storybooks!"
+        }
+      ],
+      "keywords": [
+        "reading",
+        "writing",
+        "skills"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Cultural Awareness",
+      "title": "Understanding Our Culture",
+      "concept": "Culture is a part of our identity.",
+      "explanation": "Culture includes our traditions, festivals, and values. 🎉 For example, celebrating Diwali with family is a cultural practice that brings joy and togetherness.",
+      "examples": [
+        "Celebrating Holi with colors.",
+        "Eating special dishes during festivals."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite festival?",
+          "a": "My favorite festival is Diwali!"
+        }
+      ],
+      "keywords": [
+        "culture",
+        "traditions",
+        "identity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Language Practice",
+      "title": "Practicing Language Skills",
+      "concept": "Engaging in activities enhances language skills.",
+      "explanation": "Let's play a game! 🎲 Try to find five new words in your favorite storybook and use them in sentences.",
+      "examples": [
+        "Find the word 'happy' and say, 'I feel happy when I play.'"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "practice",
+        "language skills",
+        "activities"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Language Development",
+      "title": "Understanding Words and Sentences",
+      "concept": "Identifying and constructing words and sentences.",
+      "explanation": "बच्चों को शब्दों को पहचानना और उन्हें सही तरीके से लिखना सिखाना है। यह उनके मौखिक भाषा विकास में मदद करता है। 🌟",
+      "examples": [
+        "चि‍त और बाति्रीत",
+        "कचवता"
+      ],
+      "practice_questions": [
+        {
+          "q": "शब्दों को पहचानने का क्या मतलब है?",
+          "a": "शब्दों को सही तरीके से पहचानना और उनका उपयोग करना।"
+        },
+        {
+          "q": "हम शब्द कैसे बनाते हैं?",
+          "a": "शब्दों को जोड़कर और सही तरीके से लिखकर।"
+        }
+      ],
+      "keywords": [
+        "शब्द",
+        "वाक्य",
+        "मौखिक भाषा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Language Practice",
+      "title": "Practicing Word Recognition",
+      "concept": "Exercises for recognizing and constructing words.",
+      "explanation": "बच्चों को शब्दों की पहचान और निर्माण के लिए विभिन्न गतिविधियाँ करनी चाहिए। 📝",
+      "examples": [
+        "कचवता",
+        "सुनें कहान्री"
+      ],
+      "practice_questions": [
+        {
+          "q": "कचवता का मतलब क्या है?",
+          "a": "यह एक गतिविधि है जिसमें बच्चे अपने विचार साझा करते हैं।"
+        },
+        {
+          "q": "सुनें कहान्री में बच्चों को क्या करना चाहिए?",
+          "a": "कहानी सुनकर उसके बारे में बात करनी चाहिए।"
+        }
+      ],
+      "keywords": [
+        "अभ्यास",
+        "गतिविधियाँ",
+        "शब्द निर्माण"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Reading Skills",
+      "title": "Reading and Understanding Stories",
+      "concept": "Developing reading skills through stories.",
+      "explanation": "कहानियों को पढ़ने से बच्चे न केवल पढ़ाई में सुधार करते हैं, बल्कि अपने विचारों को भी साझा करते हैं। 📖✨",
+      "examples": [
+        "मा्‍ा की िाँद्री की पाय्‍"
+      ],
+      "practice_questions": [
+        {
+          "q": "कहानी पढ़ने का क्या फायदा है?",
+          "a": "यह बच्चों को सोचने और समझने में मदद करता है।"
+        },
+        {
+          "q": "कहानी में क्या होता है?",
+          "a": "कहानियों में पात्र और उनके अनुभव होते हैं।"
+        }
+      ],
+      "keywords": [
+        "कहानी",
+        "पढ़ाई",
+        "समझ"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Writing Skills",
+      "title": "Beginning to Write",
+      "concept": "Starting to write words and sentences.",
+      "explanation": "बच्चों को चित्रों के माध्यम से अपने विचारों को व्यक्त करने के लिए प्रेरित किया जाता है। ✍️🌈",
+      "examples": [
+        "चित्रों के माध्यम से लिखना",
+        "शब्दों का उपयोग करना"
+      ],
+      "practice_questions": [
+        {
+          "q": "बच्चे कैसे लिखना शुरू करते हैं?",
+          "a": "चित्रों से शुरू करके और फिर शब्दों को जोड़कर।"
+        },
+        {
+          "q": "क्या चित्रों से लिखना आसान है?",
+          "a": "हाँ, यह बच्चों के लिए आसान और मजेदार होता है।"
+        }
+      ],
+      "keywords": [
+        "लिखना",
+        "चित्र",
+        "विचार"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_101",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "शब्दों का खेल",
+      "title": "शब्दों का खेल",
+      "concept": "शब्दों का खेल बच्चों के लिए मजेदार है।",
+      "explanation": "बच्चों को शब्दों के साथ खेलना सिखाना बहुत मजेदार होता है। जैसे, 'रंर-ह्री-रंर' जैसे शब्दों का उपयोग करके हम बातचीत कर सकते हैं। 🤗",
+      "examples": [
+        "रंर-ह्री-रंर",
+        "चकमक-चकमक"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपका सबसे पसंदीदा रंग कौन-सा है?",
+          "a": "मेरा पसंदीदा रंग नीला है!"
+        },
+        {
+          "q": "रंगों के नाम बताइए?",
+          "a": "लाल, हरा, नीला, पीला।"
+        }
+      ],
+      "keywords": [
+        "शब्द",
+        "खेल",
+        "रंग"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_102",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "कहानियाँ सुनाना",
+      "title": "कहानियाँ सुनाना",
+      "concept": "कहानियाँ सुनाना बच्चों की कल्पना को बढ़ाता है।",
+      "explanation": "कहानियाँ सुनाने से बच्चे नई चीजें सीखते हैं और उनकी कल्पना शक्ति बढ़ती है। 📖✨",
+      "examples": [
+        "बच्चों को 'चाँद और तारे' की कहानी सुनाना।",
+        "कहानी सुनाते समय बच्चों से सवाल पूछना।"
+      ],
+      "practice_questions": [
+        {
+          "q": "कहानी में आपको क्या पसंद आया?",
+          "a": "मुझे चाँद का हिस्सा पसंद आया!"
+        },
+        {
+          "q": "कहानी का मुख्य पात्र कौन था?",
+          "a": "कहानी का मुख्य पात्र चाँद था।"
+        }
+      ],
+      "keywords": [
+        "कहानी",
+        "सुनाना",
+        "कल्पना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_103",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "शब्दों का अभ्यास",
+      "title": "शब्दों का अभ्यास",
+      "concept": "शब्दों का अभ्यास बच्चों की पढ़ाई में मदद करता है।",
+      "explanation": "बच्चों को शब्दों का अभ्यास करने से वे बेहतर पढ़ाई कर सकते हैं। जैसे, 'बच्चा', 'किताब', 'गाड़ी'। 📚🚗",
+      "examples": [
+        "बच्चा",
+        "किताब",
+        "गाड़ी"
+      ],
+      "practice_questions": [
+        {
+          "q": "इन शब्दों का वाक्य बनाइए: बच्चा, किताब।",
+          "a": "बच्चा किताब पढ़ रहा है।"
+        },
+        {
+          "q": "गाड़ी का रंग बताइए।",
+          "a": "गाड़ी का रंग लाल है।"
+        }
+      ],
+      "keywords": [
+        "अभ्यास",
+        "शब्द",
+        "पढ़ाई"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_101",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "कचवता और उसके महत्व",
+      "title": "कचवता का आनंद",
+      "concept": "कचवता का आनंद लेना आवश्यक है।",
+      "explanation": "बच्चों, कचवता का आनंद लेना बहुत जरूरी है। जब हम कचवता करते हैं, तो हमें खुशी मिलती है और हम सीखते हैं। 🌼✨",
+      "examples": [
+        "कचवता से हम अपने विचारों को व्यक्त कर सकते हैं।",
+        "कचवता से हम नई चीजें सीखते हैं।"
+      ],
+      "practice_questions": [
+        {
+          "q": "कचवता का क्या महत्व है?",
+          "a": "कचवता से हम अपने विचारों को व्यक्त कर सकते हैं और नई चीजें सीख सकते हैं।"
+        }
+      ],
+      "keywords": [
+        "कचवता",
+        "आनंद",
+        "शिक्षा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_102",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "कचवता पर लेखन",
+      "title": "कचवता पर लेखन का अभ्यास",
+      "concept": "कचवता पर लेखन करने का अभ्यास करें।",
+      "explanation": "बच्चों, अब आप अपनी कचवता लिखें। आप अपने विचारों को कागज पर उतार सकते हैं। 📝😊",
+      "examples": [
+        "मैंने आज एक सुंदर फूल देखा।",
+        "मुझे अपने दोस्त के साथ खेलना पसंद है।"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "लेखन",
+        "अभ्यास",
+        "विचार"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_103",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "भावनाओं का व्यक्त करना",
+      "title": "भावनाओं को चित्रों से व्यक्त करना",
+      "concept": "चित्रों के माध्यम से भावनाओं को व्यक्त करना।",
+      "explanation": "बच्चों, चित्रों के माध्यम से हम अपनी भावनाओं को व्यक्त कर सकते हैं। 🎨❤️",
+      "examples": [
+        "जब मैं खुश होता हूँ, तो मैं हंसता हूँ।",
+        "जब मैं दुखी होता हूँ, तो मैं रोता हूँ।"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपकी खुशी का चित्र कैसे होगा?",
+          "a": "मेरी खुशी का चित्र एक हंसते चेहरे का होगा।"
+        }
+      ],
+      "keywords": [
+        "भावनाएँ",
+        "चित्र",
+        "व्यक्त करना"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_104",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "सामुदायिक समझ",
+      "title": "हमारा समुदाय",
+      "concept": "अपने समुदाय को समझना।",
+      "explanation": "बच्चों, हमें अपने समुदाय के बारे में जानना चाहिए। यह हमें अपने आस-पास की चीजों को समझने में मदद करता है। 🌍👫",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "समुदाय",
+        "समझ",
+        "सामाजिक"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_105",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "खेल-खेल में सीखना",
+      "title": "खेल-खेल में गतिविधियाँ",
+      "concept": "खेल के माध्यम से सीखना।",
+      "explanation": "बच्चों, खेल-खेल में सीखना बहुत मजेदार है। आप गाने गा सकते हैं और खेल सकते हैं। 🎶🏃‍♂️",
+      "examples": [
+        "झटपट कहिए",
+        "आओ बूझें पहेली"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "खेल",
+        "सीखना",
+        "गतिविधियाँ"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_110",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "Introduction to Hindi Language",
+      "title": "Basics of Hindi",
+      "concept": "Understanding the Hindi language and its importance.",
+      "explanation": "Hindi is a beautiful language spoken by many people in India. It helps us communicate and express our feelings. 🌟",
+      "examples": [
+        "नमस्ते (Namaste) means Hello!",
+        "धन्यवाद (Dhanyavaad) means Thank you!"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does 'नमस्ते' mean?",
+          "a": "It means Hello!"
+        },
+        {
+          "q": "How do you say Thank you in Hindi?",
+          "a": "You say धन्यवाद (Dhanyavaad)."
+        }
+      ],
+      "keywords": [
+        "Hindi",
+        "Language",
+        "Communication"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_111",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "Hindi Rhymes",
+      "title": "चंदा मामा (Chanda Mama)",
+      "concept": "A popular Hindi rhyme about the moon.",
+      "explanation": "This rhyme is about the moon and how it shines in the night sky. 🌙",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Rhyme",
+        "Moon",
+        "Night"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_112",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "Moral Stories",
+      "title": "The Clever Rabbit",
+      "concept": "A story that teaches the importance of wit and intelligence.",
+      "explanation": "Once upon a time, there was a clever rabbit who outsmarted a fierce lion. 🐰 The rabbit used his brain instead of brawn to escape danger.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Story",
+        "Rabbit",
+        "Lion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_113",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "exercise",
+      "topic": "Writing Practice",
+      "title": "Write Simple Words",
+      "concept": "Practicing writing basic Hindi words.",
+      "explanation": "Let's practice writing some simple Hindi words! ✍️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Write the Hindi word for 'Apple'.",
+          "a": "सेब (Seb)"
+        },
+        {
+          "q": "How do you write 'Water' in Hindi?",
+          "a": "पानी (Pani)"
+        }
+      ],
+      "keywords": [
+        "Writing",
+        "Practice",
+        "Hindi Words"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_001",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "परिवार",
+      "title": "नीमा की दादी",
+      "concept": "परिवार के सदस्यों का महत्व",
+      "explanation": "परिवार में सभी सदस्य एक-दूसरे की मदद करते हैं और प्यार करते हैं। 😊",
+      "examples": [
+        "नीमा की दादी हमेशा उसे कहानियाँ सुनाती हैं।",
+        "दादी का प्यार सबसे खास होता है।"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपकी दादी का नाम क्या है?",
+          "a": "मेरी दादी का नाम ... है।"
+        },
+        {
+          "q": "दादी आपको क्या सिखाती हैं?",
+          "a": "दादी मुझे ... सिखाती हैं।"
+        }
+      ],
+      "keywords": [
+        "परिवार",
+        "दादी",
+        "प्यार"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_002",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "घर",
+      "title": "घर",
+      "concept": "घर का महत्व",
+      "explanation": "घर वह जगह है जहाँ हम रहते हैं और सुरक्षित महसूस करते हैं। 🏡",
+      "examples": [
+        "हमारा घर बहुत बड़ा है।",
+        "घर में सभी सदस्य एक साथ रहते हैं।"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपका घर कैसा है?",
+          "a": "मेरा घर ... है।"
+        },
+        {
+          "q": "आपके घर में कौन-कौन रहते हैं?",
+          "a": "मेरे घर में ... रहते हैं।"
+        }
+      ],
+      "keywords": [
+        "घर",
+        "सुरक्षा",
+        "परिवार"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_003",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "rhyme",
+      "topic": "खेल",
+      "title": "खेल संध्या",
+      "concept": "खेलों का महत्व",
+      "explanation": "खेल से हमें स्वास्थ्य और खुशी मिलती है। ⚽️🏀",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "खेल",
+        "स्वास्थ्य",
+        "खुशी"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_004",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "story",
+      "topic": "दोस्ती",
+      "title": "शेर और गिलहरी की दोस्ती",
+      "concept": "दोस्ती का महत्व",
+      "explanation": "दोस्ती में एक-दूसरे की मदद करना और साथ रहना बहुत जरूरी है। 🦁🐿️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "दोस्ती",
+        "शेर",
+        "गिलहरी"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_hindi_005",
+      "grade": "class_2",
+      "subject": "hindi",
+      "content_type": "lesson",
+      "topic": "सामान",
+      "title": "सबसे बड़ा छाता",
+      "concept": "सामानों का उपयोग",
+      "explanation": "छाता बारिश से बचाता है। ☔️",
+      "examples": [
+        "जब बारिश होती है, तो हम छाता लेते हैं।",
+        "छाता हमें सूखा रखता है।"
+      ],
+      "practice_questions": [
+        {
+          "q": "आपको छाता क्यों पसंद है?",
+          "a": "मुझे छाता पसंद है क्योंकि यह ..."
+        },
+        {
+          "q": "आप बारिश में क्या करते हैं?",
+          "a": "मैं बारिश में ... करता हूँ।"
+        }
+      ],
+      "keywords": [
+        "छाता",
+        "बारिश",
+        "सुरक्षा"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

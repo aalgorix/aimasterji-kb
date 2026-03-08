@@ -1,0 +1,4956 @@
+{
+  "version": "1.0",
+  "source": "class_3-the_world_around_us-merged.txt",
+  "grade": "class_3",
+  "subject": "the_world_around_us",
+  "generated_at": "2026-03-07T13:40:41.251Z",
+  "total_items": 197,
+  "content": [
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Our Families and Communities",
+      "title": "Understanding Families and Communities",
+      "concept": "We all belong to families that support each other in our communities.",
+      "explanation": "Families are groups of people who care for each other. In our communities, we help one another and enjoy celebrations together! 🎉",
+      "examples": [
+        "My family includes my parents and siblings.",
+        "We celebrate festivals with our neighbors."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a family?",
+          "a": "A family is a group of people who live together and care for each other."
+        },
+        {
+          "q": "Why are communities important?",
+          "a": "Communities help us support each other and share happiness."
+        }
+      ],
+      "keywords": [
+        "family",
+        "community",
+        "support"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Family and Friends",
+      "title": "Playing Together",
+      "concept": "Playing games strengthens our bonds with family and friends.",
+      "explanation": "Playing games like chhupan-chhupai (hide and seek) and peek-a-boo helps us have fun and enjoy time together! 🎈",
+      "examples": [
+        "We play chhupan-chhupai in the garden.",
+        "Bishu loves playing peek-a-boo with us."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is chhupan-chhupai?",
+          "a": "Chhupan-chhupai is a game where one person hides and the others seek."
+        },
+        {
+          "q": "Why do we play games?",
+          "a": "We play games to have fun and bond with our family and friends."
+        }
+      ],
+      "keywords": [
+        "games",
+        "play",
+        "friends"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Family and Friends",
+      "title": "Bela's Garden",
+      "concept": "A story about family time in the garden.",
+      "narrative": "Namaste! Welcome to my home! My name is Bela. I have two brothers — Banku Bhaiya and little Bishu. We enjoy playing chhupan-chhupai outside together. At home, we all love to play peek-a-boo with Bishu. We play in the open space outside our house. We have planted a garden with several flowering plants. Our relatives, friends, and neighbors also visit our garden. They sit, talk, share jokes, and laugh together. Sometimes, when my father and mother are tired after a hard day’s work, they sit and relax here too. All of us enjoy spending our evenings together.",
+      "keywords": [
+        "family",
+        "garden",
+        "togetherness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Celebrating Festivals",
+      "title": "Festivals and Celebrations",
+      "concept": "Festivals bring joy and community spirit.",
+      "explanation": "During festivals, we celebrate with food, music, and dance! 🎊 Everyone comes together to enjoy and share happiness.",
+      "examples": [
+        "We wear special dresses during festivals.",
+        "Families prepare delicious food to share."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do we do during festivals?",
+          "a": "We celebrate with food, music, and dance."
+        },
+        {
+          "q": "Why are festivals important?",
+          "a": "Festivals help us come together and celebrate our culture."
+        }
+      ],
+      "keywords": [
+        "festivals",
+        "celebration",
+        "community"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Family and Friends",
+      "title": "Understanding Families",
+      "concept": "Families come in different shapes and sizes.",
+      "explanation": "Families can be big or small, and they include parents, grandparents, siblings, and even pets! 🐶❤️",
+      "examples": [
+        "A family of four with a mom, dad, and two kids.",
+        "A family with grandparents and a pet cat."
+      ],
+      "practice_questions": [
+        {
+          "q": "Who are the members in Bela’s family?",
+          "a": "Bela's family includes her parents, grandparents, and siblings."
+        },
+        {
+          "q": "Would you call Bela’s family a big or a small family?",
+          "a": "It depends on how many members are in the family."
+        }
+      ],
+      "keywords": [
+        "family",
+        "relationships",
+        "love"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Types of Families",
+      "title": "Families Are Different",
+      "concept": "Celebrating the diversity of families.",
+      "explanation": "This rhyme helps us understand that every family is unique and special! 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "families",
+        "diversity",
+        "love"
+      ],
+      "difficulty": "easy",
+      "text": "Families are big,\nFamilies are small,\nFamilies are different,\nAnd we love them all.\nThere are parents in a family,\nAnd children too,\nAnd of course grandparents,\nAnd others too, can you tell who?"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Rain Song",
+      "title": "A Rain Song",
+      "concept": "Enjoying the beauty of rain.",
+      "explanation": "This song captures the joy and beauty of rainy days! ☔️🌧️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Can you think of a rain song and sing it with your friends in the class?",
+          "a": "Yes, we can sing this rain song!"
+        }
+      ],
+      "keywords": [
+        "rain",
+        "joy",
+        "nature"
+      ],
+      "difficulty": "easy",
+      "text": "Look at the dark clouds in the sky,\nThe rain will come by and by,\nOh, how we love to soak in the rain,\nSee raindrops on the window panes.\nPaper boats we see in puddles,\nBirds on trees together huddled,\nPeacocks dance with feathers bright,\nOh, what a beautiful rainy sight."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Helping Each Other",
+      "title": "Family Activities",
+      "concept": "Families help each other with daily tasks.",
+      "explanation": "In our families, we all pitch in to help each other with chores and activities! 🏡💪",
+      "examples": [
+        "My Dadiji oils my hair and braids it.",
+        "My parents cook together."
+      ],
+      "practice_questions": [
+        {
+          "q": "What games do you play with elders and other members of your family?",
+          "a": "We play board games and card games."
+        },
+        {
+          "q": "Do you know what games your grandparents used to play when they were young?",
+          "a": "Yes, they used to play traditional games."
+        }
+      ],
+      "keywords": [
+        "helping",
+        "family",
+        "activities"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Family Members",
+      "title": "Family Member Table",
+      "concept": "Identifying family relationships.",
+      "explanation": "Let's write down the names of our family members and their relationships! 📝",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "family",
+        "relationships",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Family and Friends",
+      "title": "Importance of Family",
+      "concept": "Understanding the roles of family members.",
+      "explanation": "Family members help each other in many ways, just like how you help your Dadaji in the garden! 🌼",
+      "examples": [
+        "Helping with chores",
+        "Celebrating festivals together"
+      ],
+      "practice_questions": [
+        {
+          "q": "What all have you learnt from your family and from whom?",
+          "a": "I have learnt cooking from my mother."
+        },
+        {
+          "q": "How do you help your family?",
+          "a": "I help by cleaning my room."
+        }
+      ],
+      "keywords": [
+        "family",
+        "support",
+        "help"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Rangoli Making",
+      "title": "Create Your Own Rangoli",
+      "concept": "Using natural materials for art.",
+      "explanation": "Collect leaves and flowers that have fallen on the ground and create a beautiful rangoli! 🌸🌼",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rangoli",
+        "art",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Family Relationships",
+      "title": "Understanding Family Relationships",
+      "concept": "Identifying family members and their roles.",
+      "explanation": "Draw a picture of your family and write down your relationships with them! 🖍️👨‍👩‍👧‍👦",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Who is the oldest person in your family?",
+          "a": "My grandfather."
+        },
+        {
+          "q": "Who is the youngest person in your family?",
+          "a": "My baby sister."
+        }
+      ],
+      "keywords": [
+        "family",
+        "relationships",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Fun with Family",
+      "title": "A Day at the Park",
+      "concept": "Enjoying time with family and friends.",
+      "explanation": "It was a holiday! We all went to the park with our Dadaji. We played games and had so much fun! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "park",
+        "family",
+        "fun"
+      ],
+      "difficulty": "easy",
+      "narrative": "It was a holiday! We all went to the park with our Dadaji. When we reached there many of our friends were playing pitthoo. Niku, Rinki, Rohit, Ronnie and Tara were calling out to each other to run fast and place the stones quickly. We joined them and made two teams. Dadaji brought a ball. He hit the stones and scattered them all! We ran to pile the stones as fast as we could. Rohit, Niku and Ronnie tried to hit us with the ball to make us lose. It was fun. We began to feel tired."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Family Work",
+      "title": "Who Does What in Your Family?",
+      "concept": "Understanding responsibilities in a family.",
+      "explanation": "In a family, everyone has their own tasks. Find out who does what work in your family! 🏠",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Who does what work in your family?",
+          "a": "My mother cooks, my father cleans."
+        }
+      ],
+      "keywords": [
+        "responsibility",
+        "family",
+        "work"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Family Roles",
+      "title": "What Family Members Do",
+      "concept": "Family members help each other at home.",
+      "explanation": "In our homes, family members do many important tasks to help each other. For example, some cook food 🍳, while others clean the house 🧹 or water the plants 🌱.",
+      "examples": [
+        "Cooking food",
+        "Cleaning the house",
+        "Watering plants"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do family members show their love and care for each other?",
+          "a": "They help each other with chores and spend time together."
+        },
+        {
+          "q": "What games do you play with your friends?",
+          "a": "I play tag and hide-and-seek!"
+        }
+      ],
+      "keywords": [
+        "family",
+        "chores",
+        "help"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "activity",
+      "topic": "Family Moments",
+      "title": "Draw Happy Moments",
+      "concept": "Expressing joy through drawing.",
+      "explanation": "Think about the happy times you share with your family. Now, grab your crayons and draw those moments! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "family",
+        "happiness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "discussion",
+      "topic": "Learning from Elders",
+      "title": "What We Learn from Family",
+      "concept": "Elders teach us valuable lessons.",
+      "explanation": "Our elders have so much wisdom! They teach us important things like how to cook, tell stories, and share traditions. 📚",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What do you learn from elders in your family?",
+          "a": "I learn how to cook and about our family history."
+        },
+        {
+          "q": "Who are the people we care for outside our family?",
+          "a": "We care for friends, neighbors, and pets!"
+        }
+      ],
+      "keywords": [
+        "elders",
+        "learning",
+        "wisdom"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "activity",
+      "topic": "Word Search",
+      "title": "Find and Circle Game Words",
+      "concept": "Fun with word searches.",
+      "explanation": "Let's play a game! Find and circle five words related to games in the grid. One example is already done for you! 🕵️‍♂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "word search",
+        "games",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Going to the Mela",
+      "title": "Nita and Radha's Exciting Trip",
+      "concept": "Preparing for a fun outing.",
+      "explanation": "Nita and Radha are super excited to go to the mela! They gather their family and friends, pack their bags, and get ready for a day full of fun! 🎉",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How do you prepare yourself for a trip?",
+          "a": "I pack my bag, check my snacks, and wear comfortable shoes!"
+        }
+      ],
+      "keywords": [
+        "mela",
+        "preparation",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Transportation",
+      "title": "Modes of Transport",
+      "concept": "Different ways to travel.",
+      "explanation": "We can travel using various modes of transport like buses, cars, bicycles, and trains. For example, when going to a mela, we might take a bus or an autorickshaw. 🚌🚲",
+      "examples": [
+        "Bus",
+        "Car",
+        "Bicycle",
+        "Train"
+      ],
+      "practice_questions": [
+        {
+          "q": "What transport do you take to travel within your city/town/village?",
+          "a": "I take a bus to school."
+        },
+        {
+          "q": "Describe briefly any trip that you have taken with your friends, neighbours or family.",
+          "a": "I went to the beach with my family."
+        }
+      ],
+      "keywords": [
+        "transport",
+        "bus",
+        "travel"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Going to the Mela",
+      "title": "A Fun Day at the Mela",
+      "concept": "Experiencing a local festival.",
+      "explanation": "The story describes a family visiting a mela, enjoying games, food, and fun activities together. 🎡🍭",
+      "narrative": "Both the families reached the big parade ground where the mela was being held. They saw stalls with games, toys, sweets, and many interesting things. The children were overjoyed. They visited the toy stall and bought spinning tops, puppets, phirkis, and dolls. They took a ride on the merry-go-round and the giant wheel. After enjoying a magic show, they washed their hands and ate delicious food like gol gappas and jalebis. Dadiji pointed out a police dog, making the day even more exciting!",
+      "keywords": [
+        "mela",
+        "festival",
+        "family"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Mela Experience",
+      "title": "Sharing Experience",
+      "concept": "Discussing personal experiences.",
+      "explanation": "Imagine yourself in the story and share what you would do at the mela. This helps us connect with our experiences and learn from each other. 🤔💬",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Imagine yourself in place of Nita, Radha, Sneha and Rohit. Share with the class the interesting things you would do in the mela.",
+          "a": "I would try all the games and eat lots of sweets!"
+        },
+        {
+          "q": "Talk to the elders in the family and find out how melas were different when they were young.",
+          "a": "They said there were fewer rides but more traditional games."
+        },
+        {
+          "q": "Why are fire engines and ambulances present in a mela?",
+          "a": "They are there for safety in case of emergencies."
+        }
+      ],
+      "keywords": [
+        "experience",
+        "discussion",
+        "mela"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Safety at Events",
+      "title": "Safety Measures",
+      "concept": "Importance of safety during events.",
+      "explanation": "At events like melas, it's important to follow safety rules, such as washing hands before eating and not jumping around in the bus. This keeps everyone safe and healthy! 🧼🚫",
+      "examples": [
+        "Wash hands before eating",
+        "Stay seated in the bus"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the purpose of the ‘Lost and Found’ booth?",
+          "a": "To help people find lost items."
+        },
+        {
+          "q": "What is the role of the police dog?",
+          "a": "To assist police officers in keeping everyone safe."
+        }
+      ],
+      "keywords": [
+        "safety",
+        "health",
+        "rules"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Going to Mela",
+      "title": "Understanding Routes",
+      "concept": "Identifying routes and places around us.",
+      "explanation": "When we travel from one place to another, we pass through different locations. For example, if you go from the police station to the parade ground, you might see shops, parks, and other buildings along the way. 🏙️",
+      "examples": [
+        "Police station to parade ground",
+        "Home to school"
+      ],
+      "practice_questions": [
+        {
+          "q": "If you have to go from the police station to the parade ground, which places would you pass through?",
+          "a": "You might pass through a park, a market, and a school."
+        }
+      ],
+      "keywords": [
+        "route",
+        "places",
+        "travel"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Sketching Routes",
+      "title": "Sketch Your Route",
+      "concept": "Drawing the route you take daily.",
+      "explanation": "In this exercise, you will draw the path you take from home to school. This helps you understand your surroundings better! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "sketch",
+        "route",
+        "home to school"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "discussion",
+      "topic": "Caring for Elders",
+      "title": "How to Care for Elders",
+      "concept": "Discussing ways to show care for older people.",
+      "explanation": "Caring for our elders is very important. We can help them by listening to them, helping with chores, and spending time with them. ❤️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How can we care for our elders?",
+          "a": "By listening to them and helping them with daily tasks."
+        }
+      ],
+      "keywords": [
+        "care",
+        "elders",
+        "respect"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Matching Pictures",
+      "title": "Match the Pictures",
+      "concept": "Identifying professions through pictures.",
+      "explanation": "In this exercise, you will match pictures of different professions with their names. This helps you learn about various jobs in our community! 👩‍⚕️👨‍🚒",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "match",
+        "pictures",
+        "professions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Drawing Vehicles",
+      "title": "Draw Different Vehicles",
+      "concept": "Drawing and labeling vehicles.",
+      "explanation": "You will draw different types of vehicles that you see around your school and home. This helps you recognize them better! 🚗🚲",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "draw",
+        "vehicles",
+        "labeling"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_006",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "activity",
+      "topic": "Mock Mela",
+      "title": "Organize a Mock Mela",
+      "concept": "Role-playing a fair or festival.",
+      "explanation": "With your teacher's help, you will organize a mock mela in your classroom. You can create stalls, play games, and pretend to be buyers and sellers! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "mock mela",
+        "role play",
+        "festival"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_007",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Traveling to the Himalayas",
+      "title": "Rishi's Journey",
+      "concept": "A story about traveling to visit family.",
+      "explanation": "Rishi travels to the Himalayas with his family to visit his relatives. They enjoy the beautiful scenery and delicious food during their trip. 🏔️🍽️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "travel",
+        "Himalayas",
+        "family"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_008",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "discussion",
+      "topic": "Bus Travel Experience",
+      "title": "Sharing Bus Experiences",
+      "concept": "Discussing experiences of bus travel.",
+      "explanation": "Have you ever traveled in a bus? Share your experience with your classmates! 🚌",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Have you ever traveled in a bus? If yes, share the experience with your classmates.",
+          "a": "Yes, I traveled to the mountains and enjoyed the view!"
+        }
+      ],
+      "keywords": [
+        "bus travel",
+        "experience",
+        "discussion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_009",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Safety Measures",
+      "title": "Safety While Traveling",
+      "concept": "Understanding safety measures during travel.",
+      "explanation": "It's important to take safety measures while traveling. Always wear a seatbelt in a car and be careful when walking on the road. 🚦",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What safety measures should you take while traveling?",
+          "a": "Always wear a seatbelt and follow traffic rules."
+        }
+      ],
+      "keywords": [
+        "safety",
+        "travel",
+        "measures"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_010",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Road Signboards",
+      "title": "Understanding Road Signboards",
+      "concept": "Learning about road signboards and their meanings.",
+      "explanation": "Road signboards help us understand the rules of the road. You will match signboards with their meanings and draw some of your own! 🚧",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "road signs",
+        "signboards",
+        "meanings"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Celebrating Festivals",
+      "title": "Spring Festivals",
+      "concept": "Spring is a time of celebration and new beginnings.",
+      "explanation": "In spring, we celebrate festivals that bring joy and happiness. For example, we celebrate by decorating our homes with beautiful flowers like buransh (Rhododendron) and enjoying sweets from our elders. 🌼🎉",
+      "examples": [
+        "Buransh flowers at the doorstep",
+        "Vishu Kani celebration with yellow flowers"
+      ],
+      "practice_questions": [
+        {
+          "q": "What flowers do you see in spring?",
+          "a": "Buransh flowers bloom in spring."
+        },
+        {
+          "q": "What do you celebrate during spring?",
+          "a": "We celebrate festivals with flowers and sweets!"
+        }
+      ],
+      "keywords": [
+        "spring",
+        "festivals",
+        "buransh",
+        "celebration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Vishu Festival",
+      "title": "Vishu Kani",
+      "concept": "Vishu is a special festival celebrated in Kerala.",
+      "explanation": "Vishu Kani is an important ritual on the first day of the Malayali new year. People prepare a beautiful display of auspicious items to bring good luck for the year ahead. 🌞🍉",
+      "examples": [
+        "Yellow amaltas flowers",
+        "Fruits and vegetables in the display"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do people use for Vishu Kani?",
+          "a": "They use yellow flowers, fruits, and vegetables."
+        }
+      ],
+      "keywords": [
+        "Vishu",
+        "Malayali",
+        "new year",
+        "auspicious"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Spring Joy",
+      "title": "Oh! Spring is in the Air",
+      "content": "Oh! Spring is in the air, \nHappy children are everywhere, \nNew leaves appear on the trees, \nAs flowers sway in the breeze. \nThe sun shines bright in the sky, \nSquirrels and birds share the joy, \nSpring is here, let’s dance and sing, \nHope and cheer to all it will bring. 🎶🌸"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Festival Foods",
+      "title": "Special Foods During Festivals",
+      "concept": "Different festivals have unique foods that are prepared.",
+      "explanation": "During festivals, special foods are made that are unique to each celebration. Let's explore what foods are associated with different festivals! 🍽️🎊",
+      "examples": [
+        "Thekua for Chhath Puja",
+        "Plum Cake for Christmas"
+      ],
+      "practice_questions": [
+        {
+          "q": "What special foods do you eat during festivals?",
+          "a": "We eat different foods like Gujiya for Holi."
+        }
+      ],
+      "keywords": [
+        "festival",
+        "food",
+        "celebration",
+        "special"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Travel and Nature",
+      "title": "Traveling and Nature",
+      "concept": "Traveling helps us explore nature and connect with family.",
+      "explanation": "When we travel, we can see beautiful mountains, rivers, and visit relatives. It makes us happy and helps us appreciate nature! 🏞️🚍",
+      "examples": [
+        "Visiting relatives in a faraway place",
+        "Exploring nature during vacations"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you see when you travel?",
+          "a": "Mountains and rivers!"
+        }
+      ],
+      "keywords": [
+        "travel",
+        "nature",
+        "family",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Celebrating Festivals",
+      "title": "Sarhul: A Spring Festival",
+      "concept": "Understanding the Sarhul festival.",
+      "explanation": "The Sarhul festival is celebrated in spring in Jharkhand. People wear traditional clothes and celebrate by singing and dancing around the sakhua tree. 🌳🎉",
+      "examples": [
+        "Wearing traditional clothes",
+        "Carrying sakhua flowers"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do people do during the Sarhul festival?",
+          "a": "They wear traditional clothes and celebrate with songs and dances."
+        }
+      ],
+      "keywords": [
+        "Sarhul",
+        "festival",
+        "Jharkhand",
+        "tradition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Mountains",
+      "title": "The Himalayas and Mount Everest",
+      "concept": "Learning about the Himalayas and Mount Everest.",
+      "explanation": "The Himalayas are the tallest mountains in India, and Mount Everest, which is the highest peak in the world, is located in Nepal. 🏔️ Did you know Mount Everest is about 8,848 meters tall? That's super high!",
+      "examples": [
+        "Himalayas",
+        "Mount Everest"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the height of Mount Everest?",
+          "a": "About 8,848 meters!"
+        }
+      ],
+      "keywords": [
+        "Himalayas",
+        "Mount Everest",
+        "mountains",
+        "Nepal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Life Around Us",
+      "title": "Observing Plants and Animals",
+      "concept": "Exploring the features of plants and animals.",
+      "explanation": "In our local areas, we can see many types of plants and animals. By observing them, we learn about their lives and how they help each other. 🌼🐦",
+      "examples": [
+        "Different plants in the garden",
+        "Birds in the trees"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is it important to observe plants and animals?",
+          "a": "It helps us learn about their fascinating lives!"
+        }
+      ],
+      "keywords": [
+        "plants",
+        "animals",
+        "observation",
+        "ecology"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Creating Signboards",
+      "title": "Draw Signboards",
+      "concept": "Creating signboards for important places.",
+      "explanation": "Take a chart paper and draw signboards for places like the school library, toilet, playground, and more! Use colors and images to make them fun! 🎨✏️",
+      "examples": [
+        "Signboard for the library",
+        "Signboard for the playground"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "signboards",
+        "drawing",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Getting to Know Plants",
+      "title": "So Many Kinds of Plants",
+      "concept": "Plants come in various shapes and sizes.",
+      "explanation": "Plants can be tiny, small, large, or bushy! 🌳🌼 They have different types of leaves and flowers. Some are rough, while others are smooth.",
+      "examples": [
+        "Mango tree",
+        "Banyan tree"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some types of plants you can see on your way to school?",
+          "a": "You might see trees, shrubs, or flowers."
+        }
+      ],
+      "keywords": [
+        "plants",
+        "trees",
+        "shrubs",
+        "flowers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Gopu, Simmi, and Raj's Journey",
+      "title": "A Walk to School",
+      "concept": "Exploring nature during a walk.",
+      "explanation": "Gopu, Simmi, and Raj enjoy their daily walk to school, discovering the beauty of nature around them. 🌸🌳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "nature",
+        "exploration",
+        "friendship"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Trees",
+      "title": "Understanding Trees",
+      "concept": "Trees have trunks, branches, and roots.",
+      "explanation": "Trees are tall plants with a big trunk and many branches. 🌳 They provide shade and have deep roots that help them stay strong.",
+      "examples": [
+        "Jamun tree",
+        "Peepal tree"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like about trees?",
+          "a": "I love their shade and the fruits they bear!"
+        }
+      ],
+      "keywords": [
+        "trees",
+        "trunk",
+        "branches",
+        "roots"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Shrubs",
+      "title": "What are Shrubs?",
+      "concept": "Shrubs are medium-sized plants with woody stems.",
+      "explanation": "Shrubs are not as tall as trees and have several stems. 🌿 Examples include hibiscus and tulsi plants.",
+      "examples": [
+        "Hibiscus",
+        "Rose",
+        "Holy Basil (Tulsi)"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you name some shrubs you have seen?",
+          "a": "I have seen hibiscus and rose bushes!"
+        }
+      ],
+      "keywords": [
+        "shrubs",
+        "medium-sized",
+        "woody stems"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Herbs and Grasses",
+      "title": "Understanding Herbs and Grasses",
+      "concept": "Herbs have soft stems and do not become woody.",
+      "explanation": "Herbs are small plants like mint and tomato, while grasses are also soft and thin. 🌱 They are important for our food!",
+      "examples": [
+        "Mint",
+        "Tomato"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some herbs you know?",
+          "a": "I know mint and basil!"
+        }
+      ],
+      "keywords": [
+        "herbs",
+        "grasses",
+        "soft stems"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_006",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Recognizing Plants",
+      "title": "Plant Recognition Exercise",
+      "concept": "Identify and name different plants.",
+      "explanation": "Look around your home or school and write down the names of trees, shrubs, and herbs you see! 🌼🌳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "plant recognition",
+        "exercise",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Getting to Know Plants",
+      "title": "Types of Plants",
+      "concept": "Plants can be categorized into climbers and creepers.",
+      "explanation": "Climbers are plants that need support to grow upwards, while creepers spread along the ground. 🌱",
+      "examples": [
+        "Money Plant (Climber)",
+        "Pumpkin Plant (Creeper)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a climber?",
+          "a": "A plant that climbs on other plants for support."
+        },
+        {
+          "q": "What is a creeper?",
+          "a": "A plant that spreads along the ground."
+        }
+      ],
+      "keywords": [
+        "climbers",
+        "creepers",
+        "plants"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Identifying Plants",
+      "title": "Spot the Plants",
+      "concept": "Observe and identify different types of plants around you.",
+      "explanation": "Look around your school and see how many types of trees, shrubs, herbs, grasses, climbers, or creepers you can find! 🌳🌿",
+      "examples": [
+        "Marigold",
+        "Neem",
+        "Jujube"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many types of plants can you spot?",
+          "a": "Count and write them down!"
+        }
+      ],
+      "keywords": [
+        "observation",
+        "plants",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Plant Observation",
+      "title": "Make Friends with a Plant",
+      "concept": "Taking care of a plant helps you learn about it.",
+      "explanation": "Choose a plant to take care of! Name it, water it, and observe its growth. 🌼🌱",
+      "examples": [
+        "Observe leaves, flowers, and fruits."
+      ],
+      "practice_questions": [
+        {
+          "q": "What will you name your plant?",
+          "a": "Choose a fun name for your plant friend!"
+        }
+      ],
+      "keywords": [
+        "plant care",
+        "observation",
+        "friendship"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Climbers and Creepers",
+      "title": "Raj and Gopu's Discovery",
+      "concept": "Friends discover different types of plants.",
+      "explanation": "Raj and Gopu explore their surroundings and learn about climbers like the money plant and creepers like the pumpkin plant. 🌿🌻",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "friendship",
+        "exploration",
+        "plants"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Getting to Know Plants",
+      "title": "Observing Leaves",
+      "concept": "Leaves come in different colors, shapes, and sizes.",
+      "explanation": "Let's explore the amazing world of leaves! 🌿 You can find leaves that are green, yellow, or even red! They can be big or small, round or pointy. What colors and shapes do you see around you?",
+      "examples": [
+        "Peepal leaf 🍃",
+        "Mango leaf 🍂"
+      ],
+      "practice_questions": [
+        {
+          "q": "What colors do you see in the leaves?",
+          "a": "Leaves can be green, yellow, or red."
+        },
+        {
+          "q": "What shapes do the leaves have?",
+          "a": "Leaves can be round, pointy, or even heart-shaped!"
+        }
+      ],
+      "keywords": [
+        "leaves",
+        "colors",
+        "shapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Getting to Know Plants",
+      "title": "Leaf Observation",
+      "concept": "Observe and describe leaves.",
+      "explanation": "Look around you and find different leaves. Draw them in your notebook and describe their colors, shapes, and sizes! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "observation",
+        "drawing",
+        "description"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Parts of a Plant",
+      "title": "Identifying Plant Parts",
+      "concept": "Plants have different parts: roots, stems, leaves, flowers, fruits, and seeds.",
+      "explanation": "Every plant has parts that help it grow! 🌱 The roots anchor the plant, the stem supports it, and the leaves help it make food from sunlight. Can you name the parts of a plant?",
+      "examples": [
+        "Tomato plant parts: stem, fruit, flower, leaf, roots, seed"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are the parts of a plant?",
+          "a": "Roots, stems, leaves, flowers, fruits, and seeds."
+        }
+      ],
+      "keywords": [
+        "plant parts",
+        "roots",
+        "leaves"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Parts of a Plant",
+      "title": "Labeling Plant Parts",
+      "concept": "Mark and label different parts of a plant.",
+      "explanation": "Take a picture of a plant and label its parts! 🌼 Can you find the roots, stem, leaves, flowers, and fruits?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "labeling",
+        "plant parts",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Bark of a Tree",
+      "title": "Exploring Tree Bark",
+      "concept": "Bark is the outer covering of a tree trunk.",
+      "explanation": "Have you ever touched the bark of a tree? 🌳 It's rough and can have different patterns! You might even find insects living on it. Let's explore!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What did you notice about the bark?",
+          "a": "It can have different textures and patterns."
+        }
+      ],
+      "keywords": [
+        "bark",
+        "tree",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_006",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Bark of a Tree",
+      "title": "Bark Rubbing Activity",
+      "concept": "Create a bark rubbing to observe patterns.",
+      "explanation": "Press a sheet of paper against the bark and rub it with a crayon. 🎨 What patterns do you see? Write the name of the tree on the back!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "bark rubbing",
+        "activity",
+        "patterns"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_007",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Plant Importance",
+      "title": "Why Are Plants Important?",
+      "concept": "Plants are essential for life on Earth.",
+      "explanation": "Imagine a world without plants! 🌍 They give us oxygen, food, and shelter. Let's discuss why we need them!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What would happen if there were no plants?",
+          "a": "We wouldn't have oxygen to breathe!"
+        }
+      ],
+      "keywords": [
+        "importance of plants",
+        "oxygen",
+        "food"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_008",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Plant Importance",
+      "title": "Plant Identification",
+      "concept": "Identify different types of plants.",
+      "explanation": "List the plants you see in your school or park. 🌳 Are they trees, shrubs, or herbs? Let's find out!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "plant identification",
+        "types of plants",
+        "activity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_009",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Favorite Plant",
+      "title": "Describe Your Favorite Plant",
+      "concept": "Share about your favorite plant.",
+      "explanation": "What is your favorite plant? 🌼 Why do you like it? Write a few sentences about it!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "favorite plant",
+        "description",
+        "writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_010",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Leaf Drawing",
+      "title": "Draw Different Types of Leaves",
+      "concept": "Create drawings of various leaves.",
+      "explanation": "Draw the different types of leaves you see around you! 🍃 Can you find a heart-shaped leaf or a round one?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "leaf drawing",
+        "art",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Getting to Know Plants",
+      "title": "Exploring Plants",
+      "concept": "Understanding the importance of plants in our environment.",
+      "explanation": "Plants are everywhere! They provide us with oxygen, food, and shelter for many animals. 🌳🌼",
+      "examples": [
+        "Trees provide shade.",
+        "Flowers attract bees."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "plants",
+        "environment",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Plants and Animals Live Together",
+      "title": "Animals Living with Plants",
+      "concept": "Exploring the relationship between plants and animals.",
+      "explanation": "Did you know that many animals live in and around plants? 🐦🐿️ They depend on plants for food and shelter!",
+      "examples": [
+        "A frog resting on a leaf.",
+        "Squirrels using tree hollows."
+      ],
+      "practice_questions": [
+        {
+          "q": "Which animals have you seen living near plants?",
+          "a": "I have seen birds, squirrels, and ants."
+        },
+        {
+          "q": "What do you think makes plants a good home for animals?",
+          "a": "Plants provide food and protection."
+        }
+      ],
+      "keywords": [
+        "animals",
+        "plants",
+        "habitat"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Life in the Soil",
+      "title": "Exploring Soil",
+      "concept": "Understanding the composition and importance of soil.",
+      "explanation": "Soil is made up of tiny pieces of rocks, leaves, and even tiny creatures! 🌍🐛",
+      "examples": [
+        "Soil can be rough, smooth, or grainy."
+      ],
+      "practice_questions": [
+        {
+          "q": "What did your soil feel like?",
+          "a": "My soil felt rough and grainy."
+        },
+        {
+          "q": "Did you find any insects in the soil?",
+          "a": "Yes, I found some ants!"
+        }
+      ],
+      "keywords": [
+        "soil",
+        "insects",
+        "earth"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Soil Exploration Activity",
+      "title": "Soil Investigation",
+      "concept": "Conducting an experiment to observe soil changes.",
+      "explanation": "Let's see how soil changes after it rains! 🌧️👣",
+      "examples": [
+        "Collect soil before and after rain."
+      ],
+      "practice_questions": [
+        {
+          "q": "What differences did you notice in the soil?",
+          "a": "The soil was wetter and smelled fresh after rain."
+        },
+        {
+          "q": "What small things did you find in the soil?",
+          "a": "I found tiny bugs and leaves."
+        }
+      ],
+      "keywords": [
+        "experiment",
+        "rain",
+        "soil"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "activity",
+      "topic": "Creating a Rangoli",
+      "title": "Art with Nature",
+      "concept": "Using natural materials to create art.",
+      "explanation": "Collect leaves and flowers to make beautiful rangoli patterns! 🎨🍃",
+      "examples": [
+        "Make animal shapes with leaves."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "art",
+        "nature",
+        "rangoli"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Plants and Animals Live Together",
+      "title": "How Plants and Animals Interact",
+      "concept": "Plants and animals depend on each other for food and shelter.",
+      "explanation": "In nature, plants provide food and homes for many animals. For example, camels eat leaves, and birds build nests in trees. 🌳🐦",
+      "examples": [
+        "Camels eat leaves of plants.",
+        "Squirrels use twigs to build nests."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do camels eat?",
+          "a": "Camels eat leaves of plants."
+        },
+        {
+          "q": "How do birds use trees?",
+          "a": "Birds use hollows in trees to raise their young."
+        }
+      ],
+      "keywords": [
+        "plants",
+        "animals",
+        "shelter",
+        "food"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Sounds of Birds",
+      "title": "Listening to Bird Sounds",
+      "concept": "Different birds make different sounds.",
+      "explanation": "Birds have unique sounds that you can listen for. Try to identify them by closing your eyes and focusing! 🎶🐦",
+      "examples": [
+        "Pigeons coo, sparrows chirp, and owls hoot."
+      ],
+      "practice_questions": [
+        {
+          "q": "What sounds do you hear from birds?",
+          "a": "Different birds make different sounds."
+        },
+        {
+          "q": "When do you hear more bird sounds?",
+          "a": "In the early morning."
+        }
+      ],
+      "keywords": [
+        "birds",
+        "sounds",
+        "listening"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Reflection on Observations",
+      "title": "Discuss Your Observations",
+      "concept": "Reflect on your experiences with plants and animals.",
+      "explanation": "Think about the animals you saw near plants. What did they look like? Why do you think they were there? 🐾🌿",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What animals did you see near plants?",
+          "a": "Write down the names and describe them."
+        },
+        {
+          "q": "What do you think these animals were doing?",
+          "a": "Guess why they were near the plants."
+        }
+      ],
+      "keywords": [
+        "observation",
+        "discussion",
+        "reflection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Caterpillar to Butterfly",
+      "title": "Suma's Caterpillar Adventure",
+      "concept": "The life cycle of a caterpillar.",
+      "explanation": "Suma found a caterpillar on a plant and watched it change into a butterfly! 🐛➡️🦋",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "caterpillar",
+        "butterfly",
+        "life cycle"
+      ],
+      "difficulty": "easy",
+      "narrative": "One day, Suma found a caterpillar on a tagar plant. She found it interesting and observed it for about 10 minutes. It was eating tender leaves continuously. Her mother guided her to observe the caterpillar each day. Suma became more curious. Eventually, the caterpillar formed a cocoon, and then it flew away gently as a beautiful butterfly."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Living in Harmony",
+      "title": "Animals and Plants in Our Homes",
+      "concept": "Animals and plants can live with us in our homes.",
+      "explanation": "Many animals and plants share our homes. Sometimes we like them, and sometimes we don't. It's important to take care of them! 🏡🌳",
+      "examples": [
+        "Monkeys in trees",
+        "Birds in gardens"
+      ],
+      "practice_questions": [
+        {
+          "q": "Do you have any animals or plants at home?",
+          "a": "Yes, I have a pet cat and some houseplants."
+        },
+        {
+          "q": "What do you do to take care of them?",
+          "a": "I feed my cat and water my plants."
+        }
+      ],
+      "keywords": [
+        "animals",
+        "plants",
+        "homes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Living in Harmony",
+      "title": "Uninvited Guests",
+      "concept": "Some animals visit our homes without being invited.",
+      "explanation": "Sometimes, we have uninvited animals like insects or birds that come to our homes. Let's talk about how we feel about them! 🐦🐜",
+      "examples": [
+        "Ants in the kitchen",
+        "Squirrels in the garden"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which uninvited animals visit your home?",
+          "a": "I see ants and sometimes a squirrel."
+        },
+        {
+          "q": "How do you feel about their presence?",
+          "a": "I find them interesting but sometimes annoying."
+        }
+      ],
+      "keywords": [
+        "uninvited",
+        "animals",
+        "feelings"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "The Mango Tree",
+      "title": "Shambhu and the Mango Tree",
+      "concept": "Animals and plants help each other.",
+      "explanation": "Shambhu learns about how animals and plants work together when he sees a monkey eating a mango. 🍑🐒",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "mango",
+        "tree",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "narrative": "One day, Shambhu, a little boy, was going through the forest with his father. They sat under the shade of a huge mango tree. The mango tree was home to birds, squirrels, monkeys, and many other animals. Shambhu saw a monkey eating a mango and throwing out the seed. He told his father about it. His father said, 'Shambhu, do you know that a new plant would emerge from this seed? This is how animals and plants help each other.'"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Uses of Plants",
+      "title": "How We Depend on Plants",
+      "concept": "Plants provide us with many essential things.",
+      "explanation": "Plants give us food, shelter, and even medicine! 🌱🍏",
+      "examples": [
+        "Fruits like apples",
+        "Vegetables like carrots"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do we get from plants?",
+          "a": "We get fruits, vegetables, and medicines."
+        },
+        {
+          "q": "How do you take care of plants?",
+          "a": "I water them and make sure they get sunlight."
+        }
+      ],
+      "keywords": [
+        "plants",
+        "food",
+        "shelter"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Mutual Dependence",
+      "title": "We Need Each Other",
+      "concept": "Animals and plants depend on each other.",
+      "explanation": "Just like we take care of animals and plants, they help us too! 🐶🌼",
+      "examples": [
+        "Cows give us milk",
+        "Birds help with pest control"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do animals help plants?",
+          "a": "They disperse seeds and fertilize the soil."
+        },
+        {
+          "q": "What do we give to animals?",
+          "a": "We provide them with food and shelter."
+        }
+      ],
+      "keywords": [
+        "dependence",
+        "animals",
+        "plants"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Getting to Know Animals",
+      "title": "Observe and Describe an Animal",
+      "concept": "Learning about animals through observation.",
+      "explanation": "When you see an animal, take a moment to watch it closely! You can learn so much by observing its movements, sounds, and behaviors. 🐶🐱",
+      "examples": [
+        "I saw a dog wagging its tail.",
+        "I watched a bird chirping on a branch."
+      ],
+      "practice_questions": [
+        {
+          "q": "What animal did you choose to observe?",
+          "a": "I chose a cat."
+        },
+        {
+          "q": "What sounds did it make?",
+          "a": "It meowed."
+        }
+      ],
+      "keywords": [
+        "observe",
+        "describe",
+        "animal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Animal Observation",
+      "title": "Write a Short Description",
+      "concept": "Describing an animal based on observation.",
+      "explanation": "Write down what you see about the animal. Include its name, where you saw it, and what it was doing! 📝",
+      "examples": [
+        "I saw a parrot at the park. It was flying with its friends."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "description",
+        "writing",
+        "animal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Living in Harmony",
+      "title": "Understanding Ants",
+      "concept": "Learning about the behavior of ants.",
+      "explanation": "Ants are busy little creatures! They work together to find food. Let's see what they like to eat! 🐜🍬",
+      "examples": [
+        "Ants love sugar and sweet foods.",
+        "They also enjoy cooked foods like bread."
+      ],
+      "practice_questions": [
+        {
+          "q": "What food do you think ants will like the most?",
+          "a": "They will probably like the sweet food."
+        },
+        {
+          "q": "How many ants do you think will come?",
+          "a": "Maybe a lot of them!"
+        }
+      ],
+      "keywords": [
+        "ants",
+        "food",
+        "behavior"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Guess Who I Am",
+      "title": "Acting Like Animals",
+      "concept": "Fun guessing game with animals.",
+      "explanation": "In pairs, one person thinks of an animal and acts like it. The other person has to guess which animal it is! 🦁🤔",
+      "examples": [
+        "If I act like a frog, you might see me jump!"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "game",
+        "guessing",
+        "animals"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "discussion",
+      "topic": "Our Dependence on Nature",
+      "title": "Discussing Care for Plants and Animals",
+      "concept": "Understanding our relationship with plants and animals.",
+      "explanation": "We depend on plants and animals for many things. Let's talk about how we can care for them! 🌱🐾",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How do we depend on plants?",
+          "a": "They give us oxygen and food."
+        },
+        {
+          "q": "How should we care for animals?",
+          "a": "We should feed them and keep them safe."
+        }
+      ],
+      "keywords": [
+        "dependence",
+        "care",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_006",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Writing About Nature",
+      "title": "Complete the Sentences",
+      "concept": "Expressing thoughts about nature.",
+      "explanation": "Fill in the blanks with your favorite plants and animals! 🌼🐦",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "writing",
+        "nature",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Living in Harmony",
+      "title": "Animals, Birds, and Insects",
+      "concept": "Identifying various animals, birds, and insects.",
+      "explanation": "Let's learn about the different animals, birds, and insects we can find around us! 🦋🐦🐶",
+      "examples": [
+        "Dog 🐶",
+        "Cat 🐱",
+        "Butterfly 🦋"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why do you like it?",
+          "a": "I like it because..."
+        }
+      ],
+      "keywords": [
+        "animals",
+        "birds",
+        "insects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Animal Classification",
+      "title": "Draw and Name Animals",
+      "concept": "Classifying animals based on their legs.",
+      "explanation": "Draw and name animals, birds, and insects based on how many legs they have! 🐾",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "classification",
+        "drawing",
+        "legs"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Living in Harmony",
+      "title": "The Arrival of Grey Wagtails",
+      "concept": "Understanding the relationship between humans and birds.",
+      "explanation": "In a small town called Valparai, children and teachers celebrate the arrival of Grey Wagtails during winter! 🎉🐦",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Do you know why these birds are called Wagtails?",
+          "a": "They are called Wagtails because..."
+        },
+        {
+          "q": "Do you want to give a title to the story?",
+          "a": "Yes, I would call it..."
+        }
+      ],
+      "keywords": [
+        "birds",
+        "celebration",
+        "Valparai"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Gifts of Nature",
+      "title": "Water — A Precious Gift",
+      "concept": "Understanding the importance of water.",
+      "explanation": "Water is essential for our survival! Let's learn how we can keep it clean and conserve it. 💧🌍",
+      "examples": [
+        "Rainwater collection",
+        "Using water wisely"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "water",
+        "conservation",
+        "cleanliness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Gifts of Nature",
+      "title": "Food We Eat",
+      "concept": "Understanding the role of food in health.",
+      "explanation": "Food gives us energy and keeps us healthy! Let's explore different types of food and their benefits. 🍎🥦",
+      "examples": [
+        "Fruits 🍌",
+        "Vegetables 🥕"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "food",
+        "health",
+        "nutrition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_006",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Staying Healthy and Happy",
+      "title": "Importance of Cleanliness",
+      "concept": "Learning about hygiene and health.",
+      "explanation": "Staying clean helps us feel good and stay healthy! Let's learn how to keep our surroundings tidy. 🧼🏡",
+      "examples": [
+        "Washing hands",
+        "Cleaning up after meals"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "cleanliness",
+        "hygiene",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Water – A Precious Gift",
+      "title": "Understanding Rain",
+      "concept": "Rain is essential for life and has various characteristics.",
+      "explanation": "Rain comes down from the sky and is important for plants and animals. It can be heavy or light, and the size of raindrops can vary. 🌧️💧",
+      "examples": [
+        "Heavy rain makes puddles",
+        "Light rain may not wet the ground much"
+      ],
+      "practice_questions": [
+        {
+          "q": "What comes down, but never goes up?",
+          "a": "Rain!"
+        }
+      ],
+      "keywords": [
+        "rain",
+        "water",
+        "precious gift"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Observing Rain",
+      "title": "Guessing the Rain",
+      "concept": "Making observations about rain helps us understand weather patterns.",
+      "explanation": "Watch the sky every day and guess if it will rain. Ask an elder for clues! 🌦️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "I think it will rain today because ...",
+          "a": "Write at least 2 clues."
+        },
+        {
+          "q": "I think it will not rain today because ...",
+          "a": "Write at least 2 clues."
+        }
+      ],
+      "keywords": [
+        "observation",
+        "weather",
+        "guessing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Rainwater Collection",
+      "title": "What Happens to Rainwater?",
+      "concept": "Understanding the journey of rainwater after it falls.",
+      "explanation": "When it rains, water can be absorbed by the soil, collected in puddles, or flow into streams. 🌊",
+      "examples": [
+        "Rainwater can fill a pond",
+        "Rainwater can soak into the ground"
+      ],
+      "practice_questions": [
+        {
+          "q": "Where does the rainwater go after it falls?",
+          "a": "It can be absorbed, collected, or flow away."
+        }
+      ],
+      "keywords": [
+        "rainwater",
+        "absorption",
+        "water cycle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Rain Observations",
+      "title": "Questions About Rain",
+      "concept": "Asking questions helps us learn more about rain.",
+      "explanation": "Think of as many questions as you can about the rain! 🤔🌧️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Is it a heavy rain or a light one?",
+          "a": "Observe and decide."
+        },
+        {
+          "q": "Are the raindrops big or small?",
+          "a": "Look closely!"
+        }
+      ],
+      "keywords": [
+        "questions",
+        "rain",
+        "observation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Rain",
+      "title": "Rain, Rain, Come Again!",
+      "concept": "A fun rhyme about rain.",
+      "explanation": "This rhyme helps us remember the joy of rain! ☔️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rhyme",
+        "rain",
+        "fun"
+      ],
+      "difficulty": "easy",
+      "text": "Rain, rain, come again! 🌧️\nLittle drops, falling down, 💧\nSplashing on the ground, so brown. 🌍\nBringing life to every tree, 🌳\nRain, rain, come to me!"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Water as a Precious Gift",
+      "title": "Understanding Water",
+      "concept": "Water is a precious resource that we must take care of.",
+      "explanation": "Water is a gift that falls from the sky and reaches our homes in special ways. 🌧️💧 We need to learn how to care for it and understand where it comes from.",
+      "examples": [
+        "Water from taps at home",
+        "Water collected from rain"
+      ],
+      "practice_questions": [
+        {
+          "q": "Where do you get water from?",
+          "a": "I get water from the tap at home."
+        },
+        {
+          "q": "How do we store water?",
+          "a": "We can store water in buckets or tanks."
+        }
+      ],
+      "keywords": [
+        "water",
+        "gift",
+        "care"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Water Sources",
+      "title": "Where Does Water Come From?",
+      "concept": "Water comes from various sources like taps, wells, and rivers.",
+      "explanation": "Water can come from different places. Sometimes it comes from a tank on the roof, or it might be delivered by tankers. 🚚💦 Let's explore where our water comes from!",
+      "examples": [
+        "Water from a well",
+        "Water delivered by a tanker"
+      ],
+      "practice_questions": [
+        {
+          "q": "Do you get water from a well or a tap?",
+          "a": "I get water from a tap."
+        },
+        {
+          "q": "Who brings water to your home?",
+          "a": "My parents bring water from the tap."
+        }
+      ],
+      "keywords": [
+        "sources",
+        "tank",
+        "well"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Water Activities",
+      "title": "Activities That Use Water",
+      "concept": "We use water for many daily activities.",
+      "explanation": "Think about all the things you do that need water! 🛁💧 Can you list them?",
+      "examples": [
+        "Brushing teeth",
+        "Taking a shower"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many mugs of water do you need to brush your teeth?",
+          "a": "I need one mug."
+        },
+        {
+          "q": "What do you do when there is no water?",
+          "a": "I wait or find another source."
+        }
+      ],
+      "keywords": [
+        "activities",
+        "daily",
+        "water"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Storing Water",
+      "title": "Surya and Barkha's Water Adventure",
+      "concept": "Storing water is important when it is not available.",
+      "explanation": "One day, Surya and Barkha faced a problem when their water supply was cut off. They had to think about how to store water for the day. 💧🚫",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "storing",
+        "water",
+        "adventure"
+      ],
+      "difficulty": "easy",
+      "narrative": "Surya and Barkha woke up one morning to find that there was no water coming from the taps. They remembered that they had stored two buckets of water the day before. 'Oh no!' said Surya, 'What will we do without water?' Barkha replied, 'Don't worry! We can use the water we stored!' They learned the importance of storing water for days when it might not be available."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Poem about Water",
+      "title": "Water is a Precious Gift",
+      "concept": "A fun poem to celebrate water.",
+      "explanation": "Let's sing a poem about how wonderful water is! 🎶💧",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "poem",
+        "water",
+        "gift"
+      ],
+      "difficulty": "easy",
+      "text": "Water is a precious gift! Water is a gift that falls from the sky. This gift reaches our homes in special ways."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Water Conservation",
+      "title": "Water — A Precious Gift",
+      "concept": "Understanding the importance of water.",
+      "explanation": "Water is essential for our survival and helps keep things clean. We need to use it wisely! 💧",
+      "examples": [
+        "Rain fills up rivers and lakes 🌧️",
+        "We can reuse water for plants 🌱"
+      ],
+      "practice_questions": [
+        {
+          "q": "What happens to water after we use it?",
+          "a": "It becomes dirty and cannot be used for drinking."
+        },
+        {
+          "q": "How can we reuse water?",
+          "a": "We can use it for watering plants or flushing toilets."
+        }
+      ],
+      "keywords": [
+        "water",
+        "conservation",
+        "reuse"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Water Sources",
+      "title": "Every Drop Counts",
+      "concept": "Recognizing different sources of water.",
+      "explanation": "Water comes from many sources like rivers, lakes, and wells. We should ensure everyone has access to clean water! 🌍",
+      "examples": [
+        "Streams and rivers provide water 💦",
+        "Wells are dug to access groundwater ⛏️"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is water considered sacred?",
+          "a": "Because it is essential for our survival."
+        },
+        {
+          "q": "What do people do in places with little rain?",
+          "a": "They walk long distances to get water."
+        }
+      ],
+      "keywords": [
+        "sources",
+        "clean water",
+        "access"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Water Vessels",
+      "title": "Put up an exhibition",
+      "concept": "Identifying different vessels used for storing water.",
+      "explanation": "Let's explore the different vessels used to store water at home! 🏺",
+      "examples": [
+        "Old clay pots, buckets, and bottles"
+      ],
+      "practice_questions": [
+        {
+          "q": "What types of vessels did your elders use?",
+          "a": "They might have used clay pots or metal containers."
+        },
+        {
+          "q": "Did you find any patterns on the vessels?",
+          "a": "Yes, some might have unique designs!"
+        }
+      ],
+      "keywords": [
+        "vessels",
+        "water storage",
+        "exhibition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Birdbath Preparation",
+      "title": "Prepare a Birdbath",
+      "concept": "Creating a birdbath to help birds stay hydrated.",
+      "explanation": "Let's make a birdbath to provide water for our feathered friends! 🐦",
+      "examples": [
+        "Use a shallow bowl and add stones for birds to perch."
+      ],
+      "practice_questions": [
+        {
+          "q": "How often should you change the water?",
+          "a": "Change the water frequently to keep it fresh."
+        },
+        {
+          "q": "What should you use to clean the birdbath?",
+          "a": "Use a scrubber reserved for the garden."
+        }
+      ],
+      "keywords": [
+        "birdbath",
+        "birds",
+        "water"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Rain Observations",
+      "title": "Let us reflect",
+      "concept": "Observing and writing about rain.",
+      "explanation": "Write about your experience watching raindrops and collecting rainwater! ☔",
+      "examples": [
+        "Describe if the rainwater was clean or dirty."
+      ],
+      "practice_questions": [
+        {
+          "q": "What did you observe about the rainwater?",
+          "a": "I saw that it was clean when it fell on clean surfaces."
+        },
+        {
+          "q": "What is the name of a nearby water source?",
+          "a": "There is a pond near my house."
+        }
+      ],
+      "keywords": [
+        "rain",
+        "observations",
+        "writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_101",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Water Conservation",
+      "title": "The Importance of Water",
+      "concept": "Water is a precious resource that should not be wasted.",
+      "explanation": "Water is essential for life! We need to be careful and not waste it. 💧 Let's think about how we use water at home and outside. Can you list some activities that waste water? 🤔",
+      "examples": [
+        "Watering plants without a bucket",
+        "Leaving the tap running while brushing teeth"
+      ],
+      "practice_questions": [
+        {
+          "q": "What activities waste water?",
+          "a": "Activities like washing cars or leaving the tap running."
+        },
+        {
+          "q": "How can we avoid wasting water?",
+          "a": "By turning off the tap when not in use and fixing leaks."
+        }
+      ],
+      "keywords": [
+        "water",
+        "conservation",
+        "pollution"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_102",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Food and Nutrition",
+      "title": "Food We Eat",
+      "concept": "Different foods provide various tastes and nutrients.",
+      "explanation": "We eat many types of food, like fruits 🍎, vegetables 🥦, and grains 🍚. Each type has a unique taste, like sweet, sour, or spicy! Why do you think we need to eat different foods? 🤔",
+      "examples": [
+        "Rice, dal, roti",
+        "Fruits like apples and bananas"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are your favorite foods?",
+          "a": "I love pizza and ice cream! 🍕🍦"
+        },
+        {
+          "q": "Why do we need to eat healthy food?",
+          "a": "To stay strong and energetic!"
+        }
+      ],
+      "keywords": [
+        "food",
+        "nutrition",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_103",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Healthy Eating",
+      "title": "The Story of Shirin — the Runner",
+      "narrative": "Shirin was a fast runner in class 3. One day, she met a champion runner who told her that to win medals, she needed to eat healthy food. Shirin only liked rice and potatoes, but the champion advised her to eat a variety of foods like vegetables, fruits, and grains. After following this advice, Shirin practiced harder and became even faster, eventually winning a medal! 🏅",
+      "keywords": [
+        "story",
+        "healthy eating",
+        "motivation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_101",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Food We Eat",
+      "title": "Seasonal Foods",
+      "concept": "Different foods are eaten in summer and winter.",
+      "explanation": "In summer, we enjoy cool foods like ice-cream and tender coconut water. In winter, we prefer warm foods like soups and stews. 🍦🥥🍲",
+      "examples": [
+        "Kulfi in summer",
+        "Hot soup in winter"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like to eat in summer?",
+          "a": "I like to eat ice-cream!"
+        },
+        {
+          "q": "What do you enjoy in winter?",
+          "a": "I enjoy warm soups!"
+        }
+      ],
+      "keywords": [
+        "seasonal foods",
+        "summer",
+        "winter"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_102",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Importance of Water",
+      "title": "Water is Life",
+      "concept": "Water is essential for our body.",
+      "explanation": "We need to drink plenty of water, especially in summer when we sweat a lot. 💧 Remember, 'water is life'!",
+      "examples": [
+        "Drinking water",
+        "Buttermilk",
+        "Tender coconut water"
+      ],
+      "practice_questions": [
+        {
+          "q": "How often do you drink water?",
+          "a": "I drink water many times a day!"
+        }
+      ],
+      "keywords": [
+        "water",
+        "hydration",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_103",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Parts of Plants We Eat",
+      "title": "Eating Plant Parts",
+      "concept": "We eat different parts of plants.",
+      "explanation": "We eat roots, leaves, fruits, stems, and seeds from plants. 🌱 Let's explore what we eat!",
+      "examples": [
+        "Carrots (roots)",
+        "Spinach (leaves)",
+        "Apples (fruits)"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you name a fruit you eat?",
+          "a": "I eat apples!"
+        }
+      ],
+      "keywords": [
+        "plant parts",
+        "roots",
+        "fruits"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_104",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Food Discussion",
+      "title": "Discussing Foods",
+      "concept": "Discuss foods from different regions.",
+      "explanation": "Talk to your friends about different dishes you have heard of but not tasted. 🍽️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "food discussion",
+        "variety",
+        "cuisine"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_105",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Food Reflection",
+      "title": "Reflect on Food Choices",
+      "concept": "Reflect on the importance of food.",
+      "explanation": "Discuss why we need different kinds of food and why it's important not to waste food. 🍏💬",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Why do we eat seasonal foods?",
+          "a": "Because they are fresh and healthy!"
+        }
+      ],
+      "keywords": [
+        "food reflection",
+        "healthy eating",
+        "food waste"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Staying Healthy and Happy",
+      "title": "Healthy Habits",
+      "concept": "Simple habits to keep our bodies clean and healthy.",
+      "explanation": "To stay healthy, we need to follow some daily habits like brushing our teeth, washing our hands, and drinking enough water. These habits help our bodies and minds work properly! 🧼💧",
+      "examples": [
+        "Brushing teeth twice a day",
+        "Washing hands before meals"
+      ],
+      "practice_questions": [
+        {
+          "q": "Did I brush my teeth today?",
+          "a": "Yes, I brushed my teeth!"
+        },
+        {
+          "q": "Did I wash my hands with soap?",
+          "a": "Yes, I washed my hands!"
+        }
+      ],
+      "keywords": [
+        "health",
+        "hygiene",
+        "habits"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Daily Routine",
+      "title": "My Daily Activities",
+      "concept": "Writing down daily activities to track healthy habits.",
+      "explanation": "List all the things you do every day, like taking a shower, eating, and sleeping. This helps you remember to stay healthy! 📝",
+      "examples": [
+        "Take a shower",
+        "Drink 6-8 glasses of water"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "routine",
+        "activities",
+        "tracking"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Traditional Tooth Cleaning",
+      "title": "Moyna and Dadu's Toothbrush",
+      "concept": "Different ways to clean teeth using natural methods.",
+      "explanation": "Moyna learns from her grandfather about using neem and babool twigs to clean teeth. It's a fun and natural way to keep teeth healthy! 🌿",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "traditional",
+        "tooth cleaning",
+        "natural"
+      ],
+      "difficulty": "easy",
+      "narrative": "Moyna’s Dadu (grandfather) uses twigs from a neem or babool tree to clean his teeth. 'Dadu! How come you don’t use a toothbrush like us?' asked Moyna. Dadu laughed and said, 'Well, every day I get a fresh twig from the trees nearby. I chew it to make a brush and remove food particles stuck between my teeth. It gives my gums a good massage too. You should try it sometime!' Moyna found the neem twig to be too bitter, but the babool twig tasted better. 'I might start using babool twigs, Dadu!' exclaimed Moyna."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Home Cleaning",
+      "title": "Making Eco-Friendly Cleaners",
+      "concept": "Creating a natural cleaner using household items.",
+      "explanation": "You can make your own eco-friendly cleaner using orange or lemon peels and vinegar! It's fun and helps keep your home clean! 🍊🧴",
+      "examples": [
+        "Using peels of oranges or lemons",
+        "Adding vinegar to make a cleaner"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "cleaning",
+        "eco-friendly",
+        "DIY"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_116",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Staying Healthy and Happy",
+      "title": "Keeping Clean",
+      "concept": "Animals also keep themselves clean.",
+      "explanation": "Just like we wash our hands and take baths, animals have their own ways of staying clean! For example, monkeys groom each other to remove insects, and birds use their beaks to clean their feathers. 🐒🐦",
+      "examples": [
+        "Monkeys grooming each other",
+        "Birds cleaning their feathers"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do monkeys keep clean?",
+          "a": "They groom each other."
+        },
+        {
+          "q": "What do birds use to clean their feathers?",
+          "a": "Their beaks."
+        }
+      ],
+      "keywords": [
+        "clean",
+        "animals",
+        "grooming"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_117",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Staying Healthy and Happy",
+      "title": "The Importance of Exercise",
+      "concept": "Exercise is vital for our health.",
+      "explanation": "When we exercise, our heart works harder, making us breathe faster and feel warm. This is good for our body! 🏃‍♂️💪",
+      "examples": [
+        "Running",
+        "Jumping",
+        "Playing games"
+      ],
+      "practice_questions": [
+        {
+          "q": "What happens to your body when you exercise?",
+          "a": "You breathe faster and feel warm."
+        },
+        {
+          "q": "Why is exercise good for you?",
+          "a": "It helps keep your heart healthy."
+        }
+      ],
+      "keywords": [
+        "exercise",
+        "health",
+        "heart"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_118",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Fun Exercise Moves",
+      "title": "Try These Moves!",
+      "concept": "Fun ways to exercise.",
+      "explanation": "Let's have fun while exercising! Try walking like a duck, jumping like a frog, or running like a cat. 🦆🐸🐱",
+      "examples": [
+        "Walk like a duck",
+        "Jump like a frog",
+        "Run like a cat"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which move did you enjoy the most?",
+          "a": "Your own answer."
+        }
+      ],
+      "keywords": [
+        "exercise",
+        "fun",
+        "movement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_119",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Skipping Rope Poem",
+      "title": "Jumping Poem",
+      "concept": "A fun poem to say while skipping.",
+      "explanation": "You can say this poem while jumping rope with your friends! It makes jumping even more fun! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "poem",
+        "jumping",
+        "fun"
+      ],
+      "difficulty": "easy",
+      "text": "I like roti,\nI like ghee.\nI want _______________________,\n(name of a friend)\nTo jump with me!"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_120",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Active Mind and Body",
+      "title": "Harpreet and His Grandmother",
+      "concept": "Staying active is important.",
+      "explanation": "Harpreet's grandmother may not move much due to knee pain, but she still walks a little and plays chess with Harpreet. She believes both mind and body should stay active! ♟️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "active",
+        "mind",
+        "body"
+      ],
+      "difficulty": "easy",
+      "text": "Harpreet’s grandmother cannot move much because of the pain in her knees. But she still walks around the house a little and loves to play chess with Harpreet. She says that both the mind and body should be active."
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_121",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Playing Safely",
+      "title": "Safe Places to Play",
+      "concept": "Identifying safe play areas.",
+      "explanation": "It's important to know where it's safe to play. Let's think about different places and decide if they are safe or not! 🏞️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Is a construction site safe to play?",
+          "a": "No, it's unsafe."
+        },
+        {
+          "q": "Is a park a safe place to play?",
+          "a": "Yes, it's safe."
+        }
+      ],
+      "keywords": [
+        "safety",
+        "play",
+        "areas"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_123",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Staying Safe with Strangers",
+      "title": "How to Stay Safe",
+      "concept": "Be careful around strangers.",
+      "explanation": "When you meet new people, it's important to be cautious. Always stay with your parents or a trusted adult. If someone you don't know asks you to get in their car, say no! 🚫",
+      "examples": [
+        "Using a password with parents for pick-up.",
+        "Saying 'No, I don’t know you.'"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do if a stranger asks you to get in their car?",
+          "a": "Say no and stay with your parents."
+        },
+        {
+          "q": "Why is it important to be careful around strangers?",
+          "a": "Because not all strangers are safe."
+        }
+      ],
+      "keywords": [
+        "strangers",
+        "safety",
+        "trust"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_124",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Healthy Living",
+      "title": "Staying Healthy and Happy",
+      "concept": "Tracking health activities.",
+      "explanation": "To feel good, we need to know what makes our body happy! 🥦 Keep track of what you do each day, like how long you sleep, play, or watch TV. This helps you understand your health better!",
+      "examples": [
+        "Sleeping for 8 hours",
+        "Playing outside for 2 hours"
+      ],
+      "practice_questions": [
+        {
+          "q": "What activities make you feel sleepy?",
+          "a": "Sleeping and resting."
+        },
+        {
+          "q": "How can you track your health?",
+          "a": "By making a weekly health table."
+        }
+      ],
+      "keywords": [
+        "health",
+        "activities",
+        "well-being"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_125",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Health Tracking Exercise",
+      "title": "Weekly Health Table",
+      "concept": "Reflecting on daily activities.",
+      "explanation": "Create a table to track your daily activities and how they make you feel. This will help you understand what you need to stay healthy! 📅",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "tracking",
+        "health",
+        "reflection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_126",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Daily Activity Circle",
+      "title": "Activity Circle Drawing",
+      "concept": "Visualizing daily activities.",
+      "explanation": "Draw a big circle and divide it into 24 slices, each representing an hour of your day. Color the slices based on how much time you spend on different activities! 🎨",
+      "examples": [
+        "Moyna's circle with 8 hours sleeping, 2 hours eating, etc."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "activities",
+        "time management"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_127",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "discussion",
+      "topic": "Improving Stamina",
+      "title": "Activity Discussion",
+      "concept": "Choosing activities for health.",
+      "explanation": "Think of an activity you want to do at least twice a week, like running or jumping! Discuss it with your friends and try to do it together! 🏃‍♂️🏃‍♀️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "stamina",
+        "exercise",
+        "friendship"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Things Around Us",
+      "title": "This World of Things",
+      "concept": "Exploring the things around us and their origins.",
+      "explanation": "In this lesson, we will look closely at the things we see every day. 🌍 We will learn what they are made of and where they come from. Some things come from nature, while others are made by people. Can you think of something made from wood? 🌳",
+      "examples": [
+        "A wooden table",
+        "A plastic bottle"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite thing made from nature?",
+          "a": "A tree or a flower! 🌼"
+        },
+        {
+          "q": "Can you name something made by people?",
+          "a": "A toy or a book! 📚"
+        }
+      ],
+      "keywords": [
+        "things",
+        "nature",
+        "materials"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Making Things",
+      "title": "How We Use Materials",
+      "concept": "Learning about different materials and their uses.",
+      "explanation": "This lesson helps us understand how different materials are used to create things. 🏠 For example, houses are built using wood, bricks, and glass. We will also learn about the importance of safety when using tools! 🛠️",
+      "examples": [
+        "Bricks for walls",
+        "Glass for windows"
+      ],
+      "practice_questions": [
+        {
+          "q": "What material is used to make windows?",
+          "a": "Glass! 🪟"
+        },
+        {
+          "q": "Why is it important to follow safety rules?",
+          "a": "To keep ourselves safe! 🚧"
+        }
+      ],
+      "keywords": [
+        "materials",
+        "safety",
+        "construction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Waste Management",
+      "title": "Taking Charge of Waste",
+      "concept": "Understanding waste management and recycling.",
+      "explanation": "In this lesson, we will learn why it's important to put trash in the right place and how to sort it correctly. 🗑️ We will also discover the benefits of reusing and recycling materials to help our planet! 🌎",
+      "examples": [
+        "Using old newspapers for gift wrapping",
+        "Recycling plastic bottles"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do with your trash?",
+          "a": "Put it in the right bin! 🗑️"
+        },
+        {
+          "q": "How can we reuse materials?",
+          "a": "By using them for new projects! 🎨"
+        }
+      ],
+      "keywords": [
+        "waste",
+        "recycling",
+        "cleanliness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Classroom Exploration",
+      "title": "Understanding Your Classroom",
+      "concept": "Identifying materials in the classroom.",
+      "explanation": "Draw a picture of your classroom and label the things you see! 🖍️ Can you find out what they are made of? Let's help Khushi discover where these things come from! 🏫",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "classroom",
+        "drawing",
+        "materials"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Khushi's Curiosity",
+      "title": "Khushi's Discovery",
+      "concept": "Exploring the origins of classroom items.",
+      "explanation": "Khushi reached school early and saw her bright classroom. 🌞 She wondered where all the things in her classroom came from and what they were made of. Let's help her find out together! 🕵️‍♀️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "curiosity",
+        "exploration",
+        "classroom"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_132",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Seeing Through Things",
+      "title": "Understanding Transparent, Opaque, and Translucent Materials",
+      "concept": "Materials can be transparent, opaque, or translucent.",
+      "explanation": "Some materials let light pass through them, while others do not. 🌞 For example, glass is transparent because you can see through it, but wood is opaque because you cannot see through it. Some materials are in between, like frosted glass, which is translucent. 🌈",
+      "examples": [
+        "Glass (transparent)",
+        "Wood (opaque)",
+        "Frosted glass (translucent)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a transparent material?",
+          "a": "A material that you can see through clearly."
+        },
+        {
+          "q": "Can you name one more transparent material?",
+          "a": "Water is also transparent."
+        }
+      ],
+      "keywords": [
+        "transparent",
+        "opaque",
+        "translucent"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_133",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Color and Light",
+      "title": "How Colors Change Through Transparent Objects",
+      "concept": "Colors can appear different when viewed through transparent materials.",
+      "explanation": "When you look at white paper through colored transparent objects, the color of the paper can change! 🎨 For example, if you look at it through blue plastic, it might look blue!",
+      "examples": [
+        "White paper through blue plastic looks blue.",
+        "White paper through yellow plastic looks yellow."
+      ],
+      "practice_questions": [
+        {
+          "q": "What happens to white paper when viewed through blue plastic?",
+          "a": "It appears blue."
+        },
+        {
+          "q": "Have you ever looked through colored transparent objects?",
+          "a": "Yes, it changes how things look!"
+        }
+      ],
+      "keywords": [
+        "color",
+        "transparent",
+        "light"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_134",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Material Classification",
+      "title": "Classifying Objects by Material",
+      "concept": "Grouping objects based on the materials they are made from.",
+      "explanation": "Let's help Khushi group objects by the materials they are made of! 🏠 Fill in the table with objects you see around you.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "materials",
+        "classification",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_135",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Khushi's Discovery",
+      "title": "Khushi and the Glass Pane",
+      "concept": "Understanding how glass allows us to see through it.",
+      "explanation": "Khushi was amazed when she touched the glass pane and realized she could see beautiful flowers and trees outside! 🌸 She learned that glass is transparent, allowing her to enjoy the view.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Khushi",
+        "glass",
+        "discovery"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_136",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Materials",
+      "title": "Understanding Different Materials",
+      "concept": "Different materials have unique properties.",
+      "explanation": "Materials can be made of metal, wood, plastic, and more! For example, your spoon might be made of metal. Can you guess what other materials could be used for a spoon? 🤔",
+      "examples": [
+        "Metal spoon",
+        "Wooden spoon"
+      ],
+      "practice_questions": [
+        {
+          "q": "What material is your spoon made of?",
+          "a": "It could be metal, wood, or plastic."
+        },
+        {
+          "q": "Which of these words describes the spoon: Smooth, Rough, Dull, Shiny?",
+          "a": "It can be smooth or shiny!"
+        }
+      ],
+      "keywords": [
+        "materials",
+        "spoon",
+        "properties"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_137",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Sound Exploration",
+      "title": "Exploring Sounds with a Spoon",
+      "concept": "Different materials produce different sounds.",
+      "explanation": "Tap a metal spoon on various objects like wood, glass, and plastic. Listen closely to the sounds they make! 🎶",
+      "examples": [
+        "Ting-ting",
+        "Dhum-dhum",
+        "Dub-dub"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "sound",
+        "exploration",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_138",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Solid, Liquid, Gas",
+      "title": "Classifying Matter",
+      "concept": "Objects can be classified as solids, liquids, or gases.",
+      "explanation": "Solids keep their shape, liquids flow, and gases spread out! For example, water is a liquid because it flows, while a rock is a solid because it stays the same shape. 🌊🪨",
+      "examples": [
+        "Rock (solid)",
+        "Water (liquid)",
+        "Air (gas)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a solid?",
+          "a": "A solid keeps its shape, like a rock."
+        },
+        {
+          "q": "What happens to water when you pour it?",
+          "a": "It flows and takes the shape of the container."
+        }
+      ],
+      "keywords": [
+        "solids",
+        "liquids",
+        "gases"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_139",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Odd Pairs",
+      "title": "Finding Odd Pairs",
+      "concept": "Some materials are not suitable for certain objects.",
+      "explanation": "List five objects and pair them with materials that wouldn't work. For example, an umbrella made of paper won't keep you dry! ☔",
+      "examples": [
+        "Umbrella - Paper (will tear)",
+        "Table - Fabric (not sturdy)"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "odd pairs",
+        "materials",
+        "suitability"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_140",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Natural vs Artificial",
+      "title": "Understanding Natural and Artificial Things",
+      "concept": "Natural things occur in nature, while artificial things are made by humans.",
+      "explanation": "A mango tree and a bird are natural because they grow in nature. But a toy bird is artificial because it is made by people. 🌳🐦",
+      "examples": [
+        "Mango tree (natural)",
+        "Plastic toy (artificial)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a natural object?",
+          "a": "A mango tree is a natural object."
+        },
+        {
+          "q": "Can you name an artificial object?",
+          "a": "A plastic bottle is an artificial object."
+        }
+      ],
+      "keywords": [
+        "natural",
+        "artificial",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_141",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Natural and Artificial Things",
+      "title": "Understanding Natural and Artificial Things",
+      "concept": "Differentiating between natural and artificial objects.",
+      "explanation": "Things that occur in nature are called natural, while things made by people are called artificial. 🌳🛠️",
+      "examples": [
+        "Natural: Trees, Flowers, Rivers, Rocks, Animals",
+        "Artificial: Clothes, Shoes, Tables, Toys, Cars"
+      ],
+      "practice_questions": [
+        {
+          "q": "List out five natural things.",
+          "a": "Examples include trees, flowers, rivers, rocks, and animals."
+        },
+        {
+          "q": "List out five artificial things.",
+          "a": "Examples include clothes, shoes, tables, toys, and cars."
+        }
+      ],
+      "keywords": [
+        "natural",
+        "artificial",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_142",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Materials Around Us",
+      "title": "Types of Materials",
+      "concept": "Identifying different types of materials.",
+      "explanation": "Things around us are made of various materials like paper, glass, and metal. 🏺📦",
+      "examples": [
+        "Transparent: A lamp shade made of paper",
+        "Translucent: A plate",
+        "Opaque: A glass used in spectacles"
+      ],
+      "practice_questions": [
+        {
+          "q": "Name three materials we commonly see around us.",
+          "a": "Examples include wood, plastic, and metal."
+        },
+        {
+          "q": "How would you find out if a shiny spoon is made of metal?",
+          "a": "You could check its weight, look for scratches, or use a magnet."
+        }
+      ],
+      "keywords": [
+        "materials",
+        "transparent",
+        "opaque",
+        "translucent"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_143",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Making Things",
+      "title": "Mini and the Potter",
+      "concept": "Understanding how pots are made.",
+      "explanation": "Mini watched her grandfather, a potter, make pots from clay. He shaped the clay on a spinning wheel and baked it in a kiln. 🏺✨",
+      "narrative": "In a town by the seaside, Mini watched her Appooppan (grandfather) making a pot. He took the clay, made it wet, and pounded it well. He shaped it on a stone wheel and baked it in a kiln. Mini loved helping him make patterns on the pots and her favorite was her piggy bank. 🐷💰",
+      "practice_questions": [
+        {
+          "q": "What are pots used for?",
+          "a": "Pots are used for storing water and other items."
+        },
+        {
+          "q": "What other kinds of things do potters make?",
+          "a": "Potters also make bowls, vases, and decorative items."
+        }
+      ],
+      "keywords": [
+        "potter",
+        "clay",
+        "kiln",
+        "making things"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_144",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Making Clay",
+      "title": "Make Your Own Clay",
+      "concept": "Learning to make clay from soil.",
+      "explanation": "You can make your own clay by collecting soil and mixing it with water! 🌍💧",
+      "instructions": [
+        "Collect soil from wet or muddy places.",
+        "Remove any big pebbles or stones using a net.",
+        "Put the soil in a flat vessel filled with water.",
+        "After a few days, throw away the water that stays on top."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "clay",
+        "soil",
+        "activity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_145",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Making Things",
+      "title": "Creating with Clay",
+      "concept": "Using clay to create shapes.",
+      "explanation": "You can make fun things with clay! Just shape it into a ball and create whatever you like. Let it dry in the sun! ☀️",
+      "examples": [
+        "A clay ball",
+        "A clay animal"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "clay",
+        "create",
+        "dry"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_146",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Patterns in Nature",
+      "title": "Finding Patterns",
+      "concept": "Patterns exist in nature all around us.",
+      "explanation": "Have you noticed patterns like spots on leopards or stripes on zebras? Patterns can be made from shapes and colors found in nature! 🌿🐾",
+      "examples": [
+        "Spots on a leopard",
+        "Stripes on a zebra"
+      ],
+      "practice_questions": [
+        {
+          "q": "What patterns can you find on plants?",
+          "a": "Look for leaf shapes and colors."
+        },
+        {
+          "q": "Can you draw a pattern you see?",
+          "a": "Yes, draw it in the box!"
+        }
+      ],
+      "keywords": [
+        "patterns",
+        "nature",
+        "shapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_147",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Drawing Patterns",
+      "title": "Draw Patterns",
+      "concept": "Practice drawing patterns.",
+      "explanation": "Look around you and find patterns on plants, animals, or objects. Now, draw them! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "patterns",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_148",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Bricks",
+      "title": "Understanding Bricks",
+      "concept": "Bricks are made from mud and used in construction.",
+      "explanation": "Bricks are made from mud, just like clay pots! They are shaped in molds and baked hard. 🏠",
+      "examples": [
+        "Bricks used in buildings",
+        "Brick walls"
+      ],
+      "practice_questions": [
+        {
+          "q": "Where have you seen bricks?",
+          "a": "In buildings and walls."
+        },
+        {
+          "q": "What materials are used to build houses?",
+          "a": "Bricks, wood, and mud."
+        }
+      ],
+      "keywords": [
+        "bricks",
+        "construction",
+        "mud"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_149",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "Rohan's Observation",
+      "title": "Rohan and the Brick Wall",
+      "concept": "Observing construction can be fascinating.",
+      "explanation": "Rohan loves watching his father build houses. He sees how a wall is built brick by brick until it becomes a big building! 🏗️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Rohan",
+        "construction",
+        "observation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_150",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Mud Houses",
+      "title": "Exploring Mud Houses",
+      "concept": "Mud houses are eco-friendly and cool.",
+      "explanation": "In warm areas, people build mud houses to stay cool. They use natural materials like grass and cow dung! 🌾🐄",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Why are mud houses better for the environment?",
+          "a": "They use natural materials and keep the heat out."
+        },
+        {
+          "q": "What materials are houses in your neighborhood made of?",
+          "a": "Look around and see!"
+        }
+      ],
+      "keywords": [
+        "mud houses",
+        "eco-friendly",
+        "natural materials"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_1",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Making Things",
+      "title": "Creating Structures",
+      "concept": "Understanding how to make bricks and walls.",
+      "explanation": "Let's learn how to make bricks using simple materials like clay or dough! You can stack them to see which arrangement is stronger. 🧱✨",
+      "examples": [
+        "Using a matchbox to mold bricks",
+        "Stacking bricks in different ways"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which one is sturdier?",
+          "a": "The arrangement that doesn't fall when pushed."
+        },
+        {
+          "q": "Which one falls more easily when pushed?",
+          "a": "The arrangement that topples over."
+        }
+      ],
+      "keywords": [
+        "bricks",
+        "walls",
+        "construction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_2",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Safety First",
+      "title": "Importance of Safety Gear",
+      "concept": "Understanding safety rules in construction.",
+      "explanation": "Wearing safety gear like helmets and vests keeps us safe while working! 🦺👷‍♂️",
+      "examples": [
+        "Rohan's father wearing a helmet",
+        "Using sturdy footwear"
+      ],
+      "practice_questions": [
+        {
+          "q": "Are there any safety rules at home?",
+          "a": "Yes, we should always be careful."
+        },
+        {
+          "q": "Do you have any safety rules at school?",
+          "a": "Yes, we follow rules to stay safe."
+        }
+      ],
+      "keywords": [
+        "safety",
+        "gear",
+        "construction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_3",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Reflective Writing",
+      "title": "Pot Making Process",
+      "concept": "Exploring the art of pot making.",
+      "explanation": "Let's write about how pots are made! What steps do you think are involved? 🏺✍️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What is the process of pot making?",
+          "a": "It involves shaping clay and baking it in a kiln."
+        },
+        {
+          "q": "How do artists get ideas for their arts?",
+          "a": "They observe nature and their surroundings."
+        },
+        {
+          "q": "What is a kiln?",
+          "a": "A special oven used to bake pots."
+        },
+        {
+          "q": "What are houses made of?",
+          "a": "Houses can be made of bricks, wood, or concrete."
+        }
+      ],
+      "keywords": [
+        "pot making",
+        "art",
+        "process"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_4",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Art and Discussion",
+      "title": "Drawing Houses",
+      "concept": "Understanding different types of houses.",
+      "explanation": "Draw and color three different kinds of houses! 🏡🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "houses",
+        "drawing",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_5",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Waste Management",
+      "title": "Understanding Waste",
+      "concept": "Learning about waste creation and management.",
+      "explanation": "We create waste every day! Let's think about what we throw away and how we can manage it better. ♻️🗑️",
+      "examples": [
+        "Old clothes",
+        "Plastic wrappers"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are the children and the teacher doing in the picture?",
+          "a": "They are cleaning the park."
+        },
+        {
+          "q": "Why are they cleaning the park?",
+          "a": "To keep the environment clean."
+        },
+        {
+          "q": "Have you ever seen piles of waste lying around your home or school?",
+          "a": "Yes, sometimes we see litter."
+        },
+        {
+          "q": "Have you ever thought about how this waste is created?",
+          "a": "Yes, from our daily activities."
+        }
+      ],
+      "keywords": [
+        "waste",
+        "management",
+        "cleanliness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_6",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Managing Waste",
+      "title": "How Waste is Created",
+      "concept": "Understanding how waste is generated in daily life.",
+      "explanation": "Every time we eat, play, or use things, we create waste! Let's learn how to manage it. 🌍🗑️",
+      "examples": [
+        "Throwing away food peels",
+        "Using plastic bags"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "waste",
+        "creation",
+        "management"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_1",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Taking Charge of Waste",
+      "title": "Understanding Waste Management",
+      "concept": "Learning how to manage waste effectively.",
+      "explanation": "Waste management is important to keep our surroundings clean and healthy. 🌍 When we manage waste, we help prevent diseases caused by germs in waste. Let's explore how we can do this!",
+      "examples": [
+        "Using cloth bags instead of plastic bags.",
+        "Reusing old clothes to make quilts."
+      ],
+      "practice_questions": [
+        {
+          "q": "How clean are the surroundings of your school?",
+          "a": "Look around and observe."
+        },
+        {
+          "q": "Do you find waste lying in or outside your classrooms?",
+          "a": "Check your classroom and the school grounds."
+        }
+      ],
+      "keywords": [
+        "waste management",
+        "cleanliness",
+        "recycling"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_2",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Reduce Waste",
+      "title": "How to Reduce Waste",
+      "concept": "Reducing the amount of waste we create.",
+      "explanation": "To reduce waste, we should buy only what we need and use it until it can't be used anymore. 🛍️ This helps in creating less waste!",
+      "examples": [
+        "Using cloth bags instead of plastic bags.",
+        "Sharing old toys and books."
+      ],
+      "practice_questions": [
+        {
+          "q": "How can you help in reducing waste?",
+          "a": "Think of ways to buy less and share more!"
+        }
+      ],
+      "keywords": [
+        "reduce",
+        "waste",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_3",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Reuse Items",
+      "title": "How to Reuse Things",
+      "concept": "Finding new uses for old items.",
+      "explanation": "Instead of throwing things away, we can reuse them! ♻️ For example, old clothes can be turned into bags or quilts. This saves resources and helps the environment.",
+      "examples": [
+        "Using old newspapers for gift wrapping.",
+        "Refilling a water bottle instead of buying a new one."
+      ],
+      "practice_questions": [
+        {
+          "q": "How can you reuse things to reduce waste?",
+          "a": "Think of creative ways to give old items a new life!"
+        }
+      ],
+      "keywords": [
+        "reuse",
+        "creativity",
+        "sustainability"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_4",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "A Place of Pride",
+      "title": "The Clean Village of Silluk",
+      "concept": "How a village transformed into a clean place.",
+      "explanation": "Once, the village of Silluk was filled with garbage. But the people worked together to clean it up! 🌳 Now, it’s one of the cleanest villages in the country. Let's learn how they did it!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "community",
+        "transformation",
+        "cleanliness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_161",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Waste Management",
+      "title": "Taking Charge of Waste",
+      "concept": "Understanding waste management and recycling.",
+      "explanation": "Waste management is how we take care of the waste we create. We can separate our waste into different types to help keep our environment clean! 🌍",
+      "examples": [
+        "Using a green dustbin for fruit peels and vegetable waste 🍏🥕",
+        "Using a blue dustbin for plastic and paper ♻️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What goes into the green dustbin?",
+          "a": "Dried leaves, fruit peels, and vegetable waste."
+        },
+        {
+          "q": "What is recycling?",
+          "a": "Making new objects from materials like metal, glass, and plastic that have been thrown away."
+        }
+      ],
+      "keywords": [
+        "waste management",
+        "recycling",
+        "cleanliness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_162",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Waste Separation",
+      "title": "Separate Your Waste",
+      "concept": "Identifying waste types for proper disposal.",
+      "explanation": "Let's learn to separate our waste! Write down what goes into the green and blue dustbins. 🗑️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "waste separation",
+        "dustbins",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_163",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Cleanliness",
+      "title": "Keeping Our Surroundings Clean",
+      "concept": "Pledging to maintain cleanliness.",
+      "explanation": "On National Cleanliness Day, let's promise to keep our surroundings clean! Remember, less waste means a cleaner world! 🌱",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What can you do to keep your home clean?",
+          "a": "I can keep my room tidy."
+        },
+        {
+          "q": "List tools used for cleaning in your neighborhood.",
+          "a": "Brooms, dustpans, and mops."
+        }
+      ],
+      "keywords": [
+        "cleanliness",
+        "pledge",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_164",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "reflection",
+      "topic": "Waste Management Discussion",
+      "title": "Reflecting on Waste",
+      "concept": "Discussing waste creation and management.",
+      "explanation": "Let's talk about how waste is created and how we can manage it better! 💬",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How is waste created?",
+          "a": "Waste is created from things we use and throw away."
+        },
+        {
+          "q": "How can we manage waste?",
+          "a": "By recycling and separating our waste."
+        }
+      ],
+      "keywords": [
+        "waste creation",
+        "waste management",
+        "discussion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_165",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Plastic Awareness",
+      "title": "Plastic Items at Home and School",
+      "concept": "Identifying plastic items and alternatives.",
+      "explanation": "Look around and find plastic items at home and school. Let's think of safe alternatives! 🏠🏫",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "List plastic items you see at home.",
+          "a": "Plastic bottles, bags, and containers."
+        },
+        {
+          "q": "How can we replace plastic bags?",
+          "a": "By using cloth bags instead."
+        }
+      ],
+      "keywords": [
+        "plastic awareness",
+        "alternatives",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_166",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Waste Management",
+      "title": "Taking Charge of Waste",
+      "concept": "Understanding how to manage waste effectively.",
+      "explanation": "Managing waste means taking care of our environment by reducing, reusing, and recycling. 🌍 For example, instead of throwing away plastic bottles, we can recycle them! ♻️",
+      "examples": [
+        "Making a poster about a clean village.",
+        "Talking about waste in nature."
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some ways to have a zero-waste birthday party?",
+          "a": "We can use reusable plates, avoid balloons, and give gifts that don't create waste."
+        },
+        {
+          "q": "What happens to waste in nature?",
+          "a": "In nature, waste like dried leaves decomposes and becomes part of the soil, helping plants grow."
+        }
+      ],
+      "keywords": [
+        "waste",
+        "management",
+        "recycling",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_167",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Creative Activity",
+      "title": "Draw and Poster Making",
+      "concept": "Creating visual representations of waste management.",
+      "explanation": "Let's get creative! 🎨 Draw a poster showing a village that manages its waste well. Give it a fun title! What colors will you use? 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "art",
+        "poster",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_168",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "activity",
+      "topic": "Role Play",
+      "title": "Enact a Town Conversation",
+      "concept": "Understanding perspectives on cleanliness.",
+      "explanation": "In pairs, pretend one of you is a clean town and the other is a dirty town. Talk about how you feel about your town! 🏙️ What makes you happy or sad?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "role play",
+        "conversation",
+        "feelings"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Introduction to The World Around Us",
+      "title": "Understanding Our Environment",
+      "concept": "Learning about our surroundings and their importance.",
+      "explanation": "In this lesson, we explore the world around us 🌍. We learn how everything is connected, from the trees 🌳 to the rivers 🌊. Understanding our environment helps us take care of it!",
+      "examples": [
+        "The importance of trees in providing oxygen 🌬️",
+        "How rivers help in transportation 🚢"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do trees provide us?",
+          "a": "Trees provide us with oxygen."
+        },
+        {
+          "q": "Why are rivers important?",
+          "a": "Rivers help in transportation and provide water."
+        }
+      ],
+      "keywords": [
+        "environment",
+        "nature",
+        "importance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Holistic Learning",
+      "title": "Learning Through Play",
+      "concept": "Combining fun and learning.",
+      "explanation": "Learning can be fun! 🎉 We use games, songs 🎶, and activities to understand new concepts. This helps us remember better and enjoy learning!",
+      "examples": [
+        "Playing games to learn math ➕",
+        "Singing songs to learn about animals 🐶"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can we learn while playing?",
+          "a": "We can learn by playing educational games."
+        },
+        {
+          "q": "What is a fun way to learn about animals?",
+          "a": "Singing songs about animals!"
+        }
+      ],
+      "keywords": [
+        "play",
+        "learning",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Environmental Education",
+      "title": "Caring for Our Planet",
+      "concept": "Understanding our role in protecting the environment.",
+      "explanation": "We all share the Earth 🌎, and it's our job to take care of it! This means recycling ♻️, saving water 💧, and planting trees 🌱.",
+      "examples": [
+        "Recycling paper and plastic ♻️",
+        "Turning off the tap while brushing teeth 🚰"
+      ],
+      "practice_questions": [
+        {
+          "q": "What can we do to help the environment?",
+          "a": "We can recycle and save water."
+        },
+        {
+          "q": "Why is planting trees important?",
+          "a": "Planting trees helps clean the air."
+        }
+      ],
+      "keywords": [
+        "environment",
+        "protection",
+        "sustainability"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "The Adventures of Eco the Squirrel",
+      "title": "Eco's Journey",
+      "concept": "Learning about nature through stories.",
+      "explanation": "Join Eco the Squirrel on his adventures in the forest! 🌳 He learns how to find food, make friends, and protect his home from pollution.",
+      "narrative": "Once upon a time, in a lush green forest, lived a little squirrel named Eco. Eco loved to explore the trees and play with his friends. One day, he noticed some trash on the ground. Eco decided to clean it up and teach his friends about keeping their home clean. Together, they picked up the trash and planted new trees. Eco learned that every little action counts in protecting their beautiful forest! 🌲",
+      "keywords": [
+        "story",
+        "squirrel",
+        "adventure"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Exploring Our Community",
+      "title": "Community Helpers",
+      "concept": "Identifying roles in the community.",
+      "explanation": "Let's learn about the different people who help us in our community! 🏙️",
+      "examples": [
+        "Doctors help us stay healthy 👩‍⚕️",
+        "Teachers help us learn 📚"
+      ],
+      "practice_questions": [
+        {
+          "q": "Who helps us when we are sick?",
+          "a": "Doctors help us when we are sick."
+        },
+        {
+          "q": "Who teaches us in school?",
+          "a": "Teachers teach us in school."
+        }
+      ],
+      "keywords": [
+        "community",
+        "helpers",
+        "roles"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Integrated Learning",
+      "title": "Holistic Approach to Learning",
+      "concept": "Learning is best when it connects different subjects.",
+      "explanation": "When we learn about the world, we can explore science, social studies, and the environment together! 🌍✨",
+      "examples": [
+        "Exploring plants in science and their role in our environment.",
+        "Learning about cultures through their traditional foods."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is it important to learn about different subjects together?",
+          "a": "It helps us understand the world better!"
+        }
+      ],
+      "keywords": [
+        "integrated learning",
+        "holistic education",
+        "interdisciplinary"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Experiential Learning",
+      "title": "Learning Through Experience",
+      "concept": "Experiential learning helps us discover and explore.",
+      "explanation": "When we do hands-on activities, we learn better! 👐🔍 For example, planting seeds helps us understand how plants grow.",
+      "examples": [
+        "Planting a garden to learn about plants.",
+        "Going on a nature walk to observe animals."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is one way we can learn about nature?",
+          "a": "By going on a nature walk!"
+        }
+      ],
+      "keywords": [
+        "experiential learning",
+        "hands-on activities",
+        "discovery"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Curiosity and Inquiry",
+      "title": "Fostering Curiosity",
+      "concept": "Curiosity leads to questions and exploration.",
+      "explanation": "When we are curious, we ask questions and want to find answers! 🤔💡 For example, asking why the sky is blue can lead to learning about weather.",
+      "examples": [
+        "Asking why leaves change color in autumn.",
+        "Wondering how rainbows are made."
+      ],
+      "practice_questions": [
+        {
+          "q": "What are you curious about today?",
+          "a": "I want to know how clouds are formed!"
+        }
+      ],
+      "keywords": [
+        "curiosity",
+        "inquiry",
+        "questions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Cultural Practices",
+      "title": "Understanding Food and Culture",
+      "concept": "Food reflects the culture of a region.",
+      "explanation": "Different places have different foods that tell us about their culture! 🍽️🌏 For instance, haakh is a popular dish in Srinagar.",
+      "examples": [
+        "Learning about biryani from Hyderabad.",
+        "Exploring the significance of sushi in Japan."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite food, and what does it tell us about your culture?",
+          "a": "My favorite food is pizza, which shows Italian culture!"
+        }
+      ],
+      "keywords": [
+        "food",
+        "culture",
+        "traditions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Exploring Our World",
+      "title": "Activity: Discover Your Surroundings",
+      "concept": "Engage with your environment.",
+      "explanation": "Go outside and observe something interesting! 🌳🦋 Write down what you see and what questions you have.",
+      "examples": [
+        "Look for different types of plants.",
+        "Observe animals in your backyard."
+      ],
+      "practice_questions": [
+        {
+          "q": "What did you discover during your observation?",
+          "a": "I saw a butterfly and wondered where it goes in winter!"
+        }
+      ],
+      "keywords": [
+        "observation",
+        "nature",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Getting to Know Plants",
+      "title": "Exploring a Garden",
+      "concept": "Understanding different types of plants and their parts.",
+      "explanation": "In this lesson, we will explore a garden and learn about various plants 🌿, their parts 🌱, and why it's important to take care of them for a balanced life.",
+      "examples": [
+        "A flower 🌸 is a part of a plant.",
+        "Leaves 🍃 help in making food for the plant."
+      ],
+      "practice_questions": [
+        {
+          "q": "What are the main parts of a plant?",
+          "a": "Roots, stems, leaves, and flowers."
+        },
+        {
+          "q": "Why should we take care of plants?",
+          "a": "To maintain a balanced and harmonious environment."
+        }
+      ],
+      "keywords": [
+        "plants",
+        "garden",
+        "parts of a plant",
+        "care",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Materials and Their Properties",
+      "title": "Understanding Transparency",
+      "concept": "Learning about transparent, opaque, and translucent materials.",
+      "explanation": "Let's discover materials around us! 🌍 Some materials let light pass through (transparent) like glass, some block light (opaque) like wood, and some let some light through (translucent) like frosted glass.",
+      "examples": [
+        "A clear window is transparent 🪟.",
+        "A wooden table is opaque 🪑.",
+        "A frosted light bulb is translucent 💡."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a transparent material?",
+          "a": "A material that allows light to pass through."
+        },
+        {
+          "q": "Can you name an opaque object?",
+          "a": "A brick wall."
+        }
+      ],
+      "keywords": [
+        "transparent",
+        "opaque",
+        "translucent",
+        "materials",
+        "properties"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Plant Growth Observation",
+      "title": "Observing Plant Growth",
+      "concept": "Conducting simple experiments to observe how plants grow.",
+      "explanation": "Let's do a fun experiment! 🌱 We will plant seeds and observe how they grow over time. This will help us understand the needs of plants.",
+      "examples": [
+        "Planting a seed in soil and watering it regularly."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do plants need to grow?",
+          "a": "Water, sunlight, and soil."
+        }
+      ],
+      "keywords": [
+        "plant growth",
+        "experiment",
+        "observation",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "reflection",
+      "topic": "Chapter Summary",
+      "title": "Let Us Reflect",
+      "concept": "Summarizing the learning from the chapter.",
+      "explanation": "Now it's time to reflect on what we've learned! ✨ Let's think about the plants we explored and how we can take care of them.",
+      "examples": [
+        "I learned that plants need sunlight and water."
+      ],
+      "practice_questions": [
+        {
+          "q": "What was your favorite plant from the garden?",
+          "a": "My favorite was the sunflower!"
+        }
+      ],
+      "keywords": [
+        "reflection",
+        "summary",
+        "learning",
+        "plants"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Introduction to the World Around Us",
+      "title": "Exploring Our Environment",
+      "concept": "Understanding the importance of nature and our surroundings.",
+      "explanation": "The world around us is filled with amazing things! 🌳🌼 From tall trees to colorful flowers, everything plays a role in our environment. Let's explore how we can take care of it!",
+      "examples": [
+        "Trees provide us with oxygen 🌳",
+        "Flowers attract bees 🐝"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do trees give us?",
+          "a": "Trees give us oxygen."
+        },
+        {
+          "q": "Why are flowers important?",
+          "a": "Flowers attract bees which help in pollination."
+        }
+      ],
+      "keywords": [
+        "environment",
+        "nature",
+        "pollination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "exercise",
+      "topic": "Nature Observation",
+      "title": "Nature Walk Activity",
+      "concept": "Observing and appreciating nature.",
+      "explanation": "Let's go for a nature walk! 🌳🌞 Look around and see how many different plants and animals you can find. Write down your observations!",
+      "examples": [
+        "I saw a butterfly 🦋",
+        "I found a red flower 🌹"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "observation",
+        "nature walk",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "story",
+      "topic": "The Adventures of Benny the Bee",
+      "title": "Benny's Journey",
+      "concept": "The life cycle of a bee and its role in nature.",
+      "explanation": "Benny the Bee loved to fly around the garden. 🐝 One day, he discovered how important he was for the flowers. Without him, they couldn't grow! Let's follow Benny on his adventure.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "bee",
+        "pollination",
+        "adventure"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "rhyme",
+      "topic": "Nature's Beauty",
+      "title": "Nature's Song",
+      "concept": "Appreciating the beauty of nature.",
+      "explanation": "Let's sing about nature! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rhyme",
+        "nature",
+        "beauty"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_001",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Our Families and Communities",
+      "title": "Family and Friends",
+      "concept": "Understanding the importance of family and friendships.",
+      "explanation": "Families are groups of people who love and care for each other. Friends are special people we choose to spend time with. 🏡👨‍👩‍👧‍👦",
+      "examples": [
+        "My family includes my parents and my sister. ❤️",
+        "My best friend is someone I play with every day! 🎉"
+      ],
+      "practice_questions": [
+        {
+          "q": "Who is in your family?",
+          "a": "My family includes my mom, dad, and brother."
+        },
+        {
+          "q": "What do you like to do with your friends?",
+          "a": "I like to play games and go to the park with my friends!"
+        }
+      ],
+      "keywords": [
+        "family",
+        "friends",
+        "community"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_002",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Our Families and Communities",
+      "title": "Going to the Mela",
+      "concept": "Exploring cultural fairs and their significance.",
+      "explanation": "A Mela is a fun fair where people come together to enjoy rides, games, and delicious food! 🎡🍭",
+      "examples": [
+        "At the Mela, I saw colorful stalls and ate cotton candy! 🍬",
+        "There were many games to play, like ring toss and balloon darts! 🎯"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you enjoy most at a Mela?",
+          "a": "I love the rides and the yummy food!"
+        },
+        {
+          "q": "Can you name a game you played at the Mela?",
+          "a": "I played the ring toss game!"
+        }
+      ],
+      "keywords": [
+        "Mela",
+        "fair",
+        "culture"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_003",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Celebrating Festivals",
+      "title": "Celebrating Festivals",
+      "concept": "Understanding different festivals and their meanings.",
+      "explanation": "Festivals are special days when we celebrate important events with our family and friends. 🎉🎊",
+      "examples": [
+        "Diwali is a festival of lights where we decorate our homes! 🪔",
+        "Holi is a festival of colors where we play with colored powders! 🌈"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite festival?",
+          "a": "My favorite festival is Diwali because of the lights!"
+        },
+        {
+          "q": "How do you celebrate Holi?",
+          "a": "I throw colors and enjoy sweets with my friends!"
+        }
+      ],
+      "keywords": [
+        "festivals",
+        "celebration",
+        "tradition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_004",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Life Around Us",
+      "title": "Getting to Know Plants",
+      "concept": "Identifying different types of plants and their parts.",
+      "explanation": "Plants are living things that grow in the ground. They have roots, stems, leaves, and flowers! 🌱🌼",
+      "examples": [
+        "A rose plant has beautiful flowers and green leaves. 🌹",
+        "A tree has a thick trunk and many branches! 🌳"
+      ],
+      "practice_questions": [
+        {
+          "q": "What part of the plant do we see above the ground?",
+          "a": "We see the stem, leaves, and flowers above the ground."
+        },
+        {
+          "q": "Can you name a plant you like?",
+          "a": "I like sunflowers because they are so bright!"
+        }
+      ],
+      "keywords": [
+        "plants",
+        "parts of a plant",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_005",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Life Around Us",
+      "title": "Plants and Animals Live Together",
+      "concept": "Understanding the relationship between plants and animals.",
+      "explanation": "Plants and animals depend on each other for survival. Animals eat plants, and plants provide oxygen! 🌍🐾",
+      "examples": [
+        "Cows eat grass, which is a plant. 🐄🌿",
+        "Birds build nests in trees to stay safe! 🐦🌳"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do animals help plants?",
+          "a": "Animals help plants by spreading their seeds."
+        },
+        {
+          "q": "What do plants provide for animals?",
+          "a": "Plants provide food and shelter for animals."
+        }
+      ],
+      "keywords": [
+        "plants",
+        "animals",
+        "ecosystem"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_006",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Gifts of Nature",
+      "title": "Water— A Precious Gift",
+      "concept": "Understanding the importance of water in our lives.",
+      "explanation": "Water is essential for all living things. We need it to drink, cook, and grow plants! 💧🌊",
+      "examples": [
+        "We drink water to stay healthy! 🥤",
+        "Plants need water to grow big and strong! 🌿"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is water important?",
+          "a": "Water is important because it keeps us alive."
+        },
+        {
+          "q": "How do we use water at home?",
+          "a": "We use water for cooking and cleaning."
+        }
+      ],
+      "keywords": [
+        "water",
+        "importance",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_007",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Gifts of Nature",
+      "title": "Food We Eat",
+      "concept": "Exploring different types of food and their sources.",
+      "explanation": "Food comes from plants and animals. It's important to eat a variety of foods to stay healthy! 🍏🥦",
+      "examples": [
+        "Fruits like apples and bananas grow on trees. 🍎🍌",
+        "Chicken and fish are sources of protein! 🍗🐟"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite food?",
+          "a": "My favorite food is pizza!"
+        },
+        {
+          "q": "What do fruits provide for our body?",
+          "a": "Fruits provide vitamins and energy."
+        }
+      ],
+      "keywords": [
+        "food",
+        "nutrition",
+        "sources"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_008",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Gifts of Nature",
+      "title": "Staying Healthy and Happy",
+      "concept": "Understanding the importance of health and happiness.",
+      "explanation": "To stay healthy, we need to eat well, exercise, and have fun! 😊🏃‍♂️",
+      "examples": [
+        "Playing outside keeps us fit! ⚽",
+        "Eating fruits and vegetables makes us strong! 🥕"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do to stay healthy?",
+          "a": "I play sports and eat fruits."
+        },
+        {
+          "q": "How does being happy help us?",
+          "a": "Being happy makes us feel good and enjoy life!"
+        }
+      ],
+      "keywords": [
+        "health",
+        "happiness",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_009",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Things Around Us",
+      "title": "This World of Things",
+      "concept": "Identifying everyday objects and their uses.",
+      "explanation": "Everyday things around us help us in our daily lives, like books for reading and toys for fun! 📚🧸",
+      "examples": [
+        "A pencil is used for writing. ✏️",
+        "A chair is used for sitting! 🪑"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is one thing you use every day?",
+          "a": "I use my backpack to carry my books."
+        },
+        {
+          "q": "Can you name something you like to play with?",
+          "a": "I like to play with my toy car!"
+        }
+      ],
+      "keywords": [
+        "objects",
+        "everyday life",
+        "uses"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_010",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Things Around Us",
+      "title": "Making Things",
+      "concept": "Understanding the process of creating and building.",
+      "explanation": "Making things can be fun! We can create art, build with blocks, or even cook! 🎨🛠️",
+      "examples": [
+        "I made a drawing with crayons. 🖍️",
+        "We built a tower with blocks! 🏗️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like to make?",
+          "a": "I like to make crafts with paper."
+        },
+        {
+          "q": "Can you name something you built?",
+          "a": "I built a sandcastle at the beach!"
+        }
+      ],
+      "keywords": [
+        "making",
+        "creativity",
+        "building"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_the_world_around_us_011",
+      "grade": "class_3",
+      "subject": "the_world_around_us",
+      "content_type": "lesson",
+      "topic": "Things Around Us",
+      "title": "Taking Charge of Waste",
+      "concept": "Understanding the importance of waste management.",
+      "explanation": "Taking care of waste helps keep our environment clean. We can recycle and reduce waste! ♻️🌍",
+      "examples": [
+        "I put my plastic bottles in the recycling bin. 🗑️",
+        "We can use cloth bags instead of plastic bags! 👜"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is it important to recycle?",
+          "a": "Recycling helps reduce waste and save resources."
+        },
+        {
+          "q": "What can you do to help the environment?",
+          "a": "I can use less plastic and recycle more!"
+        }
+      ],
+      "keywords": [
+        "waste",
+        "recycling",
+        "environment"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

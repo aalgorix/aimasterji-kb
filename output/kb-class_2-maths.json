@@ -1,0 +1,4206 @@
+{
+  "version": "1.0",
+  "source": "class_2-maths-merged.txt",
+  "grade": "class_2",
+  "subject": "maths",
+  "generated_at": "2026-03-07T06:51:16.473Z",
+  "total_items": 165,
+  "content": [
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Counting Objects",
+      "title": "Counting at the Beach",
+      "concept": "Counting objects in groups.",
+      "explanation": "Let's count the objects we see! You can count them one by one or in groups. 🌊🐚",
+      "examples": [
+        "🍊🍊🍊🍊🍊 (5 oranges)",
+        "🐒🐒🐒 (3 children)"
+      ],
+      "practice_questions": [
+        {
+          "q": "How did you count them?",
+          "a": "I counted them one by one."
+        },
+        {
+          "q": "Did you see any animals at the seashore?",
+          "a": "Yes, I saw seagulls!"
+        }
+      ],
+      "keywords": [
+        "counting",
+        "objects",
+        "groups"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Filling in the Blanks",
+      "title": "Fill in the Blanks",
+      "concept": "Understanding quantities through fill-in-the-blank exercises.",
+      "explanation": "Look at the picture and fill in the blanks with the correct numbers! ✏️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "There are ___________ necklaces of shells.",
+          "a": "5"
+        },
+        {
+          "q": "There are ___________ groups of balloons.",
+          "a": "3"
+        }
+      ],
+      "keywords": [
+        "fill in the blanks",
+        "quantities",
+        "shells"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Surbhi's Seashells",
+      "title": "Surbhi's Seashell Adventure",
+      "concept": "Using seashells to make jewelry.",
+      "explanation": "Surbhi collected seashells to make beautiful bracelets and necklaces! 🌊💍",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "seashells",
+        "jewelry",
+        "Surbhi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Counting Chikoos",
+      "title": "Help Manoj with Chikoos",
+      "concept": "Counting items in trays.",
+      "explanation": "Manoj is selling chikoos. Let's help him count how many trays he needs! 🍐",
+      "examples": [
+        "25 chikoos = 2 trays of 10 and 5 chikoos"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many trays for 43 chikoos?",
+          "a": "4 trays of 10 and 3 chikoos."
+        },
+        {
+          "q": "How many trays for 35 chikoos?",
+          "a": "3 trays of 10 and 5 chikoos."
+        }
+      ],
+      "keywords": [
+        "chikoos",
+        "counting",
+        "trays"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Understanding Ten Strips",
+      "title": "Counting with Ten Strips",
+      "concept": "Understanding units in ten strips.",
+      "explanation": "A ten strip has 10 units. Let's count how many units are in different strips! 📏",
+      "examples": [
+        "1 ten strip = 10 units"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many units in a ten strip?",
+          "a": "10 units."
+        }
+      ],
+      "keywords": [
+        "ten strips",
+        "units",
+        "counting"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "rhyme",
+      "topic": "Tongue Twister",
+      "title": "Seashells Tongue Twister",
+      "concept": "Fun with language and sounds.",
+      "explanation": "Try saying this tongue twister! It's fun and tricky! 🗣️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "tongue twister",
+        "fun",
+        "language"
+      ],
+      "difficulty": "easy",
+      "text": "She sells seashells at the seashore."
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Making 100",
+      "title": "Let Us Make 100!",
+      "concept": "Combining ten strips to make 100.",
+      "explanation": "Let's see how we can combine different strips to make 100 units! 🎉",
+      "examples": [
+        "10 strips of 10 = 100 units"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many yellow and red units make 100?",
+          "a": "7 yellow strips and 3 red strips."
+        }
+      ],
+      "keywords": [
+        "making 100",
+        "ten strips",
+        "combination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Rolling Dice",
+      "title": "Rolling Two Dice",
+      "concept": "Understanding addition through dice rolling.",
+      "explanation": "When you roll two dice, you add the numbers together to take that many units from the bank. If you get 10 or more, you can exchange them for a ten strip! 🎲💰",
+      "examples": [
+        "If you roll a 4 and a 5, you take 9 units.",
+        "If you roll a 6 and a 5, you take 11 units and exchange for a ten strip."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "dice",
+        "addition",
+        "units"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Counting with Cards",
+      "title": "Counting through Cards",
+      "concept": "Using cards to represent groups of ten and one.",
+      "explanation": "You can use cards to help count! Each card represents a group of ten shells and one card represents one shell. 📦🐚",
+      "examples": [
+        "10 shells = 1 ten card",
+        "3 shells = 3 one cards"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "counting",
+        "cards",
+        "tens and ones"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Fill in the Blanks",
+      "title": "Complete the Following",
+      "concept": "Understanding tens and ones.",
+      "explanation": "Fill in the blanks with the correct number of tens and ones! 📝",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "So, there are total of 31 shells. Fill in the blanks: ___ tens ___ ones",
+          "a": "3 tens 1 one"
+        },
+        {
+          "q": "What is 390 in tens and ones?",
+          "a": "39 tens 0 ones"
+        }
+      ],
+      "keywords": [
+        "fill in the blanks",
+        "tens",
+        "ones"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Making Numbers",
+      "title": "Make Numbers with Cards",
+      "concept": "Forming numbers using tens and ones cards.",
+      "explanation": "You can make numbers by combining tens and ones cards! For example, to make 52, use a 50 card and a 2 card. 🎴✨",
+      "examples": [
+        "To make 27, use a 20 card and a 7 card."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "number formation",
+        "tens and ones",
+        "cards"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Comparing Numbers",
+      "title": "Which is More?",
+      "concept": "Comparing two quantities.",
+      "explanation": "Let's compare two groups of oranges! Which group has more? 🍊🍊",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Which is more in number: 43 oranges or 34 oranges?",
+          "a": "43 oranges are more because they have 4 tens."
+        },
+        {
+          "q": "Which is less: 27 oranges or 72 oranges?",
+          "a": "27 oranges are less than 72 oranges."
+        }
+      ],
+      "keywords": [
+        "comparison",
+        "more",
+        "less"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Fill in the Blanks",
+      "title": "More or Less",
+      "concept": "Understanding greater and lesser values.",
+      "explanation": "Fill in the blanks with 'more' or 'less' to compare the numbers! 🆚",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "67 chikoos are _______ than 76 chikoos.",
+          "a": "less"
+        },
+        {
+          "q": "53 shells are _______ than 35 shells.",
+          "a": "more"
+        }
+      ],
+      "keywords": [
+        "more",
+        "less",
+        "comparison"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Flash Card Game",
+      "title": "Make Two-Digit Numbers",
+      "concept": "Creating two-digit numbers with flash cards.",
+      "explanation": "Use flash cards to create two-digit numbers! Can you make a number greater than 50? 🎴🔢",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Which is the smallest two-digit number you can make?",
+          "a": "10"
+        },
+        {
+          "q": "Which is the largest two-digit number you can make?",
+          "a": "99"
+        }
+      ],
+      "keywords": [
+        "flash cards",
+        "two-digit numbers",
+        "game"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Play with Numbers",
+      "title": "Finding the Largest Number",
+      "concept": "Identifying the largest number using the same digits.",
+      "explanation": "Let's play with numbers! You can rearrange the digits to find the largest number possible. For example, with the digits 3, 5, and 7, the largest number you can make is 753! 🎉",
+      "examples": [
+        "Digits: 5, 3, 2 ➡️ Largest number: 532",
+        "Digits: 9, 1, 4 ➡️ Largest number: 941"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the largest number you can make with the digits 6, 2, and 1?",
+          "a": "621"
+        },
+        {
+          "q": "What is the largest number you can make with the digits 8, 0, and 3?",
+          "a": "830"
+        }
+      ],
+      "keywords": [
+        "largest number",
+        "digits",
+        "arrangement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Play with Numbers",
+      "title": "Make Your Own Questions",
+      "concept": "Creating questions about two-digit numbers.",
+      "explanation": "Now it's your turn! Can you think of your own questions about two-digit numbers? Try to describe them like in the examples! 🤔",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "two-digit numbers",
+        "questions",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Mark by Passing the Path",
+      "title": "Decreasing Order Challenge",
+      "concept": "Arranging numbers in decreasing order.",
+      "explanation": "Can you start from the largest number and go to the smallest? Make sure to pass through each number at least once! 🚀",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "decreasing order",
+        "numbers",
+        "challenge"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Vallam Kali",
+      "title": "The Snake Boat Race",
+      "concept": "Understanding positions in a race.",
+      "explanation": "In Kerala, there's a fun race called Vallam Kali! Let's see which boat is in the lead and where others are positioned. 🐍🚣‍♂️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Which colour boat came first in the race?",
+          "a": "__________"
+        },
+        {
+          "q": "Which colour boat is likely to come third?",
+          "a": "__________"
+        },
+        {
+          "q": "At which positions are blue and green boats?",
+          "a": "__________"
+        },
+        {
+          "q": "Write the position of pink and orange boats.",
+          "a": "__________ __________"
+        }
+      ],
+      "keywords": [
+        "Vallam Kali",
+        "boat race",
+        "positions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Calendar Questions",
+      "title": "Reading the Calendar",
+      "concept": "Understanding dates and events on a calendar.",
+      "explanation": "Let's look at the calendar for August! Can you find out when Onam and Independence Day are celebrated? 📅🎉",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Onam will be celebrated on which day of the month?",
+          "a": "__________"
+        },
+        {
+          "q": "When is Independence Day celebrated?",
+          "a": "__________"
+        },
+        {
+          "q": "When is Raksha Bandhan in August?",
+          "a": "__________"
+        }
+      ],
+      "keywords": [
+        "calendar",
+        "dates",
+        "events"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Shapes Around Us",
+      "title": "Identifying Shapes of Musical Instruments",
+      "concept": "Recognizing shapes of different musical instruments.",
+      "explanation": "Look at the musical instruments! Can you find which ones are shaped like a drum or a matka? Let's explore shapes together! 🎶🔍",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Circle the musical instruments that are similar in shape to a drum.",
+          "a": "__________"
+        },
+        {
+          "q": "Tick the musical instruments that are similar in shape to a matka.",
+          "a": "__________"
+        },
+        {
+          "q": "How is the shape of harmonium different from the shape of a drum?",
+          "a": "__________"
+        }
+      ],
+      "keywords": [
+        "shapes",
+        "musical instruments",
+        "recognition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Solid Shapes",
+      "title": "Understanding Faces, Edges, and Corners",
+      "concept": "Identifying faces, edges, and corners of solid objects.",
+      "explanation": "Let's explore solid shapes! A cube has 6 faces, 12 edges, and 8 corners. Can you find objects around you that have these features? 🧊📦",
+      "examples": [
+        "Cube: 6 faces, 12 edges, 8 corners",
+        "Cuboid: 6 faces, 12 edges, 8 corners"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many stars do we need for a cube?",
+          "a": "6 stars for the 6 faces."
+        },
+        {
+          "q": "How many edges does a cuboid have?",
+          "a": "12 edges."
+        }
+      ],
+      "keywords": [
+        "solid shapes",
+        "faces",
+        "edges",
+        "corners"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Decorating Shapes",
+      "title": "How Many Items Do We Need?",
+      "concept": "Calculating the number of decorative items for solid shapes.",
+      "explanation": "Let's decorate shapes! If a cube has 6 faces, how many stars do we need? Let's count together! 🌟✨",
+      "examples": [
+        "Cube: 6 stars, 12 ribbon stripes, 8 pompom balls"
+      ],
+      "practice_questions": [
+        {
+          "q": "For a cuboid, how many stars do we need?",
+          "a": "6 stars."
+        },
+        {
+          "q": "For a cone, how many edges does it have?",
+          "a": "1 edge."
+        }
+      ],
+      "keywords": [
+        "counting",
+        "decorating",
+        "shapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "activity",
+      "topic": "Touch and Tell",
+      "title": "Guess the Object",
+      "concept": "Identifying objects based on their features.",
+      "explanation": "Blindfold your friend and let them guess the object you describe! Can they find something with 3 corners? 🤔👀",
+      "examples": [
+        "Object with 0 corners: sphere",
+        "Object with 3 corners: triangle"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "guessing game",
+        "features",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Number Counting",
+      "title": "Fun with Ginladi",
+      "concept": "Counting beads and recognizing numbers.",
+      "explanation": "Let's count the beads on the ginladi! How many beads do you see? Let's write the numbers together! 🎉🔢",
+      "examples": [
+        "Count the beads: 3 beads",
+        "Write numbers: 38, 44, 58, 65, 98"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many beads are there in ginladi?",
+          "a": "3 beads."
+        },
+        {
+          "q": "What number comes after 44?",
+          "a": "45."
+        }
+      ],
+      "keywords": [
+        "counting",
+        "numbers",
+        "ginladi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "activity",
+      "topic": "Guess My Number",
+      "title": "Number Guessing Game",
+      "concept": "Playing a guessing game with numbers.",
+      "explanation": "Think of a number and let your friends guess it! They can ask yes/no questions. Can they guess your number in 10 questions? 🤔🎲",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "guessing game",
+        "numbers",
+        "questions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "activity",
+      "topic": "Number Line Fun",
+      "title": "Ants on a Number Line",
+      "concept": "Identifying positions on a number line.",
+      "explanation": "Draw ants on the number line! Where do they sit? Let's find out together! 🐜📏",
+      "examples": [
+        "Black ant on number 30",
+        "Red ant on number 50"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "number line",
+        "positions",
+        "ants"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "rhyme",
+      "topic": "Jumping Frog",
+      "title": "The Jumping Frog",
+      "concept": "Observing patterns in jumping.",
+      "explanation": "Look at how Jumpy the frog jumps! Can you see the pattern? 🐸✨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "jumping",
+        "pattern",
+        "frog"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Number Line",
+      "title": "Creating a Number Line",
+      "concept": "Understanding numbers through a number line.",
+      "explanation": "Let's make a number line on the ground! 🌍 You can jump on it and explore numbers. If you jump in steps of two, which numbers will you land on? 🤔",
+      "examples": [
+        "Jumping from 0: 0, 2, 4, 6, 8, 10..."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "number line",
+        "jumping",
+        "counting"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Patterns",
+      "title": "Completing Patterns",
+      "concept": "Recognizing and completing number patterns.",
+      "explanation": "Can you fill in the missing numbers in these patterns? Let's see how good you are at spotting patterns! 🕵️‍♂️",
+      "examples": [
+        "1, 4, 7, ___, ___, ___, ___",
+        "40, 45, 50, ___, ___, ___, ___, ___"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "patterns",
+        "numbers",
+        "missing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Skip Counting",
+      "title": "Skip Counting Practice",
+      "concept": "Learning skip counting by twos and fives.",
+      "explanation": "Let's skip count! 🎉 Draw on the number chart while skip counting by twos and fives. Can you find the common numbers? 🤩",
+      "examples": [
+        "Skip counting by twos: 2, 4, 6, 8...",
+        "Skip counting by fives: 5, 10, 15, 20..."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "skip counting",
+        "twos",
+        "fives"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Jumping Questions",
+      "title": "Jump and Find the Answers",
+      "concept": "Using jumping to solve counting questions.",
+      "explanation": "Jump on your number line and answer these questions! 🤸‍♂️ Will you land on the numbers mentioned? Let's find out!",
+      "examples": [
+        "If you start from 10 and jump in tens, will you land on 100?"
+      ],
+      "practice_questions": [
+        {
+          "q": "If you start from 5 and count in fives, will you jump on number 40?",
+          "a": "Yes or No"
+        },
+        {
+          "q": "If you start from 4 and count in twos, will you jump on number 17?",
+          "a": "Yes or No"
+        }
+      ],
+      "keywords": [
+        "jumping",
+        "counting",
+        "questions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Backward Counting",
+      "title": "Let Us Jump Backward",
+      "concept": "Understanding backward counting.",
+      "explanation": "Let's count backward! 🔙 What comes just before these numbers? Can you fill in the blanks? 📝",
+      "examples": [
+        "10, 9, 8, ___",
+        "40, 37, 34, ___"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "backward counting",
+        "patterns",
+        "numbers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Explaining Counting",
+      "title": "Discuss Counting Questions",
+      "concept": "Explaining counting scenarios.",
+      "explanation": "Let's discuss these counting scenarios! 🤔 Why will Rizwan not say 19 if he starts from 20? Let's think together! 💭",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Will Rizwan say 19 if he starts counting from 20?",
+          "a": "No, because he starts from 20."
+        },
+        {
+          "q": "Will Chavi say 43 if she counts in twos from 10?",
+          "a": "No, because 43 is not in her count."
+        }
+      ],
+      "keywords": [
+        "counting",
+        "discussion",
+        "explanation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Number Patterns",
+      "title": "Exploring Number Patterns",
+      "concept": "Identifying patterns in numbers.",
+      "explanation": "Let's look at the number chart! Can you find what comes just before 10, 20, 30, and 40? 🌟 Numbers follow patterns, and we can discover them together!",
+      "examples": [
+        "Before 10 is 9 🍎",
+        "Before 20 is 19 🍎"
+      ],
+      "practice_questions": [
+        {
+          "q": "What comes just before 10?",
+          "a": "9"
+        },
+        {
+          "q": "What comes just before 20?",
+          "a": "19"
+        },
+        {
+          "q": "What comes just before 30?",
+          "a": "29"
+        },
+        {
+          "q": "What comes just before 40?",
+          "a": "39"
+        }
+      ],
+      "keywords": [
+        "patterns",
+        "numbers",
+        "chart"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Number Patterns",
+      "title": "Fill in the Missing Numbers",
+      "concept": "Completing number sequences.",
+      "explanation": "Look at the green numbers in the number chart: 1, 12, 23, ____, ____, ____, ____, ____, ____, ____. Can you fill in the blanks? 📝",
+      "examples": [
+        "1, 12, 23, 34, 45, 56, 67, 78, 89, 100"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "missing numbers",
+        "sequences",
+        "patterns"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Number Grid",
+      "title": "Number Window Activity",
+      "concept": "Finding numbers around a central number.",
+      "explanation": "If the center of your number window is on 28, can you tell me which numbers are above, below, to the right, and to the left? 🔍",
+      "examples": [
+        "Above 28 is 18 🍏",
+        "Below 28 is 38 🍏"
+      ],
+      "practice_questions": [
+        {
+          "q": "What number is above 28?",
+          "a": "18"
+        },
+        {
+          "q": "What number is below 28?",
+          "a": "38"
+        },
+        {
+          "q": "What number is on the right of 28?",
+          "a": "29"
+        },
+        {
+          "q": "What number is on the left of 28?",
+          "a": "27"
+        }
+      ],
+      "keywords": [
+        "number grid",
+        "position",
+        "activity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "game",
+      "topic": "Bingo",
+      "title": "Let us Play — Bingo!",
+      "concept": "Playing Bingo to reinforce number recognition.",
+      "explanation": "Let's play Bingo! 🎉 Fill a 3 × 4 grid with numbers from 2 to 12. When a child rolls two dice, they will call out the sum, and you cross it off your grid. The first to cross all wins!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Bingo",
+        "game",
+        "numbers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Shadow Play",
+      "title": "Nakul and the Shadow Play",
+      "concept": "Understanding shadows through a story.",
+      "explanation": "Nakul and his friends saw a shadow play called Togalu Gombeyaata at a village fair. They were amazed and wanted to create their own shadows! 🌟 Can you make shadows with your fingers too?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "shadow",
+        "story",
+        "Togalu Gombeyaata"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Shadows",
+      "title": "Fun with Shadows",
+      "concept": "Observing shadows and their changes.",
+      "explanation": "Put a torchlight on objects around you and see how their shadows change! 🌞 When is your shadow longest? When is it shortest? Let's find out!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Will the size of shadows change if you move the torch?",
+          "a": "Yes, it will!"
+        },
+        {
+          "q": "When is your shadow longest?",
+          "a": "In the morning or evening."
+        },
+        {
+          "q": "When does a shadow vanish?",
+          "a": "When there is no light."
+        }
+      ],
+      "keywords": [
+        "shadows",
+        "observation",
+        "light"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Tracing Shapes",
+      "title": "Let us Trace",
+      "concept": "Tracing and drawing shapes of objects.",
+      "explanation": "Trace the shapes of objects around you like an eraser or a leaf. ✏️ Then, draw the shapes you see! What fun shapes can you create?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "tracing",
+        "shapes",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_041",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Shapes and Hiding",
+      "title": "Hide and Seek with Shapes",
+      "concept": "Understanding shapes through a fun game.",
+      "explanation": "Circle and Rectangle are playing hide and seek! Can you help them find good hiding spots? 🌟",
+      "examples": [
+        "Circle can hide behind a clock 🕰️",
+        "Rectangle can hide in a shoe box 📦"
+      ],
+      "practice_questions": [
+        {
+          "q": "Where can Circle hide?",
+          "a": "Circle can hide in the clock, ball, or behind a book."
+        },
+        {
+          "q": "Where can Rectangle hide?",
+          "a": "Rectangle can hide in the shoe box, photo frame, or under the table."
+        },
+        {
+          "q": "Where can Triangle and Square hide?",
+          "a": "Triangle can hide in a corner, and Square can hide behind a chair."
+        }
+      ],
+      "keywords": [
+        "shapes",
+        "hide and seek",
+        "circle",
+        "rectangle",
+        "triangle",
+        "square"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_042",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Shapes Playing Together",
+      "title": "Shapes Join the Game",
+      "concept": "Shapes interacting and playing together.",
+      "explanation": "Triangle and Square join Circle and Rectangle in a fun game of hide and seek! Can you guess where they hide? 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "shapes",
+        "game",
+        "hide and seek"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_043",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Colouring Shapes",
+      "title": "Colour the Carpet",
+      "concept": "Identifying shapes and coloring them.",
+      "explanation": "Let's color the shapes! 🎨 Can you color the triangles red, circles green, rectangles yellow, and squares blue?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "coloring",
+        "shapes",
+        "triangles",
+        "circles",
+        "rectangles",
+        "squares"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_044",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Catch the Corner!",
+      "title": "Catch the Corner Game",
+      "concept": "Understanding corners and edges through a game.",
+      "explanation": "In this game, you need to stand near the corners! Can you name the children near the corners? 🏃‍♂️🏃‍♀️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Name the children standing near the corners of the table.",
+          "a": "Udit, Paramjeet, Wasim, Naysa, Seema, Naveen."
+        },
+        {
+          "q": "Can this game be played around a round table? Why or why not?",
+          "a": "No, because round tables don't have corners!"
+        }
+      ],
+      "keywords": [
+        "corners",
+        "edges",
+        "game"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_045",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Exploring Edges and Corners",
+      "title": "Explore Edges and Corners",
+      "concept": "Identifying edges and corners in everyday objects.",
+      "explanation": "Look around you! Can you find objects with edges and corners? 🏠📏",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "edges",
+        "corners",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_046",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Origami Fun",
+      "title": "Make a Paper Dog",
+      "concept": "Creating shapes through origami.",
+      "explanation": "Let's fold a paper to make a cute dog! 🐶 How many corners does it have?",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How many corners do objects with curved edges have?",
+          "a": "Curved edges have no corners."
+        },
+        {
+          "q": "Can you fold the square sheet to get a shape with 4 sides?",
+          "a": "Yes, it will still have 4 corners!"
+        }
+      ],
+      "keywords": [
+        "origami",
+        "shapes",
+        "folding"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_047",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Patterns",
+      "title": "Create Your Own Patterns",
+      "concept": "Making patterns with different shapes.",
+      "explanation": "Use bottle caps, erasers, and other objects to create fun patterns! 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "patterns",
+        "shapes",
+        "design"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_048",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Leaf Patterns",
+      "title": "Make Leaf Patterns",
+      "concept": "Creating patterns using leaves.",
+      "explanation": "Collect leaves and paint them to make beautiful patterns! 🍃",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "leaves",
+        "patterns",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_049",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Project Work",
+      "title": "Wall Hanging with Shapes",
+      "concept": "Creating a wall hanging using different shapes.",
+      "explanation": "Get creative and make a wall hanging with cutouts of shapes! 🖼️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "project",
+        "shapes",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Patterns",
+      "title": "Extending Patterns",
+      "concept": "Learn how to extend patterns using letters.",
+      "explanation": "Patterns are sequences that repeat. For example, if we have AB, BC, CD, we can continue the pattern! Let's see how it works! 🌈",
+      "examples": [
+        "AB, BC, CD, DE, EF",
+        "AA, BB, CC, DD, EE"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "patterns",
+        "sequences",
+        "letters"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Number Patterns",
+      "title": "Extending Number Patterns",
+      "concept": "Extend given number patterns.",
+      "explanation": "Let's help Kikku's mother by extending the number pattern! If we start with 1, 6, 11, what comes next? 🤔",
+      "examples": [
+        "1, 6, 11, 16, 21, 26",
+        "5, 10, 15, 20, 25",
+        "7, 14, 21, 28, 35"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "number patterns",
+        "extension",
+        "sequences"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Yoga and Lines",
+      "title": "Identifying Lines in Yoga Poses",
+      "concept": "Recognize different types of lines in yoga poses.",
+      "explanation": "In yoga, we can see many lines! Let's circle, tick, and cross the aasanas based on the lines they have! 🧘‍♂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "yoga",
+        "lines",
+        "aasanas"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Types of Lines",
+      "title": "Tracing Lines",
+      "concept": "Identify and trace different types of lines.",
+      "explanation": "Let's trace the missing lines! Can you find the straight, slanting, and curved lines? 🖊️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "lines",
+        "tracing",
+        "shapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Creating Shapes",
+      "title": "Making Shapes with Lines",
+      "concept": "Create new shapes using straight lines.",
+      "explanation": "Let's make new shapes using vertical, horizontal, and slanting lines! What can you create? 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "shapes",
+        "lines",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Curved Lines",
+      "title": "Drawing with Curved Lines",
+      "concept": "Draw figures using curved lines.",
+      "explanation": "Let's draw clouds and rainbows using curved lines! 🌥️🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "curved lines",
+        "drawing",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Designing with Lines",
+      "title": "Creating Designs",
+      "concept": "Make designs using different types of lines.",
+      "explanation": "Use different types of lines to create your own design! How many types can you use? 🖌️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "design",
+        "lines",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_008",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "project",
+      "topic": "Fun with Folding",
+      "title": "Exploring Creases",
+      "concept": "Discover lines created by folding paper.",
+      "explanation": "When we fold paper, we create creases! Let's see how many we can make together! ✂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "paper folding",
+        "creases",
+        "lines"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_009",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Decoration for Celebration",
+      "title": "Counting Flowers",
+      "concept": "Learn to count and add flowers for decoration.",
+      "explanation": "Rohan and his friends need flowers for their garlands. Let's count how many flowers they have together! 🌸",
+      "examples": [
+        "Rohan has 10 flowers, Suwali has 2 flowers, together they have 12 flowers."
+      ],
+      "practice_questions": [
+        {
+          "q": "How many flowers are used by Rohan and Suwali together?",
+          "a": "12 flowers."
+        }
+      ],
+      "keywords": [
+        "counting",
+        "addition",
+        "flowers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Addition of Two-Digit Numbers",
+      "title": "Adding Flowers",
+      "concept": "Learn to add two-digit numbers using flowers as an example.",
+      "explanation": "Let's count the flowers! 🌸 If Zoha has 20 flowers and Javed has 43 flowers, how many do they have together? We add them like this: 20 + 43 = 63! 🌼",
+      "examples": [
+        "Zoha has 20 flowers 🌼, Javed has 43 flowers 🌸, together they have 63 flowers 🌺."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the total number of flowers used by Zoha and Akash?",
+          "a": "20 + 0 = 20"
+        },
+        {
+          "q": "How many flowers are used by Zoha and Javed in all?",
+          "a": "20 + 43 = 63"
+        }
+      ],
+      "keywords": [
+        "addition",
+        "two-digit numbers",
+        "flowers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Breaking Down Numbers",
+      "title": "Understanding Addition",
+      "concept": "Break down numbers to make addition easier.",
+      "explanation": "We can break down numbers to add them easily! For example, 57 + 34 can be done as 57 + 30 + 4 = 91! 🎉",
+      "examples": [
+        "57 + 34 = 57 + 30 + 4 = 91"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 24 + 43?",
+          "a": "24 + 40 + 3 = 67"
+        }
+      ],
+      "keywords": [
+        "breaking down numbers",
+        "addition",
+        "easy math"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Addition on a Number Line",
+      "title": "Using the Number Line",
+      "concept": "Learn to add using a number line.",
+      "explanation": "A number line helps us visualize addition! 🌈 Count the steps on the line to find the answer.",
+      "examples": [
+        "Using a number line: 0 to 10, jump 10 and then 4 to reach 14."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 22 + ___ = 38?",
+          "a": "16"
+        },
+        {
+          "q": "What is 18 + ___ = 24?",
+          "a": "6"
+        }
+      ],
+      "keywords": [
+        "number line",
+        "visual learning",
+        "addition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Playing with Blocks",
+      "title": "Mahi and Isha's Blocks",
+      "concept": "Adding blocks together.",
+      "explanation": "Mahi has some blocks and Isha brings her blocks too! Let's find out how many blocks they have together. 🧱",
+      "narrative": "Mahi has 23 blocks and Isha has 38 blocks. Together, they have 61 blocks! Let's add them up: 23 + 38 = 61. 🎉",
+      "keywords": [
+        "blocks",
+        "addition",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Real-Life Addition Problems",
+      "title": "Solving Real-Life Problems",
+      "concept": "Apply addition to real-life scenarios.",
+      "explanation": "Let's solve some real-life problems using addition! 🤔",
+      "examples": [
+        "Rahim made 43 runs in one match and 58 runs in another. How many runs did he make in total?"
+      ],
+      "practice_questions": [
+        {
+          "q": "Simarpreet had 12 color pencils. Her mother gifted her 36 more. How many does she have now?",
+          "a": "48"
+        },
+        {
+          "q": "Heena collected 34 red marbles and 57 blue marbles. How many total marbles does she have?",
+          "a": "91"
+        },
+        {
+          "q": "Sarika spent ₹56 in the fair, while Manish spent ₹35. How much did they spend together?",
+          "a": "₹91"
+        }
+      ],
+      "keywords": [
+        "real-life problems",
+        "addition",
+        "math"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Subtraction",
+      "title": "Counting Diyas",
+      "concept": "Understanding subtraction through counting objects.",
+      "explanation": "If you have 75 diyas and sold 35, you can find out how many are left by subtracting. Let's count together! 🍎🍎🍎",
+      "examples": [
+        "75 - 35 = 40",
+        "32 - 12 = 20"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many diyas are left if I have 75 and sold 35?",
+          "a": "40"
+        },
+        {
+          "q": "If I have 32 diyas and sold 12, how many are left?",
+          "a": "20"
+        }
+      ],
+      "keywords": [
+        "subtraction",
+        "diyas",
+        "counting"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Subtraction on Number Line",
+      "title": "Using the Ginladi",
+      "concept": "Using a number line to visualize subtraction.",
+      "explanation": "We can use a number line (ginladi) to help us subtract! Just count backwards from the number you start with. 🎈",
+      "examples": [
+        "19 - 15 = 4",
+        "30 - 18 = 12"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 26 - 12?",
+          "a": "14"
+        },
+        {
+          "q": "What is 39 - 28?",
+          "a": "11"
+        }
+      ],
+      "keywords": [
+        "number line",
+        "ginladi",
+        "subtraction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Subtraction Practice",
+      "title": "Fill in the Blanks",
+      "concept": "Practice subtraction with number lines.",
+      "explanation": "Let's practice subtraction by filling in the blanks! 📝",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "26 - ___ = 14",
+          "a": "12"
+        },
+        {
+          "q": "39 - 28 = ___",
+          "a": "11"
+        },
+        {
+          "q": "38 - 11 = ___",
+          "a": "27"
+        },
+        {
+          "q": "22 - 22 = ___",
+          "a": "0"
+        },
+        {
+          "q": "14 - 0 = ___",
+          "a": "14"
+        }
+      ],
+      "keywords": [
+        "subtraction",
+        "practice",
+        "number line"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Real-Life Applications",
+      "title": "Money Subtraction",
+      "concept": "Applying subtraction to money management.",
+      "explanation": "Let's see how subtraction helps us manage money! 💰 If you have some money and buy something, you subtract the cost.",
+      "examples": [
+        "Shikha has ₹82, bought pencils for ₹22, left with ₹60.",
+        "Ruby has ₹60, bought a notebook for ₹20, left with ₹40."
+      ],
+      "practice_questions": [
+        {
+          "q": "If Shikha has ₹82 and spends ₹22, how much does she have left?",
+          "a": "₹60"
+        },
+        {
+          "q": "If Ruby has ₹60 and spends ₹20, how much does she have left?",
+          "a": "₹40"
+        }
+      ],
+      "keywords": [
+        "money",
+        "subtraction",
+        "real-life"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Subtraction",
+      "title": "Finding Remaining Flowers",
+      "concept": "Subtracting to find out how many flowers are left.",
+      "explanation": "Jyoti has some flowers and gives a few away. Let's find out how many she has left! 🌸",
+      "examples": [
+        "28 flowers - 5 flowers = 23 flowers left 🌼"
+      ],
+      "practice_questions": [
+        {
+          "q": "Jyoti has 54 flowers and gives 28 to her mother. How many flowers is she left with?",
+          "a": "26 flowers"
+        },
+        {
+          "q": "Jyoti has 73 flowers and gives 47 to her mother. How many flowers is she left with?",
+          "a": "26 flowers"
+        }
+      ],
+      "keywords": [
+        "subtraction",
+        "flowers",
+        "remaining"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Subtraction Practice",
+      "title": "Let us Do",
+      "concept": "Practice subtraction problems.",
+      "explanation": "Let's solve these subtraction problems together! 🧮",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "45 - 18 = ?",
+          "a": "27"
+        },
+        {
+          "q": "84 - 37 = ?",
+          "a": "47"
+        },
+        {
+          "q": "65 - 45 = ?",
+          "a": "20"
+        },
+        {
+          "q": "27 - 27 = ?",
+          "a": "0"
+        },
+        {
+          "q": "93 - 48 = ?",
+          "a": "45"
+        }
+      ],
+      "keywords": [
+        "subtraction",
+        "practice",
+        "math problems"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Skip Counting",
+      "title": "Skip the Rope",
+      "concept": "Using subtraction to find out how many more skips are needed.",
+      "explanation": "Aman and Avni are playing a fun game of skipping rope! Let's see how many more skips they need to complete 20! 🤸‍♂️",
+      "examples": [
+        "Aman skipped 14 times. How many more does he need? 20 - 14 = 6 more skips!"
+      ],
+      "practice_questions": [
+        {
+          "q": "Aman skipped 14 times. How many more skips does he need to make to complete 20 skips?",
+          "a": "6 skips"
+        },
+        {
+          "q": "Avni skipped 12 times. How many more skips does she need to make to complete 20 skips?",
+          "a": "8 skips"
+        }
+      ],
+      "keywords": [
+        "skip counting",
+        "subtraction",
+        "games"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Shell Collection",
+      "title": "Let us Do",
+      "concept": "Solving real-life subtraction problems.",
+      "explanation": "Let's help Anushka and others with their collections! 🐚",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Anushka collected 63 shells and gave 26 to her brother. How many shells are left?",
+          "a": "37 shells"
+        },
+        {
+          "q": "54 passengers were sitting in the bus and 16 got down. How many are there now?",
+          "a": "38 passengers"
+        },
+        {
+          "q": "There were 40 balloons and 13 burst. How many are left?",
+          "a": "27 balloons"
+        },
+        {
+          "q": "Kanika made 72 bangles and sold 36. How many are left?",
+          "a": "36 bangles"
+        },
+        {
+          "q": "56 birds were sitting on the tree. Now there are 87 birds. How many came later?",
+          "a": "31 birds"
+        },
+        {
+          "q": "Arman dribbled the ball 18 times. How many more to complete 35 taps?",
+          "a": "17 more taps"
+        }
+      ],
+      "keywords": [
+        "real-life problems",
+        "subtraction",
+        "collections"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Addition and Subtraction Facts",
+      "title": "Fact Families",
+      "concept": "Understanding addition and subtraction relationships.",
+      "explanation": "Let's fill in the missing numbers to see how addition and subtraction are related! 🔢",
+      "examples": [
+        "20 + 30 = 50, 50 - 20 = 30"
+      ],
+      "practice_questions": [
+        {
+          "q": "20 + 30 = ?",
+          "a": "50"
+        },
+        {
+          "q": "30 + ? = 50",
+          "a": "20"
+        },
+        {
+          "q": "50 - ? = 20",
+          "a": "30"
+        },
+        {
+          "q": "? - 20 = 30",
+          "a": "50"
+        }
+      ],
+      "keywords": [
+        "fact families",
+        "addition",
+        "subtraction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Raja Jagdeep's Bed",
+      "title": "A Beautiful Carved Bed",
+      "concept": "Understanding measurements through a story.",
+      "explanation": "Once upon a time, Raja Jagdeep wanted to make a beautiful carved bed for his queen. Let's see how he planned it! 🛏️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "measurements",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Measurement",
+      "title": "Understanding Handspans",
+      "concept": "Measuring lengths using handspans.",
+      "explanation": "A handspan is the distance from the tip of your thumb to the tip of your little finger when your hand is stretched out. Let's see how many handspans different objects are!",
+      "examples": [
+        "1, 2... 8 handspans for a bed 🛏️",
+        "1, 2, 3... 14 handspans for a table 📏"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many handspans is your desk?",
+          "a": "Count and measure!"
+        }
+      ],
+      "keywords": [
+        "measurement",
+        "handspan",
+        "length"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Path Measurement",
+      "title": "Choosing Paths",
+      "concept": "Finding the longest and shortest paths.",
+      "explanation": "When you need to go somewhere, you can choose different paths. Let's find out which one is the longest and which one is the shortest! 🚶‍♂️",
+      "examples": [
+        "Path A is longer than Path B.",
+        "Path B is shorter than Path A."
+      ],
+      "practice_questions": [
+        {
+          "q": "Which path should Kavita take to reach school fast?",
+          "a": "The shortest path!"
+        }
+      ],
+      "keywords": [
+        "path",
+        "longest",
+        "shortest"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Block Measurement",
+      "title": "How Many Blocks?",
+      "concept": "Estimating height using blocks.",
+      "explanation": "Let's stack some blocks to see how tall our toys are! 🧸 How many blocks tall is each toy?",
+      "examples": [
+        "The giraffe is _________ blocks tall.",
+        "The monkey is _________ blocks tall."
+      ],
+      "practice_questions": [
+        {
+          "q": "How tall is your toy?",
+          "a": "Count the blocks!"
+        }
+      ],
+      "keywords": [
+        "blocks",
+        "height",
+        "toys"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Weight Comparison",
+      "title": "Pumpkin's Chaupal",
+      "concept": "Comparing weights of vegetables.",
+      "explanation": "Let's see which vegetables are heavier or lighter! 🥕🍉 Can you guess if a pumpkin is heavier than a watermelon?",
+      "examples": [
+        "Muskmelon is heavier than carrot.",
+        "Capsicum is lighter than ________."
+      ],
+      "practice_questions": [
+        {
+          "q": "Which is the heaviest vegetable?",
+          "a": "Fill in the blanks!"
+        }
+      ],
+      "keywords": [
+        "weight",
+        "comparison",
+        "vegetables"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Making a Balance",
+      "title": "Make Your Own Balance",
+      "concept": "Creating a balance to compare weights.",
+      "explanation": "Let's make a balance using a paper cup and a hanger! ⚖️ You can compare the weights of different objects like an eraser and a ball.",
+      "examples": [
+        "Circle the heaviest object.",
+        "Circle the lightest object."
+      ],
+      "practice_questions": [
+        {
+          "q": "What did you find heavier?",
+          "a": "Compare your objects!"
+        }
+      ],
+      "keywords": [
+        "balance",
+        "weight",
+        "comparison"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Fruits in the Park",
+      "title": "Watermelon and Mango",
+      "concept": "Understanding balance through a fun story.",
+      "explanation": "Watermelon wants to play on the see-saw but needs help from his mango friends to balance! 🍉🍑",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How many mangoes will balance the watermelon?",
+          "a": "Count the mangoes in the picture!"
+        }
+      ],
+      "keywords": [
+        "story",
+        "balance",
+        "fruits"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Weight Measurement",
+      "title": "Finding Your Weight",
+      "concept": "Understanding weight and comparison.",
+      "explanation": "Let's find out how much you weigh! You can check your weight at home or at the doctor’s office. 🏥",
+      "examples": [
+        "If you weigh 30 kg, how much do your friends weigh?"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your weight?",
+          "a": "Your weight is ___ kg."
+        },
+        {
+          "q": "Name someone who weighs almost the same as you.",
+          "a": "___ weighs almost the same as me."
+        },
+        {
+          "q": "Who weighs more than you?",
+          "a": "___ weighs more than me."
+        },
+        {
+          "q": "Who weighs less than you?",
+          "a": "___ weighs less than me."
+        }
+      ],
+      "keywords": [
+        "weight",
+        "comparison",
+        "measurement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "project",
+      "topic": "Making Nimbu Pani",
+      "title": "Ingredients for Nimbu Pani",
+      "concept": "Learning to measure ingredients.",
+      "explanation": "Raghu made nimbu pani for his grandma! 🍋 Let's help him make it for himself and his friends.",
+      "examples": [
+        "1 glass of water, 1 spoon of sugar, 2 spoons of lemon juice."
+      ],
+      "practice_questions": [
+        {
+          "q": "How much water do you need for 3 glasses?",
+          "a": "3 glasses of water."
+        },
+        {
+          "q": "How much sugar do you need for 3 glasses?",
+          "a": "3 spoons of sugar."
+        },
+        {
+          "q": "How much lemon juice do you need for 3 glasses?",
+          "a": "6 spoons of lemon juice."
+        },
+        {
+          "q": "How much salt do you need for 3 glasses?",
+          "a": "3 pinches of salt."
+        }
+      ],
+      "keywords": [
+        "ingredients",
+        "nimbu pani",
+        "measurement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Water Measurement",
+      "title": "How Much Water Fits?",
+      "concept": "Comparing the capacity of bottles.",
+      "explanation": "Raghu's bottle holds 4 glasses of water. How about yours? 🥤 Let's find out!",
+      "examples": [
+        "If your bottle holds 5 glasses, how much more can it hold than Raghu's?"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many glasses of water can fill your bottle?",
+          "a": "My bottle can fill ___ glasses."
+        },
+        {
+          "q": "How many glasses can fill your friend's bottle?",
+          "a": "My friend's bottle can fill ___ glasses."
+        },
+        {
+          "q": "Does your friend's bottle fill with equal, more, or less water?",
+          "a": "It fills with ___."
+        }
+      ],
+      "keywords": [
+        "capacity",
+        "water",
+        "comparison"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "project",
+      "topic": "Jal Tarang",
+      "title": "Making Music with Water",
+      "concept": "Exploring sound with water levels.",
+      "explanation": "Let's make a jal tarang! Fill glasses with different water levels and tap them to hear sounds. 🎶",
+      "examples": [
+        "Fill one glass halfway and another full to see how the sound changes."
+      ],
+      "practice_questions": [
+        {
+          "q": "What sounds do you hear when you tap the glasses?",
+          "a": "I hear ___."
+        },
+        {
+          "q": "How does the sound change with different water levels?",
+          "a": "The sound changes because ___."
+        }
+      ],
+      "keywords": [
+        "music",
+        "water",
+        "experiment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Addition and Grouping",
+      "title": "Counting Wheels",
+      "concept": "Understanding addition through grouping.",
+      "explanation": "Let's count the wheels of cars, bicycles, and autorickshaws! 🚗 How many wheels do we have in total?",
+      "examples": [
+        "7 cars with 4 wheels each means 7 times 4 equals 28 wheels."
+      ],
+      "practice_questions": [
+        {
+          "q": "How many wheels are there in 2 autorickshaws?",
+          "a": "There are 6 wheels."
+        },
+        {
+          "q": "How many wheels are there in 4 bicycles?",
+          "a": "There are 8 wheels."
+        },
+        {
+          "q": "How many wheels are there in 7 cars?",
+          "a": "There are 28 wheels."
+        }
+      ],
+      "keywords": [
+        "addition",
+        "grouping",
+        "wheels"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Match the Following",
+      "title": "Matching Sums",
+      "concept": "Practicing addition through matching.",
+      "explanation": "Can you match the sums with their answers? Let's see how many you can get right! 🧩",
+      "examples": [
+        "9 + 9 + 9 matches with 27."
+      ],
+      "practice_questions": [
+        {
+          "q": "Match 5 + 5 + 5 + 5 + 5 + 5 + 5",
+          "a": "35"
+        },
+        {
+          "q": "Match 3 + 3 + 3",
+          "a": "9"
+        }
+      ],
+      "keywords": [
+        "matching",
+        "addition",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Addition",
+      "title": "Adding Numbers",
+      "concept": "Learn how to add numbers together.",
+      "explanation": "Adding numbers means putting them together to find a total! For example, if you have 3 🍎 and you get 3 more 🍎, you have 6 🍎 in total! Let's add: 3 + 3 = 6.",
+      "examples": [
+        "3 + 3 = 6",
+        "10 + 10 + 10 + 10 = 40"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 5 + 5?",
+          "a": "10"
+        },
+        {
+          "q": "What is 8 + 8?",
+          "a": "16"
+        }
+      ],
+      "keywords": [
+        "addition",
+        "sum",
+        "total"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Multiplication",
+      "title": "Understanding Multiplication",
+      "concept": "Learn how to multiply numbers.",
+      "explanation": "Multiplication is like adding the same number many times. For example, 3 × 2 means you have 3 🍌 and you want 2 groups of them! So, 3 + 3 = 6 🍌.",
+      "examples": [
+        "2 × 3 = 6",
+        "4 × 2 = 8"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 3 × 4?",
+          "a": "12"
+        },
+        {
+          "q": "What is 5 × 2?",
+          "a": "10"
+        }
+      ],
+      "keywords": [
+        "multiplication",
+        "groups",
+        "times"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Multiplication Tables",
+      "title": "Complete the Multiplication Tables",
+      "concept": "Practice multiplication tables.",
+      "explanation": "Let's fill in the multiplication tables! It's fun to see how numbers work together. For example, 2 × 1 = 2, 2 × 2 = 4, and so on!",
+      "examples": [
+        "2 ones are 2",
+        "3 ones are 3"
+      ],
+      "practice_questions": [
+        {
+          "q": "Fill in the blank: 5 × 2 = ____",
+          "a": "10"
+        },
+        {
+          "q": "Fill in the blank: 3 × 3 = ____",
+          "a": "9"
+        }
+      ],
+      "keywords": [
+        "tables",
+        "multiplication",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "rhyme",
+      "topic": "Sharing",
+      "title": "Sharing Gulab Jamuns",
+      "concept": "Learn about sharing equally.",
+      "explanation": "Sharing means dividing things equally. If you have 8 🍬 and you want to share them with a friend, you can give 4 🍬 to each! Let's share!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "sharing",
+        "equal",
+        "divide"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Sharing",
+      "title": "Sharing Gulab Jamuns",
+      "concept": "A fun story about sharing.",
+      "explanation": "Once, there were some delicious gulab jamuns 🍬. Everyone wanted to eat them! But they decided to share. They took turns taking 1 for each person. Soon, everyone had some! They learned that sharing is caring! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "sharing",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Sharing and Division",
+      "title": "Gulab Jamuns Sharing",
+      "concept": "Understanding equal sharing.",
+      "explanation": "When we have something to share, we can divide it equally among friends! 🍬 If Ritu has 3 gulab jamuns and you have 3, how many do we have in total? Let's find out! 🤔",
+      "examples": [
+        "3 (you) + 3 (me) = 6 gulab jamuns in total! 🍬🍬🍬🍬🍬🍬"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many gulab jamuns were there in total?",
+          "a": "6"
+        },
+        {
+          "q": "Have they shared equally? Yes/No",
+          "a": "Yes"
+        },
+        {
+          "q": "How many gulab jamuns did each of them get?",
+          "a": "3"
+        }
+      ],
+      "keywords": [
+        "sharing",
+        "division",
+        "gulab jamun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Art and Craft Project",
+      "title": "Ritu’s Art Project",
+      "concept": "Dividing objects equally.",
+      "explanation": "Ritu wants to draw 12 bindis on 2 ice cream cones. How can we help her divide them equally? 🍦🎨",
+      "examples": [
+        "12 bindis ÷ 2 cones = 6 bindis per cone! 🎉"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "art",
+        "craft",
+        "division"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Dividing Laddoos",
+      "title": "Pooja’s Laddoos",
+      "concept": "Dividing items into more groups.",
+      "explanation": "Pooja has 2 plates with laddoos. Let's help her divide them equally into 3 plates! 🍬🍽️",
+      "examples": [
+        "If she has 6 laddoos, each plate will get 2 laddoos!"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "laddoo",
+        "division",
+        "sharing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Making Bracelets",
+      "title": "Garima’s Beads",
+      "concept": "Grouping items.",
+      "explanation": "Garima has 20 star-shaped beads and uses 5 for each bracelet. How many bracelets can she make? 🌟💍",
+      "examples": [
+        "20 beads ÷ 5 beads per bracelet = 4 bracelets!"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "beads",
+        "bracelets",
+        "grouping"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Making Strings",
+      "title": "Beads and Strings",
+      "concept": "Understanding quantities and division.",
+      "explanation": "If each string has 7 beads, how many strings can we make with 21 beads? Let's find out! 🎉🔗",
+      "examples": [
+        "21 beads ÷ 7 beads per string = 3 strings!"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "strings",
+        "beads",
+        "division"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Candles in Boxes",
+      "title": "Tailor and Candles",
+      "concept": "Dividing items into equal groups.",
+      "explanation": "A tailor has 27 candles and wants to put them equally in 3 boxes. How many candles will be in each box? 🕯️📦",
+      "examples": [
+        "27 candles ÷ 3 boxes = 9 candles per box!"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "candles",
+        "boxes",
+        "division"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Bananas for Monkeys",
+      "title": "Sharing Bananas",
+      "concept": "Equal sharing among groups.",
+      "explanation": "If we have 24 bananas and want to share them equally among 3 monkeys, how many bananas does each monkey get? 🍌🐒",
+      "examples": [
+        "24 bananas ÷ 3 monkeys = 8 bananas per monkey!"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "bananas",
+        "monkeys",
+        "sharing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_008",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "poem",
+      "topic": "Seasons",
+      "title": "Seasons Poem",
+      "concept": "Understanding seasons.",
+      "explanation": "Let's enjoy a fun poem about the seasons! 🌞🌧️❄️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "seasons",
+        "poem",
+        "nature"
+      ],
+      "difficulty": "easy",
+      "text": "Summer comes with the shining sun\nand a long day for children to play.\nRainy season comes with the water drops;\nPeacock dances and the frog hops.\nFive seasons in a year\nSpring begins with a cheer\nFlowers bloom, the birds sing\nWhen comes the merry spring."
+    },
+    {
+      "id": "kb_class_2_maths_009",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Discussing Seasons",
+      "title": "Which Season is it?",
+      "concept": "Identifying seasons and their characteristics.",
+      "explanation": "Let's talk about our favorite seasons and what makes them special! 🌼🍂❄️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "In which season do you go on a vacation?",
+          "a": "Varies by child"
+        },
+        {
+          "q": "Your birthday falls in which season of the year?",
+          "a": "Varies by child"
+        },
+        {
+          "q": "Which is your favourite season? Why?",
+          "a": "Varies by child"
+        },
+        {
+          "q": "What is special about your favourite season?",
+          "a": "Varies by child"
+        }
+      ],
+      "keywords": [
+        "seasons",
+        "discussion",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_010",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Matching Seasons with Festivals",
+      "title": "Seasons and Festivals",
+      "concept": "Connecting seasons to cultural festivals.",
+      "explanation": "Let's match each season with its festivals! 🎉🌸",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "seasons",
+        "festivals",
+        "cultural"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_101",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Calendar Fun",
+      "title": "Understanding the Calendar",
+      "concept": "Learning about months and days in a calendar.",
+      "explanation": "A calendar helps us keep track of days, weeks, and months! 🌟 Each month has a different number of days. Let's explore how many days are in each month! 📅",
+      "examples": [
+        "January has 31 days. 🎉",
+        "February has 28 or 29 days. 🌼"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why do we use a calendar?",
+          "a": "To keep track of days and plan our activities! 🗓️"
+        },
+        {
+          "q": "Does February have the same number of days in every year?",
+          "a": "No, it has 28 days in a common year and 29 days in a leap year! 🎈"
+        },
+        {
+          "q": "How many days are there in a week?",
+          "a": "There are 7 days in a week! 🗓️"
+        },
+        {
+          "q": "How many Sundays are there in April?",
+          "a": "There are 4 Sundays in April! ☀️"
+        },
+        {
+          "q": "Which months have 5 Sundays?",
+          "a": "Months like January and March can have 5 Sundays! 🎊"
+        },
+        {
+          "q": "When are summer vacations?",
+          "a": "In the months of May and June! 🌞"
+        },
+        {
+          "q": "When are winter vacations?",
+          "a": "In the months of December and January! ❄️"
+        },
+        {
+          "q": "Find the total number of days in April and March.",
+          "a": "April has 30 days and March has 31 days, so 30 + 31 = 61 days! 🎉"
+        }
+      ],
+      "keywords": [
+        "calendar",
+        "months",
+        "days",
+        "weeks"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_102",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Time Duration",
+      "title": "How Long Does it Take?",
+      "concept": "Matching activities with their time duration.",
+      "explanation": "Different activities take different amounts of time to complete! ⏳ Let's match them up! 🧩",
+      "examples": [
+        "Cooking takes a few hours. 🍳",
+        "Knitting a sweater takes several days. 🧶"
+      ],
+      "practice_questions": [
+        {
+          "q": "How long does cooking take?",
+          "a": "Cooking usually takes a few hours! 🍽️"
+        },
+        {
+          "q": "How long does it take to fill a water tank?",
+          "a": "It can take several hours depending on the size! 💧"
+        },
+        {
+          "q": "How long does a summer vacation last?",
+          "a": "Summer vacation usually lasts for a few weeks! 🌞"
+        }
+      ],
+      "keywords": [
+        "time",
+        "duration",
+        "activities"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_103",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Trip To Vijayawada",
+      "title": "Family Trip Adventure",
+      "concept": "Understanding time and planning during a trip.",
+      "explanation": "Join the family on their exciting trip to Vijayawada! 🚂 Let's see how they manage their time! ⏰",
+      "narrative": "Yes, we will go to Manglagiri hills at 11:00 Morning. Maa! Our train is day after tomorrow. Can we go for sightseeing? Maa! We enjoyed a lot today and look at Mama ji, he is looking very handsome. Yes dear! It’s his wedding after all. God bless you dear. Just 1 more hour to reach Vijayawada Railway Station. Hurry! The train is about to leave. Date: 24 Nov. Time: 8:25 O’clock in the morning. It is 1:15 Afternoon Dada Ji, how much more time will it take to reach Nani’s house? Date: 25 Nov. Time: 10:00 O’clock in the night. Date: 24 Nov. Time: 1:15 O’clock in the afternoon. Date: 26 Nov. Time: 8:00 O’clock in the morning. Children, it’s 5:00 Evening, we will be late. Let us go back. See Dadi, how beautiful these trees and plants are. There are so many beautiful flowers also. We will come back after 8 hours. Ok sir, you visit the fort. I will come after 8 hours to pick you all. Have a nice trip. Oh Papa, our trip ended and now we have to go back to our home. But, I am excited to travel back by the fastest train in India, called Vande Bharat. Mummy, I can’t wait to tell my friends about this exciting trip. Yes, we will make such a trip again very soon! Wow!",
+      "keywords": [
+        "trip",
+        "time",
+        "family",
+        "adventure"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_101",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Time Management",
+      "title": "Understanding Time",
+      "concept": "Learning to read and understand time.",
+      "explanation": "Time helps us know when to do things! 🕒 For example, if you wake up at 7:00 AM, you can plan your day better!",
+      "examples": [
+        "Waking up at 7:00 AM",
+        "Going to school at 9:00 AM"
+      ],
+      "practice_questions": [
+        {
+          "q": "What time do you wake up?",
+          "a": "I wake up at ___ O' clock."
+        },
+        {
+          "q": "When do you go to school?",
+          "a": "I go to school at ___ O' clock."
+        }
+      ],
+      "keywords": [
+        "time",
+        "clock",
+        "schedule"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_102",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Time Calculation",
+      "title": "Calculating Trip Duration",
+      "concept": "Calculating how long trips take.",
+      "explanation": "We can find out how long we spend on trips by subtracting the start time from the end time! ⏳",
+      "examples": [
+        "If we leave at 9:00 AM and return at 5:00 PM, we spent 8 hours!"
+      ],
+      "practice_questions": [
+        {
+          "q": "How long was the trip to Manglagiri hills?",
+          "a": "______ hours"
+        },
+        {
+          "q": "How long was the trip to Kondapalli fort?",
+          "a": "______ hours"
+        }
+      ],
+      "keywords": [
+        "duration",
+        "trip",
+        "hours"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_103",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Travel Experiences",
+      "title": "Sharing Travel Stories",
+      "concept": "Discussing personal travel experiences.",
+      "explanation": "Talking about trips helps us learn about different places and what we enjoy! 🌍",
+      "examples": [
+        "I went to the beach and built sandcastles! 🏖️"
+      ],
+      "practice_questions": [
+        {
+          "q": "Have you been on a trip recently?",
+          "a": "Yes, I enjoyed ___."
+        }
+      ],
+      "keywords": [
+        "travel",
+        "experience",
+        "discussion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_104",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "rhyme",
+      "topic": "Directions",
+      "title": "Direction Poem",
+      "concept": "Learning about directions.",
+      "explanation": "This fun poem helps us remember directions! 🧭",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "directions",
+        "east",
+        "west",
+        "north",
+        "south"
+      ],
+      "difficulty": "easy",
+      "text": "East, West, North or South\nLet us stand to face the rising sun.\nThis is the...East direction.\nTo your back you will find the West,\nTo your left is the North, and to your right is the South!"
+    },
+    {
+      "id": "kb_class_2_maths_105",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Daily Activities",
+      "title": "Gargi's Day Activities",
+      "concept": "Understanding daily routines with time.",
+      "explanation": "Let's see what Gargi does in a day and at what time! ⏰",
+      "examples": [
+        "Gargi wakes up at 6:00 AM and goes to school at 7:00 AM."
+      ],
+      "practice_questions": [
+        {
+          "q": "At what time does Gargi wake up?",
+          "a": "She wakes up at ___ O' clock."
+        },
+        {
+          "q": "When does she have lunch?",
+          "a": "She has lunch at ___ O' clock."
+        }
+      ],
+      "keywords": [
+        "daily routine",
+        "activities",
+        "time"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_106",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Clock Reading",
+      "title": "Reading the Clock",
+      "concept": "Learning to read time on a clock.",
+      "explanation": "We can tell time by looking at the hour hand and minute hand on the clock! 🕰️",
+      "examples": [
+        "If the hour hand is on 3 and the minute hand is on 12, it is 3:00."
+      ],
+      "practice_questions": [
+        {
+          "q": "What time is shown on the clock?",
+          "a": "It is ___ O' clock."
+        },
+        {
+          "q": "Draw the hour hand and minute hand for 5:30.",
+          "a": "Draw it! 🖍️"
+        }
+      ],
+      "keywords": [
+        "clock",
+        "time",
+        "reading"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_110",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Directions",
+      "title": "Understanding Directions with a Compass",
+      "concept": "Learn to identify North, South, East, and West using a compass.",
+      "explanation": "A compass is a special tool that helps us find directions. When you hold it, you can see where North is, and from there, you can figure out South, East, and West! 🧭",
+      "examples": [
+        "If you face North, your left side is West and your right side is East."
+      ],
+      "practice_questions": [
+        {
+          "q": "Haneet’s desk is to the ___________ of Sarah’s desk.",
+          "a": "North"
+        },
+        {
+          "q": "Almirah is to the ___________ of Ali’s desk.",
+          "a": "South"
+        },
+        {
+          "q": "To reach the blackboard, Mira must walk towards ___________ and then ___________.",
+          "a": "East, North"
+        },
+        {
+          "q": "To feed the birds on the window, Nitin has to walk ___________ and then ___________.",
+          "a": "South, East"
+        }
+      ],
+      "keywords": [
+        "compass",
+        "directions",
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_111",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Fun at the Fair",
+      "title": "Rupal's Adventure at the Fair",
+      "concept": "Understanding money spent and remaining.",
+      "explanation": "Rupal loves going to the fair! 🎡 She had ₹50 from her mom and spent some on rides and snacks. Let's find out how much she spent!",
+      "narrative": "Rupal went to the fair with her friends and had ₹50. She spent ₹20 on rides, ₹20 on snacks, and ₹2 on candies. In the end, she had ₹8 left. How much did she spend? Let's calculate together! 🧮",
+      "practice_questions": [
+        {
+          "q": "If you had ₹3 left when your father gave you ₹40 for the fair, how much did you spend?",
+          "a": "₹37"
+        }
+      ],
+      "keywords": [
+        "fair",
+        "money",
+        "spending",
+        "Rupal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_112",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Understanding Currency",
+      "title": "Learning About Indian Currency",
+      "concept": "Identifying different Indian currency notes and coins.",
+      "explanation": "In India, we use different notes and coins for money. Let's learn how to count them! 💰",
+      "examples": [
+        "A ₹500 note has 'Five Hundred' written on it."
+      ],
+      "practice_questions": [
+        {
+          "q": "How many 20 paise will make ₹1?",
+          "a": "5"
+        },
+        {
+          "q": "How many 25 paise will make ₹1?",
+          "a": "4"
+        }
+      ],
+      "keywords": [
+        "currency",
+        "notes",
+        "coins",
+        "Indian currency"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_113",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Pop the Balloon Game",
+      "title": "Matru's Balloon Challenge",
+      "concept": "Calculating money won from a game.",
+      "explanation": "Matru plays a game where he pops balloons to win money! 🎈 Let's see how much he can win!",
+      "practice_questions": [
+        {
+          "q": "If Matru popped balloons worth ₹3, ₹17, and ₹22, what is the total amount won?",
+          "a": "₹42"
+        },
+        {
+          "q": "If Matru had four chances, how much could he win?",
+          "a": "Calculate based on the balloons he pops!"
+        }
+      ],
+      "keywords": [
+        "game",
+        "money",
+        "balloons",
+        "Matru"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_101",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Money Management",
+      "title": "Different Ways to Pay",
+      "concept": "Understanding how to make different amounts of money.",
+      "explanation": "Let's learn how to make the same amount of money using different coins! For example, you can use two ₹20 coins and one ₹10 coin to make ₹50. 💰✨",
+      "examples": [
+        "2 x ₹20 + 1 x ₹10 = ₹50",
+        "1 x ₹50 = ₹50"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can you make ₹66?",
+          "a": "You can use combinations like ₹50 + ₹10 + ₹5 + ₹1."
+        }
+      ],
+      "keywords": [
+        "money",
+        "combinations",
+        "coins"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_102",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Money Management",
+      "title": "Buying Items",
+      "concept": "Calculating money needed for purchases.",
+      "explanation": "Let's see how much money you need to buy different items. If you want to buy a toy for ₹30 and you have ₹20, you need ₹10 more! 🛒💵",
+      "examples": [
+        "If you have ₹50 and want to buy a book for ₹45, you have ₹5 left!"
+      ],
+      "practice_questions": [
+        {
+          "q": "Jayant spent ₹25 on pens and ₹40 on notebooks. How much did he spend in total?",
+          "a": "He spent ₹65."
+        },
+        {
+          "q": "Ajay has ₹58 and spent ₹48. How much is left?",
+          "a": "He has ₹10 left."
+        }
+      ],
+      "keywords": [
+        "buying",
+        "spending",
+        "calculating"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_103",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Data Handling",
+      "title": "Favourite Colours",
+      "concept": "Understanding data through favorite colors.",
+      "explanation": "Let's find out which color is the favorite among children! We can fill in a table to see how many kids like each color. 🎨❤️",
+      "examples": [
+        "If 10 kids like red, 5 like blue, and 3 like yellow, we can see red is the favorite!"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the most liked color?",
+          "a": "The most liked color is red."
+        },
+        {
+          "q": "Which color is liked less than green?",
+          "a": "Yellow is liked less than green."
+        }
+      ],
+      "keywords": [
+        "data",
+        "colors",
+        "favorite"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_104",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Data Handling",
+      "title": "Picnic Day",
+      "concept": "Analyzing favorite fruits among children.",
+      "explanation": "At the fruit party, we can see how many kids like each fruit! 🍎🍌🍊 Let's fill in the table together!",
+      "examples": [
+        "If 5 kids like apples and 3 like bananas, we can compare their favorites!"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many children like apples?",
+          "a": "Fill in the number based on the table."
+        },
+        {
+          "q": "Which fruit is the most liked?",
+          "a": "The most liked fruit is the one with the highest number."
+        }
+      ],
+      "keywords": [
+        "fruits",
+        "children",
+        "party"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Data Representation",
+      "title": "Number of Students by Transport",
+      "concept": "Understanding how to collect and represent data.",
+      "explanation": "We can find out how many students come to school using different types of transport! 🚶‍♂️🚕🚌🚴‍♂️",
+      "examples": [
+        "5 students come on foot 🍎🍎🍎🍎🍎",
+        "3 students come by bus 🚌🚌🚌"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many students come using a bike?",
+          "a": "Fill in the blank with your answer."
+        }
+      ],
+      "keywords": [
+        "data",
+        "students",
+        "transport"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Games We Play",
+      "title": "Favorite Games",
+      "concept": "Collecting data about favorite games.",
+      "explanation": "Let's find out which games are the most liked by asking our friends! 🎮🏏",
+      "examples": [
+        "Gilli-danda is liked by 4 students 🍎🍎🍎🍎",
+        "Kabaddi is liked by 2 students 🍎🍎"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the most liked game?",
+          "a": "Fill in the blank with your answer."
+        },
+        {
+          "q": "Which game is liked more than football?",
+          "a": "Fill in the blank with your answer."
+        }
+      ],
+      "keywords": [
+        "games",
+        "students",
+        "favorites"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "project",
+      "topic": "Family Data Collection",
+      "title": "Visiting Families",
+      "concept": "Collecting data about families and grandparents.",
+      "explanation": "Let's visit families and find out how many have grandparents living with them! 👵👴",
+      "examples": [
+        "Visited 5 families, 2 have both grandparents 🏡🏡",
+        "3 families have no grandparents 🏡"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many families did you visit?",
+          "a": "Fill in the blank with your answer."
+        }
+      ],
+      "keywords": [
+        "families",
+        "data",
+        "grandparents"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Family Members",
+      "title": "Counting Family Members",
+      "concept": "Understanding the number of family members.",
+      "explanation": "Ask your friends how many people live in their homes and fill in the table! 👨‍👩‍👧‍👦",
+      "examples": [
+        "Most families have 4 people 👨‍👩‍👧‍👦👨‍👩‍👧‍👦👨‍👩‍👧‍👦👨‍👩‍👧‍👦",
+        "Least number of people is 2 👨‍👩"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many families have more than 4 people?",
+          "a": "Fill in the blank with your answer."
+        }
+      ],
+      "keywords": [
+        "family",
+        "counting",
+        "members"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Shapes and Patterns",
+      "title": "Connecting Shapes",
+      "concept": "Understanding shapes and patterns.",
+      "explanation": "Draw lines to connect similar shapes without crossing them! 🎨",
+      "examples": [
+        "Connect circle to circle 🔵🔵",
+        "Connect square to square ⬜⬜"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you connect all the shapes?",
+          "a": "Try it out!"
+        }
+      ],
+      "keywords": [
+        "shapes",
+        "patterns",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "puzzle",
+      "topic": "Math Tricks",
+      "title": "Math Number Trick",
+      "concept": "Using numbers to create fun tricks.",
+      "explanation": "Think of a number, double it, add eight, and see if you can get 4! 🤔",
+      "examples": [
+        "Start with 2, double is 4, add 8 is 12, minus 2 is 10, not 4!"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you make it work with your number?",
+          "a": "Try it with different numbers!"
+        }
+      ],
+      "keywords": [
+        "math",
+        "trick",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Counting Numbers",
+      "title": "Number Names from 11 to 20",
+      "concept": "Learning number names.",
+      "explanation": "Can you find the number names hidden in the letters? 🔍",
+      "examples": [
+        "Sixteen, Seventeen, Eighteen"
+      ],
+      "practice_questions": [
+        {
+          "q": "What number names can you find?",
+          "a": "List them out!"
+        }
+      ],
+      "keywords": [
+        "numbers",
+        "counting",
+        "names"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "rhyme",
+      "topic": "Shapes",
+      "title": "What is my shape?",
+      "concept": "Understanding shapes through vehicles.",
+      "explanation": "I am in a bicycle, And in a car and a bus, I make all vehicles run, They can’t move if I am flat. What is my shape? 🤔",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "shapes",
+        "vehicles",
+        "flat"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Addition and Subtraction",
+      "title": "Complete the equations",
+      "concept": "Practicing addition and subtraction.",
+      "explanation": "Let's practice some math! Can you fill in the blanks using addition or subtraction? 🧮",
+      "examples": [
+        "18 - 9 = ?",
+        "6 + 3 = ?"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 18 - 9?",
+          "a": "9"
+        },
+        {
+          "q": "What is 6 + 3?",
+          "a": "9"
+        }
+      ],
+      "keywords": [
+        "addition",
+        "subtraction",
+        "math practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Geometry",
+      "title": "Joining Dots",
+      "concept": "Creating rectangles from dots.",
+      "explanation": "How many rectangles can you make by joining the dots? Remember, a square is also a rectangle! 📏",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "geometry",
+        "rectangles",
+        "dots"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Division",
+      "title": "Shepherd's Garden",
+      "concept": "Dividing space equally.",
+      "explanation": "A shepherd has 4 sheep and 4 dogs. Can you divide the garden into 4 areas, so each area has one tree, one sheep, and one dog? 🐑🐶🌳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "division",
+        "garden",
+        "animals"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Number Arrangement",
+      "title": "Arrange the Numbers",
+      "concept": "Arranging numbers to achieve equal sums.",
+      "explanation": "How will you arrange the numbers 1 to 7 so that the three arms have the same total? 🤔🔢",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "number arrangement",
+        "equal sums",
+        "math challenge"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Doubling Numbers",
+      "title": "Think of a Number",
+      "concept": "Understanding doubling.",
+      "explanation": "I think of a number and double it. If my answer is 18, what was the number? Can you find it? 🔍",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "doubling",
+        "number puzzles",
+        "math"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Calculator Fun",
+      "title": "Pressing Keys",
+      "concept": "Using a calculator to achieve a specific number.",
+      "explanation": "Press 10 keys on a calculator to make 28. Can you figure out how? 🖱️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "calculator",
+        "math fun",
+        "number challenge"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Foundational Stage",
+      "title": "Understanding the Foundational Stage",
+      "concept": "The importance of early years in education.",
+      "explanation": "The first eight years of a child's life are super important! 🌟 They help shape how we learn, behave, and grow. Just like planting a seed, if we take care of it early, it will grow strong! 🌱",
+      "examples": [
+        "A child learns to share toys with friends 🤝",
+        "A child learns to count apples 🍎🍏"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why are the first eight years important?",
+          "a": "They shape our learning and behavior!"
+        }
+      ],
+      "keywords": [
+        "early years",
+        "education",
+        "growth"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Curricular Structure",
+      "title": "5+3+3+4 Curricular Structure",
+      "concept": "The structure of education in India.",
+      "explanation": "In India, we have a special way to learn called the 5+3+3+4 structure! 📚 It helps us learn step by step, starting from ages 3 to 8! 🎓",
+      "examples": [
+        "5 years of foundational learning 🏫",
+        "3 years of primary school 📖"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does 5+3+3+4 mean?",
+          "a": "It's how we learn in different stages!"
+        }
+      ],
+      "keywords": [
+        "curriculum",
+        "education structure",
+        "learning stages"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Play-based Learning",
+      "title": "Learning Through Play",
+      "concept": "The importance of play in learning.",
+      "explanation": "Learning can be fun! 🎉 When we play, we learn new things without even realizing it! Like counting blocks while building a tower! 🏗️",
+      "examples": [
+        "Playing with toys to learn shapes 🔺🔵",
+        "Counting cookies while baking 🍪🍪"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can we learn while playing?",
+          "a": "By using toys and games!"
+        }
+      ],
+      "keywords": [
+        "play-based learning",
+        "fun",
+        "engagement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Counting Practice",
+      "title": "Count the Fruits",
+      "concept": "Practice counting with fruits.",
+      "explanation": "Let's count some fruits together! 🍎🍌🍊 How many fruits do you see? Count them out loud! 📢",
+      "examples": [
+        "🍎🍎🍏 - How many apples?",
+        "🍌🍌🍌🍌 - How many bananas?"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many apples are there?",
+          "a": "2 apples!"
+        }
+      ],
+      "keywords": [
+        "counting",
+        "fruits",
+        "math practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Introduction to Numbers",
+      "title": "Understanding Numbers",
+      "concept": "Numbers help us count and measure things.",
+      "explanation": "Numbers are like magic symbols that help us count things! For example, if you have 🍎🍎🍎, you have 3 apples! Let's learn how to recognize and write numbers.",
+      "examples": [
+        "🍎🍎🍎 = 3",
+        "🍌🍌 = 2"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many stars are there? ⭐⭐⭐",
+          "a": "3 stars!"
+        }
+      ],
+      "keywords": [
+        "numbers",
+        "counting",
+        "recognition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Basic Addition",
+      "title": "Adding Numbers",
+      "concept": "Addition is putting things together.",
+      "explanation": "When we add, we combine two groups! If you have 🍎🍎 and I give you 🍎, how many do you have now? Let's count together! 🍎🍎 + 🍎 = 🍎🍎🍎.",
+      "examples": [
+        "2 + 1 = 3",
+        "3 + 2 = 5"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 1 + 2?",
+          "a": "3!"
+        }
+      ],
+      "keywords": [
+        "addition",
+        "combine",
+        "sum"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Basic Subtraction",
+      "title": "Subtracting Numbers",
+      "concept": "Subtraction is taking away.",
+      "explanation": "When we subtract, we take away some items! If you have 🍎🍎🍎 and you eat 1, how many are left? 🍎🍎🍎 - 🍎 = 🍎🍎.",
+      "examples": [
+        "3 - 1 = 2",
+        "5 - 2 = 3"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is 3 - 1?",
+          "a": "2!"
+        }
+      ],
+      "keywords": [
+        "subtraction",
+        "take away",
+        "difference"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Practice Addition and Subtraction",
+      "title": "Fun with Numbers",
+      "concept": "Practice makes perfect!",
+      "explanation": "Let's solve these fun problems together! 🎉",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What is 4 + 2?",
+          "a": "6!"
+        },
+        {
+          "q": "What is 5 - 3?",
+          "a": "2!"
+        }
+      ],
+      "keywords": [
+        "practice",
+        "exercise",
+        "math fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Introduction to Mathematics",
+      "title": "Joyful Learning in Mathematics",
+      "concept": "Learning math through play and activities.",
+      "explanation": "Mathematics can be fun! We learn by playing games and doing activities that help us understand numbers and shapes. 🎲✨",
+      "examples": [
+        "Playing with blocks to count 🍎🍎🍎",
+        "Using toys to learn shapes like circles and squares 🔵🔲"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "play",
+        "learning",
+        "mathematics"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Mathematical Thinking",
+      "title": "Developing Mathematical Ideas",
+      "concept": "Understanding numbers and spatial reasoning.",
+      "explanation": "We use our imagination and play to understand how numbers work and how to think about space! 🧠🔍",
+      "examples": [
+        "Counting toys to learn addition 🍭 + 🍭 = 🍭🍭",
+        "Sorting shapes by size 📏"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "numbers",
+        "spatial understanding",
+        "reasoning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Oral Math Talk",
+      "title": "Discussing Math Concepts",
+      "concept": "Talking about math through stories and poems.",
+      "explanation": "We can talk about math while enjoying stories and poems! It makes learning exciting! 📖🎶",
+      "examples": [
+        "Discussing the poem 'Seasons' and how they relate to numbers 🌸🌞🍂❄️"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "discussion",
+        "poems",
+        "stories"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "poem",
+      "topic": "Maths Poems",
+      "title": "Seasons",
+      "concept": "Learning about seasons through a poem.",
+      "explanation": "This poem helps us understand the seasons and how they change! 🌼☀️🍁❄️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "seasons",
+        "poem",
+        "nature"
+      ],
+      "difficulty": "easy",
+      "text": "In spring, flowers bloom, 🌸\nIn summer, sun shines bright, ☀️\nIn autumn, leaves fall down, 🍂\nIn winter, snow is white. ❄️"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Mathematical Skills",
+      "title": "Building Skills through Activities",
+      "concept": "Practicing math skills through fun activities.",
+      "explanation": "We practice our math skills by doing fun activities that help us learn! 🎉✏️",
+      "examples": [
+        "Playing math games with friends 🎮",
+        "Drawing shapes and coloring them 🎨"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "skills",
+        "activities",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Holistic Development",
+      "title": "Integrating Learning",
+      "concept": "Connecting math with other subjects.",
+      "explanation": "Math is everywhere! We learn it along with languages and physical activities! 🌍📚🤸‍♂️",
+      "examples": [
+        "Counting words in a story 📖",
+        "Measuring distances while playing games 🏃‍♀️"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "integration",
+        "holistic",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Introduction to Concepts",
+      "title": "Understanding through Picture Stories",
+      "concept": "Using stories to introduce math concepts.",
+      "explanation": "We can learn math through fun stories! 📖 For example, 'Heena' and 'Aatif' help us understand numbers and shapes.",
+      "examples": [
+        "Heena's Birthday Party 🎉",
+        "Aatif's Adventure in Counting 🌟"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "picture stories",
+        "math concepts",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Daily Life Contexts",
+      "title": "Math in Our Daily Lives",
+      "concept": "Connecting math to everyday activities.",
+      "explanation": "Math is everywhere! 🌍 We can count diyas during festivals or share fruits in the park. Let's explore!",
+      "examples": [
+        "Counting Diyas 🪔",
+        "Sharing Fruits 🍏"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "daily life",
+        "math application",
+        "counting"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Skill Teaching",
+      "title": "Learning Through Activities",
+      "concept": "Engaging activities for skill development.",
+      "explanation": "Activities like origami and stamping help us learn math skills while having fun! 🎨✂️",
+      "examples": [
+        "Origami Fun 🦢",
+        "Mehandi Patterns 🌼"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "skill development",
+        "activities",
+        "fun learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Math Games",
+      "title": "Playing with Numbers",
+      "concept": "Learning math through games.",
+      "explanation": "Games make learning exciting! 🎲 Let's play 'Let us Make 100' and 'Flash Card Game' to practice our math skills.",
+      "examples": [
+        "Let us Make 100 🎉",
+        "Flash Card Game 🎴"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "math games",
+        "learning through play",
+        "engagement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Puzzles and Brain Teasers",
+      "title": "Fun with Puzzles",
+      "concept": "Solving puzzles to enhance critical thinking.",
+      "explanation": "Puzzles are a fun way to challenge our minds! 🧩 Let's solve some together and see how many ways we can find answers.",
+      "examples": [
+        "Find the missing number 🔍",
+        "What comes next in the pattern? 🔢"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "puzzles",
+        "brain teasers",
+        "critical thinking"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_151",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Learning Beyond Textbooks",
+      "title": "Exploring Learning Opportunities",
+      "concept": "Learning happens everywhere, not just in books.",
+      "explanation": "Children can learn by observing their surroundings, talking to family, and engaging in various activities like playing and traveling. 🌍👨‍👩‍👧‍👦",
+      "examples": [
+        "Watching a nature documentary on TV 🦁",
+        "Building a toy model with friends 🧸"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "learning",
+        "environment",
+        "activities"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_152",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "exercise",
+      "topic": "Observation Skills",
+      "title": "What Did You See?",
+      "concept": "Using observation to learn.",
+      "explanation": "Look around your home or school and write down three things you see. 🏠👀",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What did you see outside today?",
+          "a": "I saw a bird, a tree, and a car."
+        }
+      ],
+      "keywords": [
+        "observation",
+        "environment",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_153",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "Learning from Grandparents",
+      "title": "The Wisdom of Grandparents",
+      "concept": "Grandparents share valuable life lessons.",
+      "explanation": "Listening to stories from grandparents can teach us important lessons about life and values. 📖👵👴",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "grandparents",
+        "stories",
+        "wisdom"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_154",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "rhyme",
+      "topic": "Learning Everywhere",
+      "title": "Learning is Fun!",
+      "concept": "Learning can happen in many ways.",
+      "explanation": "This rhyme helps us remember that learning is all around us! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "learning",
+        "fun",
+        "rhyme"
+      ],
+      "difficulty": "easy",
+      "text": "Learning is fun, oh yes it is! 🎉\nIn the park or in the fizz! 🌳\nWith friends and family, we explore,\nEvery moment opens a door! 🚪"
+    },
+    {
+      "id": "kb_class_2_maths_001",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Counting in Groups",
+      "title": "A Day at the Beach",
+      "concept": "Learning to count objects in groups.",
+      "explanation": "Let's count the seashells we find at the beach! 🐚 If we have 3 groups of 2 seashells each, how many do we have in total? That's right, 6 seashells! 🎉",
+      "examples": [
+        "🐚🐚🐚 (3 groups of 2 seashells) = 6 seashells"
+      ],
+      "practice_questions": [
+        {
+          "q": "If you have 4 groups of 2 starfish, how many starfish do you have?",
+          "a": "8 starfish! 🌟"
+        },
+        {
+          "q": "Count the number of crabs if there are 5 groups of 3 crabs each.",
+          "a": "15 crabs! 🦀"
+        }
+      ],
+      "keywords": [
+        "counting",
+        "groups",
+        "seashells"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_002",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "3D Shapes",
+      "title": "Shapes Around Us",
+      "concept": "Identifying and naming 3D shapes.",
+      "explanation": "Look around! Can you see a ball? ⚽ That's a sphere! Let's find more shapes like cubes and cylinders in our room! 🏠",
+      "examples": [
+        "⚽ (Sphere)",
+        "📦 (Cube)",
+        "🥤 (Cylinder)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What shape is a basketball?",
+          "a": "It's a sphere! 🏀"
+        },
+        {
+          "q": "Name a shape that has 6 square faces.",
+          "a": "That's a cube! 📦"
+        }
+      ],
+      "keywords": [
+        "3D shapes",
+        "sphere",
+        "cube",
+        "cylinder"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_003",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Numbers 1 to 100",
+      "title": "Fun with Numbers",
+      "concept": "Understanding numbers from 1 to 100.",
+      "explanation": "Numbers are like magic! ✨ Let's count from 1 to 100 together! Can you say 'one hundred'? That's the biggest number we will learn today! 🎈",
+      "examples": [
+        "1, 2, 3, ..., 100"
+      ],
+      "practice_questions": [
+        {
+          "q": "What comes after 25?",
+          "a": "26! 🎉"
+        },
+        {
+          "q": "Count how many fingers you have!",
+          "a": "10 fingers! ✋✋"
+        }
+      ],
+      "keywords": [
+        "numbers",
+        "counting",
+        "1 to 100"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_004",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "story",
+      "topic": "2D Shapes",
+      "title": "Shadow Story (Togalu)",
+      "concept": "Understanding 2D shapes through a story.",
+      "explanation": "Once upon a time, there were two friends, a triangle and a square. They loved to play hide and seek in the park! 🌳 Can you guess which shapes they made with their shadows? 🌞",
+      "narrative": "The triangle made a pointy shadow, while the square made a flat shadow. They laughed and played until the sun went down! 🌅",
+      "practice_questions": [
+        {
+          "q": "What shape is the shadow of a pizza?",
+          "a": "It's a circle! 🍕"
+        },
+        {
+          "q": "Can you find a shape that has four equal sides?",
+          "a": "That's a square! 📦"
+        }
+      ],
+      "keywords": [
+        "2D shapes",
+        "shadow",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_005",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Orientations of a Line",
+      "title": "Playing with Lines",
+      "concept": "Understanding different orientations of lines.",
+      "explanation": "Let's play with lines! 📏 A straight line can go up, down, left, or right. Can you draw a line that goes across your paper? 🎨",
+      "examples": [
+        "➡️ (Horizontal line)",
+        "⬆️ (Vertical line)"
+      ],
+      "practice_questions": [
+        {
+          "q": "Draw a line that goes up!",
+          "a": "Great job! 🎉"
+        },
+        {
+          "q": "What do you call a line that goes side to side?",
+          "a": "That's a horizontal line! ➡️"
+        }
+      ],
+      "keywords": [
+        "lines",
+        "orientation",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_006",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Addition and Subtraction",
+      "title": "Decoration for Festival",
+      "concept": "Learning addition and subtraction through decoration.",
+      "explanation": "It's festival time! 🎉 Let's decorate with balloons! If we have 5 balloons 🎈 and we add 3 more 🎈, how many do we have? That's right, 8 balloons! 🎈🎈🎈🎈🎈🎈🎈🎈",
+      "examples": [
+        "5 + 3 = 8"
+      ],
+      "practice_questions": [
+        {
+          "q": "If you have 10 candies and eat 2, how many are left?",
+          "a": "8 candies! 🍬"
+        },
+        {
+          "q": "Add 4 apples to 3 apples. How many apples do you have?",
+          "a": "7 apples! 🍏"
+        }
+      ],
+      "keywords": [
+        "addition",
+        "subtraction",
+        "festivals"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_007",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Measurement",
+      "title": "Rani’s Gift",
+      "concept": "Understanding measurement through gifts.",
+      "explanation": "Rani received a gift that was 10 cm long! 🎁 Can you measure how long your pencil is? Let's see if it's longer or shorter! ✏️",
+      "examples": [
+        "Measuring with a ruler 📏"
+      ],
+      "practice_questions": [
+        {
+          "q": "If a book is 15 cm long, how many cm longer is it than a 10 cm pencil?",
+          "a": "5 cm longer! 📚"
+        },
+        {
+          "q": "Measure your desk. Is it more than 50 cm?",
+          "a": "Check and see! 🖥️"
+        }
+      ],
+      "keywords": [
+        "measurement",
+        "length",
+        "gifts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_008",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Multiplication and Division",
+      "title": "Grouping and Sharing",
+      "concept": "Learning multiplication and division through grouping.",
+      "explanation": "Let's share cookies! 🍪 If we have 12 cookies and we want to share them equally among 4 friends, how many does each friend get? That's right, 3 cookies each! 🎉",
+      "examples": [
+        "12 ÷ 4 = 3"
+      ],
+      "practice_questions": [
+        {
+          "q": "If you have 20 candies and share them with 5 friends, how many does each friend get?",
+          "a": "4 candies! 🍬"
+        },
+        {
+          "q": "Multiply 3 groups of 4 apples. How many apples do you have?",
+          "a": "12 apples! 🍏"
+        }
+      ],
+      "keywords": [
+        "multiplication",
+        "division",
+        "sharing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_009",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Measurement of Time",
+      "title": "Which Season is it?",
+      "concept": "Understanding the measurement of time through seasons.",
+      "explanation": "What season is it? 🌼 Let's learn about spring, summer, autumn, and winter! Each season lasts about 3 months. Can you guess which season it is now? 🌞",
+      "examples": [
+        "Spring: March, April, May"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many months are in a season?",
+          "a": "3 months! 🌸"
+        },
+        {
+          "q": "What comes after summer?",
+          "a": "Autumn! 🍂"
+        }
+      ],
+      "keywords": [
+        "time",
+        "seasons",
+        "months"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_010",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Money",
+      "title": "Fun at the Fair",
+      "concept": "Learning about money through fair activities.",
+      "explanation": "Let's go to the fair! 🎡 If a ticket costs 5 coins and you have 20 coins, how many tickets can you buy? That's right, 4 tickets! 🎟️",
+      "examples": [
+        "20 ÷ 5 = 4"
+      ],
+      "practice_questions": [
+        {
+          "q": "If you have 15 coins and a toy costs 3 coins, how many toys can you buy?",
+          "a": "5 toys! 🧸"
+        },
+        {
+          "q": "Count how many coins you have if you have 10 coins and find 5 more!",
+          "a": "15 coins! 💰"
+        }
+      ],
+      "keywords": [
+        "money",
+        "fair",
+        "coins"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_maths_011",
+      "grade": "class_2",
+      "subject": "maths",
+      "content_type": "lesson",
+      "topic": "Data Handling",
+      "title": "Data Handling",
+      "concept": "Understanding how to handle data.",
+      "explanation": "Let's collect data! 📊 If we count how many pets our friends have, we can make a chart! How many have dogs, cats, or birds? Let's find out! 🐶🐱🐦",
+      "examples": [
+        "Counting pets: 5 dogs, 3 cats, 2 birds"
+      ],
+      "practice_questions": [
+        {
+          "q": "If 4 friends have 2 dogs each, how many dogs are there in total?",
+          "a": "8 dogs! 🐕"
+        },
+        {
+          "q": "Count how many friends have cats. If 3 friends have cats, how many cats are there?",
+          "a": "3 cats! 🐈"
+        }
+      ],
+      "keywords": [
+        "data",
+        "counting",
+        "charts"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

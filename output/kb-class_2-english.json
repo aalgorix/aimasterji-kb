@@ -1,0 +1,3262 @@
+{
+  "version": "1.0",
+  "source": "class_2-english-merged.txt",
+  "grade": "class_2",
+  "subject": "english",
+  "generated_at": "2026-03-07T05:42:24.938Z",
+  "total_items": 144,
+  "content": [
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "My Bicycle",
+      "title": "Understanding Bicycles",
+      "concept": "Learning about bicycles and their parts.",
+      "explanation": "A bicycle is a fun way to move around! It has parts like wheels, pedals, and a bell. 🚲",
+      "examples": [
+        "A bicycle has two wheels.",
+        "The bell goes 'trin... trin... trin...'"
+      ],
+      "practice_questions": [
+        {
+          "q": "What colour is the seat of the bicycle?",
+          "a": "The seat is blue."
+        },
+        {
+          "q": "What do you need to keep the bicycle moving?",
+          "a": "You need some air."
+        }
+      ],
+      "keywords": [
+        "bicycle",
+        "pedal",
+        "helmet",
+        "bell",
+        "track"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "My Bicycle",
+      "title": "Bicycle Rhyme",
+      "content": "I have a red bicycle.\nI pedal and I ride.\nTrin... trin... trin... goes the bell.\nMakes my friends move aside.\nThe seat is blue in colour,\nThe tyres and pedals are black.\nSometimes fast, sometimes slow,\nBut my bicycle is always on track.\nTo keep my bicycle moving,\nAll I need is some air.\nI put on my little helmet,\nAnd go happily everywhere."
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Bicycle Parts",
+      "title": "Identify Bicycle Parts",
+      "concept": "Recognizing different parts of a bicycle.",
+      "explanation": "Can you name the parts of a bicycle? Let's write them down! 📝",
+      "examples": [
+        "seat",
+        "pedal",
+        "wheel",
+        "bell"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "parts",
+        "bicycle",
+        "identify"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Magic Bicycle",
+      "title": "Imagine Your Magic Bicycle",
+      "concept": "Creative thinking about a magic bicycle.",
+      "explanation": "Imagine if you had a magic bicycle! Where would you go? 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "imagination",
+        "bicycle",
+        "magic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Complete the Sentences",
+      "title": "Fill in the Blanks",
+      "concept": "Practicing sentence completion.",
+      "explanation": "Let's complete the sentences about the bicycle! ✏️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "The child in the poem has a __________ bicycle.",
+          "a": "red"
+        },
+        {
+          "q": "The sound of the _______ makes people move aside.",
+          "a": "bell"
+        },
+        {
+          "q": "The __________ and __________ are black.",
+          "a": "tyres, pedals"
+        }
+      ],
+      "keywords": [
+        "sentences",
+        "completion",
+        "bicycle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Picture Reading",
+      "title": "Understanding Pictures",
+      "concept": "Learning to observe and describe pictures.",
+      "explanation": "Look at the picture and answer questions about it. What do you see? How many children are there? What are they doing? 🤔",
+      "examples": [
+        "What do you see in the picture?",
+        "How are the children having fun?"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many children are there in the picture?",
+          "a": "Count the children in the picture."
+        },
+        {
+          "q": "What games do you play?",
+          "a": "Share your favorite games!"
+        }
+      ],
+      "keywords": [
+        "picture",
+        "observe",
+        "describe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Outdoor Games",
+      "title": "OUT! OUT!",
+      "concept": "Children playing games during a holiday.",
+      "explanation": "Jeet and Babli are having fun playing games like skipping rope and hide and seek. They even made their own ball! 🎉",
+      "narrative": "It was a holiday. Jeet and Babli were playing. They played many games. Both of them skipped the rope. They played hide and seek. Babli and Jeet decided to play ‘bat and ball’. Jeet got ready to throw the ball. Jeet threw the ball. Babli hit the ball. The ball went into Mohit’s garden. But his house was locked. They could not find the ball. So the game stopped. This time Babli picked the ball. Jeet picked the bat. Babli threw the ball. Jeet hit the ball hard. The ball opened up and scattered in the air! Babli jumped and caught a piece of rag. She jumped and shouted, “OUT! OUT!” Babli knew how to make a ball. They got a few rags, paper, and wool. Babli also brought a piece of string. She rolled rags, paper, and wool to make a ball. Then she tied the ball with a string. They liked the new ball. The game started again.",
+      "keywords": [
+        "games",
+        "holiday",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Answering Questions",
+      "title": "Questions about the Story",
+      "concept": "Reflecting on the story through questions.",
+      "explanation": "Let's think about the story and answer some questions together! 🤔",
+      "practice_questions": [
+        {
+          "q": "What games do you like to play with your friends?",
+          "a": "Share your favorite games!"
+        },
+        {
+          "q": "Have you played ‘bat and ball’?",
+          "a": "Yes, I have played it!"
+        }
+      ],
+      "keywords": [
+        "questions",
+        "reflection",
+        "discussion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Ordering Sentences",
+      "title": "Sequence the Story",
+      "concept": "Understanding the order of events.",
+      "explanation": "Let's put the sentences in the right order to tell the story correctly! 📚",
+      "practice_questions": [
+        {
+          "q": "Number the following sentences in their correct order.",
+          "a": "1. Jeet got ready to throw the ball. 2. Jeet threw the ball. 3. Babli hit the ball. 4. The ball went into Mohit’s garden. 5. They lost the ball."
+        }
+      ],
+      "keywords": [
+        "sequence",
+        "order",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Fill in the Blanks",
+      "title": "Completing the Story",
+      "concept": "Practicing writing skills.",
+      "explanation": "Fill in the blanks to complete the story! 📝",
+      "practice_questions": [
+        {
+          "q": "Write the names of the children in the story.",
+          "a": "Jeet, Babli"
+        },
+        {
+          "q": "Write the items that the children used to make a ball.",
+          "a": "rags, paper, wool, string"
+        }
+      ],
+      "keywords": [
+        "fill in the blanks",
+        "writing",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Opposites",
+      "title": "Finding Opposites",
+      "concept": "Learning about antonyms.",
+      "explanation": "Let's find the opposite words! Can you think of what they are? 🔄",
+      "practice_questions": [
+        {
+          "q": "Write the opposites of the following words.",
+          "a": "1. up - down, 2. in - out, 3. open - closed, 4. fat - thin, 5. hot - cold, 6. small - big"
+        }
+      ],
+      "keywords": [
+        "opposites",
+        "antonyms",
+        "language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Going to School",
+      "title": "Gopal Goes to School",
+      "concept": "Understanding daily activities.",
+      "explanation": "Gopal is a boy who goes to school every day. Just like Gopal, you also go to school to learn new things! 📚",
+      "examples": [
+        "Gopal went to school.",
+        "I go to school every day."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "school",
+        "Gopal",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Favorite Fruits",
+      "title": "Liking Fruits",
+      "concept": "Expressing preferences.",
+      "explanation": "We all have favorite fruits! For example, I like to eat mangoes and grapes. 🍇🥭 What about you?",
+      "examples": [
+        "I like to eat mangoes.",
+        "I like to eat grapes."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "fruits",
+        "mangoes",
+        "grapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Animals and Their Actions",
+      "title": "Animals on the Mat",
+      "concept": "Identifying animals and their actions.",
+      "explanation": "Cats and dogs are common pets. They can sit on the mat just like we can sit on a chair! 🐱🐶",
+      "examples": [
+        "The cat sat on the mat.",
+        "The dog sat on the mat."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "cat",
+        "dog",
+        "mat"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Colors and Patterns",
+      "title": "Describing a Ball",
+      "concept": "Using adjectives to describe objects.",
+      "explanation": "This ball has yellow and green dots. We can describe objects using colors! ⚽️🌈",
+      "examples": [
+        "This ball has yellow dots on it.",
+        "This ball also has green dots on it."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "ball",
+        "dots",
+        "colors"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Classroom Items",
+      "title": "Classroom Objects",
+      "concept": "Identifying items in a classroom.",
+      "explanation": "In our classroom, we have tables and chairs. These are important for learning! 🪑📚",
+      "examples": [
+        "There are tables in my classroom.",
+        "There are chairs in my classroom."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "classroom",
+        "tables",
+        "chairs"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Role Play",
+      "title": "Enact the Story",
+      "concept": "Engaging in role play to enhance understanding.",
+      "explanation": "Choose a partner and act out the story of Babli and Jeet! Use your imagination! 🎭",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "role play",
+        "imagination",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Family Stories",
+      "title": "Learn About Childhood Games",
+      "concept": "Connecting with family through stories.",
+      "explanation": "Ask your grandparents or parents about games they played when they were young. Share it in class! 🕹️👵👴",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "family",
+        "games",
+        "stories"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_008",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "poem",
+      "topic": "Fun Activities",
+      "title": "It’s Fun to Be This",
+      "concept": "Exploring fun activities through a poem.",
+      "explanation": "This poem talks about fun things we can do like jumping and climbing! Let's read it together! 🌟",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "fun",
+        "activities",
+        "poem"
+      ],
+      "difficulty": "easy",
+      "text": "It’s fun to be this,\nIt’s fun to be that,\nTo leap like a lamb,\nTo climb like a cat.\nTo hop like a frog,\nTo swim like a fish,\nTo trot like a horse,\nTo fly like a bird.\nI can act\nJust like them all,\nIt’s fun to be this,\nIt’s fun to be that."
+    },
+    {
+      "id": "kb_class_2_english_009",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Animal Sounds",
+      "title": "Guess the Animal Sounds",
+      "concept": "Identifying animal sounds.",
+      "explanation": "Listen to the sounds and guess which animal makes them! 🐸🐔🐦",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "animal sounds",
+        "guessing",
+        "listening"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_010",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Animal Actions",
+      "title": "If You Were an Animal",
+      "concept": "Imagining actions of animals.",
+      "explanation": "If you were a cat, what would you do? Let's share our answers! 🐱💭",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "If you were a cat, what would you do?",
+          "a": "I would run after a mouse."
+        },
+        {
+          "q": "If you meet an elephant, what would you say?",
+          "a": "I would say hello!"
+        }
+      ],
+      "keywords": [
+        "imagination",
+        "animals",
+        "responses"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_011",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Animal Abilities",
+      "title": "What Can You Do Like an Animal?",
+      "concept": "Expressing abilities related to animals.",
+      "explanation": "What can you do like any animal? Let's share our talents! 🦁✨",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What can you do like any animal or bird?",
+          "a": "I can jump like a frog."
+        },
+        {
+          "q": "Name any two animals or birds that can swim?",
+          "a": "1. Duck 2. Penguin"
+        },
+        {
+          "q": "Name any two animals that live on trees?",
+          "a": "1. Squirrel 2. Bird"
+        }
+      ],
+      "keywords": [
+        "abilities",
+        "animals",
+        "sharing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_012",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sentence Formation",
+      "title": "Make Sentences",
+      "concept": "Creating sentences using new words.",
+      "explanation": "Let's make sentences with the words we learned! For example, 'Monkeys climb trees.' 🐒🌳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "sentence formation",
+        "writing",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_013",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Picture Description",
+      "title": "Describe the Picture",
+      "concept": "Writing about visual stimuli.",
+      "explanation": "Look at the picture and write a few sentences about what you see! 🖼️✍️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "picture",
+        "description",
+        "writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Animal Actions",
+      "title": "Matching Animals to Actions",
+      "concept": "Animals have different actions.",
+      "explanation": "Let's learn what different animals do! 🐴🐑🐍🐿️🐒",
+      "examples": [
+        "The horse trots.",
+        "The lamb leaps.",
+        "The snake crawls."
+      ],
+      "practice_questions": [
+        {
+          "q": "What does a horse do?",
+          "a": "A horse trots."
+        },
+        {
+          "q": "What does a monkey do?",
+          "a": "A monkey swings."
+        }
+      ],
+      "keywords": [
+        "animals",
+        "actions",
+        "matching"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Letter I",
+      "title": "Song of I",
+      "concept": "Understanding the letter and word 'I'.",
+      "explanation": "The letter 'I' is special because it is both a letter and a word! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "letter",
+        "I",
+        "word"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002_1",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Letter I",
+      "title": "Song of I",
+      "concept": "Understanding the letter and word 'I'.",
+      "explanation": "The letter 'I' is special because it is both a letter and a word! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "letter",
+        "I",
+        "word"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Drawing Rangoli",
+      "title": "Rangoli Art",
+      "concept": "Creating art through drawing.",
+      "explanation": "Let's draw a beautiful rangoli! 🎨✨ Follow the steps to make it colorful.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "art",
+        "drawing",
+        "rangoli"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Seeing without Seeing",
+      "title": "Onshangla's New Friend",
+      "concept": "Understanding challenges faced by differently abled individuals.",
+      "explanation": "Onshangla learns about a new boy who cannot see and plays a fun game with her mother. 🌹🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "friendship",
+        "empathy"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Understanding Different Ways to Learn",
+      "title": "Finding Out Without Seeing",
+      "concept": "Children can learn through different senses.",
+      "explanation": "Even if you can't see, you can learn about things using your other senses! For example, you can smell flowers or hear sounds to understand your surroundings. 🌼👂",
+      "examples": [
+        "Identifying a flower by its smell",
+        "Finding out where a sound is coming from"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "senses",
+        "learning",
+        "friendship"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Identifying Objects",
+      "title": "Close Your Eyes and Identify",
+      "concept": "Using senses to identify objects.",
+      "explanation": "Try to identify things without looking! Close your eyes and think about how you would recognize these items.",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How would you identify water?",
+          "a": "By feeling its temperature or listening to its sound."
+        },
+        {
+          "q": "How would you identify a flower?",
+          "a": "By smelling it!"
+        }
+      ],
+      "keywords": [
+        "senses",
+        "identification",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Drawing and Sharing",
+      "title": "Let Us Draw",
+      "concept": "Expressing preferences through art.",
+      "explanation": "Draw things you love! Sharing your drawings with friends is fun and helps you express yourself. 🎨😊",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "sharing",
+        "preferences"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Family Activities",
+      "title": "Activities with Family",
+      "concept": "Writing about family activities.",
+      "explanation": "Think about fun things you do with your family and write them down! It helps you remember special moments. 🏡❤️",
+      "examples": [
+        "I like to walk with my grandfather."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like to do with your family?",
+          "a": "I like to play games with my sister."
+        }
+      ],
+      "keywords": [
+        "family",
+        "activities",
+        "writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Self-Help Skills",
+      "title": "Things I Can Do By Myself",
+      "concept": "Recognizing personal independence.",
+      "explanation": "List things you can do all by yourself! It shows how you are growing up. 🌱✨",
+      "examples": [
+        "I can take a bath by myself."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "independence",
+        "self-help",
+        "growing up"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Eye Care",
+      "title": "Taking Care of Our Eyes",
+      "concept": "Understanding eye health.",
+      "explanation": "Our eyes are important! Let's learn what is good and not good for them. 👀💖",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What should you do for your eyes?",
+          "a": "Read in good light."
+        },
+        {
+          "q": "What is not good for your eyes?",
+          "a": "Sitting too close to the TV."
+        }
+      ],
+      "keywords": [
+        "eye care",
+        "health",
+        "wellness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Eye Exercises",
+      "title": "Eye Movements",
+      "concept": "Practicing eye movements for health.",
+      "explanation": "Let's exercise our eyes! Follow the teacher's instructions to keep your eyes healthy. 🏋️‍♂️👁️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "exercise",
+        "eyes",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_008",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Vowel Sounds",
+      "title": "Learning Vowel Sounds",
+      "concept": "Identifying vowel sounds in words.",
+      "explanation": "Let's learn about the vowel sound 'o'! Words like 'ox' and 'orange' start with this sound. 🐂🍊",
+      "examples": [
+        "ox",
+        "orange"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "vowel sounds",
+        "phonics",
+        "language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_009",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Traveling",
+      "title": "Going Places",
+      "concept": "Different modes of transportation.",
+      "explanation": "Let's have fun with this rhyme about traveling! 🚍✈️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "travel",
+        "transportation",
+        "rhyme"
+      ],
+      "difficulty": "easy",
+      "text": "Take a bus \nOr take a train,\nTake a boat \nOr take a plane,\nTake a taxi, \nTake a car,\nMaybe near \nOr maybe far,"
+    },
+    {
+      "id": "kb_class_2_english_010",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Travel Experiences",
+      "title": "Talking About Travel",
+      "concept": "Sharing travel experiences.",
+      "explanation": "Let's talk about our travel experiences! Where have you been? What did you see? 🌍🍕",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Have you ever traveled by bus or train?",
+          "a": "Yes, I went to the beach!"
+        }
+      ],
+      "keywords": [
+        "travel",
+        "experiences",
+        "discussion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Means of Transport",
+      "title": "Exploring Vehicles",
+      "concept": "Understanding different means of transport.",
+      "explanation": "Vehicles help us travel from one place to another. They can be on land, in the air, or on water. 🚗✈️🚢",
+      "examples": [
+        "bus",
+        "train",
+        "boat"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "transport",
+        "vehicle",
+        "land",
+        "air",
+        "water"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Fun with Vehicles",
+      "title": "Take a Rocket",
+      "concept": "A fun rhyme about traveling to the moon.",
+      "explanation": "This rhyme encourages imagination and fun with travel! 🌙🚀",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rocket",
+        "moon",
+        "fun"
+      ],
+      "difficulty": "easy",
+      "text": "Take a rocket\nTo the moon,\nBut be sure\nTo come back soon."
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Drawing Vehicles",
+      "title": "Draw Your Favorite Vehicle",
+      "concept": "Encouraging creativity through drawing.",
+      "explanation": "Draw the vehicle that you like the most! It can be real or imaginary. 🎨🚗",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "vehicle",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sorting Transport",
+      "title": "Sort the Vehicles",
+      "concept": "Classifying vehicles based on their movement.",
+      "explanation": "Sort the vehicles into land, air, and water categories. 🚗✈️🚢",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "sorting",
+        "vehicles",
+        "classification"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Vowel Sounds",
+      "title": "Vowel Sound ‘u’",
+      "concept": "Learning the vowel sound 'u'.",
+      "explanation": "The vowel sound 'u' is found in words like 'hut' and 'umbrella'. Let's practice! 🏠☂️",
+      "examples": [
+        "an umbrella",
+        "a hut"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "vowel",
+        "sound",
+        "u"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Journey to School",
+      "title": "Ravi's Journey",
+      "concept": "A story about a fun journey to school.",
+      "explanation": "Ravi and his friend have an exciting adventure on their way to school! 🏫🌳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "journey",
+        "school",
+        "fun"
+      ],
+      "difficulty": "easy",
+      "text": "Hello, I am Ravi. I study in Class 2. My friend and I go to school on foot. We pass through the paddy fields, the mango grove and then reach the main road. That is the shortest route we take to school. What fun we have every day!"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Writing About Journeys",
+      "title": "Describe Your Journey",
+      "concept": "Writing about personal experiences.",
+      "explanation": "Write about the interesting things you see on your way to school! 📝🌼",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What interesting things do you see on your way to school?",
+          "a": "I see trees, birds, and sometimes a dog."
+        },
+        {
+          "q": "Ask your family about a long journey they had.",
+          "a": "They went to the mountains and used a car."
+        }
+      ],
+      "keywords": [
+        "writing",
+        "journey",
+        "experience"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "My Town",
+      "title": "This is My Town",
+      "concept": "Understanding the structure of a town and its components.",
+      "explanation": "In my town, there are many streets, houses, and rooms. Let's explore what we can find in each place! 🏡🚶‍♂️",
+      "examples": [
+        "In my town, there are streets.",
+        "In my street, there are houses."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you see in the picture?",
+          "a": "Describe the elements in the picture."
+        },
+        {
+          "q": "What is the name of your town/city?",
+          "a": "Share your town's name."
+        },
+        {
+          "q": "What is the name of your street?",
+          "a": "Tell us your street's name."
+        }
+      ],
+      "keywords": [
+        "town",
+        "street",
+        "house",
+        "room",
+        "flower"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Word Formation",
+      "title": "Rearranging Jumbled Letters",
+      "concept": "Forming words from jumbled letters.",
+      "explanation": "Let's have fun rearranging letters to make words! 🅰️🔤",
+      "examples": [
+        "gate -> gate",
+        "road -> road"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "jumbled",
+        "letters",
+        "words"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sentence Formation",
+      "title": "Make Sentences",
+      "concept": "Creating sentences from given words.",
+      "explanation": "Use the words to make your own sentences! 📝✨",
+      "examples": [
+        "I see a gate.",
+        "The road is long."
+      ],
+      "practice_questions": [
+        {
+          "q": "Make a sentence using the word 'tree'.",
+          "a": "The tree is tall."
+        },
+        {
+          "q": "Make a sentence using the word 'lizard'.",
+          "a": "The lizard is green."
+        }
+      ],
+      "keywords": [
+        "sentence",
+        "formation",
+        "words"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Flowers in a Basket",
+      "title": "Poem about My Town",
+      "concept": "Understanding the beauty of my town through a poem.",
+      "explanation": "Let's enjoy this lovely poem about the things in our town! 🌸🏙️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "poem",
+        "flowers",
+        "basket"
+      ],
+      "difficulty": "easy",
+      "text": "This is my town.\nIn my town,\nThere are streets.\nIn my street,\nThere are houses.\nIn my house,\nThere are rooms.\nIn my room,\nThere is a bed.\nOn the bed,\nThere is a basket.\nIn the basket,\nThere are some flowers.\nFlowers in a basket.\nBasket on the bed.\nBed in the room.\nRoom in the house.\nHouse in the street.\nStreet in the town."
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Address Writing",
+      "title": "Write Your Home Address",
+      "concept": "Learning to write personal information.",
+      "explanation": "Let's practice writing our home address! 🏠✍️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "address",
+        "home",
+        "writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Listening Skills",
+      "title": "Listen and Encircle",
+      "concept": "Improving listening skills through word recognition.",
+      "explanation": "Listen carefully to the words and encircle them! 👂🔍",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "listening",
+        "encircle",
+        "words"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Observation Skills",
+      "title": "Spot the Differences",
+      "concept": "Enhancing observation skills through comparison.",
+      "explanation": "Look closely at the pictures and find the differences! 🔍👀",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "observation",
+        "differences",
+        "pictures"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_008",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Creative Drawing",
+      "title": "Complete the Picture",
+      "concept": "Encouraging creativity through drawing.",
+      "explanation": "Use your imagination to add to the picture! 🎨🖌️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "creativity",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Life Around Us",
+      "title": "A Show of Clouds",
+      "concept": "Observing clouds and imagination.",
+      "explanation": "When we look up at the sky, we can see different shapes in the clouds. It's fun to imagine what they look like! ☁️✨",
+      "examples": [
+        "A big white bear 🐻",
+        "A ship sailing ⛵"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you see in the sky during the day?",
+          "a": "I see the sun ☀️, birds 🐦, and clouds ☁️."
+        },
+        {
+          "q": "What do you see in the sky at night?",
+          "a": "I see stars ⭐ and the moon 🌙."
+        }
+      ],
+      "keywords": [
+        "clouds",
+        "imagination",
+        "sky"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "poem",
+      "topic": "A Show of Clouds",
+      "title": "Cloud Poem",
+      "content": "As I lie on my back,\nLooking up at the sky.\nI see a big white bear,\nLooking down at me.\nAs I lie on my back,\nLooking up at the sky.\nI see a ship sailing,\nOn a white sea.\nAs I lie on my back,\nLooking up at the sky.\nI see an elephant,\nWaving its trunk at me.\nAs I lie on my back,\nLooking up at the sky.\nOh! It’s fun, it’s fun to me,\nTo see whatever I want to see."
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Cloud Observation",
+      "title": "Cloud Watching Activity",
+      "concept": "Engaging with nature.",
+      "explanation": "Sit outside and watch the clouds. What shapes do you see? Share your observations with your class! 🌤️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What did you see in the clouds?",
+          "a": "I saw a dragon 🐉."
+        },
+        {
+          "q": "What colors can clouds be?",
+          "a": "Clouds can be white, grey, or even pink at sunset! 🌅"
+        }
+      ],
+      "keywords": [
+        "clouds",
+        "observation",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sound Recognition",
+      "title": "Common Sounds",
+      "concept": "Identifying sounds in words.",
+      "explanation": "Let's listen to words that have the same sound! Can you hear the 'ck' sound? 🗣️",
+      "examples": [
+        "back",
+        "lack",
+        "pack",
+        "jack",
+        "rack"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "sounds",
+        "ck",
+        "words"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "The Fly and the Tree",
+      "title": "A Curious Fly",
+      "content": "The fly said, “Dear tree, do you know my name?” The tree said, “I don’t know. You may ask the cow sleeping in my shade.”"
+    },
+    {
+      "id": "kb_class_2_english_060",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "My Name",
+      "title": "Remembering Names",
+      "concept": "Understanding the importance of names and identity.",
+      "explanation": "Names are special! They help us know who we are. Just like the little fly who forgot his name and asked others for help! 🐝✨",
+      "examples": [
+        "The fly asked the ant, 'Do you know my name?'",
+        "The cow suggested asking the grass."
+      ],
+      "practice_questions": [
+        {
+          "q": "How did the fly find his name?",
+          "a": "The fly remembered his name when he saw the leaf flying."
+        },
+        {
+          "q": "If you forget your name, whom would you ask?",
+          "a": "I would ask my friends or family."
+        }
+      ],
+      "keywords": [
+        "name",
+        "identity",
+        "remembered"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_061",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "The Fly's Adventure",
+      "title": "The Fly Who Forgot His Name",
+      "concept": "A story about a fly who forgets his name and seeks help.",
+      "explanation": "Once there was a little fly who couldn't remember his name! He asked an ant, a cow, and grass, but they didn't know. Finally, he remembered his name when he saw a leaf flying! 🐞🍃",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "fly",
+        "ant",
+        "cow",
+        "grass",
+        "name"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_062",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sound Recognition",
+      "title": "Animal Sounds",
+      "concept": "Learning to recognize and imitate animal sounds.",
+      "explanation": "Can you make sounds like animals? Let's have fun! 🐶🐱",
+      "examples": [
+        "Caw like a crow",
+        "Meow like a cat"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "sounds",
+        "animals",
+        "imitate"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_063",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Listening Skills",
+      "title": "What Do You Hear?",
+      "concept": "Practicing listening skills by identifying sounds.",
+      "explanation": "Close your eyes and listen carefully. What sounds can you hear? 🌳👂",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "listening",
+        "sounds",
+        "recognition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_064",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sentence Completion",
+      "title": "Fill in the Blanks",
+      "concept": "Completing sentences based on the story.",
+      "explanation": "Let's fill in the blanks using words from the story! 📝",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "sentence",
+        "completion",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_065",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Story Completion",
+      "title": "Complete the Story",
+      "concept": "Using creativity to finish a story.",
+      "explanation": "Can you help the cat and cow finish their conversation? 🐱🐄",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "completion",
+        "creative writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_066",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "project",
+      "topic": "Understanding Names",
+      "title": "What Does Your Name Mean?",
+      "concept": "Exploring the meanings of names.",
+      "explanation": "What is the meaning of your name? Let's find out together! 🤔💖",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "name",
+        "meaning",
+        "identity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Sentence Construction",
+      "title": "Using Descriptive Words",
+      "concept": "Construct sentences using given words.",
+      "explanation": "Let's create sentences using the words we have! For example, 'Rohit has a blue blanket.' Now you try!",
+      "examples": [
+        "Rohit has a blue blanket.",
+        "___",
+        "___"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "sentence",
+        "construction",
+        "descriptive"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "The Crow",
+      "title": "The Crow's Beauty",
+      "concept": "Understanding beauty and self-acceptance.",
+      "explanation": "This poem tells the story of a crow who wants to be beautiful like a peacock. It teaches us that true beauty comes from within! 🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "crow",
+        "beauty",
+        "self-acceptance"
+      ],
+      "difficulty": "easy",
+      "text": "There once was a crow.\nHe was black, as you know.\nHow to be beautiful,\nhe wanted to know.\nColourful feathers,\nhe wanted to grow.\nHe found one peacock\nfeather.\nHe stuck it in his tail.\nThen he found another,\nHe picked up all without fail.\nHe stuck them\nin his wings,\nPut one on his head.\nI am now beautiful,\nHe danced and said.\nThe other crows\nlaughed at him.\n“Oh, what a fool you are!\nYou are beautiful in black.\nWe love you for\nwhat you are.”"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Bird Identification",
+      "title": "Identifying Birds",
+      "concept": "Recognizing different birds.",
+      "explanation": "Can you identify the birds in the box? Write their names in the space provided! 🐦",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "bird",
+        "identification",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Drawing and Writing",
+      "title": "My Favourite Bird",
+      "concept": "Expressing creativity through drawing.",
+      "explanation": "Draw your favorite bird and write its name! Let your imagination fly! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "favorite",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Syllable Clapping",
+      "title": "Clapping for Syllables",
+      "concept": "Learning to break words into syllables.",
+      "explanation": "Close your eyes and listen to the words. Clap for each syllable! It makes learning fun! 👏",
+      "examples": [
+        "peacock",
+        "beautiful",
+        "colourful"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "syllables",
+        "clapping",
+        "phonetics"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Rhyming Words",
+      "title": "Find the Rhymes",
+      "concept": "Identifying rhyming words.",
+      "explanation": "Match the words in Column A with rhyming words in Column B. Let's have some fun with rhymes! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rhymes",
+        "matching",
+        "language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sentence Formation",
+      "title": "Making Sentences",
+      "concept": "Creating sentences with given words.",
+      "explanation": "Use one word from each box to make sentences. Let's see what you can come up with! 📝",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "sentence",
+        "formation",
+        "creative writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "The Smart Monkey",
+      "title": "Anju and Farida's Market Adventure",
+      "concept": "A story about Anju and Farida's trip to the market and a lesson on cleanliness.",
+      "explanation": "Anju and Farida went to the market where they bought some snacks. They learned an important lesson about keeping the environment clean when a monkey showed them how to throw trash in the dustbin. 🌳🐒",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "market",
+        "cleanliness",
+        "monkey"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "New Words",
+      "title": "Learning New Words",
+      "concept": "Understanding new vocabulary related to the story.",
+      "explanation": "Let's learn some new words from the story! These words will help us understand better. 📚✨",
+      "examples": [
+        "shopping",
+        "groundnuts",
+        "dustbin"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "vocabulary",
+        "learning",
+        "words"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Questions about the story",
+      "title": "Discussion Questions",
+      "concept": "Questions to encourage discussion about the story.",
+      "explanation": "Let's think about what we learned from the story! 🤔💭",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Have you seen people throwing packets or bottles in the park or on the road?",
+          "a": "Discuss your thoughts."
+        },
+        {
+          "q": "After having biscuits, what do you do with the wrapper?",
+          "a": "Share your answer."
+        },
+        {
+          "q": "Imagine you are sitting under a tree. What do you see on the tree?",
+          "a": "Describe it."
+        },
+        {
+          "q": "Is there a dustbin in your school? Do you know where it is?",
+          "a": "Answer yes or no."
+        }
+      ],
+      "keywords": [
+        "discussion",
+        "questions",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Listening and Clapping",
+      "title": "Syllable Clapping Activity",
+      "concept": "An activity to practice listening and syllable recognition.",
+      "explanation": "Close your eyes and listen to your teacher say your name. Clap for each syllable in your name! How many times did you clap? 👏🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "listening",
+        "clapping",
+        "syllables"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sentence Completion",
+      "title": "Complete the Sentences",
+      "concept": "Practice writing by completing sentences from the story.",
+      "explanation": "Fill in the blanks with the right words to complete the sentences! 📝✏️",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Farida and Anju sat on ________________________ under the tree to rest.",
+          "a": "a bench"
+        },
+        {
+          "q": "There was a monkey sitting ________________________ of the tree.",
+          "a": "on the branch"
+        },
+        {
+          "q": "The two girls had a ________________________ and a bottle of juice.",
+          "a": "packet of groundnuts"
+        },
+        {
+          "q": "The monkey threw the ________________________ into ________________________.",
+          "a": "banana peel, the dustbin"
+        }
+      ],
+      "keywords": [
+        "sentence",
+        "completion",
+        "writing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "True or False",
+      "title": "Identify True or False Sentences",
+      "concept": "Practice identifying correct and incorrect sentences.",
+      "explanation": "Read the sentences and put a check (✔️) for correct ones and a cross (❌) for incorrect ones! 📖✅❌",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Anju and Farida went to their school.",
+          "a": "❌"
+        },
+        {
+          "q": "Anju bought a bag and Farida bought a water bottle.",
+          "a": "✔️"
+        },
+        {
+          "q": "There was a bird on the branch of the tree.",
+          "a": "❌"
+        },
+        {
+          "q": "The monkey had a banana.",
+          "a": "✔️"
+        },
+        {
+          "q": "The monkey threw the banana peel in the dustbin.",
+          "a": "✔️"
+        }
+      ],
+      "keywords": [
+        "true",
+        "false",
+        "sentences"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Project Work",
+      "title": "Share Your Shopping Experience",
+      "concept": "Encouraging students to share their shopping experiences.",
+      "explanation": "Have you ever gone to a nearby shop with your family? Share your experiences with the class! You can also draw or paste pictures of things you liked in the shop. 🛍️🖼️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "project",
+        "experience",
+        "shopping"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_081",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Vocabulary Building",
+      "title": "Using Blends in Sentences",
+      "concept": "Creating sentences with given words.",
+      "explanation": "Let's use words that start with blends! For example, 'There is a clock in the classroom.' Now, you can create your own sentences using the words below.",
+      "examples": [
+        "There is a cloud in the sky.",
+        "I see a flag waving."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "blends",
+        "sentences",
+        "vocabulary"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_082",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Nature and Kindness",
+      "title": "Little Drops of Water",
+      "concept": "Understanding the importance of small things.",
+      "explanation": "This poem teaches us that little things, like drops of water and acts of kindness, can make a big difference! 🌊❤️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "poem",
+        "nature",
+        "kindness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_083",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Discussion on Water",
+      "title": "Importance of Water",
+      "concept": "Discussing the uses of water.",
+      "explanation": "Water is essential for life! Let's talk about all the ways we use water every day. 💧",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "water",
+        "discussion",
+        "importance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_084",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Coloring Activity",
+      "title": "Color the Birds and Plants",
+      "concept": "Following directions to color.",
+      "explanation": "Listen carefully to the instructions and color the birds, leaves, and plants as you like! 🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "coloring",
+        "activity",
+        "listening"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_085",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Drawing Activity",
+      "title": "Make Earth Beautiful",
+      "concept": "Expressing creativity through drawing.",
+      "explanation": "Draw something that you think would make our Earth a more beautiful place! 🌍✨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "creativity",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_086",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Matching Words",
+      "title": "Match the Words from the Poem",
+      "concept": "Connecting words to complete phrases.",
+      "explanation": "Match the words in Column A with Column B to complete the phrases from the poem! 📝",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "matching",
+        "words",
+        "poem"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_087",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Fill in the Blanks",
+      "title": "Complete the Sentences",
+      "concept": "Using context clues to fill in missing words.",
+      "explanation": "Fill in the blanks using the words from the box! For example, 'A ____________ of milk.' 🥛",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "fill in the blanks",
+        "context clues",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_088",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Sentence Rearrangement",
+      "title": "Rearrange the Words",
+      "concept": "Forming correct sentences.",
+      "explanation": "Rearrange the words to make proper sentences. Remember to start with a capital letter and end with a full stop! 🗣️",
+      "examples": [
+        "Raghav took his book."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "rearrangement",
+        "sentences",
+        "grammar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_089",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "project",
+      "topic": "Texture Exploration",
+      "title": "Touch and Feel Project",
+      "concept": "Exploring textures in the kitchen.",
+      "explanation": "Ask your family to let you touch and feel different things in the kitchen. What do they feel like? 🍚🥔",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "project",
+        "texture",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_091",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Introduction to Indian Languages",
+      "title": "We Are All Indians",
+      "concept": "Understanding diversity in languages and cultures across India.",
+      "explanation": "In India, we have many languages and cultures! Each person can share where they come from and what they like. 🌏✨",
+      "examples": [
+        "Ramu comes from Gujarat and speaks Gujarati.",
+        "Meenakshi comes from Tamil Nadu and speaks Tamil."
+      ],
+      "practice_questions": [
+        {
+          "q": "How old are you?",
+          "a": "I am seven years old."
+        },
+        {
+          "q": "What is your name?",
+          "a": "My name is Meenakshi."
+        },
+        {
+          "q": "Where do you study?",
+          "a": "I study at Santiniketan."
+        }
+      ],
+      "keywords": [
+        "India",
+        "languages",
+        "culture",
+        "diversity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_092",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Personal Information",
+      "title": "Fill in the Blanks",
+      "concept": "Practicing personal questions and answers.",
+      "explanation": "Let's practice asking and answering questions about ourselves! 🤔💬",
+      "examples": [
+        "I am Badal. I come from Bengal. I like painting and music.",
+        "I am Neerja. I come from Uttar Pradesh. I have seen the Taj Mahal."
+      ],
+      "practice_questions": [
+        {
+          "q": "What language do you speak?",
+          "a": "I speak [your language]."
+        },
+        {
+          "q": "Which tree do you like?",
+          "a": "I like the [your favorite tree]."
+        }
+      ],
+      "keywords": [
+        "personal information",
+        "questions",
+        "answers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_093",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "New Vocabulary",
+      "title": "New Words",
+      "concept": "Learning new words related to culture and activities.",
+      "explanation": "Let's learn some new words that help us talk about our cultures! 📚🌟",
+      "examples": [
+        "Festival: A special celebration.",
+        "Puppet: A toy that can be moved."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "vocabulary",
+        "new words",
+        "culture"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_094",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Speaking Practice",
+      "title": "Let Us Speak",
+      "concept": "Practicing everyday phrases and questions.",
+      "explanation": "Let's practice what we say in different situations! 🗣️😊",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What do you say when you want to enter the classroom?",
+          "a": "Excuse me, may I come in?"
+        },
+        {
+          "q": "What do you say when you need a pencil?",
+          "a": "Thank you for the pencil!"
+        }
+      ],
+      "keywords": [
+        "speaking",
+        "communication",
+        "everyday phrases"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Drawing",
+      "title": "What do you like the most?",
+      "concept": "Expressing personal preferences through drawing.",
+      "explanation": "Let's draw something we love! 🎨 What makes you happy at home? Is it your favorite toy, a pet, or something else?",
+      "examples": [
+        "A drawing of my favorite toy car 🚗",
+        "A drawing of my pet dog 🐶"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "preferences",
+        "home"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Listening and Speaking",
+      "title": "Frame Sentences",
+      "concept": "Creating sentences using given words.",
+      "explanation": "Let's make sentences! 🗣️ For example, if we have the words 'bright', 'sunny', and 'day', we can say: 'It was a bright sunny day.' Now it's your turn!",
+      "examples": [
+        "It was a bright sunny day. My brother went to buy bread. He crossed the bridge to reach the shop."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "sentences",
+        "language",
+        "communication"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Questions and Answers",
+      "title": "Discuss with your teacher",
+      "concept": "Answering questions about India and festivals.",
+      "explanation": "Let's talk about our country and festivals! 🇮🇳 Can you answer these questions?",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What do we call the people who live in India?",
+          "a": "Indians."
+        },
+        {
+          "q": "Name the festival of colours.",
+          "a": "Holi."
+        },
+        {
+          "q": "Which festival do you like the most? Why?",
+          "a": "I like Diwali because of the lights and sweets!"
+        }
+      ],
+      "keywords": [
+        "India",
+        "festivals",
+        "discussion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Jumbled Letters",
+      "title": "Rearrange the letters",
+      "concept": "Identifying languages from jumbled letters.",
+      "explanation": "Can you solve these puzzles? 🧩 Rearrange the letters to find the names of languages!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What language is INHDI?",
+          "a": "HINDI"
+        },
+        {
+          "q": "What language is GNIELHS?",
+          "a": "ENGLISH"
+        },
+        {
+          "q": "What language is RUUD?",
+          "a": "URDU"
+        },
+        {
+          "q": "What language is ELUTGU?",
+          "a": "TULUGU"
+        }
+      ],
+      "keywords": [
+        "languages",
+        "puzzles",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Joining Sentences",
+      "title": "Use 'but' to join sentences",
+      "concept": "Combining sentences using the word 'but'.",
+      "explanation": "Let's join sentences! ✍️ For example, 'I like to eat mangoes.' and 'I don’t like to eat apples.' can be joined as 'I like to eat mangoes but I don’t like to eat apples.' Now, try these!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Join these sentences: I like milk. I don’t like tea.",
+          "a": "I like milk but I don’t like tea."
+        },
+        {
+          "q": "Join these sentences: My grandfather is old. He is strong.",
+          "a": "My grandfather is old but he is strong."
+        },
+        {
+          "q": "Join these sentences: I wanted to go out. I was too tired.",
+          "a": "I wanted to go out but I was too tired."
+        }
+      ],
+      "keywords": [
+        "joining",
+        "sentences",
+        "language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Curiosity in the Classroom",
+      "title": "The Mystery Object",
+      "concept": "Exploring curiosity and learning about history.",
+      "explanation": "In a classroom, students find an unusual object. They wonder what it is and learn about Mahatma Gandhi! 🌟",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "curiosity",
+        "learning",
+        "history"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_101",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Mahatma Gandhi and the Charkha",
+      "title": "Understanding the Charkha",
+      "concept": "The charkha symbolizes self-reliance and independence.",
+      "explanation": "Mahatma Gandhi used the charkha to spin thread and promote local crafts. 🌱 This handkerchief is made from the thread spun on the charkha!",
+      "examples": [
+        "A handkerchief made from spun thread.",
+        "Clothes made from local handicrafts."
+      ],
+      "practice_questions": [
+        {
+          "q": "What did Mahatma Gandhi use the charkha for?",
+          "a": "To spin thread."
+        },
+        {
+          "q": "What does the charkha symbolize?",
+          "a": "Self-reliance and independence."
+        }
+      ],
+      "keywords": [
+        "Mahatma Gandhi",
+        "charkha",
+        "independence"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_102",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Vanmahotsav and Local Festivals",
+      "title": "Matching Fruits to Trees",
+      "concept": "Understanding the connection between fruits and their trees.",
+      "explanation": "Can you match the fruits to the trees they grow on? 🍌🍏 Let's learn about nature!",
+      "examples": [
+        "Banana grows on a banana tree.",
+        "Apple grows on an apple tree."
+      ],
+      "practice_questions": [
+        {
+          "q": "Which tree does the coconut grow on?",
+          "a": "Coconut tree."
+        },
+        {
+          "q": "Where do grapes grow?",
+          "a": "On a grapevine."
+        }
+      ],
+      "keywords": [
+        "Vanmahotsav",
+        "fruits",
+        "trees"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_103",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Phool Dei Festival",
+      "title": "The Festival of Flowers",
+      "concept": "Celebrating the arrival of Spring with flowers.",
+      "explanation": "During Phool Dei, children collect flowers and offer them to elders. 🌸 They receive rice and jaggery in return!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What do children collect during Phool Dei?",
+          "a": "Different kinds of flowers."
+        },
+        {
+          "q": "What do elders give in return?",
+          "a": "Rice and jaggery."
+        }
+      ],
+      "keywords": [
+        "Phool Dei",
+        "flowers",
+        "Spring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_104",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Sharad Poornima",
+      "title": "Celebrating Sharad Poornima",
+      "concept": "Understanding the significance of Sharad Poornima.",
+      "explanation": "Sharad Poornima is celebrated on a full moon night in September-October. 🌕 It marks the end of the monsoon season.",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "When is Sharad Poornima celebrated?",
+          "a": "On a full moon night."
+        },
+        {
+          "q": "What does it mark the end of?",
+          "a": "The monsoon season."
+        }
+      ],
+      "keywords": [
+        "Sharad Poornima",
+        "full moon",
+        "monsoon"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_105",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Pang Lhabsol",
+      "title": "The Festival of Sikkim",
+      "concept": "Celebrating the Pang Lhabsol festival.",
+      "explanation": "Pang Lhabsol is celebrated in Sikkim to worship Mt Kanchenjunga. 🏔️ People dance and celebrate together!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What do people worship during Pang Lhabsol?",
+          "a": "Mt Kanchenjunga."
+        },
+        {
+          "q": "When is this festival celebrated?",
+          "a": "In August or September."
+        }
+      ],
+      "keywords": [
+        "Pang Lhabsol",
+        "Sikkim",
+        "celebration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_106",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Aadi Perukku",
+      "title": "The Tamil Monsoon Festival",
+      "concept": "Understanding the significance of Aadi Perukku.",
+      "explanation": "Aadi Perukku is a Tamil festival where people worship the river Cauvery. 🌊 Farmers pray for a good harvest!",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What do people worship during Aadi Perukku?",
+          "a": "The river Cauvery."
+        },
+        {
+          "q": "What do farmers pray for?",
+          "a": "A good harvest."
+        }
+      ],
+      "keywords": [
+        "Aadi Perukku",
+        "Tamil festival",
+        "harvest"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_107",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "project",
+      "topic": "Folk Songs",
+      "title": "Discovering Folk Songs",
+      "concept": "Learning about local folk songs from family.",
+      "explanation": "Ask your family about a folk song they used to sing. 🎶 Learn it in your mother tongue and share it with the class!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "folk songs",
+        "local culture",
+        "family"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_101",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Holistic Development",
+      "title": "Understanding Holistic Development",
+      "concept": "Holistic development nurtures all aspects of a child's growth.",
+      "explanation": "Holistic development means helping children grow in many ways: physically, emotionally, socially, and mentally. 🌱 For example, playing with friends helps them learn to share and be kind!",
+      "examples": [
+        "Playing games with friends 🤝",
+        "Learning to express feelings 😊"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does holistic development mean?",
+          "a": "It means growing in many ways like physically and emotionally."
+        },
+        {
+          "q": "Can you name one way to help a child grow?",
+          "a": "Playing with them helps them learn!"
+        }
+      ],
+      "keywords": [
+        "holistic",
+        "development",
+        "growth"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_102",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Foundational Stage",
+      "title": "What is the Foundational Stage?",
+      "concept": "The Foundational Stage is crucial for early education.",
+      "explanation": "The Foundational Stage is when children aged 3-8 learn important skills. 📚 This stage helps them get ready for school and life! It's like planting seeds for a big tree! 🌳",
+      "examples": [
+        "Learning letters and numbers 🔤🔢",
+        "Making friends in school 👩‍🤝‍👨"
+      ],
+      "practice_questions": [
+        {
+          "q": "What age does the Foundational Stage cover?",
+          "a": "It covers ages 3 to 8."
+        },
+        {
+          "q": "Why is this stage important?",
+          "a": "It helps children learn skills for school and life!"
+        }
+      ],
+      "keywords": [
+        "Foundational Stage",
+        "education",
+        "early learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_103",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "National Education Policy 2020",
+      "title": "Understanding NEP 2020",
+      "concept": "NEP 2020 focuses on improving early education.",
+      "explanation": "The National Education Policy 2020 is a plan to help children learn better in their early years. 🎓 It aims to make education fun and effective! 🌟",
+      "examples": [
+        "New teaching methods 📖",
+        "More activities for kids 🎨"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does NEP stand for?",
+          "a": "National Education Policy."
+        },
+        {
+          "q": "What is one goal of NEP 2020?",
+          "a": "To improve early education!"
+        }
+      ],
+      "keywords": [
+        "NEP 2020",
+        "education policy",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_110",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Learning Approaches",
+      "title": "Play-Based Learning",
+      "concept": "Learning through play is essential for children.",
+      "explanation": "Learning isn't just about books! 📚 It's about playing, exploring, and having fun while learning new things! 🎉",
+      "examples": [
+        "Playing games to learn numbers 🔢",
+        "Using toys to understand shapes 🔺"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is play-based learning?",
+          "a": "Learning through fun activities and games!"
+        }
+      ],
+      "keywords": [
+        "play",
+        "learning",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_111",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Domains of Learning",
+      "title": "Five Domains of Learning",
+      "concept": "There are five important areas of learning.",
+      "explanation": "We learn about our body, feelings, thinking, language, and culture! 🌍 Each part helps us grow in different ways! 🌱",
+      "examples": [
+        "Physical skills like running 🏃‍♂️",
+        "Emotional skills like sharing ❤️"
+      ],
+      "practice_questions": [
+        {
+          "q": "Name one domain of learning.",
+          "a": "Physical and motor skills!"
+        }
+      ],
+      "keywords": [
+        "domains",
+        "learning",
+        "growth"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_112",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Integration of Learning",
+      "title": "Connecting Home and School",
+      "concept": "What we learn at home is important in school.",
+      "explanation": "Your experiences at home help you learn better in school! 🏠➡️🏫 Share your stories and ideas! 💬",
+      "examples": [
+        "Talking about family traditions 👪",
+        "Using local language in class 🗣️"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is it important to share home experiences?",
+          "a": "It helps us learn from each other!"
+        }
+      ],
+      "keywords": [
+        "home",
+        "school",
+        "experiences"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_113",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Inclusivity in Learning",
+      "title": "Making Learning Fun for Everyone",
+      "concept": "Learning should be for everyone, no matter where they come from.",
+      "explanation": "Everyone has different stories and backgrounds! 🌈 Let's celebrate them in our learning! 🎊",
+      "examples": [
+        "Using different languages in class 🗣️",
+        "Including various cultures in stories 📖"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can we make learning inclusive?",
+          "a": "By sharing and respecting everyone's stories!"
+        }
+      ],
+      "keywords": [
+        "inclusivity",
+        "diversity",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_114",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Critical Thinking",
+      "title": "Thinking Questions",
+      "concept": "Asking questions helps us think better.",
+      "explanation": "Let's use our brains! 🧠 Asking questions makes us smarter! 🤔",
+      "examples": [
+        "What happens if we don't water plants? 🌱❓",
+        "Why do we need to share? 🤝❓"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is asking questions important?",
+          "a": "It helps us learn and understand more!"
+        }
+      ],
+      "keywords": [
+        "questions",
+        "thinking",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Language Development",
+      "title": "Importance of Language",
+      "concept": "Language is a key medium for communication and development.",
+      "explanation": "Language helps us express our thoughts and feelings. It is important for learning and understanding the world around us! 🌍✨",
+      "examples": [
+        "Talking with friends",
+        "Reading stories"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is language important?",
+          "a": "It helps us communicate and learn!"
+        }
+      ],
+      "keywords": [
+        "language",
+        "communication",
+        "development"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Learning in Home Language",
+      "title": "Learning in Our Own Language",
+      "concept": "Learning is easier in our home language.",
+      "explanation": "When we learn in a language we know well, like our mother tongue, we understand things better! 🏠💬",
+      "examples": [
+        "Learning math in Hindi",
+        "Telling stories in Tamil"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your home language?",
+          "a": "My home language is English!"
+        }
+      ],
+      "keywords": [
+        "home language",
+        "learning",
+        "understanding"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Oral Language Skills",
+      "title": "Developing Oral Skills",
+      "concept": "Building strong speaking skills is essential.",
+      "explanation": "Talking clearly and using good words helps us share our ideas! 🗣️💡",
+      "examples": [
+        "Describing your favorite toy",
+        "Sharing a story about your day"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can we improve our speaking skills?",
+          "a": "By practicing talking with friends!"
+        }
+      ],
+      "keywords": [
+        "oral skills",
+        "communication",
+        "vocabulary"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Written Language Skills",
+      "title": "Introducing Writing",
+      "concept": "Writing helps us express our thoughts on paper.",
+      "explanation": "Writing is like telling a story, but we do it with letters! ✍️📖",
+      "examples": [
+        "Writing a letter to a friend",
+        "Keeping a diary"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like to write about?",
+          "a": "I like to write about my adventures!"
+        }
+      ],
+      "keywords": [
+        "writing",
+        "expression",
+        "stories"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "title": "Learning is Fun",
+      "full_text": "Learning is fun, oh yes indeed! 🌟\nWith stories and games, we plant the seed.\nWe talk and we write, we sing and we play,\nIn our world of language, we learn every day! 🎉"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Engaging Content",
+      "title": "Learning Through Play",
+      "concept": "Learning is more fun with activities!",
+      "explanation": "We learn best when we play and explore! 🎈🤹‍♂️",
+      "examples": [
+        "Playing word games",
+        "Drawing stories"
+      ],
+      "practice_questions": [
+        {
+          "q": "What games do you like to play while learning?",
+          "a": "I love playing word puzzles!"
+        }
+      ],
+      "keywords": [
+        "play",
+        "learning",
+        "activities"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_121",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Language Learning Process",
+      "title": "Holistic Language Learning",
+      "concept": "Language learning involves thinking, listening, observing, speaking, reading, imagining, and writing.",
+      "explanation": "Learning a language is like going on an adventure! You get to think, listen, and even draw! 🎨 You can talk about pictures and read stories. It's all about having fun while learning! 🌟",
+      "examples": [
+        "Drawing after reading a story",
+        "Discussing a picture before writing"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "language",
+        "learning",
+        "holistic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_122",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Curricular Goals",
+      "title": "Understanding Curricular Goals",
+      "concept": "Curricular goals help guide language learning activities.",
+      "explanation": "Curricular goals are like treasure maps that show us how to learn better! 🗺️ They help us listen to songs, understand rhymes, and use new words every day! 🎶",
+      "examples": [
+        "Listening to action songs",
+        "Finding rhyming words"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "curricular goals",
+        "learning",
+        "songs"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_123",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Conversational Skills",
+      "title": "Let Us Speak",
+      "concept": "Encouraging conversation builds confidence in speaking English.",
+      "explanation": "Talking is super fun! 🗣️ When we practice speaking, we become better at sharing our thoughts and ideas. Let's chat and have fun! 🎉",
+      "examples": [
+        "Talking about your favorite game",
+        "Describing a picture"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite color?",
+          "a": "My favorite color is blue!"
+        },
+        {
+          "q": "Can you name three animals?",
+          "a": "Sure! I can name a cat, dog, and elephant!"
+        }
+      ],
+      "keywords": [
+        "conversation",
+        "confidence",
+        "speaking"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_124",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "exercise",
+      "topic": "Understanding Instructions",
+      "title": "Colour the Hut",
+      "concept": "Following instructions helps in understanding tasks.",
+      "explanation": "Instructions are like clues! 🕵️‍♂️ When we follow them, we can complete fun tasks like coloring! 🎨 Let's see how well we can listen!",
+      "examples": [
+        "Color the hut red",
+        "Draw a sun above the hut"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "instructions",
+        "tasks",
+        "coloring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_125",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Fun With Friends",
+      "title": "My Bicycle",
+      "concept": "Enjoying time with friends and having fun.",
+      "explanation": "This story is about a child who loves riding their bicycle and playing games with friends! 🚴‍♂️ It's all about joy and friendship! 🤗",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "friendship",
+        "fun",
+        "bicycle"
+      ],
+      "difficulty": "easy",
+      "narrative": "Once upon a time, there was a child who loved riding their bicycle. Every day after school, they would ride around the park, feeling the wind on their face. They would also invite friends to play games like bat-ball and gilli-danda. Together, they laughed and created wonderful memories!"
+    },
+    {
+      "id": "kb_class_2_english_126",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "poem",
+      "topic": "Cooperation and Peace",
+      "title": "Little Drops of Water",
+      "concept": "A poem reflecting Indian values of cooperation.",
+      "explanation": "This poem teaches us about the importance of working together and living in harmony. 🌊🤝",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "cooperation",
+        "peace",
+        "values"
+      ],
+      "difficulty": "easy",
+      "text": "Little drops of water,\nLittle grains of sand,\nMake the mighty ocean,\nAnd the pleasant land.\nThus the little minutes,\nHumble though they be,\nMake the mighty ages\nOf eternity."
+    },
+    {
+      "id": "kb_class_2_english_127",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "This is My Town",
+      "title": "Belonging to Home and Beyond",
+      "concept": "Understanding the idea of belonging.",
+      "explanation": "This lesson helps us feel connected to our home and community. 🏡🌍",
+      "examples": [
+        "My town has parks and schools.",
+        "I feel safe in my neighborhood."
+      ],
+      "practice_questions": [
+        {
+          "q": "What makes you feel at home?",
+          "a": "My family and friends make me feel at home."
+        }
+      ],
+      "keywords": [
+        "belonging",
+        "community",
+        "home"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_128",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Going Places",
+      "title": "Travel and Modes of Transport",
+      "concept": "Exploring different ways to travel.",
+      "explanation": "This lesson talks about how we go to school and other places. 🚍🚴‍♂️",
+      "examples": [
+        "I walk to school.",
+        "My mom drives me in the car."
+      ],
+      "practice_questions": [
+        {
+          "q": "How do you go to school?",
+          "a": "I go by bus."
+        }
+      ],
+      "keywords": [
+        "travel",
+        "transport",
+        "journey"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_129",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "poem",
+      "topic": "A Show of Clouds",
+      "title": "Poem about Observation",
+      "concept": "Learning to observe and imagine.",
+      "explanation": "This poem encourages us to look at the clouds and use our imagination. ☁️✨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "poem",
+        "imagination",
+        "observation"
+      ],
+      "difficulty": "easy",
+      "text": "A Show of Clouds\nLook at the clouds in the sky,\nThey float and dance, oh so high!\nSome are fluffy, some are gray,\nThey change their shapes throughout the day."
+    },
+    {
+      "id": "kb_class_2_english_130",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "The Fly that Forgot its Name",
+      "title": "Story of a Forgetful Fly",
+      "concept": "Understanding identity and memory.",
+      "explanation": "This story is about a fly that forgets its name and goes on an adventure to find it. 🐝✨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "identity",
+        "memory"
+      ],
+      "difficulty": "easy",
+      "text": "Once upon a time, there was a little fly who forgot its name. It buzzed around asking everyone, 'What is my name?' It met a bee, a butterfly, and even a spider. Each told it a different name. Finally, the fly realized it was special just the way it was!"
+    },
+    {
+      "id": "kb_class_2_english_131",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "poem",
+      "topic": "The Crow",
+      "title": "Poem about Self-Esteem",
+      "concept": "Understanding self-esteem and self-identity.",
+      "explanation": "This poem teaches us to appreciate ourselves and be proud of who we are. 🐦💖",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "poem",
+        "self-esteem",
+        "identity"
+      ],
+      "difficulty": "easy",
+      "text": "The Crow\nA crow sat on a tree,\nFeeling proud and free.\nWith feathers black and bright,\nIt sang with all its might."
+    },
+    {
+      "id": "kb_class_2_english_132",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "The Smart Monkey",
+      "title": "Story about Hygiene",
+      "concept": "Importance of hygiene and cleanliness.",
+      "explanation": "This story shows how a smart monkey learns to keep itself and its surroundings clean. 🐒🧼",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "hygiene",
+        "cleanliness"
+      ],
+      "difficulty": "easy",
+      "text": "Once there was a smart monkey who loved to play. One day, it noticed that its home was messy. The monkey decided to clean up and taught its friends the importance of being tidy and taking care of their surroundings."
+    },
+    {
+      "id": "kb_class_2_english_133",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Unity in Diversity",
+      "title": "Regional and National Identity",
+      "concept": "Understanding patriotism and togetherness.",
+      "explanation": "This lesson teaches us about being proud of our country and respecting our differences. 🇮🇳🤝",
+      "examples": [
+        "We celebrate different festivals together.",
+        "People from various cultures live in harmony."
+      ],
+      "practice_questions": [
+        {
+          "q": "What does unity in diversity mean?",
+          "a": "It means people from different backgrounds live together peacefully."
+        }
+      ],
+      "keywords": [
+        "patriotism",
+        "identity",
+        "togetherness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_134",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "play",
+      "topic": "Charkha",
+      "title": "Play about Mahatma Gandhi",
+      "concept": "Learning about historical figures and their contributions.",
+      "explanation": "This short play introduces us to Mahatma Gandhi and the significance of the Charkha in India's history. 🎭🧵",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "play",
+        "Mahatma Gandhi",
+        "history"
+      ],
+      "difficulty": "easy",
+      "text": "In this play, children act out the story of Mahatma Gandhi and how he used the Charkha to promote self-reliance and unity among people."
+    },
+    {
+      "id": "kb_class_2_english_001",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Fun with Friends",
+      "title": "My Bicycle",
+      "concept": "Understanding the joy of riding a bicycle.",
+      "explanation": "Riding a bicycle is fun and helps us stay active! 🚴‍♂️ Imagine feeling the wind on your face as you pedal fast down the street.",
+      "examples": [
+        "Riding with friends in the park",
+        "Learning to balance on two wheels"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you like about riding a bicycle?",
+          "a": "I love feeling free and going fast!"
+        }
+      ],
+      "keywords": [
+        "bicycle",
+        "fun",
+        "friends"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_002",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Fun with Friends",
+      "title": "Picture Reading",
+      "concept": "Interpreting images to tell a story.",
+      "explanation": "Pictures can tell us stories without words! 🖼️ Look at a picture and think about what is happening.",
+      "examples": [
+        "A picture of a picnic",
+        "A picture of children playing"
+      ],
+      "practice_questions": [
+        {
+          "q": "What story does this picture tell?",
+          "a": "It shows friends having fun at a picnic!"
+        }
+      ],
+      "keywords": [
+        "picture",
+        "story",
+        "interpretation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_003",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Welcome to My World",
+      "title": "It is Fun",
+      "concept": "Exploring what makes our world enjoyable.",
+      "explanation": "There are so many fun things in our world! 🌍 From playing games to exploring nature, every day can be an adventure.",
+      "examples": [
+        "Playing in the rain",
+        "Going to the zoo"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite fun activity?",
+          "a": "I love going to the amusement park!"
+        }
+      ],
+      "keywords": [
+        "fun",
+        "exploration",
+        "activities"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_004",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Welcome to My World",
+      "title": "Seeing without Seeing",
+      "concept": "Understanding perception and imagination.",
+      "explanation": "Sometimes we can imagine things even if we can't see them! 🌈 Use your imagination to picture your favorite place.",
+      "examples": [
+        "Imagining a beach on a rainy day",
+        "Thinking of a favorite book character"
+      ],
+      "practice_questions": [
+        {
+          "q": "What can you imagine right now?",
+          "a": "I can imagine a sunny day at the beach!"
+        }
+      ],
+      "keywords": [
+        "imagination",
+        "perception",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_005",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Life Around Us",
+      "title": "A Show of Clouds",
+      "concept": "Observing and describing clouds.",
+      "explanation": "Clouds can look like many things! ☁️ Sometimes they look like animals or shapes. What do you see in the clouds?",
+      "examples": [
+        "A cloud that looks like a bunny",
+        "A cloud that looks like a car"
+      ],
+      "practice_questions": [
+        {
+          "q": "What shape do you see in the clouds today?",
+          "a": "I see a fluffy sheep!"
+        }
+      ],
+      "keywords": [
+        "clouds",
+        "observation",
+        "nature"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_006",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Life Around Us",
+      "title": "My Name",
+      "concept": "Understanding the significance of names.",
+      "explanation": "Our names are special! They tell people who we are. 🌟 What does your name mean?",
+      "examples": [
+        "My name is 'Joy' because I bring happiness!",
+        "My name is 'Sam' because it means 'listener'"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does your name mean?",
+          "a": "My name means 'brave'!"
+        }
+      ],
+      "keywords": [
+        "name",
+        "identity",
+        "meaning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_007",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Life Around Us",
+      "title": "The Crow",
+      "concept": "Learning about the cleverness of crows.",
+      "explanation": "Crows are very smart birds! 🐦 They can solve problems and find food in clever ways.",
+      "narrative": "Once upon a time, a hungry crow found a pitcher with some water at the bottom. The water was too low for him to reach. So, he dropped pebbles into the pitcher one by one until the water rose high enough for him to drink. What a clever crow!",
+      "keywords": [
+        "crow",
+        "intelligence",
+        "problem-solving"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_008",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "story",
+      "topic": "Life Around Us",
+      "title": "The Smart Monkey",
+      "concept": "Understanding the importance of cleverness.",
+      "explanation": "Monkeys are playful and smart! 🐒 They often use their brains to solve problems.",
+      "narrative": "In a jungle, a smart monkey wanted to eat bananas from a tall tree. Instead of climbing, he noticed a stick nearby. He used the stick to knock the bananas down. The other animals were amazed by his cleverness!",
+      "keywords": [
+        "monkey",
+        "cleverness",
+        "jungle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_009",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "rhyme",
+      "topic": "Harmony",
+      "title": "Little Drops of Water",
+      "concept": "Appreciating nature and water.",
+      "explanation": "Water is essential for life! 💧 Let's enjoy this rhyme about little drops of water.",
+      "content": "Little drops of water, little grains of sand,  \nMake the mighty ocean and the pleasant land.  \nThus the little minutes, humble though they be,  \nMake the mighty ages of eternity.",
+      "keywords": [
+        "water",
+        "nature",
+        "rhyme"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_2_english_010",
+      "grade": "class_2",
+      "subject": "english",
+      "content_type": "lesson",
+      "topic": "Harmony",
+      "title": "We are all Indians",
+      "concept": "Understanding unity in diversity.",
+      "explanation": "We all belong to one country, India! 🇮🇳 Let's celebrate our differences and similarities.",
+      "examples": [
+        "Different languages, cultures, and traditions"
+      ],
+      "practice_questions": [
+        {
+          "q": "What makes India special?",
+          "a": "Its diversity and unity!"
+        }
+      ],
+      "keywords": [
+        "India",
+        "unity",
+        "diversity"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

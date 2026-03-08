@@ -1,0 +1,3748 @@
+{
+  "version": "1.0",
+  "source": "class_3-arts-merged.txt",
+  "grade": "class_3",
+  "subject": "arts",
+  "generated_at": "2026-03-07T11:54:11.142Z",
+  "total_items": 158,
+  "content": [
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Visual Arts",
+      "title": "Introduction to Visual Arts",
+      "concept": "Understanding shapes, forms, colours, and materials in art.",
+      "explanation": "In this lesson, you will learn to draw, colour objects, and explore different materials. Art is everywhere around us! 🎨✨",
+      "examples": [
+        "A round ball ⚽, a square box 📦, a triangle roof 🏠"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "shapes",
+        "colours",
+        "materials"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Playing with Lines",
+      "title": "Activity 1: Play with Lines",
+      "concept": "Exploring different types of lines.",
+      "explanation": "Let's have fun with lines! You can draw wavy lines 🌊, zigzag lines ⚡, and more. Use different pressures to make thick or thin lines! ✏️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "lines",
+        "drawing",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Drawing and Colouring Objects",
+      "title": "Activity 2: Draw and Colour Objects Found Around You",
+      "concept": "Observing and drawing objects from your environment.",
+      "explanation": "Look around your home and find interesting objects! 🏡 Draw three different shapes and colour them. Share your artwork with friends! 🎉",
+      "examples": [
+        "A cooking pot 🍳, a book 📚, a toy car 🚗"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "observation",
+        "drawing",
+        "colouring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Tracing and Overlapping",
+      "title": "Activity 3: Trace, Cut and Overlap",
+      "concept": "Creating new shapes through tracing and overlapping.",
+      "explanation": "Choose three objects and trace their outlines. ✂️ Cut them out and overlap them to see new shapes! 🌈 Don't forget to colour them! 🎨",
+      "examples": [
+        "Leaves 🍃, small toys 🧸, abstract shapes 🔺"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "tracing",
+        "overlapping",
+        "shapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Drawing a Bottle",
+      "title": "Activity 4: Draw a Bottle and Play with its Shape",
+      "concept": "Exploring the shape of a bottle.",
+      "explanation": "Let's draw a bottle! 🍼 Think about its shape and how it looks from different angles. Have fun with it! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "bottle",
+        "shapes",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Shapes and Bottles",
+      "title": "Creating Unique Bottles",
+      "concept": "Understanding shapes and personalizing objects.",
+      "explanation": "Can you create a special bottle that looks different from others? This helps us learn about shapes and making things our own! 🎨",
+      "examples": [
+        "A round bottle with a flower design 🌼",
+        "A square bottle with colorful dots 🎨"
+      ],
+      "practice_questions": [
+        {
+          "q": "What shape will your bottle be?",
+          "a": "It can be round, square, or any shape you like!"
+        }
+      ],
+      "keywords": [
+        "shapes",
+        "bottle",
+        "design"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Play with Clay",
+      "title": "Fun with Clay",
+      "concept": "Creating objects using clay.",
+      "explanation": "Playing with clay is super fun! You can make different shapes and add your own magical features. Let's get creative! 🏺✨",
+      "examples": [
+        "A clay animal 🐶",
+        "A clay flower 🌸"
+      ],
+      "practice_questions": [
+        {
+          "q": "What will you make with clay?",
+          "a": "I will make a clay animal!"
+        }
+      ],
+      "keywords": [
+        "clay",
+        "creativity",
+        "shapes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Nature Walk and Drawing",
+      "title": "Exploring Nature",
+      "concept": "Observing and drawing from nature.",
+      "explanation": "Let's go outside and see all the beautiful plants! Touch the leaves and flowers, and draw what you see. 🌳🦋",
+      "examples": [
+        "Drawing a leaf 🍃",
+        "Sketching a flower 🌺"
+      ],
+      "practice_questions": [
+        {
+          "q": "What did you see on your nature walk?",
+          "a": "I saw green leaves and colorful flowers!"
+        }
+      ],
+      "keywords": [
+        "nature",
+        "drawing",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Making Natural Colors",
+      "title": "Creating Colors from Nature",
+      "concept": "Making colors using natural materials.",
+      "explanation": "You can make your own colors using fruits and flowers! Crush them and see what colors you can create. 🍇🌼",
+      "examples": [
+        "Using beetroot for red 🥕",
+        "Using spinach for green 🍃"
+      ],
+      "practice_questions": [
+        {
+          "q": "What color can you make from a beetroot?",
+          "a": "You can make a beautiful red color!"
+        }
+      ],
+      "keywords": [
+        "natural colors",
+        "creativity",
+        "art supplies"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Jali (Grill) in Buildings",
+      "title": "Exploring Patterns in Architecture",
+      "concept": "Identifying designs in buildings.",
+      "explanation": "Have you seen beautiful patterns in window grills? Let's look around and find some interesting designs! 🏢✨",
+      "examples": [
+        "Geometric patterns in a window grill 🔲",
+        "Nature-inspired designs 🌿"
+      ],
+      "practice_questions": [
+        {
+          "q": "What kind of patterns have you noticed?",
+          "a": "I saw a flower pattern on a window!"
+        }
+      ],
+      "keywords": [
+        "architecture",
+        "patterns",
+        "design"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Jali Patterns",
+      "title": "Make Your Own Jali",
+      "concept": "Creating unique jali patterns.",
+      "explanation": "Jali patterns are beautiful designs often seen in art. You can create your own by drawing and cutting shapes! ✂️✨",
+      "examples": [
+        "Draw a leaf shape and cut it out!",
+        "Fill in spaces with your own jali pattern."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "jali",
+        "patterns",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Jali Patterns",
+      "title": "Activity 5: Help a Friend",
+      "concept": "Collaborating with friends in art.",
+      "explanation": "If your friend needs help with cutting or folding, lend a hand! Teamwork makes art fun! 🤝🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "teamwork",
+        "help",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Stories in Pictures",
+      "title": "Draw and Colour a Story",
+      "concept": "Expressing stories through drawings.",
+      "explanation": "Think of a story about plants or trees and draw it! 🌳📖 Let your imagination flow!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "drawing",
+        "plants"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Plant Designs",
+      "title": "Find and Draw Plant Designs",
+      "concept": "Exploring plant designs in everyday life.",
+      "explanation": "Look around your home for plant designs in clothes or pictures. Draw what you find! 🏡🌼",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "plants",
+        "design",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Drawing with Plant Motifs",
+      "title": "Create with Natural Materials",
+      "concept": "Using natural materials for art.",
+      "explanation": "Gather materials like leaves and flowers (without plucking!) to create art. 🌿🌸 Be creative!",
+      "examples": [
+        "Make a greeting card with leaves!",
+        "Create a page border using petals."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "natural materials",
+        "art",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Animals in Art",
+      "title": "Observing Animals",
+      "concept": "Learning about animals through observation.",
+      "explanation": "Observe animals around you! Notice their shapes, colors, and patterns. 🦋🐾 Use your imagination to create art!",
+      "examples": [
+        "Draw a bird you see in the sky.",
+        "Sketch a fish swimming in water."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "animals",
+        "observation",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_007",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Animal Story",
+      "title": "Make an Animal Story",
+      "concept": "Creating stories about animals.",
+      "explanation": "Imagine a story about an animal and draw it! 🐶📚 What adventures will your animal have?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "animal",
+        "story",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_008",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Animal Masks",
+      "title": "Create Your Animal Mask",
+      "concept": "Making masks based on animal features.",
+      "explanation": "Choose an animal and create a mask! Look at its features and have fun! 🎭🐯",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "mask",
+        "animal",
+        "craft"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_009",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Animal Act",
+      "title": "Enact Your Animal Story",
+      "concept": "Acting out stories with masks.",
+      "explanation": "Put on your animal mask and act out a day in the life of your animal! 🐻🎉 What would it say or do?",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "acting",
+        "animal",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Animal Shapes",
+      "title": "Animal Blocks",
+      "concept": "Identifying shapes in animals.",
+      "explanation": "Look at an elephant and think about the shapes you see! Can you find similar shapes in other animals? 🐘✏️",
+      "examples": [
+        "Elephant has a big oval body.",
+        "A bird has a triangle beak."
+      ],
+      "practice_questions": [
+        {
+          "q": "What shapes do you see in an elephant?",
+          "a": "Big oval, rectangles for legs."
+        },
+        {
+          "q": "Can you see these shapes in other animals?",
+          "a": "Yes, many animals have similar shapes!"
+        }
+      ],
+      "keywords": [
+        "shapes",
+        "animals",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Drawing Animals",
+      "title": "Draw and Colour Your Animal",
+      "concept": "Creating art by visualizing animal shapes.",
+      "explanation": "Close your eyes and picture your favorite animal. What shapes can you use to draw it? 🐶🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "animals",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Creating a Pet Home",
+      "title": "Create a Home for Your Pet",
+      "concept": "Designing a home for a pet using natural materials.",
+      "explanation": "Imagine you have a pet that lives in water, on land, or underground. What would its home look like? 🌊🏠",
+      "examples": [
+        "A fish needs a water tank.",
+        "A rabbit needs a burrow."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the name of your pet?",
+          "a": "My pet is named Fluffy."
+        },
+        {
+          "q": "What materials will you use to create its home?",
+          "a": "I will use leaves and twigs."
+        }
+      ],
+      "keywords": [
+        "pet",
+        "home",
+        "design"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Observing People",
+      "title": "People Around Us",
+      "concept": "Understanding diversity in physical features.",
+      "explanation": "Everyone is unique! Let's look at our family and friends and notice how different we all are. 👨‍👩‍👧‍👦✨",
+      "examples": [
+        "Different hair colors, skin tones, and eye shapes."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "diversity",
+        "features",
+        "people"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Dressing Up",
+      "title": "Let’s Dress Up!",
+      "concept": "Exploring clothing and patterns.",
+      "explanation": "What clothes do you wear? Draw yourself in a dress you love, using fun colors and patterns! 👗🎨",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Do you wear the same clothes all the time?",
+          "a": "No, I wear different clothes."
+        },
+        {
+          "q": "Can you observe any patterns in your dresses?",
+          "a": "Yes, I see stripes and polka dots!"
+        }
+      ],
+      "keywords": [
+        "clothing",
+        "patterns",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "What to Wear",
+      "title": "What to Wear and When?",
+      "concept": "Choosing outfits for different occasions.",
+      "explanation": "Imagine going to a fair or a wedding. What will you wear? Draw your outfit! 🎉👰",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What will you wear for your next birthday party?",
+          "a": "I will wear a party dress!"
+        }
+      ],
+      "keywords": [
+        "outfits",
+        "occasions",
+        "drawing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_007",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Drawing Faces",
+      "title": "Draw a Face",
+      "concept": "Creating faces with different features.",
+      "explanation": "Draw a face with eyes, ears, and a smile! You can be as creative as you want! 😊🎨",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "faces",
+        "drawing",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_008",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Drawing Hands",
+      "title": "Draw Hands",
+      "concept": "Exploring hand shapes.",
+      "explanation": "Draw your hand and then draw an adult's hand. Notice the differences! ✋👩‍🦳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "hands",
+        "drawing",
+        "observation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_009",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Festivals and Celebrations",
+      "title": "Festivals, Occasions, and Celebrations",
+      "concept": "Understanding the importance of festivals.",
+      "explanation": "We celebrate festivals with joy! Let's learn about the art traditions that make these occasions special. 🎊🏮",
+      "examples": [
+        "Rangoli designs, lanterns, and garlands."
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "festivals",
+        "celebrations",
+        "art"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_010",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Floor and Wall Designs",
+      "title": "Floor and Wall Designs",
+      "concept": "Creating decorative designs for festivals.",
+      "explanation": "Have you seen beautiful designs on the floor or walls? Let's create our own festive design! 🎨🏡",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "designs",
+        "festivals",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Rangoli Art",
+      "title": "Creating Rangolis",
+      "concept": "Rangolis can be made using dots and lines.",
+      "explanation": "Rangolis are beautiful patterns made on the ground using colorful powders, dots, and lines. You can create your own patterns by joining the dots! 🎨✨",
+      "examples": [
+        "Dot patterns",
+        "Line patterns"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Rangoli",
+        "dots",
+        "lines"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Garlands and Torans",
+      "title": "Making Garlands and Torans",
+      "concept": "We can use flowers and leaves to create festive decorations.",
+      "explanation": "Garlands and torans are made using flowers, leaves, and other materials to celebrate special occasions. Let's make our own! 🌸🌿",
+      "examples": [
+        "Flower garland",
+        "Leaf toran"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "garland",
+        "toran",
+        "festive"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Creating a Toran",
+      "title": "Steps to Make a Toran",
+      "concept": "Follow steps to create a decorative toran.",
+      "explanation": "To make a toran, take a long thread and stick flowers and leaves to it. Hang it at your entrance to welcome guests! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "toran",
+        "decoration",
+        "craft"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Making Clay Lamps",
+      "title": "Create Your Own Clay Lamps",
+      "concept": "You can make beautiful lamps using clay.",
+      "explanation": "Shape your clay into a lamp (deepak) and decorate it with colors and designs. Let it dry in the sun before painting! 🕯️🌞",
+      "examples": [
+        "Deepak in different shapes"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "clay",
+        "lamp",
+        "deepak"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Making Paper Lanterns",
+      "title": "Create Your Own Paper Lanterns",
+      "concept": "Join paper edges to make a colorful lantern.",
+      "explanation": "To make a paper lantern, join two edges of a colored paper to form a cylinder. Make it bright and colorful! 🏮🌈",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "paper",
+        "lantern",
+        "craft"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Making Jewellery",
+      "title": "Create Your Own Jewellery",
+      "concept": "Make bracelets and anklets using paper and decorations.",
+      "explanation": "Use paper strips to create beautiful bracelets! Color them and add designs. You can also make anklets and share them with friends! 💍✨",
+      "examples": [
+        "Paper bracelet",
+        "Anklet"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "jewellery",
+        "bracelet",
+        "craft"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_007",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Music and Singing",
+      "title": "Let’s Sing the National Anthem",
+      "concept": "Singing the National Anthem brings a sense of pride.",
+      "explanation": "The National Anthem is a song that represents our country. Singing it makes us feel united and proud! 🇮🇳🎶",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "How do you feel while singing the National Anthem?",
+          "a": "I feel proud and united!"
+        }
+      ],
+      "keywords": [
+        "National Anthem",
+        "pride",
+        "unity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_008",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "National Anthem Lyrics",
+      "title": "Jana Gana Mana",
+      "concept": "Lyrics of the National Anthem.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "National Anthem",
+        "lyrics",
+        "song"
+      ],
+      "difficulty": "easy",
+      "text": "Jana Gana Mana Adhinayaka Jaya He,\nBharata Bhagya Vidhata.\nPunjab Sindh Gujarat Maratha,\nDravida Utkala Banga\nVindhya Himachala Yamuna Ganga,\nUchchala Jaladhi Taranga.\nTava Shubha Naame Jaage,\nTava Shubha Ashish Mage,\nGahe Tava Jaya Gaatha,\nJana Gana Mangala Dayaka Jaya He,\nBharata Bhagya Vidhata.\nJaya He, Jaya He, Jaya He,\nJaya Jaya Jaya, Jaya He!"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Music and Sounds",
+      "title": "Exploring Different Sounds",
+      "concept": "Understanding the various sounds around us.",
+      "explanation": "There are sounds all around us like the chirping of birds 🐦, the sound of rain ☔, and the moo of a cow 🐄. Each sound is unique and can be music!",
+      "examples": [
+        "Chirping of birds",
+        "Sound of rain"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some sounds you hear around you?",
+          "a": "The sound of a clock ticking, leaves rustling, or cars honking."
+        }
+      ],
+      "keywords": [
+        "sounds",
+        "music",
+        "unique"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Rhythm in Music",
+      "title": "Understanding Rhythm",
+      "concept": "Rhythm is important in music.",
+      "explanation": "Rhythm is the pattern of sounds in music. You can create rhythms using claps, snaps, and stomps! 🎶 Let's try to make our own rhythms!",
+      "examples": [
+        "Clap, clap, stomp",
+        "Snap, clap, snap"
+      ],
+      "practice_questions": [
+        {
+          "q": "Do you like a steady beat or an irregular beat?",
+          "a": "I like a steady beat because it feels nice!"
+        }
+      ],
+      "keywords": [
+        "rhythm",
+        "music",
+        "patterns"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Songs of Unity",
+      "title": "Hum Honge Kamyab",
+      "concept": "A song about hope and perseverance.",
+      "explanation": "This song is sung in many parts of the world and talks about overcoming challenges together! 🎤",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "hope",
+        "unity",
+        "song"
+      ],
+      "difficulty": "easy",
+      "text": "Hum Honge Kamyab, Hum Honge Kamyab, Hum Honge Kamyab Ek Din. Ho Ho Mann Mein Hai Vishwas, Pura Hai Vishwas, Hum Honge Kamyab Ek Din."
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "National Anthem",
+      "title": "Understanding the National Anthem",
+      "concept": "The National Anthem is a symbol of respect for the country.",
+      "explanation": "Every country has a National Anthem, which is played at important events. We stand up to show respect when it is played. 🇮🇳",
+      "examples": [
+        "India's National Anthem",
+        "USA's National Anthem"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should we do when the National Anthem is played?",
+          "a": "We should stand up as a mark of respect."
+        }
+      ],
+      "keywords": [
+        "National Anthem",
+        "respect",
+        "country"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Creating Rhythms",
+      "title": "Body Rhythm Patterns",
+      "concept": "Create your own rhythm patterns using your body.",
+      "explanation": "Let's use our bodies to make music! You can clap, snap, or stomp to create fun rhythms! 👐",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rhythm",
+        "body",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Taala in Music",
+      "title": "Understanding Taala",
+      "concept": "Taala refers to rhythm in music.",
+      "explanation": "Taala is like the heartbeat of music! It helps us keep time when we play or sing. 🎶",
+      "examples": [
+        "Clapping in time with a song",
+        "Moving to the beat of a drum"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is taala?",
+          "a": "Taala is the rhythm in music."
+        }
+      ],
+      "keywords": [
+        "taala",
+        "rhythm",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Musical Notes",
+      "title": "Learning the Seven Notes",
+      "concept": "Indian classical music has seven notes called saptak.",
+      "explanation": "The seven notes are Sa, Re, Ga, Ma, Pa, Dha, Ni. Let's sing them together! 🎤",
+      "examples": [
+        "Sa, Re, Ga, Ma, Pa, Dha, Ni",
+        "Singing notes up and down"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are the seven notes?",
+          "a": "Sa, Re, Ga, Ma, Pa, Dha, Ni."
+        }
+      ],
+      "keywords": [
+        "saptak",
+        "notes",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Head Shoulders Knees and Toes",
+      "title": "Head Shoulders Knees and Toes",
+      "concept": "A fun song to learn body parts.",
+      "explanation": "Let's sing and move! Touch your head, shoulders, knees, and toes! 🤗",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "song",
+        "body parts",
+        "movement"
+      ],
+      "difficulty": "easy",
+      "lyrics": [
+        "Sir, Mode, Gode, Paer, Gode, Paer.",
+        "Sir, Mode, Gode, Paer, Gode, Paer.",
+        "Nale Ankh, Nale Kaan, Nale Muh, Nale Nak.",
+        "Sir, Mode, Gode, Paer, Gode, Paer."
+      ]
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Laya in Music",
+      "title": "Understanding Laya",
+      "concept": "Laya refers to rhythm or tempo in music.",
+      "explanation": "Laya is like your heartbeat! It can change speed, just like when you run or sleep. 🏃‍♂️💤",
+      "examples": [
+        "Fast tempo when dancing",
+        "Slow tempo when relaxing"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does laya mean?",
+          "a": "Laya means rhythm or tempo in music."
+        }
+      ],
+      "keywords": [
+        "laya",
+        "rhythm",
+        "tempo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Birthday Song",
+      "title": "Happy Birthday Song",
+      "concept": "A special song for celebrating birthdays.",
+      "explanation": "Let's celebrate birthdays with this beautiful song! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "birthday",
+        "celebration",
+        "song"
+      ],
+      "difficulty": "easy",
+      "lyrics": [
+        "Janma Dinam Idam Ayi Priya Sakhe",
+        "Shantano Tu Te Sarvada Mudam",
+        "Prarthayamahe Bhava Shatayushi",
+        "Ishvarah Sada Tvam Cha Rakshatu",
+        "Punya Karmana Keerthimarjaya",
+        "Jeevanam Tava Bhavatu Saarthakam"
+      ]
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "story",
+      "topic": "Creation of Musical Notes",
+      "title": "The Story of Musical Notes",
+      "concept": "Musical notes were inspired by nature.",
+      "explanation": "According to ancient texts, the sounds of birds and animals inspired musical notes. 🐦🐘",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "musical notes",
+        "nature"
+      ],
+      "difficulty": "easy",
+      "narrative": "According to the ancient Sanskrit text, Naradiya Shiksha, musical notes were created from the cries and sounds of different birds and animals."
+    },
+    {
+      "id": "kb_class_3_arts_007",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Animal Sounds",
+      "title": "Copying Animal Sounds",
+      "concept": "Imitating sounds of animals and birds.",
+      "explanation": "Let's have fun copying the sounds of different animals! 🦁🐶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "animals",
+        "sounds",
+        "imitation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Building Blocks of Music",
+      "title": "Understanding Notes in Music",
+      "concept": "Notes are the basic elements of music.",
+      "explanation": "Just like we use bricks to build a house, we use notes to create music! 🎶 Remember the seven notes we learned? Let's sing them together! 🎤",
+      "examples": [
+        "Sa",
+        "Re",
+        "Ga",
+        "Ma",
+        "Pa",
+        "Dha",
+        "Ni"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many lines from the exercises were you able to sing?",
+          "a": "It's okay if you couldn't sing all of them! Keep practicing!"
+        }
+      ],
+      "keywords": [
+        "notes",
+        "music",
+        "singing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Understanding Pitch",
+      "title": "What is Pitch?",
+      "concept": "Pitch tells us how high or low a note is.",
+      "explanation": "We use the word 'pitch' to explain how high or low a note sounds. 🎵 To help us sing in pitch, we can use a tambura, which is a string instrument! 🎸",
+      "examples": [
+        "High pitch (like a bird chirping)",
+        "Low pitch (like a drum)"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "pitch",
+        "tambura",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Taala in Music",
+      "title": "Learning about Taala",
+      "concept": "Taala is a pattern of rhythm in music.",
+      "explanation": "Taala helps us keep the beat in music! 🥁 Each taala has a fixed number of beats that repeats, like a cycle. Let's learn about different taalas! 🌟",
+      "examples": [
+        "Adi Taala",
+        "Keharva",
+        "Dadra"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the name of the taala with six beats?",
+          "a": "Dadra!"
+        }
+      ],
+      "keywords": [
+        "taala",
+        "rhythm",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Sargam Singing",
+      "title": "Sargam Song",
+      "concept": "Singing sargams helps us learn music.",
+      "explanation": "Let's sing some fun sargams together! 🎶",
+      "full_text": "Sa Ga, Sa Ga,  \nSa Ga Ma Ga Re Sa  \nRe Ga Re Ga,  \nRe Ga Pa Ma Ga Re  \nSa Sa Sa  \nClap and sing.  \nAao, Aao  \nKhushiyaan Manao  \nGao Gao,  \nSab Mil ke Gao",
+      "practice_questions": [],
+      "keywords": [
+        "sargam",
+        "singing",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Dynamics in Music",
+      "title": "Learning about Dynamics",
+      "concept": "Dynamics refers to how loud or soft music is.",
+      "explanation": "When we sing, we can change how loud or soft we are! 🎤 Let's play a fun game to practice this! 🎉",
+      "examples": [
+        "Sing louder when closer to the object",
+        "Sing softer when farther away"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "dynamics",
+        "loud",
+        "soft"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Music and Rhythm",
+      "title": "Exploring Music and Rhythm",
+      "concept": "Understanding the joy of music and rhythm.",
+      "explanation": "Music is all around us! 🎶 It can make us feel happy and want to dance. Let's explore different songs and rhythms together!",
+      "examples": [
+        "Listening to folk songs",
+        "Clapping to the beat"
+      ],
+      "practice_questions": [
+        {
+          "q": "What makes you feel happy when you listen to music?",
+          "a": "The rhythm and melody!"
+        }
+      ],
+      "keywords": [
+        "music",
+        "rhythm",
+        "dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Odia Folk Song",
+      "title": "Bolodo Gaadi Re Mu",
+      "concept": "Enjoying traditional Odia music.",
+      "explanation": "This is a fun Odia folk song that talks about a journey to a beautiful village! 🌼",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Odia",
+        "folk song",
+        "journey"
+      ],
+      "difficulty": "easy",
+      "text": "Bolodo Gaadi Re Mu\nHauli Hauli Jau Chi\nMo Sundoro Gau Ku Jau Chi –2\nEh Pothe Nodi Bohe Se Pothe Porboto –2\nPokhiro Modhuro Gito Phulo Rahoso –2\nAmbo Gacho Tauli Pilamaane Khelu Chonti –2\nThinakku Thinakku Thaiya\nThadina Thadina Tha –2\nHauli Hauli Jau Chi\nKette Aanando –2\nMo Sundoro Gau Ku Jau Chi –2\nBolodo Gaadi Re Mu\nHauli Hauli Jau Chi\nMo Sundoro Gau Ku Jau Chi –2"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Rhythm with Syllables",
+      "title": "Keep Rhythm with Syllables",
+      "concept": "Learning to create rhythms using syllables.",
+      "explanation": "Let's make music with our voices! 🎤 We can use special sounds called syllables to create fun rhythms.",
+      "examples": [
+        "tha dhi dhom num",
+        "dha dha te Te"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you clap while saying the rhythm?",
+          "a": "Yes, it makes it more fun!"
+        }
+      ],
+      "keywords": [
+        "rhythm",
+        "syllables",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Kashmiri Folk Song",
+      "title": "Bumbro Bumbro",
+      "concept": "Singing a joyful Kashmiri song.",
+      "explanation": "This song is about a black bumble bee joining a celebration! 🐝 Let's sing it together!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Kashmiri",
+        "folk song",
+        "celebration"
+      ],
+      "difficulty": "easy",
+      "text": "Bumbro Bumbro\nBumbro Bumbro Shaam Rang Bumbro,\nKyaazi Chhukh Yuth Naalano\nHo Ho Ho\nBumbro Bumbro\nHaal Baav Panunui Haa Shaam Sondharo,\nAis Karroy Jaan Qurbaano\nHo Ho Ho\nBumbro Bumbro\nBomburuss Yemberzal Beyee Samkhaavon,\nNerunn Prein Armaano\nHo Ho Ho Ho\nBumbro Bumbro."
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Goan Folk Song",
+      "title": "Undra Mojea Mama",
+      "concept": "Learning a traditional Goan folk song.",
+      "explanation": "This song warns a rat to stay away from the cat! 🐭🐱 Let's sing it together!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Goan",
+        "folk song",
+        "warning"
+      ],
+      "difficulty": "easy",
+      "text": "Undra Mojea Mama,\nAni Haav Sangta Tuka –2\nAni Mazoricha Pila Laagi Feluma\nDi Na Ka –2\nUndir Mama Ailo,\nAni Pache Pona Liplo –2\nAni Mazoricha Pilan Taka Eka Ghasa\nKhailo –2\nYa Ya Maya Ya –2"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Tamil Folk Song",
+      "title": "Chinna Chinna Chittu",
+      "concept": "Singing a Tamil song about a little bird.",
+      "explanation": "This song is about a beautiful little bird that loves to fly and eat grains! 🐦🌾",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Tamil",
+        "folk song",
+        "bird"
+      ],
+      "difficulty": "easy",
+      "text": "Chinna Chinna Chittu\nSingara Chittu\nPattu Pola Meni\nVattamaana Kangal\nAmbu Pola Thaavi\nAagayathil Parakkum\nKombu Mella Narukkum\nKaadil Ellam Irrukum\nKoorai Mela Vanthu Nindru Seeti Adikkum."
+    },
+    {
+      "id": "kb_class_3_arts_007",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Musical Instruments",
+      "title": "Know Your Instruments",
+      "concept": "Identifying different musical instruments.",
+      "explanation": "Let's learn about various musical instruments used in Indian music! 🎻🥁 Can you name any of them?",
+      "examples": [
+        "Shehnai",
+        "Tabla",
+        "Sitar"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which instruments have you heard before?",
+          "a": "I have heard the Tabla!"
+        }
+      ],
+      "keywords": [
+        "instruments",
+        "music",
+        "Indian"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_008",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Making Music Together",
+      "title": "Make a Kitchen Orchestra",
+      "concept": "Creating music using kitchen items.",
+      "explanation": "Let's use pots and pans to create our own orchestra! 🥁🍳 What sounds can you make?",
+      "examples": [
+        "Using a pot as a drum",
+        "Shaking a bottle filled with rice"
+      ],
+      "practice_questions": [
+        {
+          "q": "What kitchen items can you use to make music?",
+          "a": "I can use a spoon and a pot!"
+        }
+      ],
+      "keywords": [
+        "orchestra",
+        "music",
+        "kitchen"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Kitchen Orchestra",
+      "title": "Creating a Kitchen Orchestra",
+      "concept": "Using kitchen items to create music.",
+      "explanation": "You can make music with items from your kitchen! 🎶 Think about pots, pans, and bottles. What sounds can you create?",
+      "examples": [
+        "Using a pot as a drum 🥁",
+        "Shaking a bottle filled with rice 🎵"
+      ],
+      "practice_questions": [
+        {
+          "q": "What kinds of kitchen items can be used in a kitchen orchestra?",
+          "a": "Pots, pans, bottles, and more!"
+        }
+      ],
+      "keywords": [
+        "kitchen",
+        "orchestra",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Make a Shaker",
+      "title": "DIY Shaker Instrument",
+      "concept": "Creating a musical shaker from recycled materials.",
+      "explanation": "Let's make a shaker! 🎉 You'll need a bottle, some grains, and paint. Shake it to create rhythm!",
+      "examples": [
+        "Using rice for sound",
+        "Decorating with glitter ✨"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which grains make the loudest noise?",
+          "a": "Different grains will make different sounds!"
+        },
+        {
+          "q": "Do the shakers make more noise when you add more grains?",
+          "a": "Yes, more grains can make it louder!"
+        }
+      ],
+      "keywords": [
+        "shaker",
+        "music",
+        "DIY"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Sounds of Musical Instruments",
+      "title": "Exploring Musical Instruments",
+      "concept": "Learning about different musical instruments.",
+      "explanation": "Let's listen to the sounds of various instruments! 🎺 From drums to flutes, each has a unique sound.",
+      "examples": [
+        "Dhol, Tabla, Bansuri"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "musical instruments",
+        "sounds",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Patterns in Music",
+      "title": "Finding Patterns in Music",
+      "concept": "Recognizing and practicing musical patterns.",
+      "explanation": "Music has patterns! 🎶 Let's practice singing these notes and clapping along to the rhythm.",
+      "examples": [
+        "S R G M P Dh N S",
+        "SR RG GM MP"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "music patterns",
+        "rhythm",
+        "singing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Diwali Celebration",
+      "title": "Jagmag Aayi Diwali",
+      "concept": "Celebrating the festival of Diwali through song.",
+      "explanation": "This song celebrates Diwali, the festival of lights! 🪔 It's all about joy, new clothes, and beautiful decorations.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Diwali",
+        "festival",
+        "celebration"
+      ],
+      "difficulty": "easy",
+      "text": "Jagmag jagmag aayi diwali\nKhushiyaan dher laayi diwali\nJagmag jagmag aayi diwali.\nDeep jale hain ghar ghar dekho\nRangoli se sajaa hai aangan\nRoshan ki ladiyaan hai taali\nJagmag jagmag aayi diwali.\nNaye naye kapde pahane hain\nNayi nayi cheezein hain aayi\nNayi nayi si galiyaan sajaali\nJagmag jagmag aayi diwali.\nPhir karke badiyaa sa bhojan\nHaste khelte gaana gaate\nPhooljadi aur charkh jalaali\nJagmag jagmag aayi diwali.\nJagmag jagmag aayi diwali\nKhushiyaan dher laayi diwali\nJagmag jagmag aayi diwali."
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "New Year Song in Sanskrit",
+      "title": "Kshanam Prati Kshanam",
+      "concept": "Celebrating the New Year with joy and positivity.",
+      "explanation": "This song reminds us to embrace new beginnings and wish for happiness and success in the New Year! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "New Year",
+        "Sanskrit",
+        "joy"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Christmas Song",
+      "title": "Jingle Bells",
+      "concept": "The joy of celebrating Christmas.",
+      "explanation": "This fun song captures the excitement of riding in a sleigh and singing with friends during Christmas! 🎄",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Christmas",
+        "Jingle Bells",
+        "celebration"
+      ],
+      "difficulty": "easy",
+      "text": "Dashing through the snow,  in a one-horse open sleigh.\nO’er the fields we go,  laughing all the way.\nBells on bobtails ring,  making spirits bright.\nWhat fun it is to ride and  sing a sleighing song tonight.\nOh! Jingle bells, jingle bells,  jingle all the way.\nOh what fun it is to ride  in a one-horse open sleigh. Hey!"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Eid Celebration Song",
+      "title": "Aao Eid Manaye",
+      "concept": "Unity and love during Eid celebrations.",
+      "explanation": "This song encourages us to celebrate Eid with love, decorate our homes, and enjoy the festival with family! 🌙",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Eid",
+        "celebration",
+        "unity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Prayer to Lord Buddha",
+      "title": "Buddham Sharanam Gachchhami",
+      "concept": "Seeking refuge in Lord Buddha and Dharma.",
+      "explanation": "This prayer expresses devotion and the desire for guidance from Lord Buddha. 🧘‍♂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Buddhism",
+        "prayer",
+        "devotion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Patriotic Song",
+      "title": "Hind Desh Ke Niwasi",
+      "concept": "Unity in diversity within the country.",
+      "explanation": "This song celebrates the beauty of India and its people, highlighting that we are all one despite our differences! 🇮🇳",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "patriotism",
+        "unity",
+        "India"
+      ],
+      "difficulty": "easy",
+      "text": "Hind desh ke niwasi sabhi jan ek hain\nrang roop vesh bhasha chahe anek hain\nBela gulab juhi champa chameli –2\npyare pyare phool ghunthe mala me ek hain\nHind desh ke niwasi sabhi jan ek hain\nrang roop vesh bhasha chahe anek hain\nGanga Yamuna Brahmaputra Krishna Kaveri –2\njaake mil gayi sagar me hui sab ek hain\nHind desh ke niwasi sabhi jan ek hain\nrang roop vesh bhasha chahe anek hain\nKoyal ki kook pyari papeehe ki ter nyari –2\nGaa rahi tarana bulbul raag magar ek hain\nHind desh ke niwasi sabhi jan ek hain\nrang roop vesh bhasha chahe anek hain"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Prayer for Strength",
+      "title": "Humko Man Ki Shakti Dena",
+      "concept": "Seeking strength and positivity.",
+      "explanation": "This prayer asks for mental strength and the ability to overcome challenges while helping others! 💪",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "strength",
+        "prayer",
+        "positivity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Movement and Dance",
+      "title": "Introduction to Dance",
+      "concept": "Dance is a way to express ourselves through movement.",
+      "explanation": "Dance can be fun and joyful! It allows us to move our bodies to music and express our feelings. 💃🕺",
+      "examples": [
+        "Dancing to a popular children's song",
+        "Dancing with friends"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "dance",
+        "movement",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Dance Actions",
+      "title": "Dance Actions and Rhythms",
+      "concept": "Dance involves various actions and rhythms.",
+      "explanation": "When we dance, we can do actions like stamping our feet, clapping, and moving to the beat of the music! 🎶",
+      "examples": [
+        "Stamp your feet to the music",
+        "Clap along with the rhythm"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "actions",
+        "rhythms",
+        "clapping"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Guess the Actions",
+      "title": "Guess the Actions",
+      "concept": "Identifying dance actions.",
+      "explanation": "Can you guess what actions your friends are doing while dancing? 🤔",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What are they doing?",
+          "a": "Write down your guesses!"
+        }
+      ],
+      "keywords": [
+        "guess",
+        "actions",
+        "dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Movements in Four Beats",
+      "title": "Creating Dance Patterns",
+      "concept": "Making dance movements with beats.",
+      "explanation": "Let's create our own dance movements using four beats! You can use your hands and feet to make fun patterns. 👐👣",
+      "examples": [
+        "na dhin dhin na",
+        "taka dhimi taka jhuNu"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "beats",
+        "patterns",
+        "dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Movement of Hands or Fingers",
+      "title": "Animal Movements",
+      "concept": "Imitating animal movements.",
+      "explanation": "Observe how animals move and try to copy them with your hands and fingers! 🐍🐦",
+      "examples": [
+        "Moving like a snake",
+        "Flapping like a bird"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "animals",
+        "movement",
+        "imitation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Matching Steps with Hands",
+      "title": "Dance with Friends",
+      "concept": "Dancing in a group with coordinated movements.",
+      "explanation": "Dance together with your friends using hand movements and steps to a song! 🎵🤝",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "group dance",
+        "coordination",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_007",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Dance and Joy",
+      "title": "Let Us Dance",
+      "concept": "Celebrating the joy of dance.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "dance",
+        "joy",
+        "celebration"
+      ],
+      "difficulty": "easy",
+      "text": "Have you heard the word dance?\nWe can expand it by—\nD — Do     A — Actions     N — Narrate    C — Compose    E — Enjoy\nAs soon as you hear these words, you may want to dance.\nKimboi and Vimla are dancing.\nMaybe your Rajesh Sir is dancing with a stick.\nRishi and Sona are dancing together.\nDo you feel happy or magical? Come on ... it is time to ‘enjoy’."
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Dance and Expression",
+      "title": "Understanding Dance",
+      "concept": "Dance is a form of storytelling using body movements.",
+      "explanation": "Dance means telling a story using your whole body and finding ways to express yourself without words. It can show daily activities in a fun and artistic way! 🌟",
+      "examples": [
+        "Dancing like a bird",
+        "Expressing joy through movement"
+      ],
+      "practice_questions": [
+        {
+          "q": "What does dance mean?",
+          "a": "Dance is telling a story with your body."
+        },
+        {
+          "q": "How can you express daily activities through dance?",
+          "a": "By using different body movements to show what you do every day."
+        }
+      ],
+      "keywords": [
+        "dance",
+        "storytelling",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Body Parts in Dance",
+      "title": "Know My Body Parts",
+      "concept": "Understanding large and tiny body parts for dance.",
+      "explanation": "In dance, we can use both large body parts like arms and legs, and tiny body parts like fingers and eyes to express ourselves! 🕺💃",
+      "examples": [
+        "Using arms to wave",
+        "Nodding head to show excitement"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are large body parts?",
+          "a": "Head, arms, legs, and waist."
+        },
+        {
+          "q": "What are tiny body parts?",
+          "a": "Shoulders, eyes, lips, and fingers."
+        }
+      ],
+      "keywords": [
+        "body parts",
+        "dance",
+        "movement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Movement and Rhythm",
+      "title": "Move the Body to the Rhythm",
+      "concept": "Using body movements to express feelings and actions.",
+      "explanation": "Imagine playing outdoors! Use your body to show how you feel while playing. Dance like animals and trees! 🌳🐦",
+      "examples": [
+        "Hopping like a bunny",
+        "Swinging arms like branches"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can you show excitement in dance?",
+          "a": "By using big movements and smiling!"
+        }
+      ],
+      "keywords": [
+        "rhythm",
+        "movement",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Routine Story in Dance",
+      "title": "Tell a Story Through Dance",
+      "concept": "Creating a dance that tells a personal story.",
+      "explanation": "Make up a dance that tells a story about your daily routine! Use your whole body to show what you do every day. 📖✨",
+      "examples": [
+        "Waking up",
+        "Riding a bicycle"
+      ],
+      "practice_questions": [
+        {
+          "q": "What story can you tell through dance?",
+          "a": "A story about my morning routine!"
+        }
+      ],
+      "keywords": [
+        "storytelling",
+        "dance",
+        "routine"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Folk Dance",
+      "title": "Understanding Folk Dance",
+      "concept": "Exploring traditional dances from different cultures.",
+      "explanation": "Folk dance is a fun way to celebrate festivals with community dances! Each region has its own special style. 🎉👯‍♂️",
+      "examples": [
+        "Dancing at a festival",
+        "Wearing traditional clothes"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is folk dance?",
+          "a": "It's a traditional dance performed during festivals."
+        },
+        {
+          "q": "What do people wear during folk dances?",
+          "a": "They wear colorful traditional clothes."
+        }
+      ],
+      "keywords": [
+        "folk dance",
+        "tradition",
+        "celebration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Movement Patterns",
+      "title": "Creating Rhythmic Movements",
+      "concept": "Understanding movement patterns through rhythm.",
+      "explanation": "Let's tap our feet in a fun rhythm! You can try to move in circles or spirals while counting together like 1, 2, 3, 4, 4, 3, 2, 1! 🎶",
+      "examples": [
+        "Tap-tap-toe-tap",
+        "Tap-tap-heal-heal-tap"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "movement",
+        "rhythm",
+        "dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Fun with Musical Instruments",
+      "title": "Using Kitchen Utensils as Instruments",
+      "concept": "Creating music with everyday items.",
+      "explanation": "You can make music with kitchen utensils! Try clanging pots and pans to create your own rhythm. 🎵🥁",
+      "examples": [
+        "Using a spoon on a pot",
+        "Shaking a jar of rice"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "music",
+        "instruments",
+        "props"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Movements with Music",
+      "title": "Exploring 3 Beat Rhythms",
+      "concept": "Understanding different beat patterns.",
+      "explanation": "Let's explore 3-beat rhythms together! You can say 'one, two, three' or 'step, tap, step' while moving. 🎤🎶",
+      "examples": [
+        "Syllables: One, two, three",
+        "Rhythm: Step, tap, step"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "rhythm",
+        "beats",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Different Beat Patterns",
+      "title": "Counting Beats in Groups",
+      "concept": "Practicing beat counting in groups.",
+      "explanation": "Let's divide into groups and count beats together! Group 1 counts 2 beats, Group 2 counts 3 beats, and Group 3 counts 4 beats. Clap and tap your feet while moving! 👣👏",
+      "examples": [
+        "Group 1: one, two",
+        "Group 2: one, two, three"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is practicing together important?",
+          "a": "It helps us coordinate better!"
+        }
+      ],
+      "keywords": [
+        "counting",
+        "practice",
+        "coordination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Nature and Body Movements",
+      "title": "Imitating Nature's Movements",
+      "concept": "Using body movements to mimic nature.",
+      "explanation": "Let's observe nature! How do animals and trees move? Try to copy their movements with your body. 🌳🐒",
+      "examples": [
+        "How does an elephant walk?",
+        "How does a butterfly flutter?"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "nature",
+        "movement",
+        "imitation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_006",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Nature and Rhythmic Movements",
+      "title": "Expressing Nature Through Dance",
+      "concept": "Showing rhythmic movements inspired by nature.",
+      "explanation": "Choose an animal or element from nature and show its movements! For example, how does a peacock dance? 🦚✨",
+      "examples": [
+        "Peacock dancing in 4 beats",
+        "Bird flapping wings"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "nature",
+        "rhythm",
+        "dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Dance and Movement",
+      "title": "Story of Nature in Dance",
+      "concept": "Expressing nature through dance.",
+      "explanation": "Let's have fun dancing to show different themes from nature! 🌳 You can dance like the sun in summer, the wind in winter, or the rain in monsoon. Each season has its own dance moves! 🌞❄️🌧️",
+      "examples": [
+        "Dance like the sun with a circular motion 🌞",
+        "Swing your hands side to side like the winter wind ❄️",
+        "Make big steps and spins like the rain during monsoon 🌧️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite season to dance about?",
+          "a": "I love dancing about summer!"
+        }
+      ],
+      "keywords": [
+        "dance",
+        "nature",
+        "seasons"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Regional Dance",
+      "title": "Dancing to a Regional Song",
+      "concept": "Creating dance for regional songs.",
+      "explanation": "Do you know any songs from different parts of our country? 🎶 Let's create a dance for that song! Identify the beats and make your own dance steps! You can perform it as a solo, duet, or group! 🎉",
+      "examples": [
+        "Dance to a Punjabi folk song with energetic steps 💃",
+        "Create a slow dance for a classical song 🎼"
+      ],
+      "practice_questions": [
+        {
+          "q": "What regional song do you want to dance to?",
+          "a": "I want to dance to a Bhangra song!"
+        }
+      ],
+      "keywords": [
+        "dance",
+        "regional",
+        "performance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Theatre",
+      "title": "Introduction to Theatre",
+      "concept": "Theatre brings stories to life.",
+      "explanation": "Theatre is a fun way to make stories come alive! 🎭 You can pretend to be different characters and live out exciting stories. Have you ever played pretend with your friends? Let's explore the world of drama together! 🌟",
+      "examples": [
+        "Pretend to be a superhero saving the day! 🦸‍♂️",
+        "Act out a scene from your favorite storybook! 📚"
+      ],
+      "practice_questions": [
+        {
+          "q": "What story would you like to act out?",
+          "a": "I want to act out 'Little Red Riding Hood'!"
+        }
+      ],
+      "keywords": [
+        "theatre",
+        "drama",
+        "pretend"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Introduction to Theatre",
+      "title": "Welcome to the World of Theatre",
+      "concept": "Exploring the space around and within you.",
+      "explanation": "In theatre, it's important to understand both the space around you (like the room) and the space within you (your thoughts and feelings). 🌍💭",
+      "examples": [
+        "The walls of the room",
+        "Your imagination"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "theatre",
+        "space",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Speedy Steps",
+      "title": "Activity 1: Speedy Steps",
+      "concept": "Learning to walk with different speeds.",
+      "explanation": "In this activity, you will walk around the room at different speeds! 🚶‍♂️💨 You will listen to your teacher's instructions to change your speed.",
+      "examples": [
+        "Walk at speed 5 (normal)",
+        "Walk at speed 1 (slowest)"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "speed",
+        "walking",
+        "activity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "You Are in a Situation!",
+      "title": "Activity 2: You Are in a Situation!",
+      "concept": "Acting out different scenarios.",
+      "explanation": "Imagine different situations and walk as if you are in them! For example, walk like you're on slippery ice. ❄️👣",
+      "examples": [
+        "Walk like you are walking on thorns",
+        "Walk as if the floor is slippery"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "imagination",
+        "acting",
+        "situations"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "discussion",
+      "topic": "Discussion and Feedback",
+      "title": "Discussion: Reflecting on Activities",
+      "concept": "Sharing experiences and learning from activities.",
+      "explanation": "After the activities, it's important to talk about what you enjoyed and what was challenging. 🤔💬",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "Which part of the activity did you enjoy the most? Why?",
+          "a": ""
+        },
+        {
+          "q": "What was one new thing that you learnt about yourself?",
+          "a": ""
+        }
+      ],
+      "keywords": [
+        "discussion",
+        "feedback",
+        "reflection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Importance of Alertness",
+      "title": "Staying Alert in Theatre",
+      "concept": "The importance of focus and alertness in theatre.",
+      "explanation": "Being alert and focused is very important in theatre! It helps you respond quickly to instructions. ⚡️🎭",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "alertness",
+        "focus",
+        "theatre"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_101",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Movement Games",
+      "title": "Sit — Turn — Jump",
+      "concept": "Following instructions through movement.",
+      "explanation": "In this game, you will listen to your teacher's commands and move accordingly! When they say 'SIT', you sit down. When they say 'TURN', you turn around. And when they say 'JUMP', you jump! It's important to be alert and follow the instructions carefully! 🏃‍♂️💨",
+      "examples": [
+        "SIT means TURN, TURN means JUMP, JUMP means SIT"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do when the teacher says 'SIT'?",
+          "a": "You sit down!"
+        },
+        {
+          "q": "How does it feel to change the meanings of the commands?",
+          "a": "It makes the game more challenging and fun!"
+        }
+      ],
+      "keywords": [
+        "movement",
+        "instructions",
+        "alertness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_102",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Creative Guessing",
+      "title": "Freeze and Justify",
+      "concept": "Using imagination to interpret actions.",
+      "explanation": "In this activity, you will walk around until you hear a clap from the teacher. When you hear the clap, freeze like a statue! Then, your friends will guess what action you are doing. Be creative and funny with your guesses! 🤔✨",
+      "examples": [
+        "Digging the ground",
+        "Pulling the rope",
+        "Drinking water"
+      ],
+      "practice_questions": [
+        {
+          "q": "What did you enjoy most about freezing?",
+          "a": "I loved being creative with my guesses!"
+        },
+        {
+          "q": "Can you think of a funny action to freeze as?",
+          "a": "I could freeze as if I am a superhero!"
+        }
+      ],
+      "keywords": [
+        "freeze",
+        "guessing",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_103",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Non-Verbal Communication",
+      "title": "Communicate Without Talking",
+      "concept": "Understanding communication beyond words.",
+      "explanation": "Communication is not just about talking! You can express ideas and feelings using gestures and body language. Let's try using hand gestures to communicate without speaking! 🤷‍♀️✋",
+      "examples": [
+        "Hand on chin (thinking)",
+        "Asking 'what?' using only hands"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is communication?",
+          "a": "It's sharing ideas and feelings with others."
+        },
+        {
+          "q": "Can you communicate without talking?",
+          "a": "Yes, by using gestures!"
+        }
+      ],
+      "keywords": [
+        "communication",
+        "gestures",
+        "body language"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_101",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Creativity",
+      "title": "Understanding Creativity",
+      "concept": "Creativity is the ability to produce new and original ideas.",
+      "explanation": "Creativity helps us communicate, solve problems, or just have fun! 🎨✨ It’s important as you grow older.",
+      "examples": [
+        "Creating a new scene in theatre",
+        "Inventing a fun game"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "creativity",
+        "originality",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_102",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Body Language",
+      "title": "Using Body Language",
+      "concept": "Body language is a way to communicate without words.",
+      "explanation": "When you act out a scene using your body, you are using body language! 🤹‍♂️👍 It helps others understand your message.",
+      "examples": [
+        "Pretending to read a book",
+        "Acting like you are drinking hot coffee"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "body language",
+        "communication",
+        "acting"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_103",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Group Structures Activity",
+      "title": "Group Structures",
+      "concept": "Creating scenes in groups using body language.",
+      "explanation": "In groups, you will act out different structures without talking. Everyone's position is important! 🤗🎭",
+      "examples": [
+        "Acting out 'Watching TV'",
+        "Depicting a 'Market' scene"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which part of the activity did you enjoy the most?",
+          "a": "I enjoyed acting out the market scene!"
+        },
+        {
+          "q": "Which structure was the most difficult one to create?",
+          "a": "The marriage structure was tricky!"
+        },
+        {
+          "q": "What is the one new thing you learnt about yourself?",
+          "a": "I can express myself without words!"
+        }
+      ],
+      "keywords": [
+        "group activity",
+        "theatre",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_104",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Expression in Acting",
+      "title": "Importance of Expression",
+      "concept": "Expression is key to effective communication in acting.",
+      "explanation": "Your facial expressions help convey your message while acting! 😊🎭 Combining body language and expression is essential for creativity.",
+      "examples": [
+        "Showing happiness with a smile",
+        "Expressing surprise with wide eyes"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "expression",
+        "acting",
+        "communication"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_105",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Magic Pit Activity",
+      "title": "Magic Pit",
+      "concept": "Using objects to express actions.",
+      "explanation": "In this fun activity, you will pick an object from the 'magic pit' and act it out! 🎩✨ Others will guess what it is based on your actions.",
+      "examples": [
+        "Acting like you're writing with a pen",
+        "Pretending to drink from a coffee mug"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "magic pit",
+        "acting",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_101",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Communication Skills",
+      "title": "Expressing Yourself",
+      "concept": "Improving communication through creativity.",
+      "explanation": "When you express yourself better, people understand you more! Let's use our creativity to communicate in fun ways! 🎨✨",
+      "examples": [
+        "Using body language to show emotions",
+        "Acting out a situation without talking"
+      ],
+      "practice_questions": [
+        {
+          "q": "How many object-actions were you able to guess?",
+          "a": "Count how many you guessed correctly!"
+        },
+        {
+          "q": "Which object-action was the most difficult to create?",
+          "a": "Think about which one took the most effort!"
+        }
+      ],
+      "keywords": [
+        "communication",
+        "creativity",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_102",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Magic Pit Activity",
+      "title": "Acting Out Situations",
+      "concept": "Using imagination to act out different scenarios.",
+      "explanation": "In this activity, you jump into a situation and act it out without talking! Can your friends guess what you're doing? 🤔🎭",
+      "examples": [
+        "Falling down and going to the doctor",
+        "Pretending to be in a restaurant"
+      ],
+      "practice_questions": [
+        {
+          "q": "Were you able to create situations?",
+          "a": "Yes, think of the fun scenarios you acted out!"
+        },
+        {
+          "q": "Can you create situations inspired by lessons from other textbooks?",
+          "a": "Absolutely! Use your imagination!"
+        }
+      ],
+      "keywords": [
+        "imagination",
+        "acting",
+        "situations"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_103",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Object Improvisation",
+      "title": "Reimagining Objects",
+      "concept": "Using everyday objects in creative ways.",
+      "explanation": "Take a classroom object and pretend it's something else! Can your friends guess what it is? 🖊️➡️🪥",
+      "examples": [
+        "Using a pen as a toothbrush",
+        "Using a duster as a magic wand"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which part of the activity did you enjoy the most and why?",
+          "a": "Think about what made it fun for you!"
+        },
+        {
+          "q": "Was it easy or difficult to reimagine the use of an object?",
+          "a": "Reflect on your experience!"
+        }
+      ],
+      "keywords": [
+        "improvisation",
+        "creativity",
+        "objects"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_111",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Sound Improvisation",
+      "title": "Exploring Sounds and Emotions",
+      "concept": "Understanding how sounds can evoke feelings and visuals.",
+      "explanation": "When you listen to sounds, they can make you feel different things! 🎶 Close your eyes and imagine what you see when you hear a sound. For example, the sound of drums might make you think of a mysterious adventure! 🌊",
+      "examples": [
+        "Birds chirping = happiness 🐦",
+        "Ocean waves = calmness 🌊"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do you feel when you hear the sound of birds chirping?",
+          "a": "I feel happy and cheerful! 😊"
+        },
+        {
+          "q": "What about the sound of a river flowing?",
+          "a": "It makes me feel peaceful and relaxed. 🌈"
+        }
+      ],
+      "keywords": [
+        "sound",
+        "emotion",
+        "listening"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_112",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Listening vs Hearing",
+      "title": "The Art of Listening",
+      "concept": "Distinguishing between listening and hearing.",
+      "explanation": "Hearing is just about sounds around you, but listening means paying attention to understand! 🧏‍♂️ When your teacher speaks, you listen to learn! 📚",
+      "examples": [
+        "Hearing the bell ring = noise 🔔",
+        "Listening to a story = understanding 📖"
+      ],
+      "practice_questions": [
+        {
+          "q": "Is it easy to listen to sounds while moving?",
+          "a": "It can be tricky but also fun! 🎉"
+        },
+        {
+          "q": "What is one new thing you learnt about yourself?",
+          "a": "I can express myself without words! 🤗"
+        }
+      ],
+      "keywords": [
+        "listening",
+        "hearing",
+        "communication"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_113",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Role Play",
+      "title": "Acting Out Scenarios",
+      "concept": "Using creativity and imagination in theatre.",
+      "explanation": "Let's act out fun situations! 🎭 You can pretend to be a police officer or a doctor. Use your voice and body to tell a story! 🤔",
+      "examples": [
+        "Police and thief scenario 🚔",
+        "Planning a birthday surprise 🎉"
+      ],
+      "practice_questions": [
+        {
+          "q": "Did using props help you act better?",
+          "a": "Yes, it made it more fun! 🎈"
+        },
+        {
+          "q": "What was your favorite character to play?",
+          "a": "I loved being the doctor! 👩‍⚕️"
+        }
+      ],
+      "keywords": [
+        "role play",
+        "imagination",
+        "theatre"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_101",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Body Language",
+      "title": "Understanding Body Language",
+      "concept": "Coordinating body language with speech enhances communication.",
+      "explanation": "When you talk, remember to use your body and face to express what you mean! 😊 For example, if you're happy, smile and use open hands. If you're sad, your face might look down and your hands might be close to your body.",
+      "examples": [
+        "Smiling while saying 'hello' 😊",
+        "Frowning while saying 'I'm sad' 😢"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do when you talk?",
+          "a": "Use your body and face to express feelings!"
+        }
+      ],
+      "keywords": [
+        "body language",
+        "communication",
+        "expressions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_102",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Group Role Plays",
+      "title": "Acting in Groups",
+      "concept": "Working in teams enhances performance and creativity.",
+      "explanation": "When you act with friends, everyone can share ideas and make the story even better! 🎭 Each person can add their own special touch to the performance.",
+      "examples": [
+        "Acting out a story with friends",
+        "Creating a new scene together"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you enjoy about acting in a group?",
+          "a": "I love sharing ideas and having fun!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "acting",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_103",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Observation",
+      "title": "The Art of Observation",
+      "concept": "Observation helps gather information and learn.",
+      "explanation": "Observation means looking closely at someone or something to learn more! 👀 For example, if you watch how a shopkeeper talks to customers, you can learn how to be friendly too!",
+      "examples": [
+        "Watching a milkman deliver milk",
+        "Noticing how your parents cook"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is observation?",
+          "a": "It's watching closely to learn more!"
+        }
+      ],
+      "keywords": [
+        "observation",
+        "learning",
+        "watching"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_104",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Observation and Storytelling",
+      "title": "Storytelling through Observation",
+      "concept": "Observing people can inspire storytelling.",
+      "explanation": "Look around you and find someone interesting! 🕵️‍♂️ Notice how they walk, talk, and what they do. Then, create a story about them!",
+      "examples": [
+        "A story about a friendly shopkeeper",
+        "A tale of a busy milkman"
+      ],
+      "practice_questions": [
+        {
+          "q": "Who will you observe for your story?",
+          "a": "I will observe the shopkeeper!"
+        }
+      ],
+      "keywords": [
+        "storytelling",
+        "observation",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Observation Skills",
+      "title": "Observing People",
+      "concept": "Learning to observe details about people.",
+      "explanation": "Take 2-3 days to watch and note down details like the clothes people wear and their unique actions. This helps you understand them better! 👀✨",
+      "examples": [
+        "Noticing a person wearing a red hat 🎩",
+        "Seeing someone dance joyfully 💃"
+      ],
+      "practice_questions": [
+        {
+          "q": "What unique action did you observe?",
+          "a": "I saw someone juggling balls! 🎪"
+        },
+        {
+          "q": "What did you learn about yourself?",
+          "a": "I learned that I enjoy observing others!"
+        }
+      ],
+      "keywords": [
+        "observation",
+        "details",
+        "people"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Narrative Crafting",
+      "title": "Crafting Simple Narratives",
+      "concept": "Creating stories based on observations.",
+      "explanation": "After observing, create a simple story about a person you watched. Use your imagination to make it fun! 📖🌟",
+      "examples": [
+        "A story about a cat who loves to chase butterflies 🐱🦋",
+        "An imaginary tale of a brave knight saving a village 🏰⚔️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What story did you create?",
+          "a": "I created a story about a cat who saved a fish from a hungry bird! 🐟🐦"
+        },
+        {
+          "q": "How did you feel while narrating your story?",
+          "a": "I felt excited and happy! 😊"
+        }
+      ],
+      "keywords": [
+        "storytelling",
+        "imagination",
+        "narrative"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Picture Story Telling",
+      "title": "Creating Stories from Pictures",
+      "concept": "Using pictures to inspire storytelling.",
+      "explanation": "Look at a picture and create a story based on what you see. Use actions and expressions to make it lively! 🎨🖼️",
+      "examples": [
+        "A story about a tree that wishes to dance 🌳💃",
+        "A tale of a pot that holds magical secrets 🏺✨"
+      ],
+      "practice_questions": [
+        {
+          "q": "What picture did you use for your story?",
+          "a": "I used a picture of a cat! 🐱"
+        },
+        {
+          "q": "How did you express your story?",
+          "a": "I acted like the cat, purring and stretching! 😺"
+        }
+      ],
+      "keywords": [
+        "pictures",
+        "storytelling",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Community Creativity",
+      "title": "Exploring Theatre Forms",
+      "concept": "Discovering different theatre styles in India.",
+      "explanation": "India has many unique theatre forms. Explore and find out about the ones from your state! 🎭🇮🇳",
+      "examples": [
+        "Bayalata from Karnataka",
+        "Bhavai from Gujarat"
+      ],
+      "practice_questions": [
+        {
+          "q": "What theatre form did you find in your state?",
+          "a": "I found Jaatra from West Bengal! 🎉"
+        },
+        {
+          "q": "Can you describe one theatre form?",
+          "a": "Bayalata is a folk theatre that tells stories through dance and music! 🎶💃"
+        }
+      ],
+      "keywords": [
+        "theatre",
+        "culture",
+        "exploration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "activity",
+      "topic": "Creative Story Making",
+      "title": "Combining Pictures to Create Stories",
+      "concept": "Using multiple pictures to create a unique story.",
+      "explanation": "Combine different pictures to make a new story. Let your creativity flow! 🌈📚",
+      "examples": [
+        "A story about a ball that travels through different lands 🌍⚽",
+        "A tale of a bird meeting a fish in the sky 🐦🐠"
+      ],
+      "practice_questions": [
+        {
+          "q": "What pictures did you combine for your story?",
+          "a": "I combined a picture of a sun and a mountain! ☀️🏔️"
+        },
+        {
+          "q": "What was the main idea of your story?",
+          "a": "The sun helped the mountain bloom with flowers! 🌼🌄"
+        }
+      ],
+      "keywords": [
+        "creativity",
+        "story",
+        "pictures"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Integrating All Art Forms",
+      "title": "Introduction to Bansuri",
+      "concept": "Bansuri is a musical instrument made from bamboo.",
+      "explanation": "The bansuri makes magical sounds that everyone loves! 🎶 You can even make one yourself using simple materials. It's often played at fairs and used in dances and dramas.",
+      "examples": [
+        "Bansuri played at a local mela 🎉",
+        "Drawing a bansuri in the jungle 🌳"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "bansuri",
+        "music",
+        "art forms"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Art Forms Connection",
+      "title": "Understanding Art Forms",
+      "concept": "All art forms are connected through elements like swara, laya, bhava, and taala.",
+      "explanation": "Different art forms like music, dance, and theatre all share common features! They express emotions through movement and rhythm. 🌈",
+      "examples": [
+        "Dance performance with music 🎭",
+        "Theatre play using visual arts 🎨"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "art forms",
+        "emotion",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Sanskrit Verse",
+      "title": "Verse by Nandikeshwara",
+      "concept": "A Sanskrit verse connecting all art forms.",
+      "explanation": "This verse is recited by artists before performances. It beautifully describes the connection between physical performance, speech, and emotional experience. 🌟",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Sanskrit",
+        "verse",
+        "art"
+      ],
+      "difficulty": "easy",
+      "text": "आङ्गिकं भुवनं यस्य, वाचिकं सर्व वाङ्मयम्। आहार्यं चन्द्रताराचि, तं वन्दे साचत्वकं शिवम्।"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Creating a Bansuri",
+      "title": "Make Your Own Bansuri",
+      "concept": "Create a bansuri using simple materials.",
+      "explanation": "Let's get crafty! You can make a bansuri using chart paper, glue, and crayons. 🎨 Follow these steps to create your own musical instrument!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "craft",
+        "bansuri",
+        "activity"
+      ],
+      "difficulty": "easy",
+      "steps": [
+        "Draw a picture of a bansuri on chart paper.",
+        "Roll it into a cylinder and glue the edges.",
+        "Add small holes to make it sound!",
+        "Draw a scene around your bansuri."
+      ]
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Story Creation",
+      "title": "Create a Story with Bansuri",
+      "concept": "Use your bansuri drawing to create a story.",
+      "explanation": "Imagine a story where the bansuri is the main character! You can act it out in class. 🌟 Let your creativity flow!",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "storytelling",
+        "bansuri",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_128",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Bansuri",
+      "title": "The Sound of Bansuri",
+      "concept": "Exploring the sound of the bansuri and its connection to nature.",
+      "explanation": "Let's listen to the beautiful sound of the bansuri 🎶 and imagine Lord Shri Krishna playing it while leading cows in the fields. 🌾🐄",
+      "examples": [
+        "Listening to bansuri music",
+        "Singing a folk song about Krishna"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "bansuri",
+        "Krishna",
+        "folk song"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_129",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Near Nature",
+      "title": "Creating a Forest in the Classroom",
+      "concept": "Connecting with nature through art and imagination.",
+      "explanation": "We can create our own forest 🌳 in the classroom! Each child will add something around a flower drawing to make a beautiful garden. 🌸🐦",
+      "examples": [
+        "Drawing flowers and trees",
+        "Imagining sounds of a forest"
+      ],
+      "practice_questions": [
+        {
+          "q": "What sounds do you hear in a forest?",
+          "a": "Birds chirping, water flowing."
+        },
+        {
+          "q": "What is your favorite animal in the forest?",
+          "a": "My favorite animal is a deer! 🦌"
+        }
+      ],
+      "keywords": [
+        "nature",
+        "forest",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_130",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Festival Celebrations",
+      "title": "Celebrating Festivals",
+      "concept": "Understanding the joy and traditions of festivals.",
+      "explanation": "Festivals bring happiness 🎉 and colors to our lives! We wear new clothes, eat delicious food, and decorate our homes. 🏡✨",
+      "examples": [
+        "Drawing rangoli for Diwali",
+        "Learning a song for Holi"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite festival?",
+          "a": "My favorite festival is Diwali! 🎆"
+        },
+        {
+          "q": "How do you celebrate this festival?",
+          "a": "We decorate our home and have a big feast!"
+        }
+      ],
+      "keywords": [
+        "festival",
+        "celebration",
+        "tradition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Introduction to Arts",
+      "title": "What is Arts?",
+      "concept": "Arts is a way to express creativity and emotions.",
+      "explanation": "Arts includes music, dance, drama, and visual arts. 🎨 It helps us express how we feel and see the world around us.",
+      "examples": [
+        "Drawing a picture of your favorite animal 🐶",
+        "Singing a song you love 🎤"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some forms of arts?",
+          "a": "Music, dance, drama, and visual arts."
+        }
+      ],
+      "keywords": [
+        "arts",
+        "creativity",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Importance of Arts",
+      "title": "Why is Arts Important?",
+      "concept": "Arts helps in holistic development.",
+      "explanation": "Engaging in arts activities helps us grow in many ways! 🌱 It builds our creativity, confidence, and helps us understand our feelings.",
+      "examples": [
+        "Making a craft project ✂️",
+        "Performing in a school play 🎭"
+      ],
+      "practice_questions": [
+        {
+          "q": "How does arts help us?",
+          "a": "It helps us express ourselves and develop new skills!"
+        }
+      ],
+      "keywords": [
+        "importance",
+        "development",
+        "skills"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Creative Expression",
+      "title": "Draw Your Feelings",
+      "concept": "Use art to express your emotions.",
+      "explanation": "Take a moment to think about how you feel today. 🎨 Now, draw a picture that shows your feelings! It can be happy, sad, or anything you feel.",
+      "examples": [
+        "Draw a sunny day if you're happy ☀️",
+        "Draw rain if you're feeling a bit sad 🌧️"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "drawing",
+        "feelings",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Fun with Arts",
+      "title": "Arts are Fun!",
+      "concept": "Arts brings joy and creativity.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "fun",
+        "arts",
+        "creativity"
+      ],
+      "difficulty": "easy",
+      "text": "Arts are fun, oh yes they are! 🎨\nDrawing, singing, we can go far!\nDance and play, let’s all create,\nIn the world of arts, we celebrate! 🎉"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Introduction to Arts",
+      "title": "Exploring the World of Arts",
+      "concept": "Arts encompass various forms like Music, Theatre, Dance, and Visual Arts.",
+      "explanation": "Arts are fun ways to express ourselves! 🎨 You can sing, dance, act, or create beautiful pictures. Let's discover how these forms connect us to our culture and heritage! 🌍",
+      "examples": [
+        "Singing a song 🎤",
+        "Drawing a landscape 🖼️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are the four main areas of Arts?",
+          "a": "Music, Theatre, Dance, and Visual Arts."
+        }
+      ],
+      "keywords": [
+        "Arts",
+        "Culture",
+        "Expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Importance of Arts",
+      "title": "Why is Arts Important?",
+      "concept": "Arts help us express feelings and connect with others.",
+      "explanation": "Through Arts, we can share our thoughts and emotions! 🎭 It helps us communicate and understand each other better. Let's see how we can use Arts to tell our stories! 📖",
+      "examples": [
+        "Creating a dance to show happiness 💃",
+        "Painting to express sadness 🎨"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can Arts help us in communication?",
+          "a": "Arts allow us to express our feelings and share stories."
+        }
+      ],
+      "keywords": [
+        "Communication",
+        "Feelings",
+        "Connection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Exploring Different Art Forms",
+      "title": "Discovering Music, Theatre, Dance, and Visual Arts",
+      "concept": "Each art form has its unique characteristics and joy.",
+      "explanation": "Music makes us feel alive! 🎶 Theatre lets us act out stories! 🎭 Dance allows us to move and express joy! 💃 Visual Arts helps us create beautiful images! 🖌️ Let's explore each one!",
+      "examples": [
+        "Listening to a song 🎧",
+        "Performing a short play 🎬"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite art form and why?",
+          "a": "Answers will vary."
+        }
+      ],
+      "keywords": [
+        "Music",
+        "Theatre",
+        "Dance",
+        "Visual Arts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Art Activities",
+      "title": "Fun Art Activities",
+      "concept": "Engaging in art activities enhances creativity.",
+      "explanation": "Let's do some fun activities! 🎨 You can draw your favorite animal, or create a dance routine with your friends! 🕺",
+      "examples": [
+        "Draw a picture of your family 👨‍👩‍👧‍👦",
+        "Create a short play with your classmates 🎭"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Creativity",
+        "Activities",
+        "Fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Introduction to Art Forms",
+      "title": "Exploring Different Art Forms",
+      "concept": "Understanding the four main art forms.",
+      "explanation": "In this lesson, we will learn about four exciting art forms: Music 🎶, Visual Arts 🎨, Theatre 🎭, and Dance 💃. Each art form is unique but shares interesting similarities, just like you and your friends!",
+      "examples": [
+        "Music helps express feelings through sound.",
+        "Visual Arts allows us to create beautiful pictures."
+      ],
+      "practice_questions": [
+        {
+          "q": "What are the four art forms?",
+          "a": "Music, Visual Arts, Theatre, and Dance."
+        },
+        {
+          "q": "Can you name one similarity between these art forms?",
+          "a": "They all help us express ourselves!"
+        }
+      ],
+      "keywords": [
+        "art forms",
+        "music",
+        "visual arts",
+        "theatre",
+        "dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Field Trips and Activities",
+      "title": "Learning Through Experiences",
+      "concept": "Importance of field trips and interactive sessions.",
+      "explanation": "Going on field trips to see plays 🎭, dance performances 💃, and art exhibitions 🎨 helps us learn more about art! We can also invite local artists to our school to inspire us.",
+      "examples": [
+        "Visiting a local art exhibition.",
+        "Watching a dance performance at the community center."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why are field trips important?",
+          "a": "They help us learn about art in a fun way!"
+        },
+        {
+          "q": "Who can we invite to our school?",
+          "a": "Local artists, musicians, and dancers!"
+        }
+      ],
+      "keywords": [
+        "field trips",
+        "interactive sessions",
+        "local artists"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Art Class Structure",
+      "title": "How to Enjoy Art Classes",
+      "concept": "Structure of an art class for better learning.",
+      "explanation": "In our art classes, we will start by closing our eyes and remembering what we learned last time. At the end, we will have 'Circle Time' 🌀 to share our thoughts and ideas!",
+      "examples": [
+        "Sitting quietly to think about art.",
+        "Discussing our favorite art projects."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do we do at the beginning of class?",
+          "a": "We sit quietly and remember our last lesson."
+        },
+        {
+          "q": "What is 'Circle Time'?",
+          "a": "It's a time to share our thoughts about art!"
+        }
+      ],
+      "keywords": [
+        "art class",
+        "Circle Time",
+        "reflection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Encouragement in Arts",
+      "title": "Supporting Art Activities at Home",
+      "concept": "Encouraging art activities at home.",
+      "explanation": "It's important for parents to support their children's art activities at home. Art helps children express themselves and develop new skills! 🎨✨",
+      "examples": [
+        "Drawing a picture at home.",
+        "Creating a dance routine with family."
+      ],
+      "practice_questions": [
+        {
+          "q": "How can parents support art activities?",
+          "a": "By encouraging their children to create art at home."
+        },
+        {
+          "q": "Why is art important?",
+          "a": "It helps us express ourselves and have fun!"
+        }
+      ],
+      "keywords": [
+        "support",
+        "art activities",
+        "home"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Assessment in Arts",
+      "title": "Understanding Progress in Art",
+      "concept": "Assessing children's progress in art.",
+      "explanation": "In art, there is no pass or fail! 🎉 We focus on improvement and learning new skills. Everyone can get better with practice!",
+      "examples": [
+        "A child improving their drawing skills over time.",
+        "Learning a new dance step."
+      ],
+      "practice_questions": [
+        {
+          "q": "Is there a pass or fail in art?",
+          "a": "No, we focus on improvement!"
+        }
+      ],
+      "keywords": [
+        "assessment",
+        "progress",
+        "improvement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Understanding Individual Progression",
+      "title": "Every Child is Unique",
+      "concept": "Every child has different skills and expressions.",
+      "explanation": "Just like flowers in a garden 🌼, every child blooms in their own way! It's important to celebrate their unique talents and not compare them with others.",
+      "examples": [
+        "A child may excel in painting 🎨 while another shines in music 🎶."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why should we not compare children?",
+          "a": "Because every child is unique and has their own strengths!"
+        }
+      ],
+      "keywords": [
+        "individuality",
+        "progression",
+        "celebration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Materials Needed for Arts Class",
+      "title": "What Do You Need for Art?",
+      "concept": "Essential materials for conducting arts activities.",
+      "explanation": "To have a fun arts class, we need a bright space 🌞, art materials like colors and papers, and tools for creating beautiful things! Let's gather everything we need to make art exciting!",
+      "examples": [
+        "Display boards for showcasing art 🖼️",
+        "Simple musical instruments like tambourines 🎵"
+      ],
+      "practice_questions": [
+        {
+          "q": "What materials do we need for an arts class?",
+          "a": "We need art materials, a well-lit space, and tools for creating!"
+        }
+      ],
+      "keywords": [
+        "art materials",
+        "classroom setup",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Feedback and Improvement",
+      "title": "Learning Together",
+      "concept": "Feedback helps improve arts education.",
+      "explanation": "Just like a coach helps an athlete 🏃‍♂️, feedback from teachers and parents helps children grow in their art skills! It's all about learning together and making art classes better.",
+      "examples": [
+        "A teacher giving tips on painting techniques 🎨",
+        "Parents encouraging their child's musical practice 🎶"
+      ],
+      "practice_questions": [
+        {
+          "q": "How does feedback help us?",
+          "a": "Feedback helps us learn and improve our skills!"
+        }
+      ],
+      "keywords": [
+        "feedback",
+        "improvement",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Introduction to Arts",
+      "title": "What is Art?",
+      "concept": "Art is a way to express feelings and ideas.",
+      "explanation": "Art can be painting, music, dance, or acting! 🎨🎶 It's how we show our creativity and emotions.",
+      "examples": [
+        "Painting a picture of your family",
+        "Dancing to your favorite song"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some types of art?",
+          "a": "Painting, music, dance, and acting!"
+        }
+      ],
+      "keywords": [
+        "art",
+        "creativity",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Creating Art",
+      "title": "Make Your Own Art",
+      "concept": "Creating art helps us express ourselves.",
+      "explanation": "Grab some colors and paper! 🖍️ What do you want to show? Draw it out!",
+      "examples": [
+        "Draw your favorite animal",
+        "Create a colorful landscape"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "create",
+        "draw",
+        "imagination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "rhyme",
+      "topic": "Art and Fun",
+      "title": "Art is Fun",
+      "concept": "Art brings joy and fun.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "art",
+        "fun",
+        "joy"
+      ],
+      "difficulty": "easy",
+      "text": "Art is fun, oh what a sight! 🎨\nColors and shapes, shining bright.\nWith a brush, or with a pen,\nLet’s create, again and again!"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "story",
+      "topic": "The Artist's Adventure",
+      "title": "The Magical Paintbrush",
+      "concept": "Art can create magic in our lives.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "story",
+        "art",
+        "magic"
+      ],
+      "difficulty": "easy",
+      "text": "Once upon a time, in a colorful village, there lived a girl named Mia. 🎨 She found a magical paintbrush that brought her drawings to life! Every time she painted a flower, it bloomed in her garden. Mia used her gift to make everyone happy. She painted rainbows after the rain and butterflies that danced in the sky. Everyone loved her art, and Mia learned that art can spread joy and happiness!"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Fundamental Duties",
+      "title": "Understanding Our Duties as Citizens",
+      "concept": "Citizens have responsibilities to uphold the Constitution.",
+      "explanation": "Every citizen of India has important duties! These include respecting the Constitution, promoting harmony, and protecting our environment. 🌍 Let's learn how we can be good citizens!",
+      "examples": [
+        "Respecting the National Flag 🇮🇳",
+        "Helping to keep our parks clean 🌳"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is one duty of a citizen?",
+          "a": "To respect the National Anthem."
+        },
+        {
+          "q": "Why is it important to protect the environment?",
+          "a": "To keep our planet healthy for all living things!"
+        }
+      ],
+      "keywords": [
+        "citizenship",
+        "responsibility",
+        "environment"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Art in Daily Life",
+      "title": "Finding Art Around Us",
+      "concept": "Art is everywhere in our lives.",
+      "explanation": "Art isn't just in museums! 🎨 It's in the way we dance, sing, and even in nature. Look around you—art can be found in the colors of flowers, the shapes of clouds, and the sounds of music! 🎶",
+      "examples": [
+        "Drawing pictures of your family 👨‍👩‍👧‍👦",
+        "Listening to music while playing 🎸"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you name an art form you enjoy?",
+          "a": "I love to draw!"
+        },
+        {
+          "q": "What is one way you see art in nature?",
+          "a": "The beautiful colors of a sunset!"
+        }
+      ],
+      "keywords": [
+        "art",
+        "nature",
+        "creativity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Exploring Art Forms",
+      "title": "Different Types of Art",
+      "concept": "There are many forms of art to explore.",
+      "explanation": "In Bansuri, you will explore four exciting art forms! 🎭 Visual arts like drawing and painting, music with fun songs, dance that makes you move, and theatre where you can act! Let's dive into creativity! 🌈",
+      "examples": [
+        "Making a clay model 🏺",
+        "Singing a folk song 🎤"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is one visual art activity you can do?",
+          "a": "You can paint a picture!"
+        },
+        {
+          "q": "What is your favorite song to sing?",
+          "a": "I love singing 'Twinkle Twinkle Little Star'!"
+        }
+      ],
+      "keywords": [
+        "visual arts",
+        "music",
+        "dance",
+        "theatre"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_001",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Music",
+      "title": "Our National Anthem",
+      "concept": "Understanding the significance of our national anthem.",
+      "explanation": "The national anthem is a special song that represents our country. It reminds us of our pride and unity. 🎶🇮🇳",
+      "examples": [
+        "Listening to the anthem during school assemblies.",
+        "Singing the anthem during national celebrations."
+      ],
+      "practice_questions": [
+        {
+          "q": "What does the national anthem represent?",
+          "a": "It represents our country and its values."
+        }
+      ],
+      "keywords": [
+        "national anthem",
+        "pride",
+        "unity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_002",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Music",
+      "title": "Feel the Rhythm",
+      "concept": "Learning about rhythm in music.",
+      "explanation": "Rhythm is the beat of the music that makes you want to dance! Let's clap to the rhythm together! 🥁💃",
+      "examples": [
+        "Clapping hands to the beat of a song.",
+        "Tapping feet to the rhythm while listening to music."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is rhythm?",
+          "a": "Rhythm is the pattern of sounds in music."
+        }
+      ],
+      "keywords": [
+        "rhythm",
+        "beat",
+        "music"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_003",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Dance",
+      "title": "Let us Dance",
+      "concept": "Exploring different dance movements.",
+      "explanation": "Dancing is a fun way to express yourself! You can move your body to the music and feel happy! 🕺🎉",
+      "examples": [
+        "Doing the twist dance.",
+        "Trying out ballet movements."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why do we dance?",
+          "a": "We dance to express our feelings and have fun!"
+        }
+      ],
+      "keywords": [
+        "dance",
+        "movement",
+        "expression"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_004",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "lesson",
+      "topic": "Theatre",
+      "title": "Integrating All Art Forms",
+      "concept": "Understanding how different art forms come together in theatre.",
+      "explanation": "Theatre combines acting, storytelling, and music to create a wonderful show! 🎭✨",
+      "examples": [
+        "Watching a play at school.",
+        "Participating in a drama club."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is theatre?",
+          "a": "Theatre is a place where stories are acted out."
+        }
+      ],
+      "keywords": [
+        "theatre",
+        "acting",
+        "storytelling"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_arts_005",
+      "grade": "class_3",
+      "subject": "arts",
+      "content_type": "exercise",
+      "topic": "Dance",
+      "title": "Dance with Nature",
+      "concept": "Connecting dance with nature.",
+      "explanation": "Let's dance like the trees sway in the wind and the flowers bloom! 🌳🌼",
+      "examples": [
+        "Imitating the movement of a butterfly.",
+        "Dancing like raindrops falling."
+      ],
+      "practice_questions": [
+        {
+          "q": "How can we dance with nature?",
+          "a": "We can mimic how nature moves!"
+        }
+      ],
+      "keywords": [
+        "dance",
+        "nature",
+        "movement"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

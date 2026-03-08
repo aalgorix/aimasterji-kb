@@ -1,0 +1,3831 @@
+{
+  "version": "1.0",
+  "source": "class_3-physical_education-merged.txt",
+  "grade": "class_3",
+  "subject": "physical_education",
+  "generated_at": "2026-03-07T13:26:47.382Z",
+  "total_items": 151,
+  "content": [
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Motor Skills",
+      "title": "Throwing and Catching",
+      "concept": "Learning how to throw and catch objects effectively.",
+      "explanation": "In this lesson, we will learn how to throw and catch using our hands. Throwing involves using our arms and body to send an object away, while catching means using our hands to grab it. Let's practice these skills together! 🎾🤗",
+      "examples": [
+        "Throwing a ball to a friend",
+        "Catching a frisbee"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you use to throw a ball?",
+          "a": "You use your hands and arms."
+        },
+        {
+          "q": "How do you catch a ball?",
+          "a": "You use your hands to grab it."
+        }
+      ],
+      "keywords": [
+        "throwing",
+        "catching",
+        "motor skills"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Throwing Techniques",
+      "title": "How to Throw",
+      "concept": "Steps to throw an object correctly.",
+      "explanation": "To throw, stand with your feet shoulder-width apart. Hold the ball with both hands and bend your elbows. Twist your body slightly and then push your hands forward to throw the ball! Remember to follow through with your arm. 🏃‍♂️💨",
+      "examples": [
+        "Throwing a basketball",
+        "Throwing a tennis ball"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do with your feet when throwing?",
+          "a": "Stand shoulder-width apart."
+        },
+        {
+          "q": "What does 'follow through' mean?",
+          "a": "It means to continue your arm movement after releasing the ball."
+        }
+      ],
+      "keywords": [
+        "throwing",
+        "technique",
+        "follow through"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Catching Techniques",
+      "title": "How to Catch",
+      "concept": "Steps to catch an object effectively.",
+      "explanation": "To catch, stand with your feet apart and bend your knees slightly. Keep your eyes on the ball and use both hands to grab it when it comes close. Remember to pull the ball towards your body to secure it! 🤲⚽",
+      "examples": [
+        "Catching a baseball",
+        "Catching a soft toy"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do with your knees when catching?",
+          "a": "Bend them slightly."
+        },
+        {
+          "q": "How do you secure the ball when you catch it?",
+          "a": "Pull it towards your body."
+        }
+      ],
+      "keywords": [
+        "catching",
+        "technique",
+        "hand-eye coordination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Practice Drills",
+      "title": "Throwing and Catching Drills",
+      "concept": "Exercises to improve throwing and catching skills.",
+      "explanation": "Let's practice throwing and catching with some fun drills! You can work with a partner or practice alone. Use a soft ball to make it safe and enjoyable! 🎉",
+      "examples": [
+        "Throw the ball back and forth with a friend",
+        "Try to catch the ball while jumping"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "drills",
+        "practice",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Throwing Techniques",
+      "title": "Throwing with One Hand",
+      "concept": "Practicing throwing with one hand.",
+      "explanation": "Let's practice throwing a ball using just one hand! 🎾 You can raise your arm and throw the ball high up in the air.",
+      "examples": [
+        "Throwing a ball with your right hand",
+        "Throwing a ball with your left hand"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "throwing",
+        "one hand",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Passing the Ball",
+      "title": "Passing the Ball to a Partner",
+      "concept": "Practicing passing the ball to a partner.",
+      "explanation": "Now, let's practice passing the ball to our friends! 🤝 You can take a step back and throw the ball to them.",
+      "examples": [
+        "Passing the ball to a friend",
+        "Throwing the ball after jumping"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "passing",
+        "ball",
+        "partner"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Catching Practice",
+      "title": "Catching the Ball",
+      "concept": "Practicing catching the ball thrown by a partner.",
+      "explanation": "Let's practice catching the ball! 👐 When your friend throws the ball, keep your eyes on it and catch it with both hands.",
+      "examples": [
+        "Catching a ball thrown from a distance",
+        "Catching a ball after jumping"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "catching",
+        "ball",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Team Game",
+      "title": "Team Ball Game",
+      "concept": "Playing a team game with balls.",
+      "explanation": "Let's play a fun team game! 🎉 Divide into two teams and try to throw the balls into the designated area.",
+      "examples": [
+        "Throwing balls into a marked area",
+        "Competing with another team"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "team game",
+        "competition",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Distance Throwing",
+      "title": "Throwing for Distance",
+      "concept": "Practicing throwing for distance.",
+      "explanation": "Let's see how far we can throw the ball! 🌍 Stand behind the line and try to throw the ball as far as you can.",
+      "examples": [
+        "Throwing a ball to see who can throw it the farthest",
+        "Measuring the distance of each throw"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "distance",
+        "throwing",
+        "practice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_006",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Catching and Throwing",
+      "title": "Catching and Throwing Exercises",
+      "concept": "Exercises to improve catching and throwing skills.",
+      "explanation": "Let's do some fun exercises to improve our catching and throwing! 💪 You can practice throwing with both hands and catching the ball.",
+      "examples": [
+        "Throwing the ball with the left hand",
+        "Catching the ball with both hands"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "exercises",
+        "catching",
+        "throwing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_007",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Team Coordination",
+      "title": "Team Coordination Exercises",
+      "concept": "Exercises to improve team coordination.",
+      "explanation": "Let's work together as a team! 🤗 You can practice passing the ball to each other while moving around.",
+      "examples": [
+        "Passing the ball while running",
+        "Working together to complete a task"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "teamwork",
+        "coordination",
+        "exercises"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Movement Activities",
+      "title": "Catching the Ball",
+      "concept": "Learn how to catch a ball effectively.",
+      "explanation": "In this game, two teams stand in front of a wall. Each player throws a ball against the wall and tries to catch it when it bounces back. The team that catches the ball the most times wins! 🎉",
+      "examples": [
+        "Team A caught the ball 5 times!",
+        "Team B caught the ball 3 times."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do when the ball bounces back?",
+          "a": "You try to catch it!"
+        }
+      ],
+      "keywords": [
+        "catching",
+        "ball",
+        "teamwork"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Football Basics",
+      "title": "Kicking and Receiving the Ball",
+      "concept": "Understanding how to kick and receive a football.",
+      "explanation": "In football, we kick the ball to our teammates and receive it back. Kicking is important for passing the ball, and receiving helps us keep the game going! ⚽️",
+      "examples": [
+        "Kicking the ball to a friend.",
+        "Receiving the ball back."
+      ],
+      "practice_questions": [
+        {
+          "q": "What is the first step in kicking the ball?",
+          "a": "Stand behind the ball and focus on it."
+        }
+      ],
+      "keywords": [
+        "football",
+        "kicking",
+        "receiving"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Kicking Technique",
+      "title": "How to Kick the Ball",
+      "concept": "Steps to kick a football correctly.",
+      "explanation": "To kick the ball, stand with your feet shoulder-width apart. Lean forward, and use your kicking foot to strike the ball while keeping your other foot steady. Follow through with your kick! ⚽️",
+      "examples": [
+        "Kick the ball with your right foot.",
+        "Follow through with your left foot."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do with your non-kicking foot?",
+          "a": "Keep it steady next to the ball."
+        }
+      ],
+      "keywords": [
+        "kicking",
+        "technique",
+        "football"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Receiving Technique",
+      "title": "How to Receive the Ball",
+      "concept": "Steps to receive a football effectively.",
+      "explanation": "When receiving the ball, bend your knees and position your body towards the ball. Use your foot to stop the ball and keep it close to you. This helps you control the game! ⚽️",
+      "examples": [
+        "Receiving the ball with your right foot.",
+        "Stopping the ball with your left foot."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do with your knees when receiving the ball?",
+          "a": "Bend them slightly."
+        }
+      ],
+      "keywords": [
+        "receiving",
+        "technique",
+        "football"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Passing the Ball",
+      "title": "How to Pass the Ball",
+      "concept": "Learn how to pass the ball between feet.",
+      "explanation": "To pass the ball, place it between your feet and use one foot to push it to the other foot. Keep your body balanced and aim for your teammate! ⚽️",
+      "examples": [
+        "Pass the ball from your left foot to your right foot.",
+        "Practice passing with a friend."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you need to keep balanced while passing?",
+          "a": "Your body!"
+        }
+      ],
+      "keywords": [
+        "passing",
+        "football",
+        "teamwork"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Movement Skills",
+      "title": "Walking and Running",
+      "concept": "Learning to walk and run in different directions.",
+      "explanation": "Let's walk, jog, and run! We can move from left to right and explore how our bodies can move in different ways. 🏃‍♂️➡️⬅️",
+      "examples": [
+        "Walking in a straight line",
+        "Running around a circle"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "walking",
+        "running",
+        "movement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Ball Skills",
+      "title": "Playing with a Soft Ball",
+      "concept": "Practicing throwing and catching a soft ball.",
+      "explanation": "Grab a soft ball and find a partner! One of you will throw the ball while the other catches it. Let's see how well we can pass the ball to each other! 🎾🤝",
+      "examples": [
+        "Throwing the ball to a friend",
+        "Catching the ball"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "ball",
+        "throwing",
+        "catching"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Ball Tossing",
+      "title": "Tossing the Ball",
+      "concept": "Learning to toss a ball towards a target.",
+      "explanation": "Let's toss the ball! Aim for a target and try to get the ball in. You can bounce it twice before catching it. 🎯🏐",
+      "examples": [
+        "Tossing the ball into a box",
+        "Bouncing the ball before catching"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "tossing",
+        "aim",
+        "target"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Jumping into a Box",
+      "title": "Jumping into a Box",
+      "concept": "Practicing jumping to land a ball in a box.",
+      "explanation": "Let's jump! Stand a little away from the box and try to jump the ball into it. The team that gets the most balls in wins! 🏆📦",
+      "examples": [
+        "Jumping to throw the ball into a box",
+        "Team competition"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "jumping",
+        "box",
+        "competition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Team Games",
+      "title": "Playing in a Circle",
+      "concept": "Understanding teamwork through passing a ball.",
+      "explanation": "Let's form a circle and pass the ball around! One person stands in the middle and tries to catch the ball. If they catch it, they switch places! 🤗⚽",
+      "examples": [
+        "Passing the ball in a circle",
+        "Catching the ball"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "teamwork",
+        "circle",
+        "passing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_006",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Catching and Passing",
+      "title": "Catching and Passing the Ball",
+      "concept": "Practicing catching and passing the ball effectively.",
+      "explanation": "Catch the ball with your hands and pass it to your teammate! Let's see how many times we can pass it without dropping! 🤲🏽🏈",
+      "examples": [
+        "Catching with hands",
+        "Passing to a teammate"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "catching",
+        "passing",
+        "teamwork"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_007",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Sit-ups and Stand-ups",
+      "title": "Sit-ups and Stand-ups",
+      "concept": "Practicing sit-ups and standing up with a ball.",
+      "explanation": "Let's do some sit-ups! When you sit up, try to catch the ball with your forehead or chest. This makes it more fun! 💪🏽⚽",
+      "examples": [
+        "Doing sit-ups with a ball",
+        "Standing up after a sit-up"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "sit-ups",
+        "exercise",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "गेंद पर प्रहार",
+      "title": "गेंद को सही ढंग से प्रहार करना",
+      "concept": "गेंद पर प्रहार करने का सही तरीका",
+      "explanation": "जब हम हॉकी या टेनिस में खेलते हैं, तो हमें गेंद पर सही तरीके से प्रहार करना चाहिए। यह हमें गेंद को सही दिशा में भेजने में मदद करता है। 🎾🏑",
+      "examples": [
+        "गेंद को सही तरीके से मारने के लिए हमें अपने पैरों को सही स्थिति में रखना चाहिए।",
+        "प्रहार करते समय हमें गेंद पर ध्यान केंद्रित करना चाहिए।"
+      ],
+      "practice_questions": [
+        {
+          "q": "गेंद को प्रहार करने के लिए हमें क्या करना चाहिए?",
+          "a": "हमें अपने पैरों को चौड़ा रखना चाहिए और गेंद पर ध्यान केंद्रित करना चाहिए।"
+        },
+        {
+          "q": "प्रहार के बाद हमें क्या करना चाहिए?",
+          "a": "हमें गेंद की दिशा में ध्यान देना चाहिए और सही तरीके से आगे बढ़ना चाहिए।"
+        }
+      ],
+      "keywords": [
+        "गेंद",
+        "प्रहार",
+        "हॉकी",
+        "टेनिस"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "गेंद को प्राप्त करना",
+      "title": "गेंद को सही तरीके से प्राप्त करना",
+      "concept": "गेंद को सही तरीके से पकड़ने का तरीका",
+      "explanation": "जब गेंद हमारे पास आती है, तो हमें उसे सही तरीके से पकड़ना चाहिए ताकि वह गिर न जाए। 🏐🤲",
+      "examples": [
+        "गेंद को पकड़ने के लिए हमें अपने हाथों को लचीला रखना चाहिए।",
+        "गेंद को पकड़ते समय हमें झुकना चाहिए।"
+      ],
+      "practice_questions": [
+        {
+          "q": "गेंद को पकड़ने के लिए हमें क्या करना चाहिए?",
+          "a": "हमें अपने हाथों को लचीला रखना चाहिए और झुककर गेंद को पकड़ना चाहिए।"
+        },
+        {
+          "q": "गेंद को पकड़ने का सही तरीका क्या है?",
+          "a": "हमें गेंद की दिशा में ध्यान देना चाहिए और सही स्थिति में खड़ा होना चाहिए।"
+        }
+      ],
+      "keywords": [
+        "गेंद",
+        "पकड़ना",
+        "खेल"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "गुब्बारे पर वार करना",
+      "title": "गुब्बारे के साथ खेल",
+      "concept": "गुब्बारे को हवा में रखना",
+      "explanation": "हम गुब्बारे को हवा में उछालकर उसे अपने हाथों से मारने का खेल खेल सकते हैं। 🎈👋",
+      "examples": [
+        "गुब्बारे को हवा में फेंकें और उसे अपने हाथों से मारें।",
+        "जो टीम सबसे ज्यादा गुब्बारे हवा में रखेगी, वह जीतेगी।"
+      ],
+      "practice_questions": [
+        {
+          "q": "गुब्बारे के साथ खेल कैसे खेलें?",
+          "a": "गुब्बारे को हवा में फेंकें और उसे अपने हाथों से मारें।"
+        },
+        {
+          "q": "इस खेल में जीतने के लिए क्या करना चाहिए?",
+          "a": "हमें गुब्बारे को ज्यादा समय तक हवा में रखना चाहिए।"
+        }
+      ],
+      "keywords": [
+        "गुब्बारा",
+        "खेल",
+        "हवा"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "गेंद पर क्न्‍त्रण",
+      "title": "गेंद को कैसे खेलें?",
+      "concept": "गेंद को सही तरीके से खेलना",
+      "explanation": "खेल के मैदान में गेंद को सही तरीके से खेलना बहुत जरूरी है। पहले गेंद को अपने हॉकी स्टिक से पकड़ें और फिर उसे पास करें। 🏑",
+      "examples": [
+        "गेंद को पास करना",
+        "गेंद को रोकना"
+      ],
+      "practice_questions": [
+        {
+          "q": "गेंद को कैसे पास करें?",
+          "a": "गेंद को हॉकी स्टिक से धीरे-धीरे पास करें।"
+        }
+      ],
+      "keywords": [
+        "गेंद",
+        "हॉकी",
+        "खेल"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "खेल के उपकरणों का उपयोग",
+      "title": "खेल के उपकरणों को वापस रखना",
+      "concept": "खेल के बाद उपकरणों को सही जगह पर रखना",
+      "explanation": "खेल के बाद हमें अपने खेल के उपकरणों को सही जगह पर वापस रखना चाहिए ताकि सबको उपयोग करने में आसानी हो। 🧹",
+      "examples": [
+        "हॉकी स्टिक को उसके स्थान पर रखना",
+        "गेंद को सही जगह पर रखना"
+      ],
+      "practice_questions": [
+        {
+          "q": "खेल के बाद उपकरणों को क्यों वापस रखना चाहिए?",
+          "a": "ताकि अगले खेल में आसानी से उपयोग हो सके।"
+        }
+      ],
+      "keywords": [
+        "उपकरण",
+        "सफाई",
+        "खेल"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "गेंद को पास करना",
+      "title": "गेंद को पास करने का अभ्यास",
+      "concept": "गेंद को सही तरीके से पास करना",
+      "explanation": "आप अपने साथी के साथ गेंद को पास करने का अभ्यास कर सकते हैं। एक साथी चुनें और थोड़ी दूरी पर खड़े होकर गेंद को पास करें। 👫",
+      "examples": [
+        "गेंद को पास करना",
+        "गेंद को रोकना"
+      ],
+      "practice_questions": [
+        {
+          "q": "गेंद को पास करने का सही तरीका क्या है?",
+          "a": "धीरे-धीरे और सही दिशा में पास करें।"
+        }
+      ],
+      "keywords": [
+        "पास",
+        "अभ्यास",
+        "गेंद"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "गेंद को प्राप्त करना",
+      "title": "गेंद को प्राप्त करने का अभ्यास",
+      "concept": "गेंद को सही तरीके से प्राप्त करना",
+      "explanation": "आपको अपने साथी से गेंद प्राप्त करने के लिए दौड़ना होगा। गेंद को प्राप्त करने के बाद उसे अपने साथी को वापस पास करें। 🏃‍♂️",
+      "examples": [
+        "गेंद को प्राप्त करना",
+        "गेंद को पास करना"
+      ],
+      "practice_questions": [
+        {
+          "q": "गेंद को कैसे प्राप्त करें?",
+          "a": "दौड़कर गेंद को अपने हॉकी स्टिक से पकड़ें।"
+        }
+      ],
+      "keywords": [
+        "प्राप्त",
+        "गेंद",
+        "अभ्यास"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "निन्हें कर्म",
+      "title": "निन्हें कर्म का महत्व",
+      "concept": "निन्हें कर्म का महत्व और अभ्यास",
+      "explanation": "निन्हें कर्म का मतलब है कि हम अपने लक्ष्यों को प्राप्त करने के लिए मेहनत करें। जैसे कि 10 सेकंड के लिए प्लैंक करना। 💪",
+      "examples": [
+        "10 सेकंड के लिए प्लैंक",
+        "एक पैर पर खड़े होना"
+      ],
+      "practice_questions": [
+        {
+          "q": "निन्हें कर्म का क्या मतलब है?",
+          "a": "अपने लक्ष्यों को प्राप्त करने के लिए मेहनत करना।"
+        }
+      ],
+      "keywords": [
+        "कर्म",
+        "लक्ष्य",
+        "अभ्यास"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Motor Skills",
+      "title": "Balancing a Stick",
+      "concept": "Learning to balance a stick on the palm.",
+      "explanation": "Let's try to balance a stick on your palm! 🪄 First, find a nice place to play. Take a stick and place it on your palm. Try to keep it standing straight! Record how long you can balance it. Can you beat your own record? 🎉",
+      "examples": [
+        "Balancing a pencil on your finger",
+        "Keeping a book on your head"
+      ],
+      "practice_questions": [
+        {
+          "q": "How long can you balance the stick?",
+          "a": "Try to beat your previous time!"
+        }
+      ],
+      "keywords": [
+        "balance",
+        "stick",
+        "motor skills"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Motor Skills",
+      "title": "Keep Moving",
+      "concept": "Working together in teams to reach a goal.",
+      "explanation": "Let's play a fun game! 🤝 Draw a starting line and a finish line. Form groups of four. Hold hands with your teammates and try to touch the finish line together! The first team to reach wins! 🏆",
+      "examples": [
+        "Playing tug of war",
+        "Three-legged race"
+      ],
+      "practice_questions": [
+        {
+          "q": "What strategies helped your team win?",
+          "a": "Teamwork and communication!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "game",
+        "movement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Motor Skills",
+      "title": "Synchronized Movement",
+      "concept": "Moving in sync with music.",
+      "explanation": "Let's have some fun with music! 🎶 Set up four areas and assign an exercise to each. When the music plays, move around to each area. When the music stops, freeze and do the exercise for 10 seconds! Can you keep up? ⏰",
+      "examples": [
+        "Jumping jacks",
+        "Squats"
+      ],
+      "practice_questions": [
+        {
+          "q": "Which exercise was your favorite?",
+          "a": "I loved doing jumping jacks!"
+        }
+      ],
+      "keywords": [
+        "music",
+        "synchronized",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Motor Skills",
+      "title": "Plank Position",
+      "concept": "Holding a plank position to strengthen muscles.",
+      "explanation": "Let's get strong! 💪 Lie on your tummy and lift your body up using your elbows and toes. Keep your body straight like a plank! Try to hold it as long as you can. Can you feel your muscles working? 🏋️‍♂️",
+      "examples": [
+        "Doing a push-up",
+        "Holding a wall sit"
+      ],
+      "practice_questions": [
+        {
+          "q": "How long can you hold the plank?",
+          "a": "Try to increase your time each day!"
+        }
+      ],
+      "keywords": [
+        "plank",
+        "strength",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Basic Motor Skills",
+      "title": "Hula Hoop Game",
+      "concept": "Playing a game with hula hoops.",
+      "explanation": "Let's have some hoop fun! 🎉 Place hula hoops in a big circle. When the whistle blows, run around the circle. When the second whistle blows, jump into a hoop! If you don't make it, you're out! Keep playing until one person is left! 🥇",
+      "examples": [
+        "Jumping into a ring",
+        "Playing tag"
+      ],
+      "practice_questions": [
+        {
+          "q": "What was the most fun part of the game?",
+          "a": "Running and jumping into the hoops!"
+        }
+      ],
+      "keywords": [
+        "hula hoop",
+        "game",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_036",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Chor-Pakda (Thief-Catcher)",
+      "title": "Chor-Pakda Game",
+      "concept": "Learning to avoid being caught while playing.",
+      "explanation": "In this game, one player is the 'thief' and the others are 'guards'. The guards must watch the thief and try to catch them while the thief tries to reach the center object. If the guards turn around, the thief can move closer! 🕵️‍♂️🏃‍♂️",
+      "examples": [
+        "One player stands still while the others try to sneak past them.",
+        "If the thief gets caught, they must leave the game."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should the thief do to avoid being caught?",
+          "a": "The thief should move when the guards are looking away!"
+        }
+      ],
+      "keywords": [
+        "thief",
+        "catch",
+        "game",
+        "sneak"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_037",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Ital Run",
+      "title": "Ital Run Game",
+      "concept": "Running and teamwork in a fun relay.",
+      "explanation": "In this game, players will run to collect balls from hoops and bring them back to their team. The first team to collect all the balls wins! 🏃‍♀️🏅",
+      "examples": [
+        "Each player takes turns running to the hoop.",
+        "Teams must work together to win."
+      ],
+      "practice_questions": [
+        {
+          "q": "How do you win the Ital Run?",
+          "a": "By collecting all the balls before the other team!"
+        }
+      ],
+      "keywords": [
+        "run",
+        "relay",
+        "teamwork",
+        "hoops"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_038",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Chakma, Bachna, and Ghar Pahunchna",
+      "title": "Chakma Game",
+      "concept": "Dodging and reaching the finish line.",
+      "explanation": "In this game, one team tries to catch the other team while they run to a designated line. The runners must dodge to avoid being caught! 🏃‍♂️💨",
+      "examples": [
+        "Runners must think quickly to avoid being tagged.",
+        "Teams switch roles after each round."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do to avoid being caught?",
+          "a": "Dodge and run fast!"
+        }
+      ],
+      "keywords": [
+        "dodge",
+        "catch",
+        "run",
+        "finish line"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_039",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Vaccine Quiz",
+      "title": "Learning about Vaccines",
+      "concept": "Understanding the importance of vaccines.",
+      "explanation": "Vaccines help protect us from getting sick. In this lesson, we will learn about different diseases and the vaccines that can help prevent them! 💉🌟",
+      "examples": [
+        "Discuss common vaccines like those for measles and polio.",
+        "Learn how vaccines work to keep us healthy."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why are vaccines important?",
+          "a": "They help prevent diseases and keep us healthy!"
+        }
+      ],
+      "keywords": [
+        "vaccines",
+        "health",
+        "disease prevention",
+        "immunization"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Introduction to Games",
+      "title": "Why We Play",
+      "concept": "Playing is a natural behavior that brings us together.",
+      "explanation": "Playing games with friends, teachers, and family helps us bond and understand each other better. It teaches us teamwork and empathy! 🤝",
+      "examples": [
+        "Playing tag with friends",
+        "Participating in a school sports day"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is playing games important?",
+          "a": "It helps us make friends and learn to work together."
+        }
+      ],
+      "keywords": [
+        "games",
+        "friendship",
+        "teamwork"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Local Games",
+      "title": "Our Local Games",
+      "concept": "Different regions have unique games.",
+      "explanation": "In our country, many games are played with different names in various regions. For example, 'Stovlaya' is known as 'Lagori' or 'Nargoloi' in some places! 🎉",
+      "examples": [
+        "Stovlaya",
+        "Lagori"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a game you know from your area?",
+          "a": "Answers will vary based on the child's experience."
+        }
+      ],
+      "keywords": [
+        "local games",
+        "Stovlaya",
+        "Lagori"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Playing Stovlaya",
+      "title": "How to Play Stovlaya",
+      "concept": "Understanding the rules of Stovlaya.",
+      "explanation": "To play Stovlaya, you need seven flat stones and a soft ball. One team tries to knock down the stones while the other team tries to catch the ball! 🏐",
+      "examples": [
+        "Knocking down stones",
+        "Catching the ball"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you need to play Stovlaya?",
+          "a": "Seven flat stones and a soft ball."
+        }
+      ],
+      "keywords": [
+        "Stovlaya",
+        "rules",
+        "teamwork"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Playing Golap Togor",
+      "title": "How to Play Golap Togor",
+      "concept": "Learning about Golap Togor.",
+      "explanation": "In Golap Togor, teams learn about different subjects, fruits, and places while playing. It's a fun way to learn! 🌼",
+      "examples": [
+        "Identifying flowers",
+        "Naming fruits"
+      ],
+      "practice_questions": [
+        {
+          "q": "What can you learn while playing Golap Togor?",
+          "a": "You can learn about different subjects and fruits!"
+        }
+      ],
+      "keywords": [
+        "Golap Togor",
+        "learning",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Team Games",
+      "title": "Introduction to Team Games",
+      "concept": "Understanding team dynamics through games.",
+      "explanation": "In team games, players work together to achieve a common goal. For example, in a game of catch, one player throws the ball while others try to catch it! 🤗",
+      "examples": [
+        "Playing catch with friends",
+        "Team relay races"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a team game?",
+          "a": "A game where players work together."
+        },
+        {
+          "q": "Can you name a team game?",
+          "a": "Yes! Like football or basketball!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "cooperation",
+        "games"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Blindfold Game",
+      "title": "Playing with Blindfolds",
+      "concept": "Identifying players through touch and sound.",
+      "explanation": "In this game, one player wears a blindfold and tries to guess who is touching them by feeling their back. It's all about using your other senses! 👀🤫",
+      "examples": [
+        "Saying 'Please come, mango!' or 'Please come, brinjal!'"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do you identify someone in this game?",
+          "a": "By feeling their back and guessing who they are."
+        }
+      ],
+      "keywords": [
+        "blindfold",
+        "senses",
+        "guessing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Running Game",
+      "title": "Catch Me If You Can!",
+      "concept": "Understanding the rules of a running game.",
+      "explanation": "One player is 'it' and tries to tag others while they run away. The game continues until everyone is caught! 🏃‍♂️🏃‍♀️",
+      "examples": [
+        "Playing tag in the park"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do when you are 'it'?",
+          "a": "You try to tag the other players!"
+        }
+      ],
+      "keywords": [
+        "running",
+        "tag",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Safety in Games",
+      "title": "Playing Safely",
+      "concept": "How to avoid injuries while playing.",
+      "explanation": "Always be careful while playing! Make sure to stretch before games and watch where you're running to avoid bumps and falls! 🚧🤕",
+      "examples": [
+        "Stretching before a game",
+        "Looking around while running"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do to stay safe while playing?",
+          "a": "Stretch and be aware of your surroundings!"
+        }
+      ],
+      "keywords": [
+        "safety",
+        "injury prevention",
+        "care"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Fun with Games",
+      "title": "Rhyme about Playing",
+      "concept": "Enjoying games with friends.",
+      "explanation": "Let's have fun and play all day, with friends around, hip hip hooray! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "fun",
+        "games",
+        "friends"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Team Play",
+      "title": "Identifying Players",
+      "concept": "Recognizing players in a game.",
+      "explanation": "In this game, one player is blindfolded and tries to identify other players by their voices. If they guess correctly, they get a blindfold too! 🎭",
+      "examples": [
+        "Blindfolded player guessing their friends",
+        "Players using sounds to communicate"
+      ],
+      "practice_questions": [
+        {
+          "q": "How does it feel to play with friends?",
+          "a": "It feels fun and exciting! 🎉"
+        },
+        {
+          "q": "What if you play alone?",
+          "a": "It might feel lonely. 😢"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "communication",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Jumping Game",
+      "title": "Jumping Over Ropes",
+      "concept": "Jumping over obstacles to improve coordination.",
+      "explanation": "In this game, players jump over a rope held by two others. If they succeed, they get to hold the rope next! 🪢",
+      "examples": [
+        "Jumping over a rope",
+        "Increasing the height of the rope"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do you feel when you jump over the rope?",
+          "a": "I feel like a superhero! 🦸‍♂️"
+        },
+        {
+          "q": "What happens if you can't jump over?",
+          "a": "You can try again! Keep practicing! 💪"
+        }
+      ],
+      "keywords": [
+        "coordination",
+        "jumping",
+        "obstacle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Hopscotch",
+      "title": "Playing Hopscotch",
+      "concept": "Playing hopscotch to enhance balance.",
+      "explanation": "Hopscotch is a fun game where you jump on numbered squares. You throw a stone and hop on one foot! 🪨",
+      "examples": [
+        "Jumping on squares",
+        "Throwing a stone to land on a number"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do if you step on a line?",
+          "a": "You have to start over! 🚶‍♂️"
+        },
+        {
+          "q": "Who wins the game?",
+          "a": "The first one to complete all squares! 🏆"
+        }
+      ],
+      "keywords": [
+        "balance",
+        "hopscotch",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Circle Game",
+      "title": "Staying in the Circle",
+      "concept": "Playing in a circle to develop strategy.",
+      "explanation": "In this game, players stay inside a circle while trying to push others out. The last one standing wins! 🔵",
+      "examples": [
+        "Players trying to push each other out",
+        "Balancing on one foot"
+      ],
+      "practice_questions": [
+        {
+          "q": "What strategy do you use to stay in the circle?",
+          "a": "I keep my balance and watch others! 👀"
+        },
+        {
+          "q": "How does it feel to win?",
+          "a": "It feels amazing! 🎉"
+        }
+      ],
+      "keywords": [
+        "strategy",
+        "balance",
+        "competition"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Courage and Strength",
+      "title": "Overcoming Obstacles",
+      "concept": "Building courage to face challenges.",
+      "explanation": "This lesson helps you learn to overcome obstacles with courage and strength. You can use your feet to jump over them! 🦵",
+      "examples": [
+        "Jumping over a small barrier",
+        "Encouraging friends to try"
+      ],
+      "practice_questions": [
+        {
+          "q": "How do you feel when you jump over something?",
+          "a": "I feel brave! 🦁"
+        },
+        {
+          "q": "What do you say to encourage your friends?",
+          "a": "You can do it! Go for it! 🎊"
+        }
+      ],
+      "keywords": [
+        "courage",
+        "strength",
+        "overcoming"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Shape and Size in Sports",
+      "title": "Understanding Size in Sports",
+      "concept": "Shapes can be increased or decreased.",
+      "explanation": "In sports, we can change the size of objects like balls or fields to make the game more fun! 🎈",
+      "examples": [
+        "A big ball for younger kids 🏐",
+        "A smaller ball for older kids ⚽"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "size",
+        "shape",
+        "sports"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Playing Kumir",
+      "title": "How to Play Kumir",
+      "concept": "Kumir is a fun game played in many regions.",
+      "explanation": "In this game, one player is the 'Kumir' (crocodile) and tries to catch others who are hiding! 🐊",
+      "examples": [
+        "Players hide in safe zones 🌳",
+        "Kumir can only catch players in water areas 🌊"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Kumir",
+        "game",
+        "hide and seek"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Kumir Game Rules",
+      "title": "Rules of Kumir",
+      "concept": "Understanding the rules of the game.",
+      "explanation": "Players must stay in safe zones, and if caught by the Kumir, they become a Kumir too! 🏃‍♂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rules",
+        "Kumir",
+        "gameplay"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Flower Path Game",
+      "title": "Walking on the Flower Path",
+      "concept": "A fun game with local calls.",
+      "explanation": "In this game, we walk on a 'Flower Path' and respond with 'Cool Breeze'! 🌼🌬️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Flower Path",
+        "game",
+        "local calls"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Flower Path Game Rules",
+      "title": "Rules of Flower Path",
+      "concept": "Understanding how to play the Flower Path game.",
+      "explanation": "Teams take turns saying phrases and challenging each other to join the game! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rules",
+        "Flower Path",
+        "team game"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_006",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Chakma Ball Game",
+      "title": "Playing Chakma Ball",
+      "concept": "A popular game played with a soft ball.",
+      "explanation": "In Chakma Ball, one player tries to hit others with a soft ball to make them 'it'! ⚽️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Chakma Ball",
+        "soft ball",
+        "game"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_007",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Chakma Ball Game Rules",
+      "title": "Rules of Chakma Ball",
+      "concept": "Understanding the rules of Chakma Ball.",
+      "explanation": "Players must avoid being hit by the ball, and if they are, they become the thrower! 🎯",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rules",
+        "Chakma Ball",
+        "gameplay"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Running Game",
+      "title": "Chimchi Race",
+      "concept": "A fun race using a spoon and a lemon.",
+      "explanation": "In this game, players balance a lemon on a spoon and race from the starting line to the finish line. The first one to reach the finish line without dropping the lemon wins! 🏃‍♂️🍋",
+      "examples": [
+        "Player A balances a lemon on a spoon and runs fast!",
+        "Player B tries to keep their lemon steady while running."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you need to balance for the race?",
+          "a": "A lemon on a spoon!"
+        }
+      ],
+      "keywords": [
+        "race",
+        "balance",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Ball Game",
+      "title": "Genda Maari",
+      "concept": "A fun game using a soft ball.",
+      "explanation": "In this game, one player tries to hit others with a soft ball while they run away. It's all about dodging and having fun! 🏃‍♀️⚽️",
+      "examples": [
+        "Player A throws the ball at Player B.",
+        "Player B tries to avoid getting hit."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do to avoid getting hit?",
+          "a": "Run away and dodge!"
+        }
+      ],
+      "keywords": [
+        "ball",
+        "dodge",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Tug of War",
+      "title": "Rassi Kheench",
+      "concept": "A team game where two teams pull a rope.",
+      "explanation": "In Tug of War, two teams stand on opposite sides of a rope and pull it towards themselves. The team that pulls the other team across a line wins! 💪🪢",
+      "examples": [
+        "Team A pulls the rope hard!",
+        "Team B tries to hold their ground."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you need to do to win?",
+          "a": "Pull the rope harder than the other team!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "pull",
+        "rope"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Three-Legged Race",
+      "title": "Teen Pairon Ki Daud",
+      "concept": "A race where two players tie their legs together.",
+      "explanation": "In this race, two players tie one leg together and run to the finish line. They need to work together to win! 🏃‍♂️🏃‍♀️🤝",
+      "examples": [
+        "Player A and Player B tie their legs and start running together.",
+        "They practice coordinating their steps."
+      ],
+      "practice_questions": [
+        {
+          "q": "How can you run faster in this race?",
+          "a": "By working together and coordinating!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "race",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Safety in Games",
+      "title": "Choti Se Bache",
+      "concept": "Understanding safety while playing games.",
+      "explanation": "It's important to play safely to avoid injuries. Always be aware of your surroundings and play gently! 🛡️⚠️",
+      "examples": [
+        "Look out for others while running.",
+        "Use soft balls to avoid hurting someone."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do to stay safe while playing?",
+          "a": "Be careful and watch out for others!"
+        }
+      ],
+      "keywords": [
+        "safety",
+        "games",
+        "awareness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Our Games",
+      "title": "Understanding the Game",
+      "concept": "Players jump in and out based on the teacher's commands.",
+      "explanation": "In this game, when the teacher says 'Kullam', players jump inside the circle. When the teacher says 'Kara', they jump outside! 🎉 It's a fun way to listen and follow instructions!",
+      "examples": [
+        "Jumping in the circle when the teacher says 'Kullam'!",
+        "Jumping out when the teacher says 'Kara'!"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do when the teacher says 'Kullam'?",
+          "a": "Jump inside the circle!"
+        },
+        {
+          "q": "What do you do when the teacher says 'Kara'?",
+          "a": "Jump outside the circle!"
+        }
+      ],
+      "keywords": [
+        "Kullam",
+        "Kara",
+        "jumping game"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Our Games",
+      "title": "Team Play",
+      "concept": "Players form teams and try to capture each other.",
+      "explanation": "In this game, two teams are formed: one team stays in the area and the other tries to capture them. If a player from the capturing team touches someone, they switch teams! 🤗",
+      "examples": [
+        "Forming a team and trying to capture players!",
+        "Switching teams when tagged!"
+      ],
+      "practice_questions": [
+        {
+          "q": "What happens when a player from the capturing team touches someone?",
+          "a": "They switch teams!"
+        }
+      ],
+      "keywords": [
+        "team play",
+        "capture",
+        "switching teams"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "Introduction to Yoga",
+      "concept": "Yoga helps in maintaining a healthy body and mind.",
+      "explanation": "Yoga is a great way to keep our bodies fit and our minds calm. 🧘‍♂️ It teaches us to be positive and take care of ourselves!",
+      "examples": [
+        "Practicing yoga poses",
+        "Breathing exercises to relax"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is yoga important?",
+          "a": "It helps keep our body healthy and our mind peaceful!"
+        }
+      ],
+      "keywords": [
+        "yoga",
+        "health",
+        "mindfulness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Daily Activities",
+      "title": "Activities for Happiness",
+      "concept": "Engaging in joyful activities keeps us happy.",
+      "explanation": "We can do many fun things to stay happy like playing games, gardening, or singing! 🎶 What activities make you happy?",
+      "examples": [
+        "Playing with friends",
+        "Gardening with family"
+      ],
+      "practice_questions": [
+        {
+          "q": "What activities do you enjoy?",
+          "a": "Playing games and singing!"
+        }
+      ],
+      "keywords": [
+        "happiness",
+        "activities",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Healthy Living",
+      "title": "Staying Healthy",
+      "concept": "Healthy habits are essential for a good life.",
+      "explanation": "To stay healthy, we need to eat nutritious food, exercise regularly, and maintain cleanliness. 🍏🏃‍♀️ Let's make healthy choices every day!",
+      "examples": [
+        "Eating fruits and vegetables",
+        "Exercising daily"
+      ],
+      "practice_questions": [
+        {
+          "q": "What can you do to stay healthy?",
+          "a": "Eat healthy food and exercise!"
+        }
+      ],
+      "keywords": [
+        "health",
+        "nutrition",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Helping Others",
+      "title": "Importance of Helping Others",
+      "concept": "Helping others is a way to show kindness.",
+      "explanation": "When we help others, we make our community better. For example, if you see an elderly person struggling with heavy bags, you can offer to help them. 😊",
+      "examples": [
+        "Helping a friend with their homework",
+        "Assisting a neighbor with groceries"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you feel when you help someone?",
+          "a": "I feel happy and proud."
+        },
+        {
+          "q": "Why is it important to help elderly people?",
+          "a": "They may need assistance and it shows respect."
+        }
+      ],
+      "keywords": [
+        "helping",
+        "kindness",
+        "community"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "Introduction to Yoga",
+      "concept": "Yoga helps us stay healthy and happy.",
+      "explanation": "Yoga is a practice that includes different poses and breathing techniques. It helps us feel calm and strong. 🧘‍♂️",
+      "examples": [
+        "Tree Pose 🌳",
+        "Downward Dog 🐶"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you feel when you do yoga?",
+          "a": "I feel relaxed and focused."
+        },
+        {
+          "q": "Can you name one yoga pose?",
+          "a": "Yes, the Tree Pose!"
+        }
+      ],
+      "keywords": [
+        "yoga",
+        "health",
+        "wellness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yamas in Yoga",
+      "title": "Understanding Yamas",
+      "concept": "Yamas are ethical guidelines in yoga.",
+      "explanation": "Yamas teach us how to behave with others. For example, being kind and not hurting anyone is a Yama called Ahimsa. 💖",
+      "examples": [
+        "Being honest",
+        "Sharing with friends"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is Ahimsa?",
+          "a": "It means not hurting others."
+        },
+        {
+          "q": "Can you give an example of being kind?",
+          "a": "Helping a friend who is sad."
+        }
+      ],
+      "keywords": [
+        "yamas",
+        "ahimsa",
+        "kindness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "story",
+      "topic": "Compassion and Kindness",
+      "title": "The Story of Two Princes",
+      "concept": "Compassion can change lives.",
+      "explanation": "Once in a kingdom, there were two princes. One was kind and helped everyone, while the other was selfish. The kind prince saved a hurt swan and took care of it until it healed. 🦢",
+      "narrative": "The kind prince, named Siddhartha, saw a beautiful swan that was hurt. Instead of hunting it, he took it home, cared for it, and made sure it got better. The other prince, Devdutta, only thought about himself and missed the chance to be a hero. Siddhartha's kindness made him loved by everyone, while Devdutta was left alone. In the end, kindness always wins! 🌟",
+      "practice_questions": [
+        {
+          "q": "What did Siddhartha do for the swan?",
+          "a": "He took care of it until it healed."
+        },
+        {
+          "q": "What happened to Devdutta?",
+          "a": "He was left alone because he was selfish."
+        }
+      ],
+      "keywords": [
+        "kindness",
+        "compassion",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_076",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Empathy and Kindness",
+      "title": "Being Kind to Others",
+      "concept": "Understanding how to show kindness and empathy.",
+      "explanation": "When we see someone sad, we should think about how they feel and try to help them. 😊 For example, if a friend is upset, we can give them a hug or say something nice to cheer them up!",
+      "examples": [
+        "Helping a friend who fell down",
+        "Sharing your toys with someone who doesn't have any"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do if someone is sad?",
+          "a": "You should try to help them feel better."
+        },
+        {
+          "q": "How can you show kindness to animals?",
+          "a": "By taking care of them and being gentle."
+        }
+      ],
+      "keywords": [
+        "kindness",
+        "empathy",
+        "helping others"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_077",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "Good Habits",
+      "concept": "The importance of good habits for a healthy life.",
+      "explanation": "Good habits help us stay healthy and happy! 🌟 For example, brushing our teeth and keeping our surroundings clean are good habits.",
+      "examples": [
+        "Brushing teeth twice a day",
+        "Keeping your room tidy"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is one good habit you should practice every day?",
+          "a": "Brushing your teeth."
+        },
+        {
+          "q": "Why is it important to keep your environment clean?",
+          "a": "To stay healthy and safe."
+        }
+      ],
+      "keywords": [
+        "good habits",
+        "health",
+        "cleanliness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_078",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "story",
+      "topic": "Importance of Cleanliness",
+      "title": "Asha and the Sweet Treat",
+      "concept": "Understanding the importance of cleanliness through a story.",
+      "explanation": "Asha loved sweets, especially laddus! 🍬 One day, she went to the market with her mom and bought some. Her mom reminded her to wash her hands before eating. But Asha was too excited and ate one without washing her hands. Oh no! She learned that cleanliness is very important to stay healthy.",
+      "narrative": "Asha was very excited to go to the market with her mom. They saw many shops and delicious sweets. Asha's mom bought her a laddu, but she reminded Asha to wash her hands first. Asha, being too eager, forgot and ate the laddu right away. Soon after, she felt a little sick. Asha learned that washing hands is very important before eating anything. From that day on, she always remembered to wash her hands! 🧼",
+      "keywords": [
+        "cleanliness",
+        "health",
+        "story"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_079",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Hand Washing",
+      "title": "When to Wash Your Hands",
+      "concept": "Learning the right times to wash hands.",
+      "explanation": "Washing hands is super important! 👐 You should wash your hands before eating, after playing, and after using the bathroom.",
+      "examples": [
+        "Before meals",
+        "After playing outside"
+      ],
+      "practice_questions": [
+        {
+          "q": "When should you wash your hands?",
+          "a": "Before eating and after using the bathroom."
+        },
+        {
+          "q": "What do you need to wash your hands?",
+          "a": "Soap and water!"
+        }
+      ],
+      "keywords": [
+        "hand washing",
+        "hygiene",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Health and Hygiene",
+      "title": "Good Habits for Health",
+      "concept": "Importance of hygiene and good habits.",
+      "explanation": "To stay healthy, we must wash our hands before eating and keep our surroundings clean! 🌟",
+      "examples": [
+        "Wash hands before meals 🧼",
+        "Throw waste in the bin 🗑️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do before eating?",
+          "a": "Wash your hands!"
+        },
+        {
+          "q": "Where should you throw your trash?",
+          "a": "In the bin!"
+        }
+      ],
+      "keywords": [
+        "hygiene",
+        "good habits",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "Introduction to Yoga",
+      "concept": "Yoga helps us stay fit and healthy.",
+      "explanation": "Yoga is a fun way to exercise and learn about our bodies! 🧘‍♂️ Let's try some poses together!",
+      "examples": [
+        "Tree Pose 🌳",
+        "Cobra Pose 🐍"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is yoga?",
+          "a": "A way to exercise and relax!"
+        },
+        {
+          "q": "Can yoga help us feel better?",
+          "a": "Yes, it makes us healthy!"
+        }
+      ],
+      "keywords": [
+        "yoga",
+        "exercise",
+        "fitness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Yoga Poses",
+      "title": "Practicing Yoga Poses",
+      "concept": "Different yoga poses for physical health.",
+      "explanation": "Let's try standing on one leg like a tree! 🌳 It helps us balance and feel strong.",
+      "examples": [
+        "Stand tall like a tree 🌳",
+        "Stretch like a snake 🐍"
+      ],
+      "practice_questions": [
+        {
+          "q": "What pose can you do to balance?",
+          "a": "Tree Pose!"
+        },
+        {
+          "q": "Which animal's pose can you try?",
+          "a": "Cobra Pose!"
+        }
+      ],
+      "keywords": [
+        "yoga poses",
+        "balance",
+        "strength"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "story",
+      "topic": "Yoga Journey",
+      "title": "The Adventure of Yoga",
+      "concept": "Exploring yoga through fun stories.",
+      "explanation": "Join us on a journey where we learn yoga from animals in the forest! 🐾",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "yoga",
+        "story",
+        "adventure"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga Asanas",
+      "title": "Standing Asanas",
+      "concept": "Standing postures help in maintaining balance and strength.",
+      "explanation": "Standing asanas like तिाडास्न (Tadasana) help you stand tall and feel strong! 🌳 Try to keep your body straight and your feet together.",
+      "examples": [
+        "ताडासन (Tadasana)",
+        "वृक्षासन (Vrikshasana)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is ताडासन?",
+          "a": "It is a standing pose that helps improve posture."
+        },
+        {
+          "q": "Why is it important to practice standing asanas?",
+          "a": "They help in building strength and balance."
+        }
+      ],
+      "keywords": [
+        "Yoga",
+        "Asanas",
+        "Balance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga Asanas",
+      "title": "Sitting Asanas",
+      "concept": "Sitting postures promote relaxation and flexibility.",
+      "explanation": "Sitting asanas like दंडासन (Dandasana) help you relax and stretch your body! 🧘‍♂️ Sit with your legs straight and back straight.",
+      "examples": [
+        "दंडासन (Dandasana)",
+        "सुखासन (Sukhasana)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is दंडासन?",
+          "a": "It is a sitting pose that helps in relaxing the body."
+        },
+        {
+          "q": "How can sitting asanas help you?",
+          "a": "They improve flexibility and calm your mind."
+        }
+      ],
+      "keywords": [
+        "Yoga",
+        "Asanas",
+        "Relaxation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga Asanas",
+      "title": "Prone Asanas",
+      "concept": "Prone postures enhance strength and stamina.",
+      "explanation": "Prone asanas like भुजंगासन (Bhujangasana) help strengthen your back! 🐍 Lie on your stomach and lift your chest up.",
+      "examples": [
+        "भुजंगासन (Bhujangasana)",
+        "मकरासन (Makarasana)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is भुजंगासन?",
+          "a": "It is a cobra pose that strengthens the back."
+        },
+        {
+          "q": "Why should we practice prone asanas?",
+          "a": "They help in building strength and flexibility."
+        }
+      ],
+      "keywords": [
+        "Yoga",
+        "Asanas",
+        "Strength"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga Asanas",
+      "title": "Supine Asanas",
+      "concept": "Supine postures promote relaxation and recovery.",
+      "explanation": "Supine asanas like शवासन (Shavasana) help you relax completely! 🛌 Lie on your back and let your body rest.",
+      "examples": [
+        "शवासन (Shavasana)",
+        "पवनमुक्तासन (Pavanamuktasana)"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is शवासन?",
+          "a": "It is a corpse pose that helps in deep relaxation."
+        },
+        {
+          "q": "How does practicing supine asanas benefit you?",
+          "a": "They help in recovery and relaxation."
+        }
+      ],
+      "keywords": [
+        "Yoga",
+        "Asanas",
+        "Relaxation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Yoga Practice",
+      "title": "Yoga Practice Routine",
+      "concept": "A simple routine to practice various asanas.",
+      "explanation": "Let's practice these asanas together! 🌟 Follow the steps and enjoy your yoga time.",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Yoga",
+        "Practice",
+        "Routine"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga and Breathing Exercises",
+      "title": "Pranayama and Breathing Awareness",
+      "concept": "Understanding the importance of breathing exercises.",
+      "explanation": "Breathing exercises help us feel calm and focused. 🌬️ Let's practice breathing in and out while feeling our tummy rise and fall! 😊",
+      "examples": [
+        "Breathe in deeply and feel your tummy get big! 🎈",
+        "Breathe out slowly and feel your tummy go down! 🎈"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you feel your breath coming in and going out?",
+          "a": "Yes, I can feel my breath!"
+        }
+      ],
+      "keywords": [
+        "breathing",
+        "yoga",
+        "pranayama"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga and Sound",
+      "title": "Chanting 'Om'",
+      "concept": "Chanting 'Om' helps connect our body and mind.",
+      "explanation": "When we chant 'Om', we make a sound that helps us feel peaceful. Let's try it together! 🧘‍♂️",
+      "examples": [
+        "Chant 'A' while breathing in, feel your tummy.",
+        "Chant 'U' while breathing out, feel your chest."
+      ],
+      "practice_questions": [
+        {
+          "q": "Did you feel the vibrations in your body?",
+          "a": "Yes, it felt nice!"
+        }
+      ],
+      "keywords": [
+        "chanting",
+        "om",
+        "sound"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Eye Exercises",
+      "title": "Eye Care Exercises",
+      "concept": "Exercises to keep our eyes healthy.",
+      "explanation": "Our eyes need exercise too! Let's do some fun movements to keep them strong. 👀✨",
+      "examples": [
+        "Move your eyes from side to side like a pendulum! ⏳",
+        "Look up and down like a roller coaster! 🎢"
+      ],
+      "practice_questions": [
+        {
+          "q": "Did your eyes feel relaxed after the exercises?",
+          "a": "Yes, they feel better!"
+        }
+      ],
+      "keywords": [
+        "eye exercises",
+        "health",
+        "vision"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Eye Relaxation Techniques",
+      "title": "Relaxing Our Eyes",
+      "concept": "Techniques to relax our eyes after long screen time.",
+      "explanation": "After looking at screens, our eyes need a break. Let's try these relaxing techniques! 😌",
+      "examples": [
+        "Cover your eyes with your palms and take deep breaths.",
+        "Blink your eyes slowly and gently."
+      ],
+      "practice_questions": [
+        {
+          "q": "How do your eyes feel after relaxing them?",
+          "a": "They feel fresh and happy!"
+        }
+      ],
+      "keywords": [
+        "eye relaxation",
+        "screen time",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Eye Exercises",
+      "title": "Eye Movement Exercises",
+      "concept": "Exercises to strengthen eye muscles.",
+      "explanation": "Let's help our eyes stay strong! 🌟 We can do fun movements to keep our eyes healthy. Here’s how: Close your eyes tightly and then open them wide! Repeat this 5 times. 👀",
+      "examples": [
+        "Close your eyes and open them 5 times.",
+        "Move your eyes from left to right 3 times."
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do after closing your eyes?",
+          "a": "Open them wide!"
+        }
+      ],
+      "keywords": [
+        "eye exercises",
+        "health",
+        "movement"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "Yoga for Fun",
+      "concept": "Playing games through yoga.",
+      "explanation": "Yoga can be fun! 🎉 We can play games that help us stretch and relax. Let’s sit in a circle and say our names while doing some yoga poses! 🧘‍♂️",
+      "examples": [
+        "Say your name while doing a tree pose.",
+        "Stretch your arms while saying 'Namaste'."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do we do while sitting in a circle?",
+          "a": "Say our names!"
+        }
+      ],
+      "keywords": [
+        "yoga",
+        "games",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Eye Relaxation",
+      "title": "Relaxing Our Eyes",
+      "concept": "Techniques to relax our eyes after exercises.",
+      "explanation": "After doing our eye exercises, let’s relax our eyes! 🌼 We can gently rub our palms together and place them over our closed eyes. This feels so nice! 😌",
+      "examples": [
+        "Rub your palms and cover your eyes for a few seconds."
+      ],
+      "practice_questions": [
+        {
+          "q": "How do we relax our eyes?",
+          "a": "By covering them with our palms!"
+        }
+      ],
+      "keywords": [
+        "eye relaxation",
+        "techniques",
+        "wellness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Group Games",
+      "title": "Name Game",
+      "concept": "A fun game to learn names and build focus.",
+      "explanation": "Let’s play a game where we sit in a circle and say our names! 🎈 Each person says their name and the name of the person before them. It’s a great way to remember names! 🥳",
+      "examples": [
+        "Start with your name, then repeat the names in order."
+      ],
+      "practice_questions": [
+        {
+          "q": "What do we do in the Name Game?",
+          "a": "Say our names in a circle!"
+        }
+      ],
+      "keywords": [
+        "group games",
+        "focus",
+        "names"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Counting Game",
+      "title": "Counting in a Circle",
+      "concept": "A game to practice counting while being attentive.",
+      "explanation": "In this game, we sit in a circle and count out loud! 📏 Each person says a number, and if someone forgets, they have to sit out! Let’s see how high we can count together! 🎉",
+      "examples": [
+        "Count to 10 together, one by one."
+      ],
+      "practice_questions": [
+        {
+          "q": "What happens if you forget the number?",
+          "a": "You sit out!"
+        }
+      ],
+      "keywords": [
+        "counting",
+        "attention",
+        "games"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "जप-तिप खेल",
+      "concept": "Breathing and following instructions.",
+      "explanation": "In this game, students will sit in a circle and follow the teacher's instructions. When the teacher says 'जप', everyone raises their hands, and when they say 'तिप', everyone lowers their hands. It's a fun way to practice listening and moving! 🙋‍♂️🙋‍♀️",
+      "examples": [
+        "Raise hands when 'जप' is called",
+        "Lower hands when 'तिप' is called"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Yoga",
+        "Breathing",
+        "Listening"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "स्वास की निकटता",
+      "concept": "Breathing exercise with sound.",
+      "explanation": "Students will sit in a circle. One student will take a deep breath and start running while chanting 'ओम'. They will stop running when the sound stops. This helps in controlling breath while having fun! 🏃‍♂️💨",
+      "examples": [
+        "Run while chanting 'ओम'"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Breathing",
+        "Exercise",
+        "Sound"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "ऋषि पतंजलि का अभ्यास",
+      "concept": "Following instructions in yoga.",
+      "explanation": "Students will stand in a circle and follow the teacher's instructions. The teacher will call out names and give commands. This helps in understanding yoga postures and teamwork! 🤝🧘‍♀️",
+      "examples": [
+        "Follow the teacher's commands"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Yoga",
+        "Instructions",
+        "Teamwork"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Encouragement",
+      "title": "सुंदर-सुंदर",
+      "concept": "Positive affirmations.",
+      "explanation": "This rhyme helps students to repeat positive words and feel good about themselves! 🎶😊",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Affirmations",
+        "Positivity",
+        "Rhyme"
+      ],
+      "difficulty": "easy",
+      "text": "सुंदर-सुंदर-सुंदर है।\nउत्तम-उत्तम-उत्तम है।"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga",
+      "title": "ध्वनि पहचान खेल",
+      "concept": "Identifying sounds.",
+      "explanation": "In this game, one student will be blindfolded and will have to identify the sound of a clap made by another student. This helps in enhancing listening skills! 👂👏",
+      "examples": [
+        "Identify the sound of claps"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Listening",
+        "Sound",
+        "Game"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_101",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Introduction to Physical Education",
+      "title": "Understanding Physical Education",
+      "concept": "Physical education helps us stay healthy and active.",
+      "explanation": "Physical education is all about playing games and doing exercises that make our bodies strong and healthy! 🏃‍♂️💪",
+      "examples": [
+        "Playing tag with friends",
+        "Doing jumping jacks"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is physical education?",
+          "a": "It's about staying active and healthy through games and exercises!"
+        }
+      ],
+      "keywords": [
+        "physical education",
+        "health",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_102",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Warm-up and Cool-down",
+      "title": "Importance of Warm-up and Cool-down",
+      "concept": "Warm-ups prepare our bodies for exercise, and cool-downs help us relax.",
+      "explanation": "Before we play, we need to warm up our muscles so we don't get hurt. After playing, we cool down to help our bodies relax. 🌞❄️",
+      "examples": [
+        "Stretching before running",
+        "Deep breathing after playing"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why do we warm up?",
+          "a": "To prepare our bodies for exercise and prevent injuries!"
+        }
+      ],
+      "keywords": [
+        "warm-up",
+        "cool-down",
+        "exercise safety"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_103",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Exercises for Strength",
+      "title": "Fun Exercises to Build Strength",
+      "concept": "Exercises help us become stronger and healthier.",
+      "explanation": "Doing exercises like push-ups and squats makes our muscles strong! Let's try some fun exercises together! 💪🤸‍♀️",
+      "examples": [
+        "10 push-ups",
+        "5 squats"
+      ],
+      "practice_questions": [
+        {
+          "q": "What exercises can make us strong?",
+          "a": "Push-ups and squats are great for building strength!"
+        }
+      ],
+      "keywords": [
+        "strength",
+        "exercises",
+        "fitness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_104",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Exercise Rhyme",
+      "title": "Let's Move and Groove!",
+      "concept": "A fun rhyme to encourage movement.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [],
+      "difficulty": "easy",
+      "text": "Let's move and groove, it's time to play! \nJump up high, and dance all day! \nRun around, feel the breeze, \nExercise is fun, it’s sure to please! 🎶"
+    },
+    {
+      "id": "kb_class_3_physical_education_1",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga and Exercises",
+      "title": "Introduction to Yoga",
+      "concept": "Understanding basic yoga poses and their benefits.",
+      "explanation": "Yoga helps us stay fit and calm. Let's learn some easy poses! 🧘‍♀️🧘‍♂️",
+      "examples": [
+        "Tree Pose 🌳",
+        "Warrior Pose 🥷"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is yoga?",
+          "a": "Yoga is a way to exercise and relax."
+        },
+        {
+          "q": "Name one yoga pose.",
+          "a": "Tree Pose is a popular one!"
+        }
+      ],
+      "keywords": [
+        "yoga",
+        "exercise",
+        "fitness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_2",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Breathing Exercises",
+      "title": "Breathing Techniques",
+      "concept": "Learning how to breathe properly for relaxation.",
+      "explanation": "Breathing deeply helps us feel better. Let's practice together! 🌬️",
+      "examples": [
+        "Inhale deeply through your nose, exhale through your mouth."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is deep breathing important?",
+          "a": "It helps us relax and feel calm."
+        }
+      ],
+      "keywords": [
+        "breathing",
+        "relaxation",
+        "calm"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_3",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Yoga Prayer",
+      "title": "Yoga Prayer",
+      "concept": "A prayer to start our yoga session.",
+      "explanation": "Let's say a special prayer before we start our yoga! 🙏",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "prayer",
+        "yoga",
+        "peace"
+      ],
+      "difficulty": "easy",
+      "text": "ॐ सह नाववतु। सह नौ भुनक्तु। सह वीर्यं करवावहै। तेजस्विना वदीतमस्तु। ॐ शान्तिः शान्तिः शान्तिः।"
+    },
+    {
+      "id": "kb_class_3_physical_education_4",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Warm-up Exercises",
+      "title": "Starting Our Session",
+      "concept": "Importance of warming up before exercises.",
+      "explanation": "Warming up helps our body get ready for fun activities! 🤸‍♂️",
+      "examples": [
+        "Stretch your arms and legs!",
+        "Do some jumping jacks!"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why do we warm up?",
+          "a": "To prepare our body for exercise!"
+        }
+      ],
+      "keywords": [
+        "warm-up",
+        "exercise",
+        "prepare"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_5",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Cool Down Exercises",
+      "title": "Ending Our Session",
+      "concept": "The importance of cooling down after exercises.",
+      "explanation": "Cooling down helps our body relax after fun activities! 🧊",
+      "examples": [
+        "Gentle stretching",
+        "Deep breathing"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should we do after exercising?",
+          "a": "Cool down and stretch!"
+        }
+      ],
+      "keywords": [
+        "cool down",
+        "relax",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga Asanas",
+      "title": "Introduction to Yoga Asanas",
+      "concept": "Learning different yoga poses.",
+      "explanation": "Yoga helps us stay fit and calm. Let's learn some fun poses! 🧘‍♂️",
+      "examples": [
+        "तयाड़यासन (Tyaar Dyaasan)",
+        "मकरयासन (Makara Asana)"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Yoga",
+        "Asanas",
+        "Fitness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Yoga Practice",
+      "title": "Practicing Yoga Asanas",
+      "concept": "Performing various yoga poses.",
+      "explanation": "Let's practice some yoga poses together! 🌟",
+      "examples": [],
+      "practice_questions": [
+        {
+          "q": "What is your favorite yoga pose?",
+          "a": "My favorite is Bhujangasana!"
+        }
+      ],
+      "keywords": [
+        "Yoga",
+        "Practice",
+        "Health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Breathing Exercises",
+      "title": "Breathing with 'Om'",
+      "concept": "Using 'Om' for relaxation.",
+      "explanation": "When we say 'Om', it helps us feel calm and focused. Let's try it! 🕉️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Breathing",
+        "Relaxation",
+        "Om"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Physical Activities",
+      "title": "Fun Games",
+      "concept": "Engaging in different games.",
+      "explanation": "Playing games is a great way to stay active and have fun! 🎉",
+      "examples": [
+        "पकड़म-पकड़ाई (Tag)",
+        "गेंद उछालना (Ball Toss)"
+      ],
+      "practice_questions": [],
+      "keywords": [
+        "Games",
+        "Fun",
+        "Activity"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Yoga Review",
+      "title": "Reviewing Yoga Asanas",
+      "concept": "Revisiting all learned yoga poses.",
+      "explanation": "Let's review all the yoga poses we learned! Can you remember them? 🤔",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "Review",
+        "Yoga",
+        "Learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_1",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "योगयोग अभययास",
+      "title": "योग का महत्व",
+      "concept": "योग हमारे शरीर और मन के लिए फायदेमंद है।",
+      "explanation": "योग करने से हम स्वस्थ रहते हैं और मन को शांति मिलती है। 🌼",
+      "examples": [
+        "सूर्य नमस्कार",
+        "ताड़ासन"
+      ],
+      "practice_questions": [
+        {
+          "q": "योग करने से हमें क्या लाभ होता है?",
+          "a": "हमें शांति और स्वास्थ्य मिलता है।"
+        }
+      ],
+      "keywords": [
+        "योग",
+        "स्वास्थ्य",
+        "शांति"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_2",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "खेल गतिविधियाँ",
+      "title": "हॉपसकॉच खेलना",
+      "concept": "हॉपसकॉच एक मजेदार खेल है जो संतुलन और कूदने की क्षमता को बढ़ाता है।",
+      "explanation": "इस खेल में हमें चाक से बने बॉक्स में कूदना होता है। 🎉",
+      "examples": [
+        "बॉक्स में कूदना",
+        "संतुलन बनाना"
+      ],
+      "practice_questions": [
+        {
+          "q": "हॉपसकॉच कैसे खेलते हैं?",
+          "a": "हमें बॉक्स में कूदकर आगे बढ़ना होता है।"
+        }
+      ],
+      "keywords": [
+        "हॉपसकॉच",
+        "खेल",
+        "संतुलन"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_3",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "चलते रहो",
+      "title": "चलते रहो",
+      "concept": "चलते रहो, कभी ना रुको।",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_4",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "story",
+      "topic": "खेल की कहानी",
+      "title": "चोर-पुलिस",
+      "concept": "चोर-पुलिस एक मजेदार खेल है।",
+      "explanation": "इस खेल में एक व्यक्ति चोर बनता है और दूसरा पुलिस। पुलिस को चोर को पकड़ना होता है। 🕵️‍♂️",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "चोर",
+        "पुलिस",
+        "खेल"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Physical Fitness",
+      "title": "Importance of Physical Fitness",
+      "concept": "Physical fitness is essential for a healthy life.",
+      "explanation": "Staying active helps us grow strong and healthy! 🏃‍♂️💪 When we play games or exercise, our bodies become fit and our minds stay sharp.",
+      "examples": [
+        "Playing tag with friends",
+        "Jumping rope"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is physical fitness important?",
+          "a": "It helps us stay healthy and strong!"
+        }
+      ],
+      "keywords": [
+        "fitness",
+        "health",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Warm-up Exercises",
+      "title": "Warm-up Before Playing",
+      "concept": "Warming up prepares our bodies for exercise.",
+      "explanation": "Before we start playing, we should warm up our muscles! This helps prevent injuries and makes us ready to have fun! 🤸‍♀️",
+      "examples": [
+        "Stretching arms and legs",
+        "Doing jumping jacks"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should we do before playing?",
+          "a": "We should warm up!"
+        }
+      ],
+      "keywords": [
+        "warm-up",
+        "exercise",
+        "stretching"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Fun Games",
+      "title": "Three-Legged Race",
+      "concept": "Teamwork is important in games.",
+      "explanation": "In a three-legged race, you and your partner tie one of your legs together and run! 🏃‍♂️🏃‍♀️ You need to work together to win!",
+      "examples": [
+        "Running with a friend in a race"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you need to do in a three-legged race?",
+          "a": "Work together with your partner!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "race",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Exercise Rhyme",
+      "title": "Jump and Run",
+      "concept": "Exercise can be fun!",
+      "explanation": "Let's enjoy exercising with a fun rhyme! 🎶",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "rhyme",
+        "exercise",
+        "fun"
+      ],
+      "difficulty": "easy",
+      "text": "Jump and run, have some fun! \nExercise is good for everyone! \nStretch your arms, touch the sky, \nLet's all play, oh my, oh my!"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Physical Education and Health",
+      "title": "Introduction to Physical Education",
+      "concept": "Understanding the importance of physical education.",
+      "explanation": "Physical education helps us stay healthy and strong! It includes fun activities like playing games, exercising, and learning about our bodies. 🏃‍♂️💪",
+      "examples": [
+        "Playing tag with friends",
+        "Doing yoga poses"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is physical education important?",
+          "a": "It helps us stay fit and learn about teamwork!"
+        }
+      ],
+      "keywords": [
+        "physical education",
+        "health",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Yoga and Meditation",
+      "title": "Introduction to Yoga",
+      "concept": "Learning about yoga and its benefits.",
+      "explanation": "Yoga is a fun way to stretch our bodies and calm our minds. It includes different poses like 'tree pose' 🌳 and 'downward dog' 🐶 that help us feel relaxed and focused.",
+      "examples": [
+        "Tree Pose 🌳",
+        "Downward Dog 🐶"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is one yoga pose you can try?",
+          "a": "You can try the tree pose!"
+        }
+      ],
+      "keywords": [
+        "yoga",
+        "meditation",
+        "relaxation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Physical Activities",
+      "title": "Fun Physical Activities",
+      "concept": "Engaging in various physical activities.",
+      "explanation": "Let's get moving! You can play games like soccer ⚽, basketball 🏀, or even dance 💃 to keep your body active and healthy.",
+      "examples": [
+        "Playing soccer with friends",
+        "Dancing to your favorite song"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite physical activity?",
+          "a": "I love playing basketball!"
+        }
+      ],
+      "keywords": [
+        "games",
+        "exercise",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Exercise Rhyme",
+      "title": "Let's Move and Groove!",
+      "concept": "A fun rhyme to encourage movement.",
+      "explanation": "",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [],
+      "difficulty": "easy",
+      "text": "Jump up high, reach for the sky! 🌈\nRun around, let’s play and fly! 🕊️\nStretch your arms, wiggle your toes, 🤸‍♀️\nExercise is fun, everybody knows! 🎉"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Importance of Physical Education",
+      "title": "Understanding Strengths and Weaknesses",
+      "concept": "Recognizing personal strengths and weaknesses is important for overall development.",
+      "explanation": "In physical education, we learn to accept our strengths and weaknesses. This helps us grow and improve! 🌱 For example, if you are good at running but find jumping difficult, you can practice jumping more to get better! 🏃‍♂️🏃‍♀️",
+      "examples": [
+        "Running fast",
+        "Jumping high"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is it important to know our strengths?",
+          "a": "It helps us improve and grow!"
+        }
+      ],
+      "keywords": [
+        "strengths",
+        "weaknesses",
+        "development"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Physical Activities",
+      "title": "Basic Physical Skills",
+      "concept": "Learning basic physical skills is essential for physical development.",
+      "explanation": "In this lesson, we will learn about basic skills like throwing, catching, running, and jumping! 🎉 These skills help us play games and stay active! For example, throwing a ball helps improve our hand-eye coordination! ⚽️",
+      "examples": [
+        "Throwing a ball",
+        "Catching a frisbee"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some basic physical skills?",
+          "a": "Throwing, catching, running, and jumping!"
+        }
+      ],
+      "keywords": [
+        "physical skills",
+        "activity",
+        "games"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Our Games",
+      "title": "Exploring Traditional Games",
+      "concept": "Understanding various traditional games played in our country.",
+      "explanation": "In this lesson, we will explore 17 traditional games from our country! 🏏 Each game has its own rules and ways to play. For instance, Kabaddi is a fun game that requires teamwork! 🤝",
+      "examples": [
+        "Kabaddi",
+        "Kho-Kho"
+      ],
+      "practice_questions": [
+        {
+          "q": "Can you name a traditional game?",
+          "a": "Kabaddi!"
+        }
+      ],
+      "keywords": [
+        "traditional games",
+        "teamwork",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Health and Hygiene",
+      "title": "Understanding Health",
+      "concept": "Learning about health and hygiene is vital for well-being.",
+      "explanation": "In this lesson, we will learn how to stay healthy and clean! 🧼 Washing hands and eating healthy foods like fruits and vegetables keeps us strong! 🍎🥦",
+      "examples": [
+        "Washing hands",
+        "Eating fruits"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is washing hands important?",
+          "a": "It helps keep germs away!"
+        }
+      ],
+      "keywords": [
+        "health",
+        "hygiene",
+        "well-being"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Health and Physical Education",
+      "title": "Importance of Teamwork",
+      "concept": "Teamwork helps everyone feel included and respected.",
+      "explanation": "In a team, everyone is equal! 🤝 We should respect each other's feelings and listen when someone is speaking. This way, everyone can enjoy the game together! 🏅",
+      "examples": [
+        "When playing a game, if one friend scores, everyone cheers! 🎉",
+        "If someone falls, we help them up and make sure they are okay."
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is it important to respect everyone's feelings in a team?",
+          "a": "Because it makes everyone feel happy and included! 😊"
+        },
+        {
+          "q": "What should you do when someone is speaking?",
+          "a": "Listen carefully and don't interrupt! 👂"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "respect",
+        "inclusion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Sharing Experiences",
+      "title": "Sharing Our Experiences",
+      "concept": "Sharing experiences helps us learn from each other.",
+      "explanation": "After playing, we sit in a circle and share our thoughts. 🪑 This helps us understand how everyone felt during the game! 🌈",
+      "examples": [
+        "One friend might say they enjoyed helping others.",
+        "Another might share how they felt when they scored a goal! ⚽"
+      ],
+      "practice_questions": [
+        {
+          "q": "How can sharing experiences help us?",
+          "a": "It helps us learn and grow together! 🌱"
+        },
+        {
+          "q": "What can you share after a game?",
+          "a": "You can share your feelings and what you learned! 📖"
+        }
+      ],
+      "keywords": [
+        "sharing",
+        "experiences",
+        "learning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Feedback and Improvement",
+      "title": "Giving and Receiving Feedback",
+      "concept": "Feedback helps us improve our skills.",
+      "explanation": "When we play, we can give each other tips on how to play better! 🏃‍♂️ This makes us all better players! 🌟",
+      "examples": [
+        "If a friend is having trouble kicking the ball, we can show them how to do it! ⚽",
+        "If someone did well, we can tell them they did a great job! 👍"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is feedback important?",
+          "a": "It helps us learn and get better! 📈"
+        },
+        {
+          "q": "How can you give feedback to a friend?",
+          "a": "You can tell them what they did well and how they can improve! 🗣️"
+        }
+      ],
+      "keywords": [
+        "feedback",
+        "improvement",
+        "skills"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Safety in Sports",
+      "title": "Staying Safe While Playing",
+      "concept": "Safety is important to avoid injuries.",
+      "explanation": "We should always be careful while playing to avoid getting hurt! 🛡️ If someone gets hurt, we help them and make sure they are okay! 🩹",
+      "examples": [
+        "If someone falls, we check if they are alright and help them up.",
+        "We always warm up before playing to prevent injuries! 🏋️‍♂️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you do if someone gets hurt?",
+          "a": "Help them and tell an adult! 🚑"
+        },
+        {
+          "q": "How can we stay safe while playing?",
+          "a": "By warming up and being careful! 🏃‍♀️"
+        }
+      ],
+      "keywords": [
+        "safety",
+        "injuries",
+        "care"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_137",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Warm-up and Cool-down Activities",
+      "title": "Importance of Warm-up and Cool-down",
+      "concept": "Warm-up and cool-down are essential for physical activities.",
+      "explanation": "Before playing, it's important to warm up your body to prevent injuries. After playing, cooling down helps your body relax. 🌟 For example, stretching your arms and legs before running is a great warm-up! 🏃‍♂️",
+      "examples": [
+        "Stretching exercises",
+        "Light jogging"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is warming up important?",
+          "a": "It helps prevent injuries and prepares your body for exercise."
+        },
+        {
+          "q": "What should you do after exercising?",
+          "a": "You should cool down to help your body relax."
+        }
+      ],
+      "keywords": [
+        "warm-up",
+        "cool-down",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_138",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Physical Fitness and Health",
+      "title": "Benefits of Physical Fitness",
+      "concept": "Physical fitness is important for overall health.",
+      "explanation": "Being physically active helps you stay strong and healthy! 💪 It improves your heart health, builds muscles, and makes you feel happy! 😊 For example, playing games like tag or soccer can keep you fit and fun!",
+      "examples": [
+        "Playing tag",
+        "Riding a bicycle"
+      ],
+      "practice_questions": [
+        {
+          "q": "What are some benefits of being active?",
+          "a": "It keeps your heart healthy and makes you feel happy."
+        },
+        {
+          "q": "Can playing games help you stay fit?",
+          "a": "Yes! Playing games is a fun way to exercise."
+        }
+      ],
+      "keywords": [
+        "fitness",
+        "health",
+        "exercise"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_139",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Teamwork in Sports",
+      "title": "Working Together in Sports",
+      "concept": "Teamwork is essential in sports.",
+      "explanation": "When you play in a team, you learn to work together and help each other! 🤝 For example, in soccer, passing the ball to your teammate helps the team score goals! ⚽",
+      "examples": [
+        "Playing soccer",
+        "Basketball teamwork"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is teamwork important in sports?",
+          "a": "It helps the team to win and have fun together."
+        },
+        {
+          "q": "Can you give an example of teamwork?",
+          "a": "Passing the ball in soccer is a great example!"
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "sports",
+        "collaboration"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_140",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Safety in Sports",
+      "title": "Staying Safe While Playing",
+      "concept": "Safety is important during physical activities.",
+      "explanation": "Always be careful while playing to avoid getting hurt! 🛡️ For example, wearing a helmet while riding a bike keeps your head safe! 🚴‍♂️",
+      "examples": [
+        "Wearing a helmet",
+        "Using knee pads"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should you wear to stay safe while biking?",
+          "a": "You should wear a helmet."
+        },
+        {
+          "q": "Why is it important to be careful while playing?",
+          "a": "To avoid injuries and stay safe."
+        }
+      ],
+      "keywords": [
+        "safety",
+        "sports",
+        "protection"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_141",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Warm-up and Cool-down Exercises",
+      "title": "Importance of Warm-up and Cool-down",
+      "concept": "Warm-up and cool-down are essential for safe exercise.",
+      "explanation": "Before starting any physical activity, it's important to warm up your body. This helps prevent injuries and prepares your muscles for exercise. After exercising, cooling down helps your body relax and recover. 🌟",
+      "examples": [
+        "Jumping jacks 🤸‍♂️",
+        "Stretching arms and legs 🧘‍♀️"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is warming up important?",
+          "a": "It helps prevent injuries and prepares your body for exercise."
+        },
+        {
+          "q": "What should you do after exercising?",
+          "a": "You should cool down to help your body relax."
+        }
+      ],
+      "keywords": [
+        "warm-up",
+        "cool-down",
+        "exercise",
+        "safety"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_142",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Physical Activities",
+      "title": "Different Types of Physical Activities",
+      "concept": "Engaging in various physical activities is fun and healthy.",
+      "explanation": "There are many ways to stay active! You can play sports, dance, or even go for a walk. Each activity helps your body stay strong and healthy. 🏃‍♀️⚽️",
+      "examples": [
+        "Playing soccer ⚽️",
+        "Dancing 💃",
+        "Riding a bicycle 🚴‍♂️"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is your favorite physical activity?",
+          "a": "Answers will vary based on the child."
+        },
+        {
+          "q": "Name one sport you can play.",
+          "a": "Soccer, basketball, etc."
+        }
+      ],
+      "keywords": [
+        "sports",
+        "dance",
+        "exercise",
+        "health"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_143",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Teamwork in Sports",
+      "title": "Working Together in Sports",
+      "concept": "Teamwork is key to success in sports.",
+      "explanation": "In sports, working together with your teammates is very important! It helps everyone play better and have more fun. Remember, together everyone achieves more! 🤝",
+      "examples": [
+        "Passing the ball in soccer ⚽️",
+        "Cheering for each other 📣"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is teamwork important in sports?",
+          "a": "It helps everyone play better and have more fun."
+        },
+        {
+          "q": "Can you name a sport that requires teamwork?",
+          "a": "Basketball, soccer, etc."
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "sports",
+        "cooperation",
+        "fun"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Physical Activities",
+      "title": "Importance of Physical Activities",
+      "concept": "Physical activities are essential for a healthy body.",
+      "explanation": "Engaging in physical activities like running, jumping, and playing sports helps us stay fit and strong! 🏃‍♂️🏀",
+      "examples": [
+        "Playing tag with friends",
+        "Riding a bicycle"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is exercise important?",
+          "a": "Exercise helps keep our bodies healthy and strong!"
+        }
+      ],
+      "keywords": [
+        "exercise",
+        "health",
+        "fitness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "exercise",
+      "topic": "Warm-Up Exercises",
+      "title": "Warm-Up Before Playing",
+      "concept": "Warming up prepares our body for physical activities.",
+      "explanation": "Before we start playing, we should warm up to avoid injuries. Stretching our arms and legs helps! 🤸‍♀️",
+      "examples": [
+        "Arm circles",
+        "Leg stretches"
+      ],
+      "practice_questions": [
+        {
+          "q": "What should we do before playing?",
+          "a": "We should warm up and stretch!"
+        }
+      ],
+      "keywords": [
+        "warm-up",
+        "stretching",
+        "injury prevention"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "rhyme",
+      "topic": "Fun with Exercise",
+      "title": "Exercise Rhyme",
+      "concept": "Exercise can be fun and enjoyable!",
+      "explanation": "Let's remember to have fun while we exercise! 🎉",
+      "examples": [],
+      "practice_questions": [],
+      "keywords": [
+        "exercise",
+        "fun",
+        "rhyme"
+      ],
+      "difficulty": "easy",
+      "text": "Jump up high, touch the sky! 🌈\nRun around, don't be shy!\nStretch your arms, wiggle your toes,\nExercise is fun, everybody knows! 🎶"
+    },
+    {
+      "id": "kb_class_3_physical_education_001",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Throwing and Catching",
+      "title": "Understanding Throwing and Catching",
+      "concept": "Throwing and catching are essential skills in sports.",
+      "explanation": "Throwing is when you send an object away from you, and catching is when you grab it back! 🎾 For example, when you throw a ball to a friend, and they catch it, that's teamwork!",
+      "examples": [
+        "Throwing a ball",
+        "Catching a frisbee"
+      ],
+      "practice_questions": [
+        {
+          "q": "What do you do when you throw a ball?",
+          "a": "You send it away from you."
+        },
+        {
+          "q": "How do you catch a ball?",
+          "a": "You grab it with your hands."
+        }
+      ],
+      "keywords": [
+        "throwing",
+        "catching",
+        "sports"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_002",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Games and Sports",
+      "title": "Local and Traditional Games",
+      "concept": "Understanding local and traditional games.",
+      "explanation": "Local games are played in our community and often have special rules. 🏃‍♂️ For example, playing 'Gully Cricket' in the streets is a fun local game!",
+      "examples": [
+        "Gully Cricket",
+        "Kabaddi"
+      ],
+      "practice_questions": [
+        {
+          "q": "What is a local game you like?",
+          "a": "I like playing Gully Cricket."
+        },
+        {
+          "q": "Can you name a traditional game?",
+          "a": "Kabaddi is a traditional game."
+        }
+      ],
+      "keywords": [
+        "local games",
+        "traditional games",
+        "community"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_003",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Health and Fitness",
+      "title": "Importance of Exercise",
+      "concept": "Exercise keeps our bodies healthy and strong.",
+      "explanation": "When we exercise, we make our hearts happy and our muscles strong! 💪 For example, running or playing sports helps us stay fit.",
+      "examples": [
+        "Running",
+        "Jumping rope"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is exercise important?",
+          "a": "It keeps our bodies healthy."
+        },
+        {
+          "q": "What is one exercise you enjoy?",
+          "a": "I enjoy running!"
+        }
+      ],
+      "keywords": [
+        "exercise",
+        "health",
+        "fitness"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_004",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Sports Skills",
+      "title": "Basic Sports Skills",
+      "concept": "Learning basic skills for different sports.",
+      "explanation": "Every sport has special skills! ⚽ For example, kicking a soccer ball or dribbling a basketball are important skills to learn.",
+      "examples": [
+        "Kicking a soccer ball",
+        "Dribbling a basketball"
+      ],
+      "practice_questions": [
+        {
+          "q": "What skill do you need to play soccer?",
+          "a": "You need to know how to kick the ball."
+        },
+        {
+          "q": "What is dribbling?",
+          "a": "Dribbling is bouncing the ball while running."
+        }
+      ],
+      "keywords": [
+        "sports skills",
+        "soccer",
+        "basketball"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "kb_class_3_physical_education_005",
+      "grade": "class_3",
+      "subject": "physical_education",
+      "content_type": "lesson",
+      "topic": "Teamwork",
+      "title": "Working Together in Sports",
+      "concept": "Teamwork is important in sports.",
+      "explanation": "In sports, we need to work together! 🤝 When we pass the ball and help each other, we can win as a team!",
+      "examples": [
+        "Passing the ball",
+        "Supporting teammates"
+      ],
+      "practice_questions": [
+        {
+          "q": "Why is teamwork important?",
+          "a": "It helps us win games together."
+        },
+        {
+          "q": "Can you give an example of teamwork?",
+          "a": "Passing the ball to a teammate."
+        }
+      ],
+      "keywords": [
+        "teamwork",
+        "sports",
+        "collaboration"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}
