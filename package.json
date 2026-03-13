@@ -7,6 +7,7 @@
   "scripts": {
     "extract": "node scripts/extractPDF.js",
     "convert": "node scripts/convertToJSON.js",
+    "enhance": "node scripts/enhanceKnowledgeBase.js",
     "merge": "node scripts/mergeAllJSON.js",
     "bulk": "node scripts/bulkProcess.js",
     "bulk-all": "node scripts/bulkProcessSubfolders.js",
